@@ -18,3 +18,8 @@ Introduces additional Gatling weaponry, as for now:
 - **Gatling Turret (Quad)**: A joint project of the Southern and the Core Pirates. Available after the war started. Artwork by Kitteh.
 
 <img src='src/COHESY Gatling Pack/images/outfit/turret_gatling_single.png' width='130'><img src='src/COHESY Gatling Pack/images/outfit/turret_gatling_triple.png' width='130'><img src='src/COHESY Gatling Pack/images/outfit/turret_gatling_quad.png' width='130'>
+
+**Changelog**
+
+- 1.0.1 : Hotfix: Image names (@x2 --> @2x), thx to Loymdayddaud
+- 1.0.0 : Initial release

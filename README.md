@@ -9,7 +9,7 @@ Expansion packs for human space.
 
 A small warm-up for the COHESY project, mainly to get this repo started with something useful. For Gatling fans.
 
-[COHESY Gatling Pack 1.0.zip](https://github.com/LixiChronikouOriou/ES-plugins/main/release/COHESY%20Gatling%20Pack%201.0.zip) | 317 KB | 2025-03-24
+[COHESY Gatling Pack 1.0.zip](https://github.com/LixiChronikouOriou/ES-plugins/raw/refs/heads/main/release/COHESY%20Gatling%20Pack%201.0.zip) | 317 KB | 2025-03-24
 
 Introduces additional Gatling weaponry, as for now:
 - **Gatling Turret (Single)**: Southern Pirates, available from the beginning. Artwork by Kitteh.

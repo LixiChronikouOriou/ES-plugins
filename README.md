@@ -5,7 +5,7 @@ Expansion packs for human space.
 
 ### COHESY Gatling Pack
 
-<img src="src/COHESY Gatling Pack/icon@x2.png" height="170">
+<img src="src/COHESY Gatling Pack/icon@2x.png" height="170">
 
 A small warm-up for the COHESY project, mainly to get this repo started with something useful. For Gatling fans.
 

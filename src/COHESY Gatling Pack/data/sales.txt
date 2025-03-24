@@ -1,0 +1,32 @@
+﻿outfitter "South Pirate Advanced"
+	add "Gatling Turret (Single)"
+
+outfitter "Cohesy Core Pirate Advanced"
+	"Gatling Turret (Triple)"
+
+planet "Buccaneer Bay"
+	add outfitter "Cohesy Core Pirate Advanced"
+planet "New Tortuga"
+	add outfitter "Cohesy Core Pirate Advanced"
+planet "Smuggler's Den"
+	add outfitter "Cohesy Core Pirate Advanced"
+
+mission "Cohesy Add Gat Turrets"
+	outfitter
+	invisible
+	source
+		attributes "pirate"
+	to offer
+		has "event: war begins"
+	on offer
+		event "cohesy add gat turrets"
+		conversation
+			scene "outfit/turret_gatling_quad"
+			`As you watch an one-eyed captain proudly polishing a new Gatling turret with four barrels, it occurs to you that the Pirates must have joined the arms race.`
+				decline
+
+event "cohesy add gat turrets"
+	outfitter "South Pirate Advanced"
+		add "Gatling Turret (Quad)"
+	outfitter "Cohesy Core Pirate Advanced"
+		add "Gatling Turret (Quad)"

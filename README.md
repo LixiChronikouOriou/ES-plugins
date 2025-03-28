@@ -21,6 +21,6 @@ Introduces additional Gatling weaponry, as for now:
 
 **Changelog**
 
-- 1.0.2 : Fix: Description intendation, corrected a hardpoint path
+- 1.0.2 : Fix: Description intendation (thx ghostnzshell), corrected a hardpoint path
 - 1.0.1 : Hotfix: Image names (@x2 --> @2x), thx to Loymdayddaud
 - 1.0.0 : Initial release

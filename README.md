@@ -1,26 +1,66 @@
-# **ES Plugins**
-Expansion packs for human space.
+check <a href="instructions.md">instructions.md</a> for details how this repo works and what to do to set it up correctly.
+  
+
+
+## Latest News:
+<table><tr><td><img width="882" height="1"><br>2025-04-10 | initial template repository setup<br>
+<img width="882" height="1"><br></td></tr></table>
+
+## Plugin List:<br>
+<table><tr valign="top"><td><img width="294" height="1"><br>
+<a href="README.md#exampleplugin">example.plugin</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<img width="294" height="1"><br></td></tr></table>
+
+
+
+
 
 ---
 
-### COHESY Gatling Pack
+### example.plugin
 
-<img src="src/COHESY Gatling Pack/icon@2x.png" height="170">
+<img src="myplugins/example.plugin/icon.png" height="100">
 
-A small warm-up for the COHESY project, mainly to get this repo started with something useful. For Gatling fans.
+[example.plugin.zip](https://github.com/zuckungtest/plugintemplate/releases/download/v1.0.2-example.plugin/example.plugin.zip) | 375.25 kb | 2025-04-12 | [view files](https://github.com/zuckungtest/plugintemplate/tree/main/myplugins/example.plugin/) | <a href="res/imagemd/example.plugin.md">view images</a> [9]<br>
+<br>
+>Adds a mission on "Navigeo Yards" to get the 3 Avgi licenses. See the README for details.
 
-[COHESY Gatling Pack 1.0.2.zip](https://github.com/LixiChronikouOriou/ES-plugins/raw/refs/heads/main/release/COHESY%20Gatling%20Pack%201.0.2.zip) | 317 KB | 2025-03-28
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>### avgi.licenses<br>
 
-Introduces additional Gatling weaponry, as for now:
-- **Gatling Turret (Single)**: Southern Pirates, available from the beginning. Artwork by Kitteh.
-- **Gatling Turret (Dual)**: Actually the vanilla turret, but with extended description.
-- **Gatling Turret (Triple)**: Core Pirates, hence the different design. Available from the beginning. Artwork by Loyse.
-- **Gatling Turret (Quad)**: A joint project of the Southern and the Core Pirates. Available after the war started. Artwork by Kitteh.
+<br>
 
-<img src='src/COHESY Gatling Pack/images/outfit/turret_gatling_single.png' width='130'><img src='src/COHESY Gatling Pack/images/outfit/turret_gatling_triple.png' width='130'><img src='src/COHESY Gatling Pack/images/outfit/turret_gatling_quad.png' width='130'>
+Adds a mission on "Navigeo Yards" to get the 3 Avgi licenses.<br>
 
-**Changelog**
+<br>
 
-- 1.0.2 : Fix: Description intendation (thx ghostnzshell), corrected a hardpoint path
-- 1.0.1 : Fix: Image names (@x2 --> @2x), thx to Loymdayddaud
-- 1.0.0 : Initial release
+<br>
+
+When you have completed the Avgi Intro (Avgi: Twilight Escape 3: done), land on "Navigeo Yards". You have a 20% chance kn getting the licenses mission, which leads you to the Gossamer system, where you have to mine some stuff and bring it back. Licenses have new images. You also get an unassigned Avgi unique.<br>
+
+<br>
+
+<br>
+
+Changelog:<br>
+
+<br>
+
+2025-02-06<br>
+
+initial release<br>
+
+</blockquote>
+</details>
+<br>
+screenshots(click to enlarge):<br>
+<table>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/zuckungtest/plugintemplate/master/screenshots/example.plugin01.jpg" width="200"></td>
+	</tr>
+</table>
+<br>
+
+<br>

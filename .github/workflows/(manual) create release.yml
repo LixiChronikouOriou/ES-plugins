@@ -46,7 +46,7 @@ jobs:
       - name: Commit file
         run: |
           git config user.name "LixiChronikouOriou" 
-          git config user.email ""
+          git config user.email "timeout@zedat.fu-berlin.de"
           git add .
           git diff-index --quiet HEAD || git commit -m "README.md updated"
       - name: Push changes

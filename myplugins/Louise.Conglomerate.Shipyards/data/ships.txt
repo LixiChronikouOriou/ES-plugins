@@ -243,7 +243,7 @@ ship "Bulk Boxer"
 	explode "medium explosion" 35
 	explode "large explosion" 25
 	"final explode" "final explosion large"
-	description "A vastly improved version of the Boxer, Louise Conglomerate's Bulk Boxer has a much higher turret mount count, making it a rather risky target for pirates, while still keeping to the doctrine of prefering smooth escapes."
+	description "A vastly improved version of the Boxer, Louise Conglomerate's Bulk Boxer has a much higher turret mount count, making it a rather risky target for pirates, while still keeping to the doctrine of preferring smooth escapes."
 
 ship "Newmaker"
 	sprite "ship/Newmaker"

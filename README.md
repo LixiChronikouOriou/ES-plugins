@@ -38,7 +38,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 
 <img src="myplugins/Louise.Conglomerate.Shipyards/icon.png" height="100">
 
-[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 526.99 kb | 2025-04-27 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [19]<br>
+[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 527.0 kb | 2025-04-27 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [19]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
 

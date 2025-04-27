@@ -1,5 +1,3 @@
-﻿## Louise Conglomerate Shipyards ##
-
 **Author: [Loyse](https://github.com/loiseeer)**
 
 An overhaul and republication of the [More Ships Plugin](https://github.com/loiseeer/The-more-ships-plugin). This jewel had to be polished regarding the stats, as it was updated last in May 2020. Luckily Loyse gave permission, and the idea to call the shipyard *Louise*.

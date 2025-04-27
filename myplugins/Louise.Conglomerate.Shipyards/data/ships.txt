@@ -69,8 +69,8 @@ ship "Frontier"
 			"hull damage" 470
 			"hit force" 1410
 	outfits
-		"Heavy Blaster" 4
-		"Heavy Blaster Turret" 2
+		"Twin Modified Blaster" 4
+		"Barrage Blaster Turret" 2
 		"Anti-Missile Turret"
 		"Fission Reactor"
 		"LP072a Battery Pack"
@@ -80,15 +80,14 @@ ship "Frontier"
 		"Scram Drive"
 		"Fuel Pod"
 		"Ramscoop"
-		"Small Radar Jammer"
 		"Liquid Nitrogen Cooler"
 	gun 12 -57 
 	gun -12 -57
 	gun 21 -25.5
 	gun -21 -25.5
 	turret 0 25 "Anti-Missile Turret"
-	turret 31 24 "Heavy Blaster Turret"
-	turret -31 24 "Heavy Blaster Turret"
+	turret 31 24 "Barrage Blaster Turret"
+	turret -31 24 "Barrage Blaster Turret"
 	engine 34 47
 	engine -34 47
 	explode "tiny explosion" 25
@@ -123,7 +122,7 @@ ship "Pathfinder"
 			"hull damage" 320
 			"hit force" 960
 	outfits
-		"Heavy Blaster" 2
+		"Twin Modified Blaster" 2
 		"Gatling Turret" 2
 		"Anti-Missile Turret"
 		"D67-TM Shield Generator"
@@ -243,7 +242,7 @@ ship "Bulk Boxer"
 	explode "medium explosion" 35
 	explode "large explosion" 25
 	"final explode" "final explosion large"
-	description "A vastly improved version of the Boxer, Louise Conglomerate's Bulk Boxer has a much higher turret mount count, making it a rather risky target for pirates, while still keeping to the doctrine of preferring smooth escapes."
+	description "A vastly improved version of the Boxer, Louise Conglomerate's Bulk Boxer has a much higher turret mount count, making it a rather risky target for pirates, while still keeping to the doctrine of prefering smooth escapes."
 
 ship "Newmaker"
 	sprite "ship/Newmaker"

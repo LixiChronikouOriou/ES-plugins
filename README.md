@@ -43,7 +43,9 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty."
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>**Author: [Loyse](https://github.com/loiseeer)**
+<blockquote>
+
+**Author: [Loyse](https://github.com/loiseeer)**
 
 
 

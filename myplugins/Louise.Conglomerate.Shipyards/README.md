@@ -9,8 +9,11 @@ Lore-wise the Louise Conglomerate is one of the Syndicate's megacorps with activ
 
 **Changelog**
 
+2025-04-27: v.1.0.1
+Fixes considering stand-alonization.
+
 2025-04-27: v.1.0.0
-Overhaul and Republication as Louise Conglomerate Shipyards.
+Overhaul and Re-publication as Louise Conglomerate Shipyards.
 
 2020-05-31: -
 Last Update of the More Ships Plugin.

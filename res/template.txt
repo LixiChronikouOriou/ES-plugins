@@ -1,6 +1,8 @@
-# **my endless-sky-plugins**
+# ES Plugin Republications #
 
-Instruction how to setup the repo can be found <a href="instructions.md">here</a>.
+This repository aims at the republication of older plugins by various authors which need some kind of overhaul, as vanilla ES has continued its development and some things just don't fit anymore. Just think of the 0.10.7 ship and engines rebalancing.
+
+LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins, just their editor.
 
 <br>
 

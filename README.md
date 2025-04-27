@@ -1,6 +1,6 @@
-# ES Plugin Re-Publications #
+# ES Plugin Republications #
 
-This repository aims at the re-publication of older plugins by various authors which need some kind of overhaul, as vanilla ES has continued its development and some things just don't fit anymore. Just think of the 0.10.7 ship and engines rebalancing.
+This repository aims at the republication of older plugins by various authors which need some kind of overhaul, as vanilla ES has continued its development and some things just don't fit anymore. Just think of the 0.10.7 ship and engines rebalancing.
 
 LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins, just their editor.
 
@@ -69,9 +69,15 @@ Lore-wise the Louise Conglomerate is one of the Syndicate's megacorps with activ
 
 
 
+2025-04-27: v.1.0.1
+
+Fixes considering stand-alonization.
+
+
+
 2025-04-27: v.1.0.0
 
-Overhaul and Republication as Louise Conglomerate Shipyards.
+Overhaul and Re-publication as Louise Conglomerate Shipyards.
 
 
 

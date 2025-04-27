@@ -91,16 +91,15 @@
   <li>With every readme.md generation (from manual readme.generation or manual release) for every plugin a .md file is generated in this folder, containing links to all image files of that plugin. The link to it is shown in the plugin template with the '%pluginmd%' variable.</li>
 </ul>
 
-screenshots/
+**screenshots/**
 <ul>
   <li>If you have screenshots put them into the screenshot folder and name them after the plugin, i.e. example.plugin01.jpg, example.plugin02.jpg etc. These screenshots are shown in the plugin template with the '%screenshots%' variable.</li>
 </ul>
 
+
 ## Advertising your Plugins
 
-<ul>
-  <li>Copy the link from the README's pluginlist table to get an anchorlink, that directly points to this special plugin. To add plugins to Hecter's repo scroll down the release page to the first release, called 'Latest', and copy the zip link. Every release renews these links, so they are always the same, while the version releases change. Unfortunately the official repo currently doesn't support multi-plugin-repos. I have an open issue there and hope that it gets supported in the future. Feel free to post there to increase the pressure for fixing that.</li>
-</ul>
+Copy the link from the README's pluginlist table to get an anchorlink, that directly points to this special plugin. To add plugins to Hecter's repo scroll down the release page to the first release, called 'Latest', and copy the zip link. Every release renews these links, so they are always the same, while the version releases change. Unfortunately the official repo currently doesn't support multi-plugin-repos. I have an open issue there and hope that it gets supported in the future. Feel free to post there to increase the pressure for fixing that.
 
 
 ## Working with this repository

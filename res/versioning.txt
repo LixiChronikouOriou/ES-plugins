@@ -1,2 +1,2 @@
-Louise.Conglomerate.Shipyards|1.0.0
+Louise.Conglomerate.Shipyards|1.0.1
 example.plugin|1.0.0

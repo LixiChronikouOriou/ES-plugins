@@ -69,7 +69,7 @@ ship "Frontier"
 			"hull damage" 470
 			"hit force" 1410
 	outfits
-		"Twin Modified Blaster" 4
+		"Twin Blaster" 4
 		"Barrage Blaster Turret" 2
 		"Anti-Missile Turret"
 		"Fission Reactor"
@@ -80,6 +80,7 @@ ship "Frontier"
 		"Scram Drive"
 		"Fuel Pod"
 		"Ramscoop"
+		"Small Radar Jammer"
 		"Liquid Nitrogen Cooler"
 	gun 12 -57 
 	gun -12 -57

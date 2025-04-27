@@ -1,8 +1,0 @@
-name "COHESY Gatling Edition"
-about "Excerpt of the COHESY plugin which focuses on introducing additional Gatling weaponry."
-version 1.0
-authors
-	timeout
-tags
-	weapons
-	outfits

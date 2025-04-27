@@ -21,39 +21,39 @@
   <li>You are done. Read the rest of this instructions to see how the files system works and what else you can do.</li>
 </ul>
 
-## details for folders and files
+## Details on folders and files
 
-.github/workflows/(manual) create release.yml
+**.github/workflows/'(manual) create release.yml'**
 <ul>
-  <li>this is the workflow you use for releasing a plugin. after plugin upload, go to action tab, click the workflow, click run workflow, enter the exact plugin name(else it fails) and let it run(it takes a minute to finish). it puts outs a release with an asset zip and with an increasing version number, noted in /res/versioning.txt. this workflow also generates the readme.md taking in all plugins, screenshots, the newly generated asset zip and other data. so never edit the readme, it gets overwritten on release.</li>
+  <li>This is the workflow you use for releasing a plugin. After the plugin was uploaded, go to the <i>Action</i> tab, click on this workflow, click <i>Run Workflow</i>, enter the exact plugin name (else it fails) and let it run (it takes a minute to finish). It puts out a release with an asset zip file and with an increasing version number, noted in /res/versioning.txt. This workflow also generates the readme.md in all plugins, screenshots, the newly generated asset zip and other data. So never edit the readme, it gets overwritten on release.</li>
 </ul>    
     
-.github/workflows/(manual) make md.yml
+**.github/workflows/(manual) make md.yml**
 <ul>
-  <li>this workflow is also run manually in case you want to change the readme without pushing a release. it does the same as the previous workflow just without the release. the readme content (beside the variable content, like plugins, paths etc) is read out of res/template.txt</li>
+  <li>This workflow is also run manually in case you want to change the readme without pushing a release. It does the same as the previous workflow just without the release. The readme's content (besides the variable content, like plugins, paths etc) is read out of res/template.txt.</li>
 </ul>
 
-.github/workflows/(on push) spellcheck.yml
+**.github/workflows/(on push) spellcheck.yml**
 <ul>
-  <li>this workflow runs on every push and checks for spelling errors inside the whole repositor. it fails if an error is found and shows where it is.</li>
+  <li>This workflow runs on every push and checks for spelling errors inside the whole repository. It fails if an error is found and shows where it is.</li>
   <li>.codespell.exclude and .codespell.words.exclude can be edited to whitelist words, currently filled with my excludes as an example.</li>
 </ul>
 
-.github/workflows/(on push) data check.yml
+**.github/workflows/(on push) data check.yml**
 <ul>
-  <li>this workflow runs on every push and checks for ES script errors inside the myplugins folder. it fails if an error is found and shows where it is.</li>
-  <li>that is done by starting the game on the github server, loading the plugins and reporting the errors.</li>
+  <li>This workflow runs on every push and checks for ES script errors inside the myplugins folder. It fails if an error was found and shows where it is.</li>
+  <li>That is done by starting the game on the github server, loading the plugins and reporting the errors.</li>
 </ul>
 
-myplugins/example.plugin
+**myplugins/example.plugin**
 <ul>
-  <li>an example plugin to show you how it should look.</li>
+  <li>An example plugin to show you how it should look like.</li>
 </ul>
 
-res/template.txt
+**res/template.txt**
 <ul>
-  <li>from here comes the static readme.md content. this textfile is splitted into 2 part, the upper static content,  and the variable plugin template, separated by %plugin template below this line%'. each plugin gets this plugin template written to the README. it works with variables like '%variablename%'. these get replaced on generation. both parts can be mixed in html and markdown. experiment. i.e '%description%' variable gets replaced by the content from about.txt, '%size%' by kb/mb size, '%readme%' by the plugin readme.md content etc.</li>
-<li>useable variables inside template.txt:<br>
+  <li>From here comes the static readme.md content. This textfile is splitted into 2 parts, the upper static content, and the variable plugin template, separated by %plugin template below this line%'. Each plugin gets this plugin template written to the README. It works with variables like '%variablename%'. These get replaced on generation. both parts can be mixed in html and markdown, i.e '%description%' variable gets replaced by the content from about.txt, '%size%' by kb/mb size, '%readme%' by the plugin readme.md content etc.</li>
+<li>Useable variables inside template.txt:<br>
 %news%           html table of the latest 10 news entries<br>
 %pluginlist%     html table of anchor links to all plugins<br>
 %name%           the plugin name<br>
@@ -71,41 +71,42 @@ res/template.txt
 %version%        version number, i.e. <code>1.1.12</code></li>
 </ul>
 
-res/news.txt
+**res/news.txt**
 <ul>
-  <li>when releasing a plugin a new entry is made automatically, but manual entries work too. to change something just edit this file and on next readme generation workflow the newsbox is updated. the last 10 news entries are shown in the plugin template with the %news% variable.</li>
+  <li>When releasing a plugin a new entry is made automatically, but manual entries work too. To change something just edit this file and on next readme generation workflow the newsbox is updated. The last 10 news entries are shown in the plugin template with the %news% variable.</li>
 </ul>
 
-res/versioning.txt
+**res/versioning.txt**
 <ul>
-  <li>if the plugin version isn't in this textfile it gets written to it and set to version '1.0.0'. with every run it increases by '0.0.1'. manually changing works. i.e. setting version to '1.1.0' or' 2.4.0' in versioning.txt.</li>
+  <li>If the plugin version isn't in this textfile it gets written to it and set to version '1.0.0'. with every run it increases by '0.0.1'. Manually changing works, i.e. setting the version to something like '1.1.0' or' 2.4.0' in versioning.txt.</li>
 </ul>
 
-res/src
+**res/src**
 <ul>
-  <li>python files. no need to touch them. the news box or the plugin variables get their content structure from here.</li>
+  <li>Python files. No need to touch them. The news box or the plugin variables get their content structure from here.</li>
 </ul>
 
-res/imagemd/
+**res/imagemd/**
 <ul>
-  <li>with every readme.md generation(from manual readme.generation or manual release) for every plugin an .md file gets generated in this folder, containing links to all image files of that plugin. the link to it is shown in the plugin template with the '%pluginmd%' variable.</li>
+  <li>With every readme.md generation (from manual readme.generation or manual release) for every plugin a .md file is generated in this folder, containing links to all image files of that plugin. The link to it is shown in the plugin template with the '%pluginmd%' variable.</li>
 </ul>
 
 screenshots/
 <ul>
-  <li>if you have screenshots put them into the screenshot folder and name them after the plugin. i.e. example.plugin01.jpg, example.plugin02.jpg ... these screenshots are shown in the plugin template with the '%screenshots%' variable</li>
+  <li>If you have screenshots put them into the screenshot folder and name them after the plugin, i.e. example.plugin01.jpg, example.plugin02.jpg etc. These screenshots are shown in the plugin template with the '%screenshots%' variable.</li>
 </ul>
 
-## advertising your plugins
+## Advertising your Plugins
+
 <ul>
-  <li>copy the link from the README's pluginlist table to get an anchorlink, that directly points to this special plugin. to add plugins to hecter's repo scroll down the release page to the first release, called 'Latest', and copy the zip link. every release renews these links, so they are always the same, while the version releases change. unfortunately the official repo currently doesn't support mulyi-plugin-repos. i have an open issue there and hope that it get supported in the future. feel free to post there to increase the pressure for fixing that.</li>
+  <li>Copy the link from the README's pluginlist table to get an anchorlink, that directly points to this special plugin. To add plugins to Hecter's repo scroll down the release page to the first release, called 'Latest', and copy the zip link. Every release renews these links, so they are always the same, while the version releases change. Unfortunately the official repo currently doesn't support multi-plugin-repos. I have an open issue there and hope that it gets supported in the future. Feel free to post there to increase the pressure for fixing that.</li>
 </ul>
 
 
-## working with this repository
+## Working with this repository
 
-if you upload a new plugin, or update an existing, wait for the spell and script check in case there are errors you want to correct. then run the 'create release' workflow, and a minute later the plugin is released and the README is updated.
+If you upload a new plugin, or update an existing, wait for the spell and script check in case there are errors you want to correct. Then run the 'create release' workflow, and a minute later the plugin is released and the README is updated.
 
-if you just want to change the static content of the upper part of the README or change the plugin template, edit res/template.txt, and run the 'make md' workflow. a minute later the new README is updated.
+If you just want to change the static content of the upper part of the README or change the plugin template, edit res/template.txt, and run the 'make md' workflow. A minute later the new README is updated.
 
-that is all. everything else is automated.
+That's all. Everything else is automated.

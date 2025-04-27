@@ -37,18 +37,13 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 ### Louise.Conglomerate.Shipyards
 
 <img src="myplugins/Louise.Conglomerate.Shipyards/icon.png" height="100">
-<img src="https://raw.githubusercontent.com/zuckungtest/statistics/main/pics/Louise.Conglomerate.Shipyards.png">
 
 [Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 526.99 kb | 2025-04-27 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [19]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty."
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>﻿## Louise Conglomerate Shipyards ##
-
-
-
-**Author: [Loyse](https://github.com/loiseeer)**
+<blockquote>**Author: [Loyse](https://github.com/loiseeer)**
 
 
 
@@ -73,6 +68,7 @@ Overhaul and Republication as Louise Conglomerate Shipyards.
 2020-05-31: -
 
 Last Update of the More Ships Plugin.
+
 </blockquote>
 </details>
 

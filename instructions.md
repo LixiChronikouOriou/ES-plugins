@@ -1,18 +1,24 @@
-# **my endless-sky-plugins**
+# **Zuckung's Endless Sky Plugin Repository Template**
 
-## instructions
+## Instructions
 
 <ul>
-  <li>upload this plugin repo template to your new github repository. be aware of hidden folders and files and get sure all of them are uploaded.</li>
-  <li>go to the repo settings: actions>general: activate 'Allow all actions and reusable workflows'</li>
-  <li>go to the repo settings: actions>general: workflow permissions: activate 'Read and write permissions' </li>
-  <li>.github/workflows/(manual) create release.yml: change 'git config user.name "zuckung"' to your username</li>
-  <li>.github/workflows/(manual) create release.yml: change 'git config user.email "zuckung@gmx.de"' to your email</li>
-  <li>.github/workflows/(manual) make md.yml: change 'git config user.name "zuckung"' to your username</li>
-  <li>.github/workflows/(manual) make md.yml: change 'git config user.email "zuckung@gmx.de"' to your email</li>
-  <li>delete myplugins/example.plugin/ and put your plugins into the myplugins folder. the plugin needs an icon.png, an about.txt, a data folder(with content), and its own README.md, so the repo README can get generated out of these data. name your plugin without spaces or special characters. use dots or no spaces(i.e. example.plugin, ExamplePlugin). that is because when releasing, github replaces special characters or spaces with a dot. if you don't use this naming convention the links might be wrong.</li>
-  <li>run '(manual) create release' workflow from the actions tab, type in the exact name of the plugin, and wait a minute. the release got created and a new README.md got written.</li>
-  <li>you are done. read the rest of this instructions to see how the files system works and what else you can do.</li>
+  <li>Upload this template for an automatized plugin repository to a newly created github repository. Be aware of hidden folders and files, and get sure that all of them are uploaded.</li>
+  <li>Go to the repo's settings: actions > general
+    <ul>
+        <li>Activate 'Allow all actions and reusable workflows'</li>
+        <li>Activate 'Workflow permissions' > 'Read and write permissions'</li>
+    </ul>
+  </li>
+  <li>Edit the files .github/workflows/'(manual) create release.yml' and .github/workflows/'(manual) make md.yml'
+    <ul>
+      <li>Change 'git config user.name "zuckung"' to your github username.</li>
+      <li>Change 'git config user.email "zuckung@gmx.de"' to your email</li>
+    </ul>
+  </li>
+  <li>Remove myplugins/example.plugin/ and put your plugins into the myplugins folder. See the ES wiki on <a href='https://github.com/endless-sky/endless-sky/wiki/CreatingPlugins'>Creating Plugins</a> for how a plugin has to be structured. Name your plugin folder without spaces or special characters, use dots or no spaces (i.e. example.plugin, ExamplePlugin). That is because when releasing, github replaces special characters or spaces with a dot. If you don't use this naming convention the links might be wrong.</li>
+  <li>Run '(manual) create release' workflow from the actions tab, type in the exact name of the plugin, and wait a minute. The release will be created and a new README.md will be written.</li>
+  <li>You are done. Read the rest of this instructions to see how the files system works and what else you can do.</li>
 </ul>
 
 ## details for folders and files

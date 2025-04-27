@@ -48,7 +48,7 @@ ship "Frontier" "Frontier (Javelin)"
 
 ship "Frontier" "Frontier (Hai)"
 	outfits
-		"Heavy Blaster" 4
+		"Twin Modified Blaster" 4
 		"Pulse Turret" 2
 		"Chameleon Anti-Missile"
 		"Geode Reactor"
@@ -63,10 +63,10 @@ ship "Frontier" "Frontier (Hai)"
 		"Ramscoop"
 		"Liquid Nitrogen Cooler"
 		"Quantum Keystone"
-	gun "Heavy Blaster"
-	gun "Heavy Blaster"
-	gun "Heavy Blaster"
-	gun "Heavy Blaster"
+	gun "Twin Modified Blaster"
+	gun "Twin Modified Blaster"
+	gun "Twin Modified Blaster"
+	gun "Twin Modified Blaster"
 	turret "Chameleon Anti-Missile"
 	turret "Pulse Turret"
 	turret "Pulse Turret"

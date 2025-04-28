@@ -12,6 +12,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-04-28 | update: Bunsen.Burner<br>
 2025-04-27 | update: Louise.Conglomerate.Shipyards<br>
 2025-04-10 | initial template repository setup<br>
 <img width="882" height="1"><br>
@@ -24,12 +25,67 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <table>
 <tr valign="top">
 <td><img width="294" height="1"><br>
+<a href="README.md#BunsenBurner">Bunsen.Burner</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#LouiseConglomerateShipyards">Louise.Conglomerate.Shipyards</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
 
+
+
+---
+
+### Bunsen.Burner
+
+<img src="myplugins/Bunsen.Burner/icon.png" height="100">
+
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Bunsen.Burner/Bunsen.Burner.zip) | 241.84 kb | 2025-04-28 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [11]<br>
+<br>
+>Next-generation Flamethrower, as gun and turret. For those who like it hot.
+
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>
+
+### Bunsen Burner ###
+
+
+
+**Author: [Nick Barry](github.com/itsnickbarry)**
+
+
+
+An overhaul and re-publication of [Flamethrower-Turret-1.1.0](https://github.com/LixiChronikouOriou/endless-sky-flamethrower-turret). Since the last update of the plugin in January 2021 the Flamethrower was nerfed and got a new outfit image, so the Flamethrower Turret didn't fit anymore to the vanilla Flamethrower.
+
+
+
+Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image it was based on to create a next-generation Flamethrower which burns hotter -- the Bunsen Burner. Now with *blue* flames. Naturally, as we are used to, one has to complete Barmy's weapon test mission, written by N.Barry, to unlock it.
+
+
+
+
+
+**Changelog**
+
+
+
+2025-04-28: v.1.0.0
+
+Overhaul and Republication as Bunsen Burner.
+
+
+
+2021-01-26: -
+
+Last Update of the Flamethrower Turret plugin.
+
+</blockquote>
+</details>
+
+<br>
 
 
 ---

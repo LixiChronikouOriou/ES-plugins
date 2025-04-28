@@ -54,11 +54,11 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 
 
 
-**Author: [Nick Barry](github.com/itsnickbarry)**
+**Author: [Nick Barry](https://github.com/ItsNickBarry)**
 
 
 
-An overhaul and re-publication of [Flamethrower-Turret-1.1.0](https://github.com/LixiChronikouOriou/endless-sky-flamethrower-turret). Since the last update of the plugin in January 2021 the Flamethrower was nerfed and got a new outfit image, so the Flamethrower Turret didn't fit anymore to the vanilla Flamethrower.
+An overhaul and re-publication of [Flamethrower-Turret-1.1.0](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret). Since the last update of the plugin in January 2021 the Flamethrower was nerfed and got a new outfit image, so the Flamethrower Turret didn't fit anymore to the vanilla Flamethrower.
 
 
 
@@ -74,7 +74,7 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 
 2025-04-28: v.1.0.0
 
-Overhaul and Republication as Bunsen Burner.
+Overhaul and Re-publication as Bunsen Burner.
 
 
 

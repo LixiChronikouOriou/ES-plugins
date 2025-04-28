@@ -3,20 +3,20 @@ Upstream-Name: Bunsen.Burner
 Upstream-Contact: LixiChronikouOriou (https://github.com/LixiChronikouOriou)
 Source: https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner
 
-Copyright: Nick Barry (github.com/itsnickbarry)
+Copyright: Nick Barry (https://github.com/ItsNickBarry)
 License: GPL-3+
 
 Files:
  data/Bunsen Burner/*
  images/outfit/bunsen burner turret*.png
-Copyright: Nick Barry (github.com/itsnickbarry)
+Copyright: Nick Barry (https://github.com/ItsNickBarry)
 License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser.
+Comment: Derived from works by Michael Zahniser (mzahniser@gmail.com)
 
 Files: images/hardpoint/*
-Copyright: Kriegstofu (github.com/kriegstofu)
+Copyright: Kriegstofu (https://github.com/kriegstofu)
 License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com>
+Comment: Derived from works by Michael Zahniser (mzahniser@gmail.com)
 
 Files:
  images/outfit/bunsen burner*.png

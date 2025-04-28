@@ -1,7 +1,7 @@
 
 ### Bunsen Burner ###
 
-**Author: [Nick Barry](github.com/ItsNickBarry)**
+**Author: [Nick Barry](https://github.com/ItsNickBarry)**
 
 An overhaul and re-publication of [Flamethrower-Turret-1.1.0](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret). Since the last update of the plugin in January 2021 the Flamethrower was nerfed and got a new outfit image, so the Flamethrower Turret didn't fit anymore to the vanilla Flamethrower.
 

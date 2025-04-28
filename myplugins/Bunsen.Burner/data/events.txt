@@ -12,8 +12,3 @@ event "bunsen burner available"
 	outfitter "Kraz Advanced"
 		add "Bunsen Burner"
 		add "Bunsen Burner Turret"
-
-
-outfitter "Kraz Advanced"
-	add "Bunsen Burner"
-	add "Bunsen Burner Turret"

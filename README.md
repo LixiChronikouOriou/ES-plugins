@@ -41,7 +41,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 
 <img src="myplugins/Bunsen.Burner/icon.png" height="100">
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Bunsen.Burner/Bunsen.Burner.zip) | 241.84 kb | 2025-04-28 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [11]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1-Bunsen.Burner/Bunsen.Burner.zip) | 241.83 kb | 2025-04-28 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [11]<br>
 <br>
 >Next-generation Flamethrower, as gun and turret. For those who like it hot.
 
@@ -69,6 +69,12 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 
 
 **Changelog**
+
+
+
+2025-04-28: v.1.0.1
+
+Readme and copyright fixes.
 
 
 

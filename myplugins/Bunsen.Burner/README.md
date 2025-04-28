@@ -10,6 +10,9 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 
 **Changelog**
 
+2025-04-28: v.1.0.1
+Readme and copyright fixes.
+
 2025-04-28: v.1.0.0
 Overhaul and Re-publication as Bunsen Burner.
 

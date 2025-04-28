@@ -1,6 +1,6 @@
-# ES Plugin Republications #
+# ES Plugin Re-publications #
 
-This repository aims at the republication of older plugins by various authors which need some kind of overhaul, as vanilla ES has continued its development and some things just don't fit anymore. Just think of the 0.10.7 ship and engines rebalancing.
+This repository aims at the re-publication of older plugins by various authors which need some kind of overhaul, as vanilla ES has continued its development and some things just don't fit anymore. Just think of the 0.10.7 ship and engines rebalancing.
 
 LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins, just their editor.
 

@@ -1,2 +1,2 @@
-Bunsen.Burner|1.0.0
+Bunsen.Burner|1.0.1
 Louise.Conglomerate.Shipyards|1.0.1

@@ -66,7 +66,7 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-05-04 | 1.0.2 | Metadata files fixes. |
+| 2025-05-03 | 1.0.2 | Metadata files fixes. |
 | 2025-04-28 | 1.0.1 | Readme and copyright fixes. |
 | 2025-04-28 | 1.0.0 | Overhaul and Re-publication as *Bunsen Burner*. |
 | 2021-01-26 | - | Last Update of the *Flamethrower Turret* plugin. |
@@ -110,7 +110,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-05-0r | 1.0.0 | Overhaul and Re-publication as *Korunak Defense Drones*. |
+| 2025-05-03 | 1.0.0 | Overhaul and Re-publication as *Korunak Defense Drones*. |
 | 2020-10-07 | - | ES PR #5417 |
 | 2020-09-30 | - | Last Update of the *Defense Drones Plugin*. |
 | 2020-05-16 | - | ES PR #5071 |
@@ -148,7 +148,7 @@ Lore-wise the Louise Conglomerate is one of the Syndicate's megacorps with activ
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-05-04 | 1.0.2 | Metadata file fixes. |
+| 2025-05-03 | 1.0.2 | Metadata file fixes. |
 | 2025-04-27 | 1.0.1 | Fixes considering stand-alonization. |
 | 2025-04-27 | 1.0.0 | Overhaul and Re-publication as *Louise Conglomerate Shipyards*. |
 | 2020-05-31 | - | Last Update of the *More Ships Plugin*. |

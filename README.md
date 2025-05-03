@@ -12,6 +12,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-05-03 | update: Korunak.Defense.Drones<br>
 2025-05-03 | update: Bunsen.Burner<br>
 2025-05-03 | update: Louise.Conglomerate.Shipyards<br>
 2025-04-28 | update: Bunsen.Burner<br>
@@ -99,7 +100,7 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 
 <img src="myplugins/Korunak.Defense.Drones/icon.png" height="100">
 
-[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
+[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 598.94 kb | 2025-05-03 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
 <br>
 >Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
 

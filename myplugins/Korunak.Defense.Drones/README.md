@@ -17,7 +17,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-05-0r | 1.0.0 | Overhaul and Re-publication as *Korunak Defense Drones*. |
+| 2025-05-04 | 1.0.0 | Overhaul and Re-publication as *Korunak Defense Drones*. |
 | 2020-10-07 | - | ES PR #5417 |
 | 2020-09-30 | - | Last Update of the *Defense Drones Plugin*. |
 | 2020-05-16 | - | ES PR #5071 |

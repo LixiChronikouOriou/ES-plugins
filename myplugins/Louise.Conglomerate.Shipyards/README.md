@@ -9,6 +9,9 @@ Lore-wise the Louise Conglomerate is one of the Syndicate's megacorps with activ
 
 **Changelog**
 
+2025-05-03: v.1.0.2
+Copyright file fix.
+
 2025-04-27: v.1.0.1
 Fixes considering stand-alonization.
 

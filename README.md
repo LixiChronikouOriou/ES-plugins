@@ -12,6 +12,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-05-03 | update: Louise.Conglomerate.Shipyards<br>
 2025-04-28 | update: Bunsen.Burner<br>
 2025-04-27 | update: Louise.Conglomerate.Shipyards<br>
 2025-04-10 | initial template repository setup<br>
@@ -27,8 +28,9 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <td><img width="294" height="1"><br>
 <a href="README.md#BunsenBurner">Bunsen.Burner</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
-<a href="README.md#LouiseConglomerateShipyards">Louise.Conglomerate.Shipyards</a><br>
+<a href="README.md#KorunakDefenseDrones">Korunak.Defense.Drones</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#LouiseConglomerateShipyards">Louise.Conglomerate.Shipyards</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -72,21 +74,84 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 
 
 
-2025-04-28: v.1.0.1
+| Date | Version | Comment |
 
-Readme and copyright fixes.
+|------|---------|---------|
+
+| 2025-05-04 | 1.0.2 | Metadata files fixes. |
+
+| 2025-04-28 | 1.0.1 | Readme and copyright fixes. |
+
+| 2025-04-28 | 1.0.0 | Overhaul and Re-publication as *Bunsen Burner*. |
+
+| 2021-01-26 | - | Last Update of the *Flamethrower Turret* plugin. |
+
+</blockquote>
+</details>
+
+<br>
+
+
+---
+
+### Korunak.Defense.Drones
+
+<img src="myplugins/Korunak.Defense.Drones/icon.png" height="100">
+
+[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
+<br>
+>Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
+
+>Adds 4 ships.
+
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>
+
+### Korunak Defense Drones ###
 
 
 
-2025-04-28: v.1.0.0
-
-Overhaul and Re-publication as Bunsen Burner.
+**Author: [Starmlerp](https://github.com/starmlerp)**
 
 
 
-2021-01-26: -
+**Artwork: [Loyse](https://github.com/loiseeer), [Becca](https://github.com/beccabunny)**
 
-Last Update of the Flamethrower Turret plugin.
+
+
+An overhaul and republication of the [Defense Drone Plugin](https://github.com/starmlerp/ESDefenseDronePlugin), with consideration of the corresponding ES PRs [#5071](https://github.com/endless-sky/endless-sky/pull/5071) and [#5417](https://github.com/endless-sky/endless-sky/pull/5417).
+
+
+
+Being distributed over a plugin and two PRs from May to October 2020, Starmlerp's idea has never been  consolidated into a whole. Nevertheless there's even a serious modern plugin, [RW Ships](https://www.moddb.com/mods/rw-ships) which takes the original plugin into account. It was time to modernize the stats, bring everything together, and round off.
+
+
+
+Korunak Robotics is a sister company of Korunak Photovoltaics. Except of houshold drones of any kind like the Vroomba or the Sheepomotion, it also became well-known for its space combat drones. Popular among merchants, the [classified] became interested to [paragraph classified]. Therefore, [2 pages classified], so finally [10 pages classified].
+
+
+
+The basic *Defense Drone* is available from the beginning, the *Nock* in-war, the *Super Nock* post-war. Further, the plugin brings a drone-carrying modification of the Freighter and involves [classified].
+
+
+
+**Changelog**
+
+
+
+| Date | Version | Comment |
+
+|------|---------|---------|
+
+| 2025-05-0r | 1.0.0 | Overhaul and Re-publication as *Korunak Defense Drones*. |
+
+| 2020-10-07 | - | ES PR #5417 |
+
+| 2020-09-30 | - | Last Update of the *Defense Drones Plugin*. |
+
+| 2020-05-16 | - | ES PR #5071 |
 
 </blockquote>
 </details>
@@ -100,7 +165,7 @@ Last Update of the Flamethrower Turret plugin.
 
 <img src="myplugins/Louise.Conglomerate.Shipyards/icon.png" height="100">
 
-[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 527.0 kb | 2025-04-27 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [19]<br>
+[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.2-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 527.06 kb | 2025-05-03 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [19]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
 
@@ -131,21 +196,17 @@ Lore-wise the Louise Conglomerate is one of the Syndicate's megacorps with activ
 
 
 
-2025-04-27: v.1.0.1
+| Date | Version | Comment |
 
-Fixes considering stand-alonization.
+|------|---------|---------|
 
+| 2025-05-04 | 1.0.2 | Metadata file fixes. |
 
+| 2025-04-27 | 1.0.1 | Fixes considering stand-alonization. |
 
-2025-04-27: v.1.0.0
+| 2025-04-27 | 1.0.0 | Overhaul and Re-publication as *Louise Conglomerate Shipyards*. |
 
-Overhaul and Re-publication as Louise Conglomerate Shipyards.
-
-
-
-2020-05-31: -
-
-Last Update of the More Ships Plugin.
+| 2020-05-31 | - | Last Update of the *More Ships Plugin*. |
 
 </blockquote>
 </details>

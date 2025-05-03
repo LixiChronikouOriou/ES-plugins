@@ -214,7 +214,7 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 			with open(pathtoplugins + entry + '/README.md' , 'r') as file1:
 				readme_list = file1.readlines()
 			for line in readme_list:
-				readme = readme + line + '\n' 
+				readme = readme + line
 		else:
 			readme = 'N/A'
 		# gets the last modified date from the assetfile, this is the %lastmodified% (modif) variable

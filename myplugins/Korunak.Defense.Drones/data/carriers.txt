@@ -46,7 +46,7 @@
 	explode "small explosion" 30
 	explode "medium explosion" 20
 	"final explode" "final explosion small"
-	description "Once the Navy began building cruisers, the demand for a civilian ship that can carry drones quickly became apparent. The Syndicate quickly answered this newly arisen interest in drones with a correspnding carrier modification of the Freighter. Besides having a stronger hull and more weapon space than the standard model, it can also carry a pair of drones, which the captain can choose to sacrifice in order to give the fleet more time to escape the pirates."
+	description "Once the Navy began building cruisers, the demand for a civilian ship that can carry drones quickly became apparent. The Syndicate quickly answered this newly arisen interest in drones with a corresponding carrier modification of the Freighter. Besides having a stronger hull and more weapon space than the standard model, it can also carry a pair of drones, which the captain can choose to sacrifice in order to give the fleet more time to escape the pirates."
 
 
 ship "Class Q Freighter"

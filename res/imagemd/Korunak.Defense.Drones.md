@@ -18,10 +18,10 @@ graphic files for the plugin: Korunak.Defense.Drones<br>
 		freighter dcm@2x.png [140x400]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/images/ship/nock.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/images/ship/nock.png" width="52" height="54"></a><br>
-		nock.png [52x54]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/images/ship/nock@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/images/ship/nock@2x.png" width="104" height="108"></a><br>
-		nock@2x.png [104x108]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/images/ship/nock.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/images/ship/nock.png" width="54" height="58"></a><br>
+		nock.png [54x58]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/images/ship/nock@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/images/ship/nock@2x.png" width="108" height="116"></a><br>
+		nock@2x.png [108x116]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/images/ship/super nock.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/images/ship/super nock.png" width="50" height="50"></a><br>
 		super nock.png [50x50]</td>
 	</tr>

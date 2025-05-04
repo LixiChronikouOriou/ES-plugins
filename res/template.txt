@@ -25,6 +25,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 [%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
 <br>
 %description%
+<img src='https://github.com/LixiChronikouOriou/ES-plugins-statistics/blob/main/pics/%name%.png'></img>
 <details>
 <summary>:blue_book: Plugin readme</summary>
 %readme%

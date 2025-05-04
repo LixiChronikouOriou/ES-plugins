@@ -47,7 +47,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 
 <img src="myplugins/Bunsen.Burner/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/name%.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png'>
 
 [Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.2-Bunsen.Burner/Bunsen.Burner.zip) | 241.89 kb | 2025-05-03 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [11]<br>
 <br>
@@ -86,7 +86,7 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 
 <img src="myplugins/Korunak.Defense.Drones/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/name%.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png'>
 
 [Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.2-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 541.73 kb | 2025-05-04 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
 <br>
@@ -134,7 +134,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 <img src="myplugins/Louise.Conglomerate.Shipyards/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/name%.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png'>
 
 [Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.3-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 2.54 mb | 2025-05-04 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [37]<br>
 <br>

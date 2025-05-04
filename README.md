@@ -46,13 +46,12 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 ### Bunsen.Burner
 
 <img src="myplugins/Bunsen.Burner/icon.png" height="100">
-
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/name%.png'>
 [Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.2-Bunsen.Burner/Bunsen.Burner.zip) | 241.89 kb | 2025-05-03 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [11]<br>
 <br>
 >Next-generation Flamethrower, as gun and turret. For those who like it hot.
 
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png'>
 <details>
 <summary>:blue_book: Plugin readme</summary>
 
@@ -84,7 +83,7 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 ### Korunak.Defense.Drones
 
 <img src="myplugins/Korunak.Defense.Drones/icon.png" height="100">
-
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/name%.png'>
 [Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.2-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 541.73 kb | 2025-05-04 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
 <br>
 >Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
@@ -92,7 +91,6 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 >Adds 4 ships.
 
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png'>
 <details>
 <summary>:blue_book: Plugin readme</summary>
 
@@ -131,7 +129,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 ### Louise.Conglomerate.Shipyards
 
 <img src="myplugins/Louise.Conglomerate.Shipyards/icon.png" height="100">
-
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/name%.png'>
 [Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.3-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 2.54 mb | 2025-05-04 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [37]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
@@ -139,7 +137,6 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 >Adds 6 ships and 2 weapon systems.
 
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png'>
 <details>
 <summary>:blue_book: Plugin readme</summary>
 

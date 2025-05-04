@@ -52,7 +52,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 >Next-generation Flamethrower, as gun and turret. For those who like it hot.
 
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/blob/main/pics/Bunsen.Burner.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png'>
 <details>
 <summary>:blue_book: Plugin readme</summary>
 
@@ -92,7 +92,7 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 >Adds 4 ships.
 
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/blob/main/pics/Korunak.Defense.Drones.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png'>
 <details>
 <summary>:blue_book: Plugin readme</summary>
 
@@ -139,7 +139,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 >Adds 6 ships and 2 weapon systems.
 
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/blob/main/pics/Louise.Conglomerate.Shipyards.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png'>
 <details>
 <summary>:blue_book: Plugin readme</summary>
 

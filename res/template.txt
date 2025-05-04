@@ -27,7 +27,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 %description%
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>%readme%</blockquote>
+%readme%
 </details>
 %screenshots%
 <br>

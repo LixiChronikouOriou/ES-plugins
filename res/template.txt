@@ -22,7 +22,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 
 %icon%
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/name%.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/%name%.png'>
 
 [%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
 <br>

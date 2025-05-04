@@ -17,6 +17,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-05-04 | 1.0.2 | Event fix. Gun- and Enginepoint corrections. |
 | 2025-05-04 | 1.0.1 | Sprite de-hazification. Drone repricing. |
 | 2025-05-03 | 1.0.0 | Overhaul and Re-publication as *Korunak Defense Drones*. |
 | 2020-10-07 | - | ES PR #5417 |

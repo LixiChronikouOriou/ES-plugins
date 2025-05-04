@@ -17,7 +17,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 2025-05-03 | update: Louise.Conglomerate.Shipyards<br>
 2025-04-28 | update: Bunsen.Burner<br>
 2025-04-27 | update: Louise.Conglomerate.Shipyards<br>
-2025-04-10 | initial template repository setup<br>
+2025-04-26 | initial template repository setup<br>
 <img width="882" height="1"><br>
 </td>
 </tr>

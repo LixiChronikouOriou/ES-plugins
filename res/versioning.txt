@@ -1,3 +1,3 @@
 Bunsen.Burner|1.0.2
-Korunak.Defense.Drones|1.0.1
+Korunak.Defense.Drones|1.0.2
 Louise.Conglomerate.Shipyards|1.0.2

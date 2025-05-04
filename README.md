@@ -52,7 +52,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-
+<blockquote>
 ### Bunsen Burner ###
 
 **Author: [Nick Barry](https://github.com/ItsNickBarry)**
@@ -70,7 +70,7 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 | 2025-04-28 | 1.0.1 | Readme and copyright fixes. |
 | 2025-04-28 | 1.0.0 | Overhaul and Re-publication as *Bunsen Burner*. |
 | 2021-01-26 | - | Last Update of the *Flamethrower Turret* plugin. |
-
+</blockquote>
 </details>
 
 <br>
@@ -91,7 +91,7 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-
+<blockquote>
 ### Korunak Defense Drones ###
 
 **Author: [Starmlerp](https://github.com/starmlerp)**
@@ -114,7 +114,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 | 2020-10-07 | - | ES PR #5417 |
 | 2020-09-30 | - | Last Update of the *Defense Drones Plugin*. |
 | 2020-05-16 | - | ES PR #5071 |
-
+</blockquote>
 </details>
 
 <br>
@@ -135,7 +135,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-
+<blockquote>
 ### Louise Conglomerate Shipyards ###
 
 **Author: [Loyse](https://github.com/loiseeer)**
@@ -152,7 +152,7 @@ Lore-wise the Louise Conglomerate is one of the Syndicate's megacorps with activ
 | 2025-04-27 | 1.0.1 | Fixes considering stand-alonization. |
 | 2025-04-27 | 1.0.0 | Overhaul and Re-publication as *Louise Conglomerate Shipyards*. |
 | 2020-05-31 | - | Last Update of the *More Ships Plugin*. |
-
+</blockquote>
 </details>
 
 <br>

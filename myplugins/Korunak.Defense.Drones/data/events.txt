@@ -74,7 +74,15 @@ mission "Postpug Syndicate Tech Patch"
 		has "event: pug flee"
 	on offer
 		event "syndicate tech available" 0
-		event "super nock available" 10
+		fail
+
+mission "Super Nock Available"
+	landing
+	invisible
+	to offer
+		has "event: syndicate tech available"
+	on offer
+		event "super nock available" 0
 		fail
 
 event "super nock available"

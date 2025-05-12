@@ -124,7 +124,7 @@ ship "Pathfinder"
 			"hit force" 960
 	outfits
 		"Twin Modified Blaster" 2
-		"Gatling Turret" 2
+		"Quad Blaster Turret" 2
 		"Anti-Missile Turret"
 		"D67-TM Shield Generator"
 		"Fission Reactor"
@@ -137,8 +137,8 @@ ship "Pathfinder"
 		"Liquid Nitrogen Cooler" 2
 	gun 18.5 -62
 	gun -18.5 -62
-	turret 21.5 -6 "Gatling Turret"
-	turret -21.5 -6 "Gatling Turret"
+	turret 21.5 -6 "Quad Blaster Turret"
+	turret -21.5 -6 "Quad Blaster Turret"
 	turret 0 42.5 "Anti-Missile Turret"
 	engine 16 74
 	engine -16 74

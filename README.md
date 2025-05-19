@@ -197,6 +197,8 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 **Requires**: [Fundamental.Outfit.Expansion](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion)
 
+**Thanks**: Kitteh and Ivette for fruitful feedback.
+
 An overhaul and republication of the [More Ships Plugin](https://github.com/loiseeer/The-more-ships-plugin). This jewel had to be polished regarding the stats, as it was updated last in May 2020. Luckily Loyse gave permission, and the idea to call the shipyard *Louise*.
 
 Lore-wise the Louise Conglomerate is one of the Syndicate's megacorps with activities in many sectors. Its shipyards focus on ships for the harsh pirate-infested systems and therefore are centered around robustness and agility, at that keeping a remarkable sense for beautiful design. Preferred shipyard of the Space Hansa, which despises Pirates, and has no trust at all in the ability of any government to solve this long-lasting issue.
@@ -207,7 +209,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-05-18 | 1.1.0 | Re-balanced the ships and their variants. Moved weapons to FOE. Pathfinder got 2 and Bulk Boxer 5 drone bays. Removed shipyards on Pirate planets. Added shipyard on Makerplace in Hai space. |
+| 2025-05-18 | 1.1.0 | Re-balanced the ships and their variants. Moved weapons to [FOE](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion). Pathfinder got 2 and Bulk Boxer 5 drone bays. Removed shipyards on Pirate planets. Added shipyard on Makerplace in Hai space. |
 | 2025-05-04 | 1.0.3 | Add @2x images. |
 | 2025-05-03 | 1.0.2 | Metadata file fixes. |
 | 2025-04-27 | 1.0.1 | Fixes considering stand-alonization. |

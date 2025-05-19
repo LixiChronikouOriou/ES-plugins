@@ -12,6 +12,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-05-19 | update: Louise.Conglomerate.Shipyards<br>
 2025-05-19 | update: Fundamental.Outfit.Expansion<br>
 2025-05-19 | update: Bunsen.Burner<br>
 2025-05-04 | update: Louise.Conglomerate.Shipyards<br>
@@ -21,7 +22,6 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 2025-05-03 | update: Louise.Conglomerate.Shipyards<br>
 2025-04-28 | update: Bunsen.Burner<br>
 2025-04-27 | update: Louise.Conglomerate.Shipyards<br>
-2025-04-26 | initial template repository setup<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -183,7 +183,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png'>
 
-[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0.fixed-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [26]<br>
+[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 2.51 mb | 2025-05-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [26]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
 

@@ -12,6 +12,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-05-19 | update: Fundamental.Outfit.Expansion<br>
 2025-05-19 | update: Bunsen.Burner<br>
 2025-05-04 | update: Louise.Conglomerate.Shipyards<br>
 2025-05-04 | update: Korunak.Defense.Drones<br>
@@ -93,7 +94,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png'>
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [31]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 932.81 kb | 2025-05-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [31]<br>
 <br>
 >A collection of essential outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 

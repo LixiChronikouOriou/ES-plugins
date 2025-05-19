@@ -1,9 +1,4 @@
 ﻿fleet "Small Arach"
-	government "Coalition"
-	names "arach"
-	cargo 3
-	personality
-		timid
 	add variant 10
 		"Arach Transport (Sails)"
 		"Arach Courier (Sails)"
@@ -27,11 +22,6 @@
 		"Saryd Runabout (Sails)"
 
 fleet "Large Arach"
-	government "Coalition"
-	names "arach"
-	cargo 3
-	personality
-		timid
 	add variant 15
 		"Arach Hulk (Sails)"
 	add variant 10
@@ -56,11 +46,6 @@ fleet "Large Arach"
 		"Saryd Visitor (Sails)"
 
 fleet "Small Kimek"
-	government "Coalition"
-	names "kimek"
-	cargo 3
-	personality
-		timid
 	add variant 20
 		"Kimek Thorn (Sails)"
 	add variant 15
@@ -85,11 +70,6 @@ fleet "Small Kimek"
 		"Arach Courier  (Sails)"
 
 fleet "Large Kimek"
-	government "Coalition"
-	names "kimek"
-	cargo 3
-	personality
-		timid
 	add variant 20
 		"Kimek Spire (Sails)"
 	add variant 15
@@ -117,11 +97,6 @@ fleet "Large Kimek"
 		"Saryd Visitor (Sails)"
 
 fleet "Small Saryd"
-	government "Coalition"
-	names "saryd"
-	cargo 3
-	personality
-		timid
 	add variant 30
 		"Saryd Runabout (Sails)"
 	add variant 20
@@ -142,11 +117,6 @@ fleet "Small Saryd"
 		"Arach Courier (Sails)"
 
 fleet "Large Saryd"
-	government "Coalition"
-	names "saryd"
-	cargo 3
-	personality
-		timid
 	add variant 30
 		"Saryd Traveler (Sails)"
 	add variant 20

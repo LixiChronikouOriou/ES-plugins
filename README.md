@@ -12,6 +12,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-05-19 | update: Korunak.Defense.Drones<br>
 2025-05-19 | update: Solar.Sails<br>
 2025-05-19 | update: Louise.Conglomerate.Shipyards<br>
 2025-05-19 | update: Fundamental.Outfit.Expansion<br>
@@ -21,7 +22,6 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 2025-05-03 | update: Korunak.Defense.Drones<br>
 2025-05-03 | update: Bunsen.Burner<br>
 2025-05-03 | update: Louise.Conglomerate.Shipyards<br>
-2025-04-28 | update: Bunsen.Burner<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -106,8 +106,6 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 Other fundamental content can be found in the plugin recommendation list.
 
-**Authors:**
-
 | Outfit | Creator(s) | Origin(s) | Note |
 |--------|---------|---------|-----------------|
 | Barrage Blaster | [Loyse](https://github.com/loiseeer) | [Louise Conglomerate Shipyards](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) | Turret. |
@@ -136,7 +134,7 @@ Other fundamental content can be found in the plugin recommendation list.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png'>
 
-[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.2-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 541.73 kb | 2025-05-04 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
+[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1.3-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 541.28 kb | 2025-05-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
 <br>
 >Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
 
@@ -197,7 +195,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 **Author: [Loyse](https://github.com/loiseeer)**
 
-**Requires**: Fundamental.Outfit.Expansion
+**Requires**: [Fundamental.Outfit.Expansion](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion)
 
 An overhaul and republication of the [More Ships Plugin](https://github.com/loiseeer/The-more-ships-plugin). This jewel had to be polished regarding the stats, as it was updated last in May 2020. Luckily Loyse gave permission, and the idea to call the shipyard *Louise*.
 
@@ -209,7 +207,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-05-18 | 1.1.0 | Re-balanced the ships and their variants. Moved weapons to FOE. Pathfinder got 2 and Bulk Boxer 5 drone bays. Removed shipyards on pirate Planets. Added shipyard on Makerplace in Hai space. |
+| 2025-05-18 | 1.1.0 | Re-balanced the ships and their variants. Moved weapons to FOE. Pathfinder got 2 and Bulk Boxer 5 drone bays. Removed shipyards on Pirate planets. Added shipyard on Makerplace in Hai space. |
 | 2025-05-04 | 1.0.3 | Add @2x images. |
 | 2025-05-03 | 1.0.2 | Metadata file fixes. |
 | 2025-04-27 | 1.0.1 | Fixes considering stand-alonization. |

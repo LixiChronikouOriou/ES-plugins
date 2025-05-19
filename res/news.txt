@@ -1,3 +1,4 @@
+2025-05-19 | update: Korunak.Defense.Drones
 2025-05-19 | update: Solar.Sails
 2025-05-19 | update: Louise.Conglomerate.Shipyards
 2025-05-19 | update: Fundamental.Outfit.Expansion

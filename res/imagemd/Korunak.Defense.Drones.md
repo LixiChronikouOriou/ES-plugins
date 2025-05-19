@@ -2,10 +2,10 @@ graphic files for the plugin: Korunak.Defense.Drones<br>
 <br>
 <table>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/icon.png" width="120" height="90"></a><br>
-		icon.png [120x90]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/icon@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/icon@2x.png" width="200"></a><br>
-		icon@2x.png [240x180]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/icon.png" width="120" height="120"></a><br>
+		icon.png [120x120]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/icon@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/icon@2x.png" height="200"></a><br>
+		icon@2x.png [240x240]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Korunak.Defense.Drones/images/ship/defense drone.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Korunak.Defense.Drones/images/ship/defense drone.png" width="40" height="54"></a><br>
 		defense drone.png [40x54]</td>
 	</tr>

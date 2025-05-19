@@ -1,7 +1,8 @@
 person "Sailor"
 	frequency 500
 	government "Author"
-	personality pacifist coward fleeing unconstrained
+	personality
+		pacifist coward fleeing unconstrained
 	ship Sailor "Sailor"
 	phrase
 		word
@@ -107,17 +108,11 @@ outfit "Sailor's Sail"
 	"hull repair rate" 0.1
 	description `Wait, did you take this from the Sailor?`
 
-person "Sailor"
+person "Sailor (Sailboat)"
+#	name "Sailor"
 	frequency 500
 	government "Author"
-	personality pacifist coward fleeing unconstrained
-	ship Sailor "Sailor"
-
-person "Sailor (Sailboat)"
-	name "Sailor"
-	frequency 500
-	government "Sailor"
-	cargo "Sailor's Sail" 1
+#	cargo "Sailor's Sail" 1
 	personality pacifist coward fleeing unconstrained
 	ship Sailboat "Sailboat"
 	phrase

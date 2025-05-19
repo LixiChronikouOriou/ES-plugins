@@ -67,7 +67,7 @@ fleet "Small Kimek"
 		"Saryd Runabout (Sails)"
 	add variant 3
 		"Kimek Thistle (Sails)"
-		"Arach Courier  (Sails)"
+		"Arach Courier (Sails)"
 
 fleet "Large Kimek"
 	add variant 20

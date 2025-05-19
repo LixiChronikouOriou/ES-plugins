@@ -2,3 +2,4 @@ Bunsen.Burner|1.1.0
 Fundamental.Outfit.Expansion|1.0.0
 Korunak.Defense.Drones|1.0.2
 Louise.Conglomerate.Shipyards|1.1.0
+Solar.Sails|1.0.0

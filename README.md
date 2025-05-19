@@ -12,6 +12,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-05-19 | update: Solar.Sails<br>
 2025-05-19 | update: Louise.Conglomerate.Shipyards<br>
 2025-05-19 | update: Fundamental.Outfit.Expansion<br>
 2025-05-19 | update: Bunsen.Burner<br>
@@ -21,7 +22,6 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 2025-05-03 | update: Bunsen.Burner<br>
 2025-05-03 | update: Louise.Conglomerate.Shipyards<br>
 2025-04-28 | update: Bunsen.Burner<br>
-2025-04-27 | update: Louise.Conglomerate.Shipyards<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -229,7 +229,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Solar.Sails.png'>
 
-[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Solar.Sails/Solar.Sails.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [30]<br>
+[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Solar.Sails/Solar.Sails.zip) | 825.38 kb | 2025-05-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [30]<br>
 <br>
 >Epic engines, which are cheap, have only 25% of their size in mass, and consume negligible amounts of energy. Used in Human and Coalition space.
 

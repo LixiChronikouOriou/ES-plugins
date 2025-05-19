@@ -1,6 +1,6 @@
 person "Sailor"
 	frequency 500
-	government "Sailor"
+	government "Author"
 	personality pacifist coward fleeing unconstrained
 	ship Sailor "Sailor"
 	phrase
@@ -109,15 +109,15 @@ outfit "Sailor's Sail"
 
 person "Sailor"
 	frequency 500
-	government "Sailor"
+	government "Author"
 	personality pacifist coward fleeing unconstrained
 	ship Sailor "Sailor"
 
 person "Sailor (Sailboat)"
-#	name "Sailor"
+	name "Sailor"
 	frequency 500
 	government "Sailor"
-#	cargo "Sailor's Sail" 1
+	cargo "Sailor's Sail" 1
 	personality pacifist coward fleeing unconstrained
 	ship Sailboat "Sailboat"
 	phrase

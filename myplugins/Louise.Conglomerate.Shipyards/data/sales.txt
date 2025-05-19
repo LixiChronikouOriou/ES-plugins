@@ -8,12 +8,12 @@ shipyard "Louise Conglomerate Advanced"
 	"Pathfinder"
 	"Bulk Boxer"
 
-
-outfitter "Delta V Advanced"
-	add "Flak Cannon"
-	add "Flak Shell"
-outfitter "Syndicate Advanced"
-	add "Barrage Blaster Turret"
+shipyard "Louise Conglomerate Hai"
+	"Frontier (Hai)"
+	"Frontier (Laser)"
+	"Bulk Boxer (Hai)"
+	"Bulk Boxer (Laser)"
+	"Newmaker (Hai)"
 
 planet Clark
 	add shipyard "Louise Conglomerate Basics"
@@ -44,3 +44,5 @@ planet Sunracer
 	add shipyard "Louise Conglomerate Advanced"
 planet Wayfarer
 	add shipyard "Louise Conglomerate Basics"
+planet Greenwater
+	add shipyard "Louise Conglomerate Hai"

@@ -50,6 +50,9 @@ ship "Frontier" "Frontier (Hai)"
 	turret "Blaster Turret"
 
 ship "Pathfinder" "Pathfinder (Artillery)"
+	add attributes
+		"weapon capacity" 5
+		"engine capacity" -5
 	outfits
 		"Plasma Cannon" 2
 		"Flak Cannon" 2

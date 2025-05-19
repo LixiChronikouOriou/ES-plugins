@@ -45,9 +45,13 @@ def versioning(p, corrected):
 			old_version = linesplit[1]
 			osplit = old_version.split('.')
 			new_version = str(int(osplit[len(osplit)-1]) + 1) # new_version = last number + 1
-			for x in range(0, len(osplit)-1): # part = first part of version - last number
-				part += osplit[x] + '.'
-			new_version = part + new_version
+			if osplit[len(ossplit)-1] != 'fixed':
+				new_version = str(int(osplit[len(osplit)-1]) + 1) # new_version = last number + 1
+					for x in range(0, len(osplit)-1): # part = first part of version - last number
+						part += osplit[x] + '.'
+						new_version = part + new_version
+			else:
+				newversion = old_version.replace('.fixed', '')
 			print(corrected + ' ' + old_version + ' to ' + new_version)
 			line = corrected + '|' + new_version + '\n' # complete updated line
 		newlines.append(line)

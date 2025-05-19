@@ -3,8 +3,6 @@
 
 Other fundamental content can be found in the plugin recommendation list.
 
-**Authors:**
-
 | Outfit | Creator(s) | Origin(s) | Note |
 |--------|---------|---------|-----------------|
 | Barrage Blaster | [Loyse](https://github.com/loiseeer) | [Louise Conglomerate Shipyards](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) | Turret. |

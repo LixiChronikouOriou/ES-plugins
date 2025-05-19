@@ -5,6 +5,8 @@
 
 **Requires**: [Fundamental.Outfit.Expansion](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion)
 
+**Thanks**: Kitteh and Ivette for fruitful feedback.
+
 An overhaul and republication of the [More Ships Plugin](https://github.com/loiseeer/The-more-ships-plugin). This jewel had to be polished regarding the stats, as it was updated last in May 2020. Luckily Loyse gave permission, and the idea to call the shipyard *Louise*.
 
 Lore-wise the Louise Conglomerate is one of the Syndicate's megacorps with activities in many sectors. Its shipyards focus on ships for the harsh pirate-infested systems and therefore are centered around robustness and agility, at that keeping a remarkable sense for beautiful design. Preferred shipyard of the Space Hansa, which despises Pirates, and has no trust at all in the ability of any government to solve this long-lasting issue.

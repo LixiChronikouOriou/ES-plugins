@@ -10,29 +10,19 @@ shipyard "Louise Conglomerate Advanced"
 
 shipyard "Louise Conglomerate Hai"
 	"Frontier (Hai)"
-	"Frontier (Laser)"
 	"Bulk Boxer (Hai)"
-	"Bulk Boxer (Laser)"
 	"Newmaker (Hai)"
 
 planet Clark
-	add shipyard "Louise Conglomerate Basics"
-planet Covert
 	add shipyard "Louise Conglomerate Basics"
 planet Delve
 	add shipyard "Louise Conglomerate Basics"
 planet Follower # Louise Cong. HQ
 	add shipyard "Louise Conglomerate Basics"
 	add shipyard "Louise Conglomerate Advanced"
-planet Greenrock
-	add shipyard "Louise Conglomerate Basics"
-planet Haven
-	add shipyard "Louise Conglomerate Basics"
 planet "New Britain"
 	add shipyard "Louise Conglomerate Basics"
 	add shipyard "Louise Conglomerate Advanced"
-planet New Tortuga
-	add shipyard "Louise Conglomerate Basics"
 planet Prime
 	add shipyard "Louise Conglomerate Basics"
 	add shipyard "Louise Conglomerate Advanced"
@@ -44,5 +34,5 @@ planet Sunracer
 	add shipyard "Louise Conglomerate Advanced"
 planet Wayfarer
 	add shipyard "Louise Conglomerate Basics"
-planet Greenwater
+planet Makerplace
 	add shipyard "Louise Conglomerate Hai"

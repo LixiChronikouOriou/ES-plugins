@@ -1,13 +1,13 @@
 ship "Frontier" "Frontier (Laser)"
 	outfits
-		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile Pod" 2
-		"Sidewinder Missile Rack" 6
-		"Sidewinder Missile" 240
-		"Heavy Anti-Missile Turret"
-		"Blaster Turret" 2
+		"Sidewinder Missile Rack" 3
+		"Sidewinder Missile" 81
+		"Heavy Laser" 2
+		"Heavy Laser Turret"
+		"Anti-Missile Turret" 2
 		"nGVF-CC Fuel Cell"
-		"LP072a Battery Pack"
+		"LP144a Battery Pack"
 		"D67-TM Shield Generator"
 		"Shipwright Gear" 3
 		"Greyhound Plasma Thruster"
@@ -15,54 +15,15 @@ ship "Frontier" "Frontier (Laser)"
 		"Volcano Afterburner"
 		"Scram Drive"
 		"Ramscoop"
-		"Large Radar Jammer"
-
-
-		"Heavy Laser" 4
-		"Heavy Laser Turret" 2
-		"Anti-Missile Turret"
-		"Fission Reactor"
-		"LP072a Battery Pack"
-		"D67-TM Shield Generator"
-		"X3700 Ion Thruster"
-		"X4200 Ion Steering"
-		"Scram Drive"
-		"Fuel Pod"
-		"Ramscoop"
-		"Small Radar Jammer" 2
-		"Liquid Nitrogen Cooler"
-	gun "Heavy Laser"
-	gun "Heavy Laser"
-	gun "Heavy Laser"
-	gun "Heavy Laser"
-	turret "Anti-Missile Turret"
-	turret "Heavy Laser Turret"
-	turret "Heavy Laser Turret"
-
-ship "Frontier" "Frontier (Javelin)"
-	outfits
-		"Javelin Pod" 4
-		"Javelin Storage Crate"
-		"Javelin" 900
-		"Barrage Blaster Turret" 2
-		"Anti-Missile Turret"
-		"Fission Reactor"
-		"LP072a Battery Pack"
-		"D67-TM Shield Generator"
-		"X3700 Ion Thruster"
-		"X4200 Ion Steering"
-		"Scram Drive"
-		"Fuel Pod"
-		"Ramscoop"
+		"Water Coolant System"
 		"Small Radar Jammer"
-		"Liquid Nitrogen Cooler"
-	gun "Javelin Pod"
-	gun "Javelin Pod"
-	gun "Javelin Pod"
-	gun "Javelin Pod"
+	gun "Sidewinder Missile Pod"
+	gun "Sidewinder Missile Pod"
+	gun "Heavy Laser"
+	gun "Heavy Laser"
+	turret "Heavy Laser Turret"
 	turret "Anti-Missile Turret"
-	turret "Barrage Blaster Turret"
-	turret "Barrage Blaster Turret"
+	turret "Anti-Missile Turret"
 
 ship "Frontier" "Frontier (Hai)"
 	outfits
@@ -191,24 +152,28 @@ ship "Bulk Boxer" "Bulk Boxer (Proton)"
 	turret "Heavy Anti-Missile Turret"
 
 ship "Bulk Boxer" "Bulk Boxer (Laser)"
+	add attributes
+		"weapon capacity" 5
+		"engine capacity" -5
 	outfits
 		"Heavy Laser Turret" 4
-		"Heavy Anti-Missile Turret" 2
+		"Anti-Missile Turret" 2
 		"Fission Reactor"
-		"LP288a Battery Pack"
-		"D41-HY Shield Generator"
+		"LP144a Battery Pack"
+		"D67-TM Shield Generator"
+		"Shipwright Gear" 3
 		"X3700 Ion Thruster"
 		"X4200 Ion Steering"
-		"Hyperdrive"
-		"Small Radar Jammer"
+		"Scram Drive"
+		"Fuel Pod"
 		"Ramscoop"
 		"Liquid Nitrogen Cooler"
 	turret "Heavy Laser Turret"
 	turret "Heavy Laser Turret"
 	turret "Heavy Laser Turret"
 	turret "Heavy Laser Turret"
-	turret "Heavy Anti-Missile Turret"
-	turret "Heavy Anti-Missile Turret"
+	turret "Anti-Missile Turret"
+	turret "Anti-Missile Turret"
 
 ship "Bulk Boxer" "Bulk Boxer (Hai)"
 	outfits

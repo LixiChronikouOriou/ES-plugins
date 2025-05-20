@@ -5,7 +5,7 @@
 
 **Requires**: [Fundamental.Outfit.Expansion](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion)
 
-**Thanks**: Kitteh and Ivette for fruitful feedback.
+**Thanks**: Kitteh and Corvettefan for fruitful feedback.
 
 An overhaul and republication of the [More Ships Plugin](https://github.com/loiseeer/The-more-ships-plugin). This jewel had to be polished regarding the stats, as it was updated last in May 2020. Luckily Loyse gave permission, and the idea to call the shipyard *Louise*.
 

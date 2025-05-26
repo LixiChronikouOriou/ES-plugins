@@ -8,7 +8,7 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 While this repository contains a best-of older material, there are some current plugins to mention, too. Lets therefore start with a...
 <details>
 <summary>:blue_book: <b>Plugin Recommendation List</b></summary>
-<br>This is a set of plugins which I <i>personally</i> and <i>subjectively</i> regard to be my <i>basic</i> setup. They're more or less close to vanilla, and are rounded-off, so for instance new ships and outfits have their own images. Some of them provide basic QoL. However, there's much interesting stuff out there for any taste, notably the works of <a href='https://github.com/AvianGeneticist?tab=repositories'>AvianGeneticist</a> which inter alia explore what kind of unexpected stuff one can do with ES.
+<br>This is a set of plugins which I <i>personally</i> and <i>subjectively</i> regard to be my <i>basic</i> setup. They're more or less close to vanilla, and are rounded-off, so for instance new ships and outfits have their own images. Some of them provide basic QoL. However, there's much interesting stuff out there for any taste, notably the works of <a href='https://github.com/AvianGeneticist?tab=repositories'>AvianGeneticist</a> which inter alia explore what kind of unexpected things one can do with ES.
 <br><br>
 Consult the <a href='https://endless-sky.github.io/plugins.html'>ES plugin list</a>, Hecter's <a href='https://github.com/Hecter94/EndlessSky-PluginArchive'>ES Plugin Archive</a>, and the <a href='https://discord.com/channels/251118043411775489/1208535517759807519'>Plugin Releases on Discord</a> for more.
 <br><br>

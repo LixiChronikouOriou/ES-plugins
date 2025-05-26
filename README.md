@@ -5,6 +5,25 @@ This repository aims at the re-publication of older plugins by various authors w
 LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins, just their editor.
 
 <br>
+While this repository contains a best-of older material, there are some current plugins to mention, too. Lets therefore start with a...
+<details>
+<summary>:blue_book: <b>Plugin Recommendation List</b></summary>
+<br>This is a set of plugins which I <i>personally</i> and <i>subjectively</i> regard to be my <i>basic</i> setup. They're more or less close to vanilla, and are rounded-off, so for instance new ships and outfits have their own images. Some of them provide basic QoL. However, there's much interesting stuff out there for any taste, notably the works of <a href='https://github.com/AvianGeneticist?tab=repositories'>AvianGeneticist</a> which inter alia explore what kind of unexpected stuff one can do with ES.
+<br><br>
+Consult the <a href='https://endless-sky.github.io/plugins.html'>ES plugin list</a>, Hecter's <a href='https://github.com/Hecter94/EndlessSky-PluginArchive'>ES Plugin Archive</a>, and the <a href='https://discord.com/channels/251118043411775489/1208535517759807519'>Plugin Releases on Discord</a> for more.
+<br><br>
+
+| Author  | Plugin(s) | Note |
+|---------|-----------|------|
+| *anonymous* | [RW Ships](https://www.moddb.com/mods/rw-ships)<br>[RW Extras](https://www.moddb.com/mods/rw-extras/downloads) | RW Ships is a must-have, the Extras are a collection of neat things, from which the human outfits and weapons have been included with permission into [FOE](https://github.com/LixiChronikouOriou/ES-plugins?tab=readme-ov-file#fundamentaloutfitexpansion) for being, well, fundamental. |
+| [Daeridanii](https://github.com/Daeridanii1?tab=repositories) | [DAIS](https://github.com/Daeridanii1/DAIS) | Popular plugin which literally introduces additional interesting ships. |
+| [demolish238](https://github.com/demolish238?tab=repositories) | [QOL Outfits](https://github.com/demolish238/QOL-Outfits) | Download preferably the more up-to-date and yet stable development ZIP instead of the release. A collection of outfits, which naturally expand the vanilla ones regarding QoL. Some of them are so essential that they have been included with permission into [FOE](https://github.com/LixiChronikouOriou/ES-plugins?tab=readme-ov-file#fundamentaloutfitexpansion).
+| Kitteh | [Cardboard Box](https://discord.com/channels/251118043411775489/1208535517759807519/1375982966135717888) | A testbed for some of Kitteh's creative ideas. Partly has been, and partly potentially will be introduced in Rumskib. Install if you want to be ahead, Kitteh cared for the compatibility to Rumskib. Only available on Discord. |
+| [MidnightPlugins](https://github.com/MidnightPlugins?tab=repositories) | [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight)<br>[Midnight Expansion](https://github.com/MidnightPlugins/Midnight-Expansion)<br>[Midnight Scrapyard](https://github.com/MidnightPlugins/Midnight-Scrapyard)<br>[Mineral Miser](https://github.com/MidnightPlugins/Mineral-Miser) | Some people consider the Midnight-Trilogy in union with Vanilla ES to form a de-facto ES 1.0.0 |
+| [mOctave](https://github.com/mOctave?tab=repositories) | [Blended Ships](https://github.com/mOctave/blended-ships) | Nomen est omen, though the difference to blended whiskey is, that the blend is still premium. | 
+| [TheGiraffe3](https://github.com/TheGiraffe3?tab=repositories) | [Rumskib](https://github.com/TheGiraffe3/rumskib) | Download preferably the more up-to-date and yet stable development ZIP instead of the release. While not even the author knows why being named like that, it is an ambitious project of a vanilla+ expansion of ships, outfits and missions. |
+| [Zuckung](https://github.com/zuckung?tab=repositories) | [bunrodea.missions](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#bunrodeamissions)<br>[landing.images](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#landingimages)<br><br>For ES on Android:<br>[additional.command.buttons.radial](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#additionalcommandbuttonsradial)<br>[landing.images.android](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#landingimagesandroid)<br><br>Save your mobile device:<br>[no.more.mereti.mines](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#nomoremeretimines)<br>[too.many.asteroids](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#toomanyasteroids) | Being the master of small- to mid-sized QoL plugins, Zuckung's [repo](https://github.com/zuckung/endless-sky-plugins) contains 40+ interesting plugins to check out. |
+</details>
 
 <br>
 
@@ -40,9 +59,6 @@ LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#SolarSails">Solar.Sails</a><br>
 <img width="294" height="1"><br></td></tr></table>
-
-
-
 
 
 ---

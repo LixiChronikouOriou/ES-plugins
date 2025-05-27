@@ -1,6 +1,8 @@
 
 ### Solar Sails ###
 
+**Experimental**
+
 **Author: [TheronEpic](https://github.com/TheronEpic)**
 
 An overhaul and re-publication of TheronEpic's [Solar Sails](https://github.com/TheronEpic/theronepic-solar-sails). Since the last update of the plugin in October 2020 there have been made massive changes in ES considering engines, so a stat overhaul was overdue. Also various syntax bugs had to be hunted down.

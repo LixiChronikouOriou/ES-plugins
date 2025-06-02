@@ -38,32 +38,48 @@ graphic files for the plugin: Solar.Sails<br>
 		solar drive huge front.png [186x164]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive huge.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive huge.png" width="186" height="164"></a><br>
 		solar drive huge.png [186x164]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive large front.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive large front.png" width="110" height="140"></a><br>
-		solar drive large front.png [110x140]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive huge@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive huge@2x.png" width="200"></a><br>
+		solar drive huge@2x.png [372x328]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive large front.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive large front.png" width="110" height="140"></a><br>
+		solar drive large front.png [110x140]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive large.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive large.png" width="110" height="140"></a><br>
 		solar drive large.png [110x140]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive large@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive large@2x.png" height="200"></a><br>
+		solar drive large@2x.png [220x280]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive small front.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive small front.png" width="98" height="120"></a><br>
 		solar drive small front.png [98x120]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive small.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive small.png" width="100" height="120"></a><br>
-		solar drive small.png [100x120]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive small.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive small.png" width="98" height="120"></a><br>
+		solar drive small.png [98x120]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar drive small@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar drive small@2x.png" height="200"></a><br>
+		solar drive small@2x.png [196x240]</td>
 	</tr>
 	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail huge front.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail huge front.png" width="180" height="180"></a><br>
 		solar sail huge front.png [180x180]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail huge.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail huge.png" width="180" height="180"></a><br>
 		solar sail huge.png [180x180]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail large front.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail large front.png" width="150" height="158"></a><br>
-		solar sail large front.png [150x158]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail huge@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail huge@2x.png" height="200"></a><br>
+		solar sail huge@2x.png [360x360]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail large.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail large.png" width="160" height="176"></a><br>
-		solar sail large.png [160x176]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail large front.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail large front.png" width="150" height="158"></a><br>
+		solar sail large front.png [150x158]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail large.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail large.png" width="150" height="158"></a><br>
+		solar sail large.png [150x158]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail large@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail large@2x.png" height="200"></a><br>
+		solar sail large@2x.png [300x316]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail small front.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail small front.png" width="120" height="162"></a><br>
 		solar sail small front.png [120x162]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail small.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail small.png" width="120" height="162"></a><br>
 		solar sail small.png [120x162]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/solar sail small@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/solar sail small@2x.png" height="200"></a><br>
+		solar sail small@2x.png [240x324]</td>
 	</tr>
 	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/outfit/tinier photovoltaic.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/outfit/tinier photovoltaic.png" width="80" height="90"></a><br>

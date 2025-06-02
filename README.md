@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-06-02 | update: Solar.Sails<br>
 2025-06-02 | update: Korunak.Defense.Drones<br>
 2025-06-02 | update: Bunsen.Burner<br>
 2025-05-27 | update: Fundamental.Outfit.Expansion<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-05-19 | update: Fundamental.Outfit.Expansion<br>
 2025-05-19 | update: Bunsen.Burner<br>
 2025-05-04 | update: Louise.Conglomerate.Shipyards<br>
-2025-05-04 | update: Korunak.Defense.Drones<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -258,7 +258,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Solar.Sails.png'>
 
-[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.0.fixed-Solar.Sails/Solar.Sails.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [36]<br>
+[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.0-Solar.Sails/Solar.Sails.zip) | 1.59 mb | 2025-06-02 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [36]<br>
 <br>
 >Epic diffractive solar sails for Human and Coalition space, providing thrust, turn and solar collection, thereby using only outfitspace worth of half the consumed enginespace.
 

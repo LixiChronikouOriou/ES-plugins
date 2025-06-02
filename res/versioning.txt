@@ -1,4 +1,4 @@
-Bunsen.Burner|1.1.1.fixed
+Bunsen.Burner|1.1.1
 Fundamental.Outfit.Expansion|1.2.0.fixed
 Korunak.Defense.Drones|1.0.4.fixed
 Louise.Conglomerate.Shipyards|1.1.1.fixed

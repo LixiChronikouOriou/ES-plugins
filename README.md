@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-06-02 | update: Korunak.Defense.Drones<br>
 2025-06-02 | update: Bunsen.Burner<br>
 2025-05-27 | update: Fundamental.Outfit.Expansion<br>
 2025-05-19 | update: Korunak.Defense.Drones<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-05-19 | update: Bunsen.Burner<br>
 2025-05-04 | update: Louise.Conglomerate.Shipyards<br>
 2025-05-04 | update: Korunak.Defense.Drones<br>
-2025-05-03 | update: Korunak.Defense.Drones<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -159,7 +159,7 @@ The original concept for FOE's Shipwright Gear was introduced by Darcy Manoel an
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png'>
 
-[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.4.fixed-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
+[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.4-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 541.32 kb | 2025-06-02 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
 <br>
 >Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
 

@@ -1,5 +1,5 @@
-Bunsen.Burner|1.1.0
-Fundamental.Outfit.Expansion|1.1.0
-Korunak.Defense.Drones|1.0.3
-Louise.Conglomerate.Shipyards|1.1.0
-Solar.Sails|1.0.0
+Bunsen.Burner|1.1.1.fixed
+Fundamental.Outfit.Expansion|1.2.0.fixed
+Korunak.Defense.Drones|1.0.4.fixed
+Louise.Conglomerate.Shipyards|1.1.1.fixed
+Solar.Sails|2.0.0.fixed

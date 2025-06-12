@@ -15,7 +15,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 | *anonymous* | [RW Ships](https://www.moddb.com/mods/rw-ships) | RW Ships is a must-have, introducing Pickerberry Heavy Industries (HQ New Britain) with shipyards and outfitters. The [RW Extras](https://www.moddb.com/mods/rw-extras) are a collection of neat stuff, from which the human outfits and weapons have been included with permission into [FOE](https://github.com/LixiChronikouOriou/ES-plugins?tab=readme-ov-file#fundamentaloutfitexpansion) for being, well, fundamental. |
 | [Daeridanii](https://github.com/Daeridanii1?tab=repositories) | [DAIS](https://github.com/Daeridanii1/DAIS) | Popular plugin which introduces additional interesting ships. |
 | Kitteh | [Cardboard Box](https://discord.com/channels/251118043411775489/1208535517759807519/1375982966135717888) | A testbed for some of Kitteh's creative ideas. Partly has been, and partly potentially will be introduced in Rumskib. Install if you want to be ahead, Kitteh cared for the compatibility to Rumskib. Only available on Discord. |
-| [MidnightPlugins](https://github.com/MidnightPlugins?tab=repositories) | [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight)<br>[Midnight Expansion](https://github.com/MidnightPlugins/Midnight-Expansion)<br>[Midnight Scrapyard](https://github.com/MidnightPlugins/Midnight-Scrapyard)<br>[Mineral Miser](https://github.com/MidnightPlugins/Mineral-Miser)<br>[Outfit Highlighter](https://github.com/MidnightPlugins/Outfit-Highlighter) | Some people consider the Midnight-Trilogy in union with Vanilla ES to form a de-facto ES 1.0.0 |
+| [MidnightPlugins](https://github.com/MidnightPlugins?tab=repositories) | [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight)<br>[Midnight Expansion](https://github.com/MidnightPlugins/Midnight-Expansion)<br>[Midnight Scrapyard](https://github.com/MidnightPlugins/Midnight-Scrapyard)<br>[Mineral Miser](https://github.com/MidnightPlugins/Mineral-Miser) | Some people consider the Midnight-Trilogy in union with Vanilla ES to form a de-facto ES 1.0.0 |
 | [mOctave](https://github.com/mOctave?tab=repositories) | [Blended Ships](https://github.com/mOctave/blended-ships) | Nomen est omen. The difference to blended whiskey is, that these ships remain premium. |
 | [TheGiraffe3](https://github.com/TheGiraffe3?tab=repositories) | [Rumskib](https://github.com/TheGiraffe3/rumskib) | While not even the author knows why being named like that, it is an ambitious project of a vanilla+ expansion of ships, outfits and missions. |
 | [Zuckung](https://github.com/zuckung?tab=repositories) | [bunrodea.missions](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#bunrodeamissions)<br>[landing.images](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#landingimages)<br><br>Mobile:<br>[additional.command.buttons.radial](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#additionalcommandbuttonsradial)<br>[landing.images.android](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#landingimagesandroid)<br><br>Device savers:<br>[no.more.mereti.mines](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#nomoremeretimines)<br>[too.many.asteroids](https://github.com/zuckung/endless-sky-plugins/blob/main/README.md#toomanyasteroids) | Being the master of small- to mid-size vanilla-compatible QoL plugins, Zuckung's [repo](https://github.com/zuckung/endless-sky-plugins) contains 40+ plugins to check out. |
@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-06-12 | update: Bunsen.Burner<br>
 2025-06-02 | update: Louise.Conglomerate.Shipyards<br>
 2025-06-02 | update: Fundamental.Outfit.Expansion<br>
 2025-06-02 | update: Solar.Sails<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-05-19 | update: Korunak.Defense.Drones<br>
 2025-05-19 | update: Solar.Sails<br>
 2025-05-19 | update: Louise.Conglomerate.Shipyards<br>
-2025-05-19 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -67,7 +67,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png'>
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.1-Bunsen.Burner/Bunsen.Burner.zip) | 284.11 kb | 2025-06-02 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.2-Bunsen.Burner/Bunsen.Burner.zip) | 284.23 kb | 2025-06-12 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
 <br>
 >Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
 
@@ -89,6 +89,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-06-12 | 1.1.2 | Fixes. Added series and index specifications. |
 | 2025-06-01 | 1.1.1 | Minor metadata fix. Clarification in torch's description. |
 | 2025-05-18 | 1.1.0 | Added H2H Bunsen Torch. |
 | 2025-05-03 | 1.0.2 | Metadata files fixes. |
@@ -109,7 +110,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png'>
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 4.87 mb | 2025-06-02 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [314]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1.fixed-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [314]<br>
 <br>
 >A collection of essential outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 
@@ -121,7 +122,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 **Authors:** see table
 
-**Thanks:** Kitteh
+**Thanks:** Kitteh, Questenberg
 
 Other fundamental content can be found in the plugin recommendation list.
 
@@ -138,10 +139,13 @@ Other fundamental content can be found in the plugin recommendation list.
 
 The original concept for FOE's Shipwright Gear was introduced by Darcy Manoel and  [Hurleveur](https://github.com/Hurleveur) with the Shipwright Gear in [Fluff](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/ships.md#fluff) resp. the Repair Team in [Unfettered Innovations](https://github.com/Hurleveur/unfettered-innovations). The stats are a mix-up inspired from those. The concept was extended by toolset-slots and evolved into the Hesperian Toolbox.
 
+__Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's lore is imho heretic to the original by 1010todd.
+
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-06-12 | 1.2.1 | Fixes. Tweaked PDP batteries. Added series and index specifications. |
 | 2025-06-01 | 1.2.0 | Added subset of ZOE with modified stats and extended by events. Added Single Plasma Turret and reworked Fuel Shields from Epic Outfits, also adding events. Established compatibility to ZOE and Epic Outfits. Limited Red Lager to Mars. |
 | 2025-05-27 | 1.1.0 | Added Nuke Turret, new projectile and sound for Heavy Blasters from PR #11358, added subsets of QOL Outfits and RW Extras, buffed Shipwright Gear, added Hesperian Red Lager, Hesperian Toolbox incl. HTS tools. |
 | 2025-05-18 | 1.0.0 | Initial publication with Barrage Blaster, Flak Cannon, Heavy Blasters, Particle Turrets, Shipwright Gear. |
@@ -258,7 +262,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Solar.Sails.png'>
 
-[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.0-Solar.Sails/Solar.Sails.zip) | 1.59 mb | 2025-06-02 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [36]<br>
+[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.1.fixed-Solar.Sails/Solar.Sails.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [36]<br>
 <br>
 >Epic diffractive solar sails for Human and Coalition space, providing thrust, turn and solar collection, thereby using only outfitspace worth of half the consumed enginespace.
 
@@ -282,6 +286,7 @@ One major change made, proposed by **Kitteh**, was to switch from reflective to 
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-06-12 | 2.0.1 | Added series and index specifications. Removed unused files. Changed icon. |
 | 2025-06-01 | 2.0.0 | Complete rework -- Made the solar sails to be diffractive, i.e. added solar collection. Buffed relation of turn/thrust to used engine/outfit space, change from turn/thrust heat to solar heat, and removed reverse thrust. Also removed front sail variants, and KP-3 and KPM-6 panels. Added @2x images. Removed experimental status. |
 | 2025-05-18 | 1.0.0 | Overhaul and Re-publication. |
 | 2020-10-30 | - | Last Update of the original *Solar Sails* plugin. |

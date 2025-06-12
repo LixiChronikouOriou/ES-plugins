@@ -2,10 +2,10 @@ graphic files for the plugin: Solar.Sails<br>
 <br>
 <table>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/icon.png" width="122" height="134"></a><br>
-		icon.png [122x134]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/icon.png" width="180" height="180"></a><br>
+		icon.png [180x180]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/icon@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/icon@2x.png" height="200"></a><br>
-		icon@2x.png [244x268]</td>
+		icon@2x.png [360x360]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Solar.Sails/images/effect/huge human^0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Solar.Sails/images/effect/huge human^0.png" width="122" height="8"></a><br>
 		huge human^0.png [122x8]</td>
 	</tr>

@@ -1,3 +1,4 @@
+2025-06-12 | update: Fundamental.Outfit.Expansion
 2025-06-12 | update: Bunsen.Burner
 2025-06-02 | update: Louise.Conglomerate.Shipyards
 2025-06-02 | update: Fundamental.Outfit.Expansion

@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-06-12 | update: Fundamental.Outfit.Expansion<br>
 2025-06-12 | update: Bunsen.Burner<br>
 2025-06-02 | update: Louise.Conglomerate.Shipyards<br>
 2025-06-02 | update: Fundamental.Outfit.Expansion<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-05-27 | update: Fundamental.Outfit.Expansion<br>
 2025-05-19 | update: Korunak.Defense.Drones<br>
 2025-05-19 | update: Solar.Sails<br>
-2025-05-19 | update: Louise.Conglomerate.Shipyards<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -109,7 +109,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png'>
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1.fixed-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [314]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 4.87 mb | 2025-06-12 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [314]<br>
 <br>
 >A collection of essential outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 

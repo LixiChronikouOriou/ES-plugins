@@ -1,4 +1,4 @@
-Bunsen.Burner|1.1.1
+Bunsen.Burner|1.1.1.2
 Fundamental.Outfit.Expansion|1.2.0
 Korunak.Defense.Drones|1.0.4
 Louise.Conglomerate.Shipyards|1.1.1

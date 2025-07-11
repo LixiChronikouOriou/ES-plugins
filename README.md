@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-07-11 | update: Fundamental.Outfit.Expansion<br>
 2025-07-11 | update: Jaws<br>
 2025-06-12 | update: Fundamental.Outfit.Expansion<br>
 2025-06-12 | update: Solar.Sails<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-06-02 | update: Solar.Sails<br>
 2025-06-02 | update: Korunak.Defense.Drones<br>
 2025-06-02 | update: Bunsen.Burner<br>
-2025-05-27 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -111,7 +111,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png'>
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 4.87 mb | 2025-06-12 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [314]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 5.27 mb | 2025-07-11 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [326]<br>
 <br>
 >A collection of essential outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 
@@ -123,7 +123,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 **Authors:** see table
 
-**Thanks:** Kitteh, Questenberg
+**Thanks:** Kitteh, Questenberg, Unknown_Rawrs
 
 Other fundamental content can be found in the plugin recommendation list.
 
@@ -137,6 +137,7 @@ Other fundamental content can be found in the plugin recommendation list.
 | [Loyse](https://github.com/loiseeer) | Barrage Blaster<br>Flak Cannon | [Louise](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) |
 | [Timeout](https://github.com/LixiChronikouOriou) | Hesperian Toolbox<br>HTS Artisan<br>HTS Crafter<br>Hesperian Red Lager | FOE |
 | [TheronEpic](https://github.com/TheronEpic) | Plasma Turret (Single)<br>Fuel Shields | [Epic Outfits](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/outfits.md#epic-outfits) |
+| [	Tommaso Becca](https://github.com/beccabunny) | Slave<br>Active Radar Jammer<br>Interference Emitters<br>Javelin Pod Turret | [Pirate Expansion](https://github.com/beccabunny/Pirate-Expansion) |
 
 The original concept for FOE's Shipwright Gear was introduced by Darcy Manoel and  [Hurleveur](https://github.com/Hurleveur) with the Shipwright Gear in [Fluff](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/ships.md#fluff) resp. the Repair Team in [Unfettered Innovations](https://github.com/Hurleveur/unfettered-innovations). The stats are a mix-up inspired from those. The concept was extended by toolset-slots and evolved into the Hesperian Toolbox.
 
@@ -146,6 +147,7 @@ __Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's l
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-07-11 | 1.3.0 | Added subset of Pirate Expansion, updated with series and index specifications. Updated missile turrets after author's update. Reduced fuel consumption of the fuel shields. |
 | 2025-06-12 | 1.2.1 | Fixes. Tweaked PDP batteries. Added series and index specifications. |
 | 2025-06-01 | 1.2.0 | Added subset of ZOE with modified stats and extended by events. Added Single Plasma Turret and reworked Fuel Shields from Epic Outfits, also adding events. Established compatibility to ZOE and Epic Outfits. Limited Red Lager to Mars. |
 | 2025-05-27 | 1.1.0 | Added Nuke Turret, new projectile and sound for Heavy Blasters from PR #11358, added subsets of QOL Outfits and RW Extras, buffed Shipwright Gear, added Hesperian Red Lager, Hesperian Toolbox incl. HTS tools. |

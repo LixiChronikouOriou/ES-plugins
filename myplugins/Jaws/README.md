@@ -3,9 +3,9 @@
 
 **Author: [Timeout](https://github.com/LixiChronikouOriou)**
 
-**Artwork: [Tearcell](https://tearcellgames.itch.io/cosmic-canidae-assets)
+**Artwork: [Tearcell](https://tearcellgames.itch.io/cosmic-canidae-assets)**
 
-Adds the Antaren Thresher to Gossamer and neighboring systems. Consumes void fish, asteroids and since recently also Abberants. Once inhabited also Arachi space and even Antares, but out of unknown reasons went extinct there long ago.
+Adds the Antaren Thresher to Gossamer and neighboring systems, which consumes void fish, asteroids and since recently also Abberants. Once inhabited also Arachi space and even Antares, but out of unknown reasons went extinct there long ago.
 
 Completely harmless.
 

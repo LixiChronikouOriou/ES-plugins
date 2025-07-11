@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-07-11 | update: Jaws<br>
 2025-06-12 | update: Fundamental.Outfit.Expansion<br>
 2025-06-12 | update: Solar.Sails<br>
 2025-06-12 | update: Bunsen.Burner<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-06-02 | update: Korunak.Defense.Drones<br>
 2025-06-02 | update: Bunsen.Burner<br>
 2025-05-27 | update: Fundamental.Outfit.Expansion<br>
-2025-05-19 | update: Korunak.Defense.Drones<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -49,9 +49,10 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <a href="README.md#BunsenBurner">Bunsen.Burner</a><br>
 <a href="README.md#FundamentalOutfitExpansion">Fundamental.Outfit.Expansion</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#Jaws">Jaws</a><br>
 <a href="README.md#KorunakDefenseDrones">Korunak.Defense.Drones</a><br>
-<a href="README.md#LouiseConglomerateShipyards">Louise.Conglomerate.Shipyards</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#LouiseConglomerateShipyards">Louise.Conglomerate.Shipyards</a><br>
 <a href="README.md#SolarSails">Solar.Sails</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
@@ -149,6 +150,47 @@ __Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's l
 | 2025-06-01 | 1.2.0 | Added subset of ZOE with modified stats and extended by events. Added Single Plasma Turret and reworked Fuel Shields from Epic Outfits, also adding events. Established compatibility to ZOE and Epic Outfits. Limited Red Lager to Mars. |
 | 2025-05-27 | 1.1.0 | Added Nuke Turret, new projectile and sound for Heavy Blasters from PR #11358, added subsets of QOL Outfits and RW Extras, buffed Shipwright Gear, added Hesperian Red Lager, Hesperian Toolbox incl. HTS tools. |
 | 2025-05-18 | 1.0.0 | Initial publication with Barrage Blaster, Flak Cannon, Heavy Blasters, Particle Turrets, Shipwright Gear. |
+
+</details>
+
+<br>
+
+
+---
+
+### Jaws
+
+<img src="myplugins/Jaws/icon.png" height="100">
+
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Jaws.png'>
+
+[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Jaws/Jaws.zip) | 8.7 mb | 2025-07-11 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [100]<br>
+<br>
+>Completely harmless space wildlife, which you can randomly shoot at. Trust me.
+
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+
+### Jaws ###
+
+**Author: [Timeout](https://github.com/LixiChronikouOriou)**
+
+**Artwork: [Tearcell](https://tearcellgames.itch.io/cosmic-canidae-assets)
+
+Adds the Antaren Thresher to Gossamer and neighboring systems. Consumes void fish, asteroids and since recently also Abberants. Once inhabited also Arachi space and even Antares, but out of unknown reasons went extinct there long ago.
+
+Completely harmless.
+
+Inspired by the Spaceshark from [Mil-taj Protectorate](https://github.com/demolish238/Mil-taj-Protectorate) by [Demolish238](https://github.com/demolish238), which was derived from the Antaren Thresher in [Cosmic Canidae](https://tearcellgames.itch.io/cosmic-canidae) by [Tearcell](https://tearcellgames.itch.io).
+
+**Changelog**
+
+| Date | Version | Comment |
+|------|---------|---------|
+| 2025-07-11 | 1.0.0 | Creature relocation, and complete redesign of lore and stats. Reduced requirements regarding free storage space by 2/3. |
+| 2024-11-02 | - | Release of [Mil-taj Protectorate](https://github.com/demolish238/Mil-taj-Protectorate) |
+| 2022-02-13 | - | Release of [Cosmic Canidae](https://tearcellgames.itch.io/cosmic-canidae) |
 
 </details>
 

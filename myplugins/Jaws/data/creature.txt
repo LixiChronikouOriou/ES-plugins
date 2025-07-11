@@ -1,20 +1,4 @@
-﻿outfitter "Coalition Advanced"
-	add "Thick Skin"
-	add "Camouflage Epidermis"
-	add "Ripping Maw"
-	add "Blood Swarm"
-	add "Electrophorus"
-	add "Crepitantibus"
-	add "Sensory System"
-	add "Deuterium Baleens"
-	add "Hyperfins"
-	add "Sublight Fins"
-
-
-shipyard "Coalition Basics"
-	add "Thresher"
-
-ship "Thresher"
+﻿ship "Thresher"
 	noun "creature"
 	thumbnail "thumbnail/thresher"
 	"sprite" ship/thresher/thresher

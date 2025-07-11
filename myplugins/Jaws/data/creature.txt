@@ -7,8 +7,7 @@
 	swizzle 0
 	"never disabled"
 	attributes
-#		category "Unclassified"
-		category "Heavy Warship"
+		category "Unclassified"
 		"hull" 23800
 		"shields" 2000
 		"automaton" 1
@@ -48,6 +47,13 @@
 	description ` Human astropaleontologists have found remains of this creatures in the planetary system of Antares, and named it Antaren Thresher for its distant resemblance to the thresher sharks, genus Alopias, of Earth. Unknownst to them, their Arachi colleagues called the fossils they discovered ...  actually I don't know, that's somehow not properly translatable. They're huge spiders, don't expect to understand everything of their culture. Anyway, it's somehow related to a legendary creature besung in an ancient play of them.`
 	description `	Nowadays, out of unknown reasons, they only roam Gossamer and its neighboring systems. The Thresher's diet consists mainly of Void Fish, however they found a liking in those space slugs known to you as Aberrants, which started to advance into their territory. To add some minerals the fish lacks, they also crunch asteroids regularly.`
 	description ` They won't pay attention to you, unless you attack them, or those mysterious space butterflies or their pollen, which the Threshers seem to adore somehow. So, if you have been attacked and annihilated, it's completely your own fault. Get an other hobby than shooting at unsuspecting wildlife out of the blue. Never heard of video games? D'oh!`
+
+effect "thresher death"
+	sprite "effect/thresher death"
+		"no repeat"
+		"frame rate" 20
+	"lifetime" 16
+	"velocity scale" .01
 
 outfit "Ripping Maw"
 	plural "Ripping Maws"
@@ -173,11 +179,7 @@ outfit "Crepitantibus"
 	unplunderable 1
 	"turret mounts" -1
 	weapon
-		sprite "effect/small anti missile"
-			"no repeat"
-			"frame rate" 3
-		sound "anti-missile"
-		"sound category" "anti-missile"
+		"hit effect" "small anti-missile"
 		"anti-missile" 4
 		"velocity" 150
 		"lifetime" 1

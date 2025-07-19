@@ -11,6 +11,8 @@ Completely harmless.
 
 Inspired by the Spaceshark from [Mil-taj Protectorate](https://github.com/demolish238/Mil-taj-Protectorate) by [Demolish238](https://github.com/demolish238), which was derived from the Antaren Thresher in [Cosmic Canidae](https://tearcellgames.itch.io/cosmic-canidae) by [Tearcell](https://tearcellgames.itch.io).
 
+Can be found in Omnis under the Vyrmeids.
+
 **Changelog**
 
 | Date | Version | Comment |

@@ -858,18 +858,17 @@ graphic files for the plugin: Fundamental.Outfit.Expansion<br>
 		hailstorm missile projectile@2x.png [32x152]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/heavy blaster.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/heavy blaster.png" width="20" height="90"></a><br>
-		heavy blaster.png [20x90]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/rapier missile projectile.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/rapier missile projectile.png" width="20" height="68"></a><br>
 		rapier missile projectile.png [20x68]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/rapier missile projectile@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/rapier missile projectile@2x.png" width="40" height="136"></a><br>
 		rapier missile projectile@2x.png [40x136]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/thunderbolt missile projectile.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/thunderbolt missile projectile.png" width="12" height="60"></a><br>
 		thunderbolt missile projectile.png [12x60]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/thunderbolt missile projectile@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/thunderbolt missile projectile@2x.png" width="24" height="120"></a><br>
 		thunderbolt missile projectile@2x.png [24x120]</td>
+		<td></td>
 		<td></td>
 	</tr>
 </table>

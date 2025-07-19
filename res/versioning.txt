@@ -1,4 +1,4 @@
-Bunsen.Burner|1.2.0.fixed
+Bunsen.Burner|1.2.0
 Fundamental.Outfit.Expansion|1.4.0.fixed
 Jaws|1.1.0.fixed
 Korunak.Defense.Drones|1.1.0.fixed

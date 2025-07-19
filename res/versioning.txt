@@ -1,5 +1,5 @@
 Bunsen.Burner|1.2.0
-Fundamental.Outfit.Expansion|1.4.0.fixed
+Fundamental.Outfit.Expansion|1.4.0
 Jaws|1.1.0.fixed
 Korunak.Defense.Drones|1.1.0.fixed
 Louise.Conglomerate.Shipyards|1.2.0.fixed

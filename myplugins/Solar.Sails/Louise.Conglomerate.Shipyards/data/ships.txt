@@ -1,0 +1,336 @@
+ship "Harvester"
+	sprite "ship/Harvester"
+	thumbnail "thumbnail/Harvester"
+	attributes
+		category "Utility"
+		"cost" 1150000
+		"shields" 1300
+		"hull" 2700
+		"required crew" 2
+		"bunks" 5
+		"mass" 260
+		"drag" 6
+		"heat dissipation" .7
+		"fuel capacity" 700
+		"cargo space" 60
+		"outfit space" 290
+		"weapon capacity" 80
+		"engine capacity" 90
+		weapon
+			"blast radius" 45
+			"shield damage" 450
+			"hull damage" 225
+			"hit force" 675
+	outfits
+		"Ramscoop"
+		"Asteroid Scanner" 2
+		"nGVF-BB Fuel Cell"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Hesperian Toolbox"
+		"HTS Artisan" 2
+		"Mining Laser" 4
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Small Radar Jammer"
+		"Fuel Pod"
+		"Scram Drive"
+	gun 11.5 -22.5
+	gun -11.5 -22.5
+	gun 16.5 -20
+	gun -16.5 -20
+	engine 0 45
+	explode "tiny explosion" 25
+	explode "small explosion" 25
+	explode "medium explosion" 8
+	"final explode" "final explosion small"
+	description "In order to capitalize on the abundant minerals hidden in asteroids, Louise Conglomerate's Harvester has a sizable cargo bay and enough gun ports to make the mining process fast and efficient. More robust than the Sunder, it is more suited for the Pirate-infested frontier areas, where the most promising prospect areas wait."
+
+ship "Frontier"
+	sprite "ship/Frontier"
+	thumbnail "thumbnail/Frontier"
+	attributes
+		category "Medium Warship"
+		"cost" 3000000
+		"shields" 4400
+		"hull" 2400
+		"required crew" 6
+		"bunks" 34
+		"mass" 525
+		"drag" 6.0
+		"heat dissipation" .5
+		"fuel capacity" 600
+		"cargo space" 100
+		"outfit space" 400
+		"weapon capacity" 110
+		"engine capacity" 90
+		weapon
+			"blast radius" 94
+			"shield damage" 940
+			"hull damage" 470
+			"hit force" 1410
+	outfits
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile Pod" 2
+		"Sidewinder Missile Rack" 6
+		"Sidewinder Missile" 240
+		"Heavy Anti-Missile Turret"
+		"Blaster Turret" 2
+		"nGVF-CC Fuel Cell"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Hesperian Toolbox" 3
+		"HTS Artisan" 4
+		"HTS Crafter" 2
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Volcano Afterburner"
+		"Scram Drive"
+		"Ramscoop"
+		"Large Radar Jammer"
+	gun 12 -57 "Sidewinder Missile Pod"
+	gun -12 -57 "Sidewinder Missile Pod"
+	gun 21 -25.5 "Sidewinder Missile Launcher"
+	gun -21 -25.5 "Sidewinder Missile Launcher"
+	turret 0 25 "Heavy Anti-Missile Turret"
+	turret 31 24 "Blaster Turret"
+	turret -31 24 "Blaster Turret"
+	engine 34 47
+	engine -34 47
+	explode "tiny explosion" 25
+	explode "small explosion" 30
+	explode "medium explosion" 20
+	explode "large explosion" 12
+	"final explode" "final explosion medium"
+	description "Louise Conglomerate's Frontier is a versatile design suited for high risk jobs at the edge of civilized space, being able to haul cargo and be a maneuverable combat ship at the same time, greeting pirates with a hailstorm of missiles."
+
+ship "Pathfinder"
+	sprite "ship/Pathfinder"
+	thumbnail "thumbnail/Pathfinder"
+	attributes
+		category "Medium Warship"
+		"cost" 3415000
+		"shields" 4200
+		"hull" 1800
+		"required crew" 7
+		"bunks" 20
+		"mass" 390
+		"drag" 4.7
+		"heat dissipation" .53
+		"fuel capacity" 600
+		"cargo space" 20
+		"outfit space" 430
+		"weapon capacity" 140
+		"engine capacity" 110
+		weapon
+			"blast radius" 64
+			"shield damage" 640
+			"hull damage" 320
+			"hit force" 960
+	outfits
+		"Javelin Mini Pod" 2
+		"Javelin" 60
+		"Barrage Blaster Turret" 2
+		"Anti-Missile Turret"
+		"D67-TM Shield Generator"
+		"Hesperian Toolbox" 3
+		"HTS Artisan" 4
+		"HTS Crafter" 2
+		"Fission Reactor"
+		"LP144a Battery Pack"
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		"Scram Drive"
+		"Ramscoop"
+		"Small Radar Jammer"
+		"Liquid Nitrogen Cooler"
+	gun 18.5 -62 "Javelin Mini Pod"
+	gun -18.5 -62 "Javelin Mini Pod"
+	turret 21.5 -6 "Barrage Blaster Turret"
+	turret -21.5 -6 "Barrage Blaster Turret"
+	turret 0 42.5 "Anti-Missile Turret"
+	engine 16 74
+	engine -16 74
+	bay "Drone" -22.5 -6
+		"launch effect" "human internal"
+	bay "Drone" 22.5 -6
+		"launch effect" "human internal"
+	explode "tiny explosion" 30
+	explode "small explosion" 40
+	explode "medium explosion" 18
+	explode "large explosion" 10
+	"final explode" "final explosion medium"
+	description "Built for speed and nothing else, the Louise Conglomerate's Pathfinder specializes in chasing down targets before they can pose a threat to the convoy it is protecting. Would-be pirates often mistake the drone bays for cargo containers."
+
+ship "Boxer"
+	sprite "ship/Boxer"
+	thumbnail "thumbnail/Boxer"
+	attributes
+		category "Light Freighter"
+		"cost" 830000
+		"shields" 900
+		"hull" 2360
+		"required crew" 2
+		"bunks" 6
+		"mass" 280
+		"drag" 5.6
+		"heat dissipation" .53
+		"fuel capacity" 600
+		"cargo space" 130
+		"outfit space" 205
+		"weapon capacity" 40
+		"engine capacity" 75
+		weapon
+			"blast radius" 36
+			"shield damage" 360
+			"hull damage" 180
+			"hit force" 540
+	outfits
+		"Ramscoop"
+		"Anti-Missile Turret" 2
+		"nGVF-BB Fuel Cell"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Hesperian Toolbox"
+		"HTS Artisan" 2
+		"X2700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Scram Drive"
+	engine 22.5 39
+	engine -22.5 39
+	turret 20 25 "Anti-Missile Turret"
+	turret -20 25
+	explode "tiny explosion" 20
+	explode "small explosion" 20
+	explode "medium explosion" 15
+	"final explode" "final explosion small"
+	description "The Boxer is Louise Conglomerate's risk-zone alternative to the common freighter popular on the more peaceful inner trade lanes. It was designed under the premise that a light freighter should be able to flee fast into hyperspace, instead of risking a fight it would likely loose anyway."
+
+ship "Bulk Boxer"
+	sprite "ship/Bulk Boxer"
+	thumbnail "thumbnail/Bulk Boxer"
+	attributes
+		category "Heavy Freighter"
+		"cost" 12225000
+		"shields" 4200
+		"hull" 10300
+		"required crew" 5
+		"bunks" 19
+		"mass" 1240
+		"drag" 16.2
+		"heat dissipation" .24
+		"fuel capacity" 700
+		"cargo space" 550
+		"outfit space" 520
+		"weapon capacity" 190
+		"engine capacity" 110
+		weapon
+			"blast radius" 165
+			"shield damage" 1650
+			"hull damage" 825
+			"hit force" 2475
+	outfits
+		"Heavy Blaster Turret" 2
+		"Quad Blaster Turret" 2
+		"Heavy Anti-Missile Turret" 2
+		"Fission Reactor"
+		"LP144a Battery Pack"
+		"D67-TM Shield Generator"
+		"Hesperian Toolbox" 5
+		"HTS Artisan" 8
+		"HTS Crafter" 2
+		"X3700 Ion Thruster"
+		"X4200 Ion Steering"
+		"Scram Drive"
+		"Fuel Pod"
+		"Ramscoop"
+		"Liquid Nitrogen Cooler"
+	engine 0 128.5
+	engine 30 128.5
+	engine -30 128.5
+	turret 19.5 -64 "Heavy Blaster Turret"
+	turret -19.5 -64 "Heavy Blaster Turret"
+	turret 19.5 10 "Quad Blaster Turret"
+	turret -19.5 10 "Quad Blaster Turret"
+	turret 26 76 "Heavy Anti-Missile Turret"
+	turret -26 76 "Heavy Anti-Missile Turret"
+	bay "Drone" 0 -63
+		"launch effect" "human internal"
+	bay "Drone" -54 -63 over
+		"launch effect" "human external"
+	bay "Drone" 54 -63 over
+		"launch effect" "human external"
+	bay "Drone" -54 11.5 over
+		"launch effect" "human external"
+	bay "Drone" 54 11.5 over
+		"launch effect" "human external"
+	explode "small explosion" 30
+	explode "medium explosion" 35
+	explode "large explosion" 25
+	"final explode" "final explosion large"
+	description "A vastly improved version of the Boxer, Louise Conglomerate's Bulk Boxer has a much higher turret mount count, making it a rather risky target for pirates, while still keeping to the doctrine of preferring smooth escapes."
+
+ship "Newmaker"
+	sprite "ship/Newmaker"
+	thumbnail "thumbnail/Newmaker"
+	attributes
+		category "Heavy Warship"
+		"cost" 11450000
+		"shields" 9200
+		"hull" 13500
+		"required crew" 20
+		"bunks" 120
+		"mass" 2705
+		"drag" 36.3
+		"heat dissipation" .23
+		"fuel capacity" 600
+		"cargo space" 500
+		"outfit space" 825
+		"weapon capacity" 355
+		"engine capacity" 215
+		weapon
+			"blast radius" 207
+			"shield damage" 2070
+			"hull damage" 1035
+			"hit force" 3100
+	outfits
+		"Sidewinder Missile Pod" 2
+		"Sidewinder Missile Rack" 3
+		"Sidewinder Missile" 81
+		"Flak Cannon" 2
+		"Flak Shell" 140
+		"Barrage Blaster Turret" 2
+		"Heavy Blaster Turret" 2
+		"Heavy Anti-Missile Turret" 2
+		"Fission Reactor"
+		"LP288a Battery Pack"
+		"LP144a Battery Pack"
+		"D67-TM Shield Generator"
+		"Hesperian Toolbox" 8
+		"HTS Artisan" 10
+		"HTS Crafter" 6
+		"Orca Plasma Thruster"
+		"Tyrant Plasma Steering"
+		"Scram Drive"
+		"Ramscoop"
+		"Liquid Nitrogen Cooler"
+		"Water Coolant System"
+	gun 16 -139.5 "Sidewinder Missile Pod"
+	gun -16 -139.5 "Sidewinder Missile Pod"
+	turret 42 -115 "Barrage Blaster Turret"
+	turret -42 -115	"Barrage Blaster Turret"
+	turret 46 -69.5 "Flak Cannon"
+	turret -46 -69.5 "Flak Cannon"
+	turret 42 -25 "Heavy Blaster Turret"
+	turret -42 -25 "Heavy Blaster Turret"
+	turret 31 39 "Heavy Anti-Missile Turret"
+	turret -31 39 "Heavy Anti-Missile Turret"
+	engine 49 136.5
+	engine -49 136.5
+	engine 26 144
+	engine -26 144
+	explode "small explosion" 35
+	explode "medium explosion" 35
+	explode "large explosion" 20
+	"final explode" "final explosion large"
+	description "Made to transport valuable cargo across hostile space, Louise Conglomerate's Newmaker packs enough firepower to fend for its own. However, this comes at a cost that only few captains can afford to spend on."

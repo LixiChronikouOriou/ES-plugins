@@ -1,0 +1,30 @@
+event "bunsen burner available"
+	outfitter "Kraz Advanced"
+		add "Bunsen Burner"
+		add "Bunsen Burner Turret"
+		add "Bunsen Torch"
+
+mission "Bunsen Torch Banned"
+	landing
+	invisible
+	to offer
+		has "main plot completed"
+	on offer
+		event "bunsen torch banned"
+		fail
+
+event "bunsen torch banned"
+	outfitter "Kraz Advanced"
+		remove "Bunsen Torch"
+	outfitter "Pirate Advanced"
+		add "Bunsen_Torch"
+
+mission "Bunsen Quickstart"
+	landing
+	invisible
+	to offer
+		has "event: quickstart free worlds shop changes"
+	on offer
+		event "bunsen burner available"
+		event "bunsen torch banned"
+		fail

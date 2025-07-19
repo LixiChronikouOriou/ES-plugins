@@ -1,0 +1,38 @@
+shipyard "Louise Conglomerate Basics"
+	"Boxer"
+	"Harvester"
+	"Frontier"
+
+shipyard "Louise Conglomerate Advanced"
+	"Newmaker"
+	"Pathfinder"
+	"Bulk Boxer"
+
+shipyard "Louise Conglomerate Hai"
+	"Frontier (Hai)"
+	"Bulk Boxer (Hai)"
+	"Newmaker (Hai)"
+
+planet Clark
+	add shipyard "Louise Conglomerate Basics"
+planet Delve
+	add shipyard "Louise Conglomerate Basics"
+planet Follower # Louise Cong. HQ
+	add shipyard "Louise Conglomerate Basics"
+	add shipyard "Louise Conglomerate Advanced"
+planet "New Britain"
+	add shipyard "Louise Conglomerate Basics"
+	add shipyard "Louise Conglomerate Advanced"
+planet Prime
+	add shipyard "Louise Conglomerate Basics"
+	add shipyard "Louise Conglomerate Advanced"
+planet Solace
+	add shipyard "Louise Conglomerate Basics"
+	add shipyard "Louise Conglomerate Advanced"
+planet Sunracer
+	add shipyard "Louise Conglomerate Basics"
+	add shipyard "Louise Conglomerate Advanced"
+planet Wayfarer
+	add shipyard "Louise Conglomerate Basics"
+planet Makerplace
+	add shipyard "Louise Conglomerate Hai"

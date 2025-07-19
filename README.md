@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-07-19 | update: Korunak.Defense.Drones<br>
 2025-07-19 | update: Jaws<br>
 2025-07-19 | update: Fundamental.Outfit.Expansion<br>
 2025-07-19 | update: Bunsen.Burner<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-06-12 | update: Solar.Sails<br>
 2025-06-12 | update: Bunsen.Burner<br>
 2025-06-02 | update: Louise.Conglomerate.Shipyards<br>
-2025-06-02 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -210,7 +210,7 @@ Inspired by the Spaceshark from [Mil-taj Protectorate](https://github.com/demoli
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png'>
 
-[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0.fixed-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
+[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 541.62 kb | 2025-07-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
 <br>
 >Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
 

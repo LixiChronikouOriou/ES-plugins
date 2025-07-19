@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-07-19 | update: Jaws<br>
 2025-07-19 | update: Fundamental.Outfit.Expansion<br>
 2025-07-19 | update: Bunsen.Burner<br>
 2025-07-11 | update: Fundamental.Outfit.Expansion<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-06-12 | update: Bunsen.Burner<br>
 2025-06-02 | update: Louise.Conglomerate.Shipyards<br>
 2025-06-02 | update: Fundamental.Outfit.Expansion<br>
-2025-06-02 | update: Solar.Sails<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -168,7 +168,7 @@ __Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's l
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Jaws.png'>
 
-[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0.fixed-Jaws/Jaws.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [100]<br>
+[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Jaws/Jaws.zip) | 8.7 mb | 2025-07-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [100]<br>
 <br>
 >Completely harmless space wildlife, which you can randomly shoot at. Trust me.
 

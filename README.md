@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-08-05 | update: Jaws<br>
 2025-07-19 | update: Solar.Sails<br>
 2025-07-19 | update: Louise.Conglomerate.Shipyards<br>
 2025-07-19 | update: Korunak.Defense.Drones<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-07-11 | update: Fundamental.Outfit.Expansion<br>
 2025-07-11 | update: Jaws<br>
 2025-06-12 | update: Fundamental.Outfit.Expansion<br>
-2025-06-12 | update: Solar.Sails<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -168,7 +168,7 @@ __Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's l
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Jaws.png'>
 
-[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Jaws/Jaws.zip) | 8.7 mb | 2025-07-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [100]<br>
+[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.1.2-Jaws/Jaws.zip) | 6.44 mb | 2025-08-05 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [64]<br>
 <br>
 >Completely harmless space wildlife, which you can randomly shoot at. Trust me.
 
@@ -188,10 +188,15 @@ Completely harmless.
 
 Inspired by the Spaceshark from [Mil-taj Protectorate](https://github.com/demolish238/Mil-taj-Protectorate) by [Demolish238](https://github.com/demolish238), which was derived from the Antaren Thresher in [Cosmic Canidae](https://tearcellgames.itch.io/cosmic-canidae) by [Tearcell](https://tearcellgames.itch.io).
 
+Can be found in Omnis under the Vyrmeids.
+
+In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with otherwise extremely rare items to plunder.
+
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-08-05 | 1.2.0 | Habitat expansion, added derelict Aberrants with rare items, tweaked stats, added image for ripping maw, becoming also the new icon. Reduced plugin size further. | 
 | 2025-07-19 | 1.1.0 | Added support for Omnis. |
 | 2025-07-11 | 1.0.0 | Creature relocation, and complete redesign of lore, stats and appearance. Reduced requirements regarding free storage space by 2/3. |
 | 2024-11-02 | - | Release of [Mil-taj Protectorate](https://github.com/demolish238/Mil-taj-Protectorate) |

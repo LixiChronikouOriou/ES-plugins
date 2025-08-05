@@ -28,7 +28,7 @@
 		"Thick Skin"
 		"Camouflage Epidermis"
 		"Sensory System"
-		"Ripping Maw" 3
+		"Ripping Maw"
 		"Electrophorus" 2
 		"Crepitantibus"
 		"Baleens"

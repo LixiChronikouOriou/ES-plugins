@@ -168,7 +168,7 @@ __Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's l
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Jaws.png'>
 
-[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.1.2-Jaws/Jaws.zip) | 6.44 mb | 2025-08-05 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [64]<br>
+[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.0-Jaws/Jaws.zip) | 6.44 mb | 2025-08-05 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [64]<br>
 <br>
 >Completely harmless space wildlife, which you can randomly shoot at. Trust me.
 

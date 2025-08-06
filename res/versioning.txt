@@ -1,6 +1,6 @@
 Bunsen.Burner|1.2.0
 Fundamental.Outfit.Expansion|1.4.0
-Jaws|1.2.1.fixed
+Jaws|1.2.1
 Korunak.Defense.Drones|1.1.0
 Louise.Conglomerate.Shipyards|1.2.0
 Solar.Sails|2.0.2

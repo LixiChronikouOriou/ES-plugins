@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-08-06 | update: Jaws<br>
 2025-08-05 | update: Jaws<br>
 2025-07-19 | update: Solar.Sails<br>
 2025-07-19 | update: Louise.Conglomerate.Shipyards<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-07-19 | update: Bunsen.Burner<br>
 2025-07-11 | update: Fundamental.Outfit.Expansion<br>
 2025-07-11 | update: Jaws<br>
-2025-06-12 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -168,7 +168,7 @@ __Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's l
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Jaws.png'>
 
-[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.0-Jaws/Jaws.zip) | 6.44 mb | 2025-08-05 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [64]<br>
+[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1-Jaws/Jaws.zip) | 3.37 mb | 2025-08-06 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [48]<br>
 <br>
 >Completely harmless space wildlife, which you can randomly shoot at. Trust me.
 
@@ -181,6 +181,8 @@ __Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's l
 **Author: [Timeout](https://github.com/LixiChronikouOriou)**
 
 **Artwork: [Tearcell](https://tearcellgames.itch.io/cosmic-canidae-assets)**
+
+**Thanks**: Zuckung
 
 Adds the Antaren Thresher to Gossamer and neighboring systems, which consumes void fish, asteroids and since recently also Abberants. Once inhabited also Arachi space and even Antares, but out of unknown reasons went extinct there long ago.
 
@@ -196,6 +198,7 @@ In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with o
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-08-06 | 1.2.1 | Replaced custom on-death effect with an appropriate vanilla one, such significantly reducing file size. |
 | 2025-08-05 | 1.2.0 | Habitat expansion, added derelict Aberrants with rare items, tweaked stats, added image for ripping maw, becoming also the new icon. Reduced plugin size further. | 
 | 2025-07-19 | 1.1.0 | Added support for Omnis. |
 | 2025-07-11 | 1.0.0 | Creature relocation, and complete redesign of lore, stats and appearance. Reduced requirements regarding free storage space by 2/3. |

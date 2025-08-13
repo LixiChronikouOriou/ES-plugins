@@ -1,0 +1,336 @@
+ship "Gemstone"
+	sprite "ship/gemstone"
+	thumbnail "thumbnail/gemstone thumbnail"
+	attributes
+		category "Utility"
+		"cost" 3000000
+		"shields" 3000
+		"hull" 3600
+		"required crew" 6
+		"bunks" 12
+		"mass" 385             # 180 before v10.7
+		"drag" 6.05            # 4.3 before v10.7
+		"heat dissipation" .46 # .65 before v10.7
+		"fuel capacity" 400
+		"cargo space" 140
+		"outfit space" 330
+		"weapon capacity" 120
+		"engine capacity" 95
+		weapon
+			"blast radius" 60
+			"shield damage" 600
+			"hull damage" 300
+			"hit force" 900
+		
+	outfits
+		"Mining Laser" 2
+		"Mining Laser Turret"
+		"Tractor Beam" 2
+		"Anti-Missile Turret"
+		
+		"nGVF-DD Fuel Cell"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		
+		"Asteroid Scanner"
+		
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Hyperdrive"
+		
+	bay "Drone" -16.5 -28.5 # -33.5 -32
+		"under"
+		"angle" 270
+		"launch effect" "human external"
+	bay "Drone" 16.5 -28.5 # 33.5 -32
+		"under"
+		"angle" 90
+		"launch effect" "human external"
+	bay "Drone" -16.5 14 # -33.5 12.5
+		"under"
+		"angle" 270
+		"launch effect" "human external"
+	bay "Drone" 16.5 14 # 33.5 12.5
+		"under"
+		"angle" 90
+		"launch effect" "human external"
+	
+	gun -17 -87 "Mining Laser"
+	gun 17 -87 "Mining Laser"
+	turret 0 -32 "Mining Laser Turret"
+	turret 0 12.5 "Anti-Missile Turret"
+	turret -38.5 55.5 "Tractor Beam"
+	turret 38.5 55.5 "Tractor Beam"
+	
+	engine -15.5 85
+	engine 15.5 85
+	
+	"reverse engine" -35.5 36.5
+		zoom .65
+		angle 320
+	"reverse engine" 35.5 36.5
+		zoom .65
+		angle 40
+	
+	"reverse engine" -39.5 38 # -36.5 38
+		zoom .7 # .6
+		angle 330 # 300
+	"reverse engine" 39.5 38 # 36.5 38
+		zoom .7 # .6
+		angle 30 # 60
+	
+	"reverse engine" -44.5 40
+		zoom .8 # .7
+		angle 340 # 320
+	"reverse engine" 44.5 40
+		zoom .8 # .7
+		angle 20 # 40
+	
+	"reverse engine" -50.5 41.5 # -52.5 41.5
+		zoom .9
+		angle 350 # 340
+	"reverse engine" 50.5 41.5 # 52.5 41.5
+		zoom .9
+		angle 10 # 20
+	
+	leak "leak" 50 50
+	leak "flame" 50 80
+	explode "tiny explosion" 15
+	explode "small explosion" 20
+	explode "medium explosion" 15
+	explode "large explosion" 10
+	"final explode" "final explosion medium"
+	
+	description "A medium asteroid mining platform outfitted to carry a relatively large number of unmanned drones and utility turrets. It is more popular than the Sunder among private captains operating outside of the Core; particularly in the South where there exists mineral wealth that is less safe to exploit in a small ship due to piracy."
+
+
+
+
+
+# VARIANTS
+
+ship "Gemstone" "Gemstone (Southern)"
+	outfits
+		"Mining Laser" 2
+		"Mining Laser Turret"
+		"Tractor Beam" 2
+		"Heavy Anti-Missile Turret"
+		
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		
+		"Asteroid Scanner"
+		"Laser Rifle"
+		"Outfits Expansion"
+		
+		"Chipmunk Plasma Thruster"
+		"Chipmunk Plasma Steering"
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+		
+	gun "Mining Laser"
+	gun "Mining Laser"
+	turret "Mining Laser Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Tractor Beam"
+	turret "Tractor Beam"
+
+
+
+ship "Gemstone" "Gemstone (Particle)"
+	outfits
+		"Particle Cannon" 2
+		"Tractor Beam" 2
+		"Anti-Missile Turret"
+		
+		"Dwarf Core"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		
+		"Asteroid Scanner"
+		"Water Coolant System"
+		
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"Hyperdrive"
+		
+	gun "Particle Cannon"
+	gun "Particle Cannon"
+	turret 
+	turret "Anti-Missile Turret"
+	turret "Tractor Beam"
+	turret "Tractor Beam"
+
+
+
+ship "Gemstone" "Gemstone (Blaster)"
+	outfits
+		"Twin Blaster" 2
+		"Blaster Turret"
+		"Tractor Beam"
+		"Anti-Missile Turret" 2
+		
+		"nGVF-DD Fuel Cell"
+		"LP144a Battery Pack"
+		"D41-HY Shield Generator"
+		
+		"Asteroid Scanner"
+		
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Hyperdrive"
+		
+	gun "Twin Blaster"
+	gun "Twin Blaster"
+	turret "Blaster Turret"
+	turret "Tractor Beam"
+	turret "Anti-Missile Turret"
+	turret "Anti-Missile Turret"
+
+
+
+ship "Gemstone" "Gemstone (Hyper Blaster)"
+	outfits
+		"Twin Modified Blaster" 2
+		"Modified Blaster Turret" 3
+		"Anti-Missile Turret"
+		
+		"nGVF-EE Fuel Cell"
+		"LP144a Battery Pack"
+		"D23-QP Shield Generator"
+		
+		"Large Radar Jammer"
+		"Laser Rifle" 4
+		"Outfits Expansion" 2
+		
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Hyperdrive"
+		
+	gun "Twin Modified Blaster"
+	gun "Twin Modified Blaster"
+	turret "Modified Blaster Turret"
+	turret "Anti-Missile Turret"
+	turret "Modified Blaster Turret"
+	turret "Modified Blaster Turret"
+
+
+
+ship "Gemstone" "Gemstone (Spray n Pray)"
+	outfits
+		"Gatling Gun" 2
+		"Gatling Gun Ammo" 6000
+		"Proton Turret"
+		"Tractor Beam"
+		"Anti-Missile Turret" 2
+		
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		
+		"Laser Rifle" 3
+		
+		"Impala Plasma Thruster"
+		"X3200 Ion Steering"
+		"Hyperdrive"
+		
+	gun "Gatling Gun"
+	gun "Gatling Gun"
+	turret "Proton Turret"
+	turret "Tractor Beam"
+	turret "Anti-Missile Turret"
+	turret "Anti-Missile Turret"
+
+
+
+ship "Gemstone" "Gemstone (Torpedo)"
+	outfits
+		"Torpedo Launcher" 2
+		"Torpedo Storage Rack" 4
+		"Torpedo" 120
+		"Blaster Turret" 4
+		
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		
+		"Large Radar Jammer"
+		"Laser Rifle" 2
+		"Outfits Expansion" 3
+		
+		"Impala Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+		
+	gun "Torpedo Launcher"
+	gun "Torpedo Launcher"
+	turret "Blaster Turret"
+	turret "Blaster Turret"
+	turret "Blaster Turret"
+	turret "Blaster Turret"
+
+
+
+
+
+# FLEETS
+
+fleet "Large Southern Merchants"
+	add variant 1
+		"Gemstone"
+		"Defense Drone" 4
+	add variant 2
+		"Gemstone (Southern)"
+		"Defense Drone" 4
+	add variant 1
+		"Gemstone (Southern)"
+		"Cargo Drone" 4
+
+fleet "Large Northern Merchants"
+	add variant 1
+		"Gemstone"
+		"Defense Drone" 4
+	add variant 1
+		"Gemstone (Blaster)"
+		"Defense Drone" 4
+	add variant 1
+		"Gemstone (Blaster)"
+		"Cargo Drone" 4
+
+
+fleet "Human Miners"
+	add variant 2
+		"Gemstone"
+		"Mining Drone" 4
+	add variant 4
+		"Gemstone (Southern)"
+		"Mining Drone" 4
+	add variant 1
+		"Gemstone (Blaster)"
+		"Mining Drone" 4
+	add variant 1
+		"Gemstone (Particle)"
+		"Mining Drone" 4
+
+
+
+fleet "Large Southern Pirates"
+	add variant 1
+		"Gemstone (Hyper Blaster)"
+		"Mining Drone (Twin Blaster)" 4
+	add variant 1
+		"Gemstone (Spray n Pray)"
+		"Mining Drone (Gatling)" 4
+	add variant 1
+		"Gemstone (Torpedo)"
+		"Mining Drone (Torpedo)" 4
+
+fleet "Large Northern Pirates"
+	add variant 1
+		"Gemstone (Hyper Blaster)"
+		"Mining Drone (Twin Blaster)" 4
+	add variant 1
+		"Gemstone (Torpedo)"
+		"Mining Drone (Torpedo)" 4

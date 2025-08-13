@@ -1,0 +1,229 @@
+# Inspired by the Starsector max level speedrun @ https://www.youtube.com/watch?v=qFu7PXKLCh0 using small phase ships with Reaper Torpedoes to demolish massive starbases.
+
+# The name comes from thinking about the possibility of "space storms" allowing ships to hide inside them via getting cloaked by them, and searching online for something related to that, and inexplicably seeing the word wolf come up multiple times. Turns out Stormwolf is the name of something from Warhammer 40k, but yeah, that actually isn't what I got the name from, funnily enough. The boxy design is partly based on how I thought Starsector's Gremlin looked from the above video based on the way the phase units produce two rectangles when active, but turns out it's a bit more blobby. The design is probably also influenced by me associating the concepts of "wolf" & "space ship" with the Split Wolf from X-Tension; add a couple of large nacelles to the sides of it and that ship basically becomes this one, visually.
+
+ship "Stormwolf"
+	plural "Stormwolves"
+	sprite "ship/stormwolf"
+	thumbnail "thumbnail/stormwolf thumbnail"
+	attributes
+		category "Medium Warship"
+		"cost" 9900000
+		"shields" 4800
+		"hull" 2800
+		"required crew" 14
+		"bunks" 22
+		"mass" 750            # 520 before v10.7
+		"drag" 9.3            # 6.9 before v10.7
+		"heat dissipation" .3 # .38 before v10.7
+		"fuel capacity" 400
+		"cargo space" 40
+		"outfit space" 400
+		"weapon capacity" 160
+		"engine capacity" 100
+		
+		"disruption protection" -.3
+		"discharge protection" -.3
+		"cloak" .004167 # 4 seconds to fully engage (Cloaking Device outfit takes 1.66s).
+		"cloaking energy" 5 # Takes the entire stock powerplant to maintain.
+		"cloaking heat" 50 # 3000 heat/s
+		"cloaking fuel" .15
+		
+		weapon
+			"blast radius" 90
+			"shield damage" 900
+			"hull damage" 450
+			"hit force" 1350
+	outfits
+		"Torpedo Launcher" 4
+		"Torpedo" 120
+		"Blaster Turret" 2
+		
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Liquid Nitrogen Cooler"
+		
+		"Ramscoop" 2
+		"Outfit Scanner" 2
+		"Tactical Scanner"
+		"Laser Rifle" 8
+		
+		# Chipmunk + X2000 gives it unique purplish flares. Something something stealth engines.
+		"Chipmunk Plasma Thruster" 
+		"Chipmunk Plasma Steering" 
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+		
+	gun -52 -73 
+		parallel
+	gun 52 -73 
+		parallel
+	gun -18.5 -73 
+		parallel
+	gun 18.5 -73 
+		parallel
+	turret -36.5 43 
+	turret 36 43 
+	
+	engine -42 73
+		zoom .75
+	engine 42 73
+		zoom .75
+	engine -30.5 73
+		zoom .75
+	engine 30.5 73
+		zoom .75
+	description "A miraculous (or suspicious, depending on who you ask) triumph of open-access science; this is the first commercially available ship to utilize true full-spectrum cloaking technology. The system providing this capability is heavy and relies on a compact dipolar hull form, making the ship sluggish and unresponsive, and it interferes with the shield matrix. This interference does not lower the total shield energy, but does make it susceptible to hostile attempts at disruption or forced discharge. As if this weren't enough, the cloaking system is also highly prone to overheating during sustained operation."
+	description "	The maintenance manual suggests a constant power draw of 300/s and a thermal load of 3000/s while cloaking is engaged, and considering an upgrade to a helium-based coolant system for peace-of-mind operation. Uninstallation of the ramscoops is also advised against."
+	description "	The cloaking technology is built into the Stormwolf's hull; it cannot be removed or transferred to another ship."
+
+
+
+
+
+ship "Stormwolf" "Stormwolf (Modified)"
+	"display name" "Modified Stormwolf"
+	plural "Modified Stormwolves"
+	sprite "ship/stormwolf modified"
+	thumbnail "thumbnail/stormwolf modified thumbnail"
+	add attributes
+		"cost" 3300000
+		"shields" 400
+		"required crew" 2
+		"bunks" 4
+		"mass" 20
+		"outfit space" 20
+		"weapon capacity" 40
+		
+		"disruption protection" .1
+		"discharge protection" .1
+		"cloak" .0014 # 3 seconds to fully engage: (.004167+.0014)*60 = .334
+		
+	outfits
+		"Torpedo Pod" 6
+		"Torpedo Storage Rack" 4
+		"Torpedo" 78
+		"Javelin Turret" 3
+		"Javelin Storage Crate" 3
+		"Javelin" 1500
+		
+		"Fission Reactor"
+		"LP036a Battery Pack"
+		"S-270 Regenerator"
+		"Liquid Helium Cooler"
+		
+		"Ramscoop" 4
+		"Tactical Scanner" 2
+		"Laser Rifle" 20
+		
+		"Outfits Expansion" 2
+		
+		"A250 Atomic Thruster" 
+		"A255 Atomic Steering" 
+		"Hyperdrive"
+		
+	gun -52 -73 
+		parallel
+	gun 52 -73 
+		parallel
+	gun -35 -73 
+		parallel
+	gun 35 -73 
+		parallel
+	gun -18.5 -73 
+		parallel
+	gun 18.5 -73 
+		parallel
+	turret 0 -5 
+	turret -36.5 43 
+	turret 36 43 
+	
+	engine -42 73
+		zoom .75
+	engine 42 73
+		zoom .75
+	engine -30.5 73
+		zoom .75
+	engine 30.5 73
+		zoom .75
+	
+	description "This Stormwolf has been modified to improve its firepower as a strike ship. Some of its shielding issues have also been mitigated by extensive tuning, allowing the matrix to come closer to its full stability and the cloak to cycle more quickly."
+	description "	The cloaking technology is built into the Modified Stormwolf's hull; it cannot be removed or transferred to another ship."
+
+
+
+
+
+# VARIANTS
+
+ship "Stormwolf" "Stormwolf (Plasma)"
+	outfits
+		"Plasma Cannon" 4
+		"Quad Blaster Turret" 2
+		
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Liquid Nitrogen Cooler"
+		
+		"Ramscoop" 2
+		"Outfit Scanner" 2
+		"Tactical Scanner"
+		"Laser Rifle" 10
+		
+		"Chipmunk Plasma Thruster" 
+		"Chipmunk Plasma Steering" 
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+
+
+
+ship "Stormwolf" "Stormwolf (Typhoon)"
+	outfits
+		"Typhoon Launcher" 4
+		"Typhoon Torpedo" 120
+		
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"S-270 Regenerator"
+		"Liquid Nitrogen Cooler"
+		
+		"Catalytic Ramscoop"
+		"Small Radar Jammer"
+		"Outfit Scanner" 2
+		"Tactical Scanner"
+		"Laser Rifle" 14
+		
+		"Chipmunk Plasma Thruster" 
+		"Chipmunk Plasma Steering" 
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+
+
+
+
+
+# MISSIONS
+
+mission "RW Ships: Hunted by Kagerou"
+	invisible
+	landing
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "rim" "south" "north" "dirt belt" "core" "frontier"
+	to offer
+		"combat rating" > 8103
+		"armament deterrence" >= 2
+		or
+			not "chosen sides"
+			has "main plot completed"
+	npc kill
+		government "Bounty Hunter"
+		personality unconstrained waiting nemesis vindictive hunting coward mute
+		system
+			distance 9 9
+		ship "Stormwolf (Modified)" "Kagerou"

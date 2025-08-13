@@ -1,0 +1,198 @@
+ship "Cargo Drone"
+	sprite "ship/cargo drone"
+	thumbnail "thumbnail/cargo drone thumbnail"
+	attributes
+		category "Drone"
+		"cost" 120000
+		"hull" 400
+		"automaton" 1
+		"mass" 24             # 20 before v10.7
+		"drag" .95            # .9 before v10.7
+		"heat dissipation" .7 # .75 before v10.7 (rescaled as though it had .735)
+		"fuel capacity" 200
+		"cargo space" 30
+		"outfit space" 62
+		"weapon capacity" 0
+		"engine capacity" 28
+		weapon
+			"blast radius" 8
+			"shield damage" 80
+			"hull damage" 40
+			"hit force" 120
+	outfits
+		"KP-6 Photovoltaic Panel" 2
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		
+	engine -6.5 30
+	engine 6.5 30
+	
+	explode "tiny explosion" 12
+	explode "small explosion" 4
+	
+	description "Cargo Drones are automated craft, equipped with Hyperdrives, that can accompany their registered parent ship between systems carrying extra cargo. Their popularity has waned over the years due to the rise of piracy, but they remain useful for small-time merchants and local couriers plying the safer regions of space."
+	description "	These drones are fairly nimble due to their lightweight (read: cheap & flimsy) construction, allowing them to accompany Shuttles with relative ease."
+
+
+
+ship "Cargo Drone" "Cargo Drone (Fuel)"
+	"display name" "Fuel Drone"
+	sprite "ship/cargo drone fuel"
+	thumbnail "thumbnail/cargo drone fuel thumbnail"
+	add attributes # Removed cargo space is sufficient for 3.75 fuel pods. Assuming 5-6t per 100 integrated fuel storage as opposed to 8t outfits (based on rough calculations of the mass fractions of other ships), an extra 500-600 fuel can be carried quite reasonably.
+		"fuel capacity" 600
+		"cargo space" -30
+	outfits
+		"KP-6 Photovoltaic Panel" 2
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Ramscoop" 2
+	description "Fuel Drones are automated craft that can accompany their registered parent ship between systems carrying extra hyperspace fuel. To avoid wasting fuel, these drones do not come equipped with a hyperdrive as standard, and are only expected to be undocked from their carrier when the fleet needs to gather more fuel, which a squadron of these drones can do very efficiently with their installed ramscoops and combined surface area."
+
+
+
+# VARIANTS
+
+ship "Cargo Drone" "Cargo Drone (Scram Drive)"
+	outfits
+		"KP-6 Photovoltaic Panel"
+		"Supercapacitor"
+		"X1050 Ion Engines"
+		"Scram Drive"
+		"Fuel Pod"
+
+ship "Cargo Drone" "Cargo Drone (No Hyperdrive)"
+	outfits
+		"KP-6 Photovoltaic Panel" 2
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Cargo Expansion"
+
+
+
+# FLEETS
+
+fleet "Small Southern Merchants"
+	add variant 8
+		"Star Barge"
+		"Cargo Drone" 2
+	add variant 3
+		"Star Barge (Armed)"
+		"Cargo Drone" 4
+	add variant 5
+		"Clipper"
+		"Cargo Drone" 2
+	add variant 8
+		"Sparrow"
+		"Cargo Drone"
+	add variant 3
+		"Heavy Shuttle"
+		"Cargo Drone"
+	add variant 1
+		"Heavy Shuttle (Armed)"
+		"Cargo Drone" 2
+	add variant 3
+		"Hauler"
+		"Cargo Drone" 3
+
+fleet "Large Southern Merchants"
+	add variant 4
+		"Argosy"
+		"Cargo Drone" 2
+	add variant 1
+		"Mudrock"
+		"Hauler"
+		"Cargo Drone (Fuel)"
+	add variant 1
+		"Mudrock"
+		"Hauler II"
+		"Cargo Drone (Fuel)"
+
+fleet "Small Core Merchants"
+	add variant 10
+		"Shuttle"
+		"Cargo Drone"
+	add variant 12
+		"Star Barge (Armed)"
+		"Cargo Drone" 2
+	add variant 4
+		"Star Barge (Armed)"
+		"Cargo Drone" 4
+	add variant 3
+		"Heavy Shuttle"
+		"Cargo Drone" 2
+	add variant 1
+		"Heavy Shuttle (Armed)"
+		"Cargo Drone" 2
+
+fleet "Paradise Merchants"
+	add variant 10
+		"Heavy Shuttle"
+		"Cargo Drone" 2
+
+fleet "Small Northern Merchants"
+	add variant 10
+		"Shuttle"
+		"Cargo Drone"
+	add variant 10
+		"Star Barge"
+		"Cargo Drone" 2
+	add variant 3
+		"Star Barge (Armed)"
+		"Cargo Drone" 4
+	add variant 3
+		"Hauler"
+		"Cargo Drone" 3
+
+fleet "Large Northern Merchants"
+	add variant 1
+		"Mudrock (Modern)"
+		"Hauler (Hai)"
+		"Cargo Drone (Fuel)"
+
+fleet "Small Human Merchants (Hai)"
+	add variant 15
+		"Shuttle"
+		"Cargo Drone" 2
+	add variant 10
+		"Star Barge"
+		"Cargo Drone" 2
+	add variant 5
+		"Freighter (Hai)"
+		"Cargo Drone" 4
+
+fleet "Large Human Merchants (Hai)"
+	add variant 1
+		"Mudrock (Modern)"
+		"Hauler (Hai)"
+		"Cargo Drone (Fuel)"
+
+
+
+event "southern carriers 1"
+	fleet "Small Southern Merchants"
+		add variant 5
+			"Freighter"
+			"Cargo Drone (Scram Drive)" 2
+		add variant 5
+			"Freighter (Fancy)"
+			"Cargo Drone (Scram Drive)" 4
+	
+	fleet "Small Core Merchants"
+		add variant 8
+			"Freighter"
+			"Cargo Drone (Scram Drive)" 2
+	
+	fleet "Large Core Merchants"
+		add variant 3
+			"Freighter (Fancy)" 2
+			"Cargo Drone (Scram Drive)" 6
+	
+	fleet "Small Northern Merchants"
+		add variant 8
+			"Freighter"
+			"Cargo Drone (Scram Drive)" 4

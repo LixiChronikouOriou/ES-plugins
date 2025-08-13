@@ -1,0 +1,453 @@
+ship "Thunderer"
+	sprite "ship/thunderer"
+	thumbnail "thumbnail/thunderer thumbnail"
+	attributes
+		category "Utility"
+		"cost" 4400000
+		"shields" 4400
+		"hull" 5800
+		"required crew" 14
+		"bunks" 24
+		"mass" 970             # 440 before v10.7
+		"drag" 15.35           # 9.6 before v10.7
+		"heat dissipation" .34 # .55 before v10.7
+		"fuel capacity" 500
+		"cargo space" 220
+		"outfit space" 440
+		"weapon capacity" 140
+		"engine capacity" 180
+		weapon
+			"blast radius" 110
+			"shield damage" 1100
+			"hull damage" 550
+			"hit force" 1650
+	outfits
+		"Mining Laser Turret" 4
+		"Tractor Beam"
+		
+		"S3 Thermionic"
+		"LP144a Battery Pack"
+		"D23-QP Shield Generator"
+		"Asteroid Scanner"
+		"Laser Rifle" 4
+		
+		"Capybara Reverse Thruster"
+		"X5700 Ion Thruster"
+		"X4200 Ion Steering"
+		"Hyperdrive"
+		
+	turret -28 -98.5 "Mining Laser Turret"
+	turret 28 -98.5 "Mining Laser Turret"
+	turret -35 -62.5 "Mining Laser Turret"
+	turret 35 -62.5 "Mining Laser Turret"
+	turret 0 -27.5 "Tractor Beam"
+	
+	engine -36 124
+		zoom .8
+	engine 36 124
+		zoom .8
+	engine -26 124
+		zoom 1
+	engine 26 124
+		zoom 1
+	engine -16 124
+		zoom .9
+	engine 16 124
+		zoom .9
+	
+	"reverse engine" -40 6.5
+		zoom 1
+		angle 350
+		over
+	"reverse engine" 40 6.5
+		zoom 1
+		angle 10
+		over
+	
+	"reverse engine" -34 6.5
+		zoom .95
+		angle 345
+		over
+	"reverse engine" 34 6.5
+		zoom .95
+		angle 15
+		over
+	
+	"reverse engine" -28 6.5
+		zoom .9
+		angle 340
+		over
+	"reverse engine" 28 6.5
+		zoom .9
+		angle 20
+		over
+	
+	"reverse engine" -22 6.5
+		zoom .85
+		angle 335
+		over
+	"reverse engine" 22 6.5
+		zoom .85
+		angle 25
+		over
+	
+	"reverse engine" -16 6.5
+		zoom .8
+		angle 330
+		over
+	"reverse engine" 16 6.5
+		zoom .8
+		angle 30
+		over
+	
+	leak "leak" 40 50
+	leak "flame" 40 80
+	leak "big leak" 70 30
+	explode "tiny explosion" 10
+	explode "small explosion" 20
+	explode "medium explosion" 25
+	explode "large explosion" 15
+	"final explode" "final explosion medium"
+	
+	description `A heavy high-speed mining ship named for the deep thrum of its massive engine nacelles. Built to keep track of even the fastest-moving asteroids, it is capable of brute-forcing its way up to speeds typical of high-end warships, and its turret mounts and reverse thrust vectoring allow it great freedom of motion during its work.`
+	description `	As the engines and cargo bay take up most of the ship's internal volume, it has relatively little space for the systems required to support its power needs, and takes careful outfitting to make the most of its potential.`
+	description `	Its suitability for conversion into a warship or blockade runner, making it popular with "independent" captains known to frequent pirate space, has seen its continued production and sale lobbied against a number of times. These efforts have not been consistently sustained, however, due in part to a significant fraction of these ships being manufactured in regions beyond the reach of the law anyway.`
+
+
+
+
+
+# VARIANTS
+
+ship "Thunderer" "Thunderer (Armed)"
+	outfits
+		"Laser Turret" 4
+		"Anti-Missile Turret"
+		
+		"NT-200 Nucleovoltaic"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Asteroid Scanner"
+		"Laser Rifle" 8
+		
+		"Capybara Reverse Thruster"
+		"X5700 Ion Thruster"
+		"X4200 Ion Steering"
+		"Hyperdrive"
+	turret "Laser Turret"
+	turret "Laser Turret"
+	turret "Laser Turret"
+	turret "Laser Turret"
+	turret "Anti-Missile Turret"
+
+
+
+ship "Thunderer" "Thunderer (Warship)"
+	outfits
+		"Modified Blaster Turret" 2
+		"Proton Turret" 2
+		"Anti-Missile Turret"
+		
+		"Breeder Reactor"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Liquid Helium Cooler"
+		"Small Radar Jammer"
+		"Fuel Pod" 2
+		"Ramscoop" 2
+		"Outfits Expansion" 7
+		"Laser Rifle" 14
+		
+		"Orca Plasma Thruster"
+		"Impala Plasma Steering"
+		"Caldera Afterburner"
+		"Hyperdrive"
+	turret "Modified Blaster Turret"
+	turret "Modified Blaster Turret"
+	turret "Proton Turret"
+	turret "Proton Turret"
+	turret "Anti-Missile Turret"
+
+
+
+ship "Thunderer" "Thunderer (Gatling)"
+	outfits
+		"Gatling Turret" 4
+		"Gatling Gun Ammo" 18000 # 75% of capacity (24000)
+		"Heavy Anti-Missile Turret"
+		
+		"Fission Reactor"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		"Water Coolant System"
+		"Laser Rifle" 10
+		
+		"Tyrant Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+	turret "Gatling Turret"
+	turret "Gatling Turret"
+	turret "Gatling Turret"
+	turret "Gatling Turret"
+	turret "Heavy Anti-Missile Turret"
+
+
+
+ship "Thunderer" "Thunderer (Prisoner Transport)"
+	outfits
+		"Blaster Turret" 2
+		"Quad Blaster Turret"
+		"Anti-Missile Turret" 2
+		
+		"NT-200 Nucleovoltaic"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		
+		"Outfits Expansion" 8
+		"Bunk Room" 7 # 28 more bunks, 35 passengers total
+		"Brig"
+		"Security Station" 2
+		"Laser Rifle" 15
+		
+		"X5700 Ion Thruster"
+		"X4200 Ion Steering"
+		"Scram Drive"
+	turret "Blaster Turret"
+	turret "Blaster Turret"
+	turret "Anti-Missile Turret"
+	turret "Anti-Missile Turret"
+	turret "Quad Blaster Turret"
+
+
+
+# No offensive weapons at all so its AI will ignore/avoid combat.
+ship "Thunderer" "Thunderer (Blockade Runner)"
+	outfits
+		"Anti-Missile Turret" 4
+		"Tractor Beam"
+		
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		
+		"Outfits Expansion"
+		"Interference Plating" 4
+		"Large Radar Jammer"
+		"Fuel Pod" 2
+		"Ramscoop"
+		"Brig"
+		"Laser Rifle" 12
+		
+		"Orca Plasma Thruster"
+		"Orca Plasma Steering"
+		"Scram Drive"
+	turret "Anti-Missile Turret"
+	turret "Anti-Missile Turret"
+	turret "Anti-Missile Turret"
+	turret "Anti-Missile Turret"
+	turret "Tractor Beam"
+		
+
+
+
+
+# FLEETS
+
+fleet "Human Miners"
+	add variant 5
+		"Thunderer"
+	add variant 1
+		"Thunderer (Armed)"
+
+
+
+fleet "Large Southern Merchants"
+	add variant 1
+		"Thunderer"
+	add variant 1
+		"Thunderer (Armed)"
+	add variant 1
+		"Thunderer (Prisoner Transport)"
+
+fleet "Large Northern Merchants"
+	add variant 1
+		"Thunderer"
+	add variant 1
+		"Thunderer (Armed)"
+	add variant 1
+		"Thunderer (Prisoner Transport)"
+
+
+
+fleet "Large Southern Pirates"
+	add variant 1
+		"Thunderer (Armed)"
+	add variant 2
+		"Thunderer (Gatling)"
+	add variant 1
+		"Thunderer (Prisoner Transport)"
+	add variant 1
+		"Thunderer (Blockade Runner)"
+
+fleet "Large Northern Pirates"
+	add variant 2
+		"Thunderer (Armed)"
+	add variant 1
+		"Thunderer (Warship)"
+	add variant 1
+		"Thunderer (Prisoner Transport)"
+	add variant 1
+		"Thunderer (Blockade Runner)"
+
+
+
+fleet "pirate raid"
+	add variant 2
+		"Thunderer (Warship)"
+	add variant 1
+		"Thunderer (Warship)"
+		"Berserker (Afterburner)" 2
+
+
+
+
+
+# MISSIONS
+
+mission "Bounty Hunting (Small, Thunderer)"
+	name "Wanted bandit near <system>"
+	description "A medium pirate warship named the <npc> has been attacking merchants a jump away from the <system> system. Destroy it by <day> for payment (<payment>)."
+	repeat
+	job
+	deadline 14
+	"apparent payment" 180000
+	to offer
+		"combat rating" > 200
+		"combat rating" < 500
+		random < 5
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "rim" "south" "north" "dirt belt" "core" "frontier"
+	npc kill
+		government "Bounty"
+		personality heroic staying nemesis target
+		system
+			distance 1 1
+		fleet
+			names "pirate"
+			variant
+				"Thunderer (Armed)"
+			variant
+				"Thunderer (Warship)"
+			variant
+				"Thunderer (Gatling)"
+		dialog phrase "generic hunted bounty eliminated and payment dialog"
+		on kill
+			payment 180000
+			fail
+
+
+
+mission "Bounty Hunting (Small, Local, Thunderer)"
+	name "Wanted bandit entering <system>"
+	description "A medium pirate warship named the <npc> has been attacking merchants in nearby star systems, and is reportedly entering this system. Destroy it by <day> for payment (<payment>)."
+	repeat
+	job
+	deadline 3
+	"apparent payment" 180000
+	to offer
+		"combat rating" > 200
+		"combat rating" < 500
+		random < 5
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "rim" "south" "north" "dirt belt" "core" "frontier"
+	npc kill
+		government "Bounty"
+		personality heroic entering staying nemesis target
+		fleet
+			names "pirate"
+			variant
+				"Thunderer (Armed)"
+			variant
+				"Thunderer (Warship)"
+			variant
+				"Thunderer (Gatling)"
+		dialog phrase "generic hunted bounty eliminated and payment dialog"
+		on kill
+			payment 180000
+			fail
+
+
+
+mission "Bounty Hunting (Small, Hidden, Thunderer)"
+	name "Disguised bandit near <system>"
+	description "A medium pirate warship named the <npc> is posing as a merchant ship within two jumps of the <system> system. Find a merchant ship with a matching name and destroy it by <day> for payment (<payment>)."
+	repeat
+	job
+	deadline 30
+	"apparent payment" 360000
+	to offer
+		"combat rating" > 200
+		or
+			random < 5
+			and
+				"combat rating" < 500
+				random < 20
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "rim" "south" "north" "dirt belt" "core" "frontier"
+	npc kill
+		government "Bounty (Disguised)"
+		personality heroic staying
+		system
+			distance 1 2
+		fleet
+			names "pirate"
+			variant
+				"Thunderer (Armed)"
+			variant
+				"Thunderer (Warship)"
+			variant
+				"Thunderer (Gatling)"
+		dialog phrase "generic hunted bounty eliminated and payment dialog"
+		on kill
+			payment 360000
+			fail
+
+
+
+mission "Bounty Hunting (Medium, Boarding, Entering, Thunderer)"
+	name "Wanted smuggler near <system>"
+	description "Several wanted criminals are approaching in a known smuggling ship, the <npc>, which is about to enter this system under the false pretense of having obtained clearance to land on <planet>. Board the ship and detain the criminals in a brig, then bring them to <destination> by <date>. Reward for capture: <payment>."
+	passengers 4
+	deadline 14
+	repeat
+	job
+	to offer
+		"combat rating" > 200
+		random < 15
+	to accept
+		has "outfit (installed): Brig"
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "rim" "south" "north" "dirt belt" "core" "frontier"
+	destination
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "rim" "south" "north" "dirt belt" "core" "frontier"
+		distance 2 6
+	npc board
+		government "Bounty"
+		personality timid fleeing uninterested entering target
+		fleet
+			names "civilian"
+			variant
+				"Thunderer (Prisoner Transport)"
+			variant
+				"Thunderer (Blockade Runner)"
+		dialog "You blast your way onto the ship, subdue the fleeing criminals, and confine them to your ship's brig. Time to deliver them to <planet>."
+	on visit
+		dialog phrase "generic bounty hunting boarding on visit"
+	on complete
+		payment 350000
+		dialog "The government of <planet> gratefully pays you <payment> for apprehending the criminal gang."

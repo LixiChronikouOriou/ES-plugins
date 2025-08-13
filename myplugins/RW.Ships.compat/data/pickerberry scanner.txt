@@ -1,0 +1,121 @@
+outfit "Pickerberry Directional Scanner"
+	"display name" "P.Berry Directional Scanner"
+	category "Secondary Weapons"
+	cost 40000
+	thumbnail "outfit/pickerberry directional scanner"
+	"mass" 6
+	"outfit space" -6
+	"weapon capacity" -4
+	"gun ports" -1
+	"asteroid scan power" 10
+	"cargo scan power" 3
+	"cargo scan efficiency" 1
+	"optical jamming" 3
+	weapon
+		icon "icon/pickerberry directional scanner icon"
+		sound "pickerberry pulsewave 1" # This can be changed to "pickerberry pulsewave 2" for an alternate version of the sound.
+		"range override" 4500
+		"reload" 90
+		"firing energy" 150
+		"firing heat" 30
+		"cluster"
+		submunition "pickerberry directional scanner submunition" 60
+	description "A high-power directional LIDAR connected to a microseismic analyzer. Provides audio-visual feedback on the density of valuable minerals in a wide area, allowing for rapid surveying and evaluation of a star system's overall richness. Multiple installed scanners will pulse in sync, improving the resolution of readings. The emitted waves cannot penetrate asteroids very well, so repeat readings may be necessary to accurately assess very dense fields."
+	description "	At very close ranges the microseismic analyzer alone can automatically determine the composition of asteroids, and even estimate the cargo contents of ships based on their internal mass distribution."
+	description "	The LIDAR is also capable of blinding missiles that rely on optical tracking, giving the outfit some defensive utility that can be especially valuable to heavy ships that are often subject to torpedo attacks."
+
+
+
+outfit "Pickerberry Omnidirectional Scanner"
+	"display name" "P.Berry Omni Scanner"
+	category "Secondary Weapons"
+	cost 240000
+	thumbnail "outfit/pickerberry omnidirectional scanner"
+	"mass" 18
+	"outfit space" -18
+	"weapon capacity" -12
+	"turret mounts" -1
+	"asteroid scan power" 30
+	"cargo scan power" 9
+	"cargo scan efficiency" 3
+	"optical jamming" 9
+	weapon
+		icon "icon/pickerberry omnidirectional scanner icon"
+		"hardpoint sprite" "hardpoint/pickerberry omnidirectional scanner hardpoint"
+		sound "pickerberry pulsewave 1" # This can be changed to "pickerberry pulsewave 2" for an alternate version of the sound.
+		"turret turn" .0001
+		"range override" 4500
+		"reload" 90
+		"firing energy" 750
+		"firing heat" 150
+		"cluster"
+		submunition "pickerberry omnidirectional scanner submunition" 360
+	description "A high-power phased array LIDAR connected to a microseismic analyzer. Provides audio-visual feedback on the density of valuable minerals in a wide area, allowing for rapid surveying and evaluation of a star system's overall richness. Multiple installed scanners will pulse in sync, improving the resolution of readings. The emitted waves cannot penetrate asteroids very well, so repeat readings may be necessary to accurately assess very dense fields."
+	description "	At very close ranges the microseismic analyzer alone can automatically determine the composition of asteroids, and even estimate the cargo contents of ships based on their internal mass distribution."
+	description "	The LIDAR is also capable of blinding missiles that rely on optical tracking, giving the outfit some defensive utility that can be especially valuable to heavy ships that are often subject to torpedo attacks."
+
+
+
+outfit "pickerberry directional scanner submunition"
+	weapon
+		sprite "effect/emp ring"
+			"start frame" 6
+			"frame rate" 3
+			"no repeat"
+			"scale" .25
+		"hit effect" "pickerberry directional scanner submunition hit 1"
+		"hit effect" "pickerberry directional scanner submunition hit 2"
+		"inaccuracy" 60
+			uniform
+		"velocity" 50
+		"lifetime" 90 # Should be =< the weapon's reload otherwise ping returns will overlap.
+		"blast radius" 1 # To make the wave visible on the radar display, adding to the visual feedback as you can see gaps in the wave from large/close returns.
+		"no ship collisions"
+		"no asteroid collisions"
+		"penetration count" 2
+
+
+
+outfit "pickerberry omnidirectional scanner submunition"
+	weapon
+		sprite "effect/emp ring"
+			"start frame" 6
+			"frame rate" 3
+			"no repeat"
+			"scale" .25
+		"hit effect" "pickerberry directional scanner submunition hit 1"
+		"hit effect" "pickerberry directional scanner submunition hit 2"
+		"inaccuracy" 360
+			uniform
+		"velocity" 50
+		"lifetime" 90 # Should be =< the weapon's reload otherwise ping returns will overlap.
+		"blast radius" 1 # To make the wave visible on the radar display, adding to the visual feedback as you can see gaps in the wave from large/close returns.
+		"no ship collisions"
+		"no asteroid collisions"
+		"penetration count" 2
+
+
+
+# "disruption static" effect with 1/5 frame rate & 5x lifetime.
+effect "pickerberry directional scanner submunition hit 1"
+	sound "pickerberry pulsewave return"
+	sprite "effect/static"
+		"frame rate" 6
+		"no repeat"
+		"scale" 3
+	lifetime 60 # 65 # Minus a few frames since the last one seems to linger for longer than the rest.
+	"random angle" 360
+	"velocity scale" 0
+
+
+
+# "yellow spark twinkle" effect with 1/2 frame rate & 2x lifetime.
+# Yellow is supposed to be the most visible color to the human eye at long distance, and the changing color in combination with the first effect serves to catch the eye even more.
+effect "pickerberry directional scanner submunition hit 2"
+	sprite "effect/yellow spark"
+		"no repeat"
+		"frame rate" 3
+		"scale" 3
+	"lifetime" 40
+	"random angle" 360
+	"velocity scale" 0

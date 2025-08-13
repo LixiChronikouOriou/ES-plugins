@@ -1,0 +1,605 @@
+# Name from French torpilleur, for torpedo boat, or more literally torpedo-ier. Then considering that torpedo launchers are called lance-torpilles, using the portmanteau of lance-ier as a complementary name to the similarly-sized ship named Cavalier that I previously modelled seemed like a fair fit (since just saying Torpedoier or Torpedier sounds kinda weird).
+
+ship "Lancier"
+	sprite "ship/lancier"
+	thumbnail "thumbnail/lancier thumbnail"
+	attributes
+		category "Light Warship"
+		"cost" 2200000
+		"shields" 3600
+		"hull" 1400
+		"required crew" 4
+		"bunks" 6
+		"mass" 370            # 240 before v10.7
+		"drag" 5.5            # 4.4 before v10.7
+		"heat dissipation" .4 # .5 before v10.7
+		"fuel capacity" 400
+		"cargo space" 25
+		"outfit space" 280
+		"weapon capacity" 130
+		"engine capacity" 60
+		weapon
+			"blast radius" 55
+			"shield damage" 550
+			"hull damage" 275
+			"hit force" 825
+	outfits
+		"Energy Blaster" 2
+		"Torpedo Pod" 8
+		"Torpedo" 84
+		"Torpedo Storage Rack" 4
+		"Anti-Missile Turret"
+		
+		"nGVF-CC Fuel Cell"
+		"LP036a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer" 2
+		
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+		
+	gun -11 -47.5 "Energy Blaster"
+	gun 11 -47.5 "Energy Blaster"
+	gun -25.5 -12.5
+		parallel
+	gun -25.5 -12.5
+		parallel
+	gun 25.5 -12.5
+		parallel
+	gun 25.5 -12.5
+		parallel
+	gun -30.5 -12.5
+		parallel
+	gun -30.5 -12.5
+		parallel
+	gun 30.5 -12.5
+		parallel
+	gun 30.5 -12.5
+		parallel
+	turret 0 -8.5
+	
+	engine -8.5 64
+	engine 8.5 64
+	
+	leak "leak" 50 50
+	leak "flame" 80 80
+	explode "tiny explosion" 10
+	explode "small explosion" 20
+	explode "medium explosion" 15
+	explode "large explosion" 5
+	"final explode" "final explosion small"
+	description "The use of torpedo boats like this originated before the formation of the Republic, when privateering at the behest of powerful corporations was rampant. Being larger (and proportionally more cumbersome) than a modern Navy Rainmaker, its vulnerability makes it a rare sight among the more sporadic battles of the present day, but a number of pirate warlords maintain fleets to threaten both their rivals and especially lucrative merchant fleets."
+	description "	It is rumored that some of these ships carry nuclear missiles, but this is likely just a distant remnant of their historically fearsome reputation."
+
+
+
+
+
+# VARIANTS
+
+ship "Lancier" "Lancier (Stock, Reduced Ammo)"
+	outfits
+		"Energy Blaster" 2
+		"Torpedo Pod" 8
+		"Torpedo" 36
+		"Torpedo Storage Rack" 4
+		"Anti-Missile Turret"
+		
+		"nGVF-CC Fuel Cell"
+		"LP036a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer" 2
+		
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+	gun "Energy Blaster"
+	gun "Energy Blaster"
+	gun "Torpedo Pod"
+	gun "Torpedo Pod"
+	gun "Torpedo Pod"
+	gun "Torpedo Pod"
+	gun "Torpedo Pod"
+	gun "Torpedo Pod"
+	gun "Torpedo Pod"
+	gun "Torpedo Pod"
+
+
+
+ship "Lancier" "Lancier (Meteor Shower)"
+	outfits
+		"Meteor Missile Launcher" 8
+		"Meteor Missile" 240
+		"Anti-Missile Turret"
+		
+		"nGVF-CC Fuel Cell"
+		"LP036a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer" 2
+		
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+	gun 
+	gun 
+	gun "Meteor Missile Launcher"
+	gun "Meteor Missile Launcher"
+	gun "Meteor Missile Launcher"
+	gun "Meteor Missile Launcher"
+	gun "Meteor Missile Launcher"
+	gun "Meteor Missile Launcher"
+	gun "Meteor Missile Launcher"
+	gun "Meteor Missile Launcher"
+	turret "Anti-Missile Turret"
+
+
+
+ship "Lancier" "Lancier (Heavy Rocket)"
+	outfits
+		"Gatling Gun" 2
+		"Gatling Gun Ammo" 6000
+		"Heavy Rocket Pod" 8
+		"Heavy Rocket" 16
+		"Heavy Anti-Missile Turret"
+		
+		"nGVF-AA Fuel Cell"
+		"nGVF-BB Fuel Cell"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Large Radar Jammer"
+		
+		"Greyhound Plasma Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+	gun "Gatling Gun"
+	gun "Gatling Gun"
+	gun "Heavy Rocket Pod"
+	gun "Heavy Rocket Pod"
+	gun "Heavy Rocket Pod"
+	gun "Heavy Rocket Pod"
+	gun "Heavy Rocket Pod"
+	gun "Heavy Rocket Pod"
+	gun "Heavy Rocket Pod"
+	gun "Heavy Rocket Pod"
+	turret "Heavy Anti-Missile Turret"
+
+
+
+ship "Lancier" "Lancier (Nuclear)"
+	outfits
+		"Energy Blaster" 2
+		"Nuclear Missile" 8
+		"Anti-Missile Turret"
+		
+		"nGVF-CC Fuel Cell"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Large Radar Jammer"
+		
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+	gun "Energy Blaster"
+	gun "Energy Blaster"
+	gun "Nuclear Missile"
+	gun "Nuclear Missile"
+	gun "Nuclear Missile"
+	gun "Nuclear Missile"
+	gun "Nuclear Missile"
+	gun "Nuclear Missile"
+	gun "Nuclear Missile"
+	gun "Nuclear Missile"
+	turret "Anti-Missile Turret"
+
+
+
+
+
+# FLEETS
+# Rare in the wild. Mainly reserved for pirate raids where they would realistically bring ships like this to threaten a convoy. Usage also begins to be picked up by the Free Worlds after their formation, to combat Republic capital ships.
+
+fleet "Small Free Worlds"
+	add variant 4
+		"Lancier (Meteor Shower)"
+		"Sparrow" 2
+
+fleet "Large Free Worlds"
+	add variant 2
+		"Lancier (Stock, Reduced Ammo)" 2
+		"Sparrow" 4
+	add variant 2
+		"Bastion (Heavy)"
+		"Lancier (Stock, Reduced Ammo)" 2
+	add variant 2
+		"Falcon (Heavy)"
+		"Lancier (Stock, Reduced Ammo)" 2
+
+
+
+fleet "Small Southern Pirates"
+	add variant 1
+		"Lancier (Meteor Shower)"
+	add variant 1
+		"Lancier (Heavy Rocket)"
+
+fleet "Large Southern Pirates"
+	add variant 1
+		"Cavalier"
+		"Lancier (Stock, Reduced Ammo)"
+	add variant 1
+		"Lancier (Heavy Rocket)"
+		"Sparrow (Gatling)" 3
+
+
+
+fleet "Small Northern Pirates"
+	add variant 1
+		"Lancier (Stock, Reduced Ammo)"
+	add variant 1
+		"Lancier (Meteor Shower)"
+
+fleet "Large Northern Pirates"
+	add variant 1
+		"Cavalier"
+		"Lancier (Stock, Reduced Ammo)"
+	add variant 1
+		"Lancier (Stock, Reduced Ammo)"
+		"Sparrow" 4
+
+
+
+fleet "Small Core Pirates"
+	add variant 1
+		"Lancier (Stock, Reduced Ammo)"
+	add variant 1
+		"Lancier (Meteor Shower)"
+
+fleet "Large Core Pirates"
+	add variant 1
+		"Lancier (Meteor Shower)"
+		"Wasp" 3
+
+
+
+fleet "pirate raid"
+	add variant 8
+		"Lancier" 2
+	add variant 4
+		"Lancier"
+		"Berserker (Afterburner)" 2
+	add variant 2
+		"Lancier (Meteor Shower)" 2
+	add variant 1
+		"Falcon (Heavy)"
+		"Lancier" 2
+	add variant 1
+		"Leviathan (Heavy)"
+		"Lancier" 2
+	add variant 1
+		"Vanguard (Missile)"
+		"Lancier" 2
+
+
+
+fleet "pirate raid (lancier)"
+	government "Pirate"
+	names "pirate"
+	personality
+		disables nemesis plunders harvests getaway
+		confusion 20
+	variant 10
+		"Lancier" 2
+	variant 10
+		"Lancier" 3
+
+
+
+
+
+# MISSIONS
+
+mission "Lancier Raid on Merchants (North)"
+	name "Large merchant convoy near <system>"
+	repeat
+	job
+	description "A large merchant fleet has been spotted near the <system> system. Join in destroying them and return to <planet> by <day> for a cut of the loot (<payment>)."
+	to offer
+		random < 30
+		"combat rating" > 400
+		"reputation: Pirate" > 0
+	source
+		government "Pirate"
+		attributes "north pirate"
+	npc
+		government "Pirate"
+		personality plunders harvests escort
+		fleet "Small Northern Pirates"
+		fleet "pirate raid"
+		fleet "pirate raid (lancier)"
+	npc kill
+		government "Merchant"
+		personality heroic staying target
+		system
+			distance 1 3
+			neighbor
+				not government "Pirate"
+		fleet "Small Northern Merchants" 3
+		fleet "Large Northern Merchants" 3
+		dialog "The merchants have been eliminated. Return to <destination> for your cut of the loot."
+	on complete
+		payment 400000
+		dialog "After counting up the loot from the destroyed merchant fleet, you are given your cut. <payment>"
+
+
+
+mission "Lancier Raid on Merchants (Core)"
+	name "Large merchant convoy near <system>"
+	repeat
+	job
+	description "A large merchant fleet has been spotted near the <system> system. Join in destroying them and return to <planet> for a cut of the loot (<payment>)."
+	to offer
+		random < 30
+		"combat rating" > 400
+		"reputation: Pirate" > 0
+	source
+		government "Pirate"
+		attributes "core pirate"
+	npc
+		government "Pirate"
+		personality plunders harvests escort
+		fleet "Small Core Pirates"
+		fleet "pirate raid"
+		fleet "pirate raid (lancier)"
+	npc kill
+		personality heroic staying target
+		government "Merchant"
+		system
+			distance 1 3
+		fleet "Small Core Merchants" 3
+		fleet "Large Core Merchants" 3
+		dialog "The merchants have been eliminated. Return to <destination> for your cut of the loot."
+	on complete
+		payment 400000
+		dialog "After counting up the loot from the destroyed merchant fleet, you are given your cut. <payment>"
+
+
+
+mission "Lancier Raid on Merchants (South)"
+	name "Large merchant convoy near <system>"
+	repeat
+	job
+	description "A large merchant fleet has been spotted near the <system> system. Join in destroying them and return to <planet> for a cut of the loot (<payment>)."
+	to offer
+		random < 30
+		"combat rating" > 400
+		"reputation: Pirate" > 0
+	source
+		government "Pirate"
+		attributes "south pirate"
+	npc
+		government "Pirate"
+		personality plunders harvests escort
+		fleet "Small Southern Pirates"
+		fleet "pirate raid"
+		fleet "pirate raid (lancier)"
+	npc kill
+		personality heroic staying target
+		government "Merchant"
+		system
+			distance 1 3
+			neighbor
+				not government "Pirate"
+		fleet "Small Southern Merchants" 3
+		fleet "Large Southern Merchants" 3
+		dialog "The merchants have been eliminated. Return to <destination> for your cut of the loot."
+	on complete
+		payment 400000
+		dialog "After counting up the loot from the destroyed merchant fleet, you are given your cut. <payment>"
+
+
+
+mission "Escort (Small, Northern, Nuclear Lancier)"
+	name "High-value escort to <planet>"
+	description "A pirate warlord is seeking safe passage for the <npc> and its precious payload of nuclear weapons, and is willing to entrust you with its protection. You will be promised <payment> to escort them safely to <destination> by <date>."
+	repeat
+	job
+	deadline 7
+	to offer
+		random < 5
+		"combat rating" > 3000
+		"reputation: Pirate" > 100
+	source
+		government "Pirate"
+		attributes "north pirate"
+	destination
+		government "Pirate"
+		distance 3 4
+	npc
+		government "Pirate (Rival)"
+		personality nemesis harvests plunders
+		system destination
+		fleet "Small Northern Pirates" 2
+	npc
+		government "Pirate (Rival)"
+		personality nemesis entering harvests plunders
+		system destination
+		fleet "Small Northern Pirates" 2
+	npc
+		government "Pirate (Rival)"
+		personality nemesis staying harvests plunders
+		system destination
+		fleet "Large Northern Pirates" 2
+	
+	npc accompany save
+		government "Pirate"
+		personality escort timid forbearing frugal
+		fleet
+			names "pirate"
+			variant
+				"Lancier (Nuclear)"
+		on board
+			"reputation: Pirate" -= 30
+			set "hunted for boarding nuclear lancier"
+			conversation
+				"As you prepare to commandeer the <npc>, your ship computer detects a frantic series of distress transmissions. You are hailed personally by the warlord whose trust you betrayed, whom warns you that there will be consequences."
+			fail
+	on complete
+		payment 1000000
+		dialog "As you descend toward <planet>, the <npc> goes radio silent before breaking away and flying toward its new hideout. Some time after you land at the main spaceport, you find your payment of <payment> has been transferred."
+	on visit
+		dialog phrase "generic arrived-without-npc dialog"
+	on abort
+		"reputation: Pirate" -= 10
+	on fail
+		"reputation: Pirate" -= 20
+
+
+
+mission "Escort (Small, Core, Nuclear Lancier)"
+	name "High-value escort to <planet>"
+	description "A pirate warlord is seeking safe passage for the <npc> and its precious payload of nuclear weapons, and is willing to entrust you with its protection. You will be promised <payment> to escort them safely to <destination> by <date>."
+	repeat
+	job
+	deadline 7
+	to offer
+		random < 5
+		"combat rating" > 3000
+		"reputation: Pirate" > 100
+	source
+		government "Pirate"
+		attributes "core pirate"
+	destination
+		government "Pirate"
+		distance 3 4
+	npc
+		government "Pirate (Rival)"
+		personality nemesis harvests plunders
+		system destination
+		fleet "Small Core Pirates" 2
+	npc
+		government "Pirate (Rival)"
+		personality nemesis entering harvests plunders
+		system destination
+		fleet "Small Core Pirates" 2
+	npc
+		government "Pirate (Rival)"
+		personality nemesis staying harvests plunders
+		system destination
+		fleet "Large Core Pirates" 2
+	
+	npc accompany save
+		government "Pirate"
+		personality escort timid forbearing frugal
+		fleet
+			names "pirate"
+			variant
+				"Lancier (Nuclear)"
+		on board
+			"reputation: Pirate" -= 30
+			set "hunted for boarding nuclear lancier"
+			conversation
+				"As you prepare to commandeer the <npc>, your ship computer detects a frantic series of distress transmissions. You are hailed personally by the warlord whose trust you betrayed, whom warns you that there will be consequences."
+			fail
+	on complete
+		payment 1000000
+		dialog "As you descend toward <planet>, the <npc> goes radio silent before breaking away and flying toward its new hideout. Some time after you land at the main spaceport, you find your payment of <payment> has been transferred."
+	on visit
+		dialog phrase "generic arrived-without-npc dialog"
+	on abort
+		"reputation: Pirate" -= 10
+	on fail
+		"reputation: Pirate" -= 20
+
+
+
+mission "Escort (Small, Southern, Nuclear Lancier)"
+	name "High-value escort to <planet>"
+	description "A pirate warlord is seeking safe passage for the <npc> and its precious payload of nuclear weapons, and is willing to entrust you with its protection. You will be promised <payment> to escort them safely to <destination> by <date>."
+	repeat
+	job
+	deadline 7
+	to offer
+		random < 5
+		"combat rating" > 3000
+		"reputation: Pirate" > 100
+	source
+		government "Pirate"
+		attributes "south pirate"
+	destination
+		government "Pirate"
+		distance 3 4
+	npc
+		government "Bounty Hunter"
+		personality nemesis harvests plunders
+		system destination
+		fleet "Small Southern Pirates" 2
+	npc
+		government "Bounty Hunter"
+		personality nemesis entering harvests plunders
+		system destination
+		fleet "Small Southern Pirates" 2
+	npc
+		government "Bounty Hunter"
+		personality nemesis staying harvests plunders
+		system destination
+		fleet "Large Southern Pirates" 2
+	
+	npc accompany save
+		government "Pirate"
+		personality escort timid forbearing frugal
+		fleet
+			names "pirate"
+			variant
+				"Lancier (Nuclear)"
+		on board
+			"reputation: Pirate" -= 30
+			set "hunted for boarding nuclear lancier"
+			conversation
+				"As you prepare to commandeer the <npc>, your ship computer detects a frantic series of distress transmissions. You are hailed personally by the warlord whose trust you betrayed, whom warns you that there will be consequences."
+			fail
+	on complete
+		payment 1000000
+		dialog "As you descend toward <planet>, the <npc> goes radio silent before breaking away and flying toward its new hideout. Some time after you land at the main spaceport, you find your payment of <payment> has been transferred."
+	on visit
+		dialog phrase "generic arrived-without-npc dialog"
+	on abort
+		"reputation: Pirate" -= 10
+	on fail
+		"reputation: Pirate" -= 20
+
+
+
+mission "Hunted (Nuclear Lancier)"
+	invisible
+	landing
+	repeat
+	deadline 30
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent" "Pirate"
+	to offer
+		has "hunted for boarding nuclear lancier"
+	npc kill
+		government "Bounty Hunter"
+		personality heroic unconstrained nemesis plunders harvests
+		system
+			distance 5 7
+		fleet "Marauder fleet III"
+	npc kill
+		government "Bounty Hunter"
+		personality heroic unconstrained nemesis plunders harvests
+		system
+			distance 5 7
+		fleet "Marauder fleet IV"
+	npc kill
+		government "Bounty Hunter"
+		personality heroic unconstrained nemesis plunders harvests
+		system
+			distance 5 7
+		fleet "Marauder fleet VII"
+	on complete
+		clear "hunted for boarding nuclear lancier"
+	on abort
+		clear "hunted for boarding nuclear lancier"
+	on fail
+		clear "hunted for boarding nuclear lancier"

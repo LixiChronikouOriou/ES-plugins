@@ -1,5 +1,5 @@
 name Factory.Outlets
-about "Adds Factory Outlet Stations around the HQ planets of shipyard companies, were basically only ship hulls (with ony few essential outfits) are sold, such reducing the price significantly."
+about "Adds Factory Outlet Stations around the HQ planets of shipyard companies, were basically only ship hulls (with just few essential outfits) are sold, such reducing the price significantly."
 version 1.0.0
 authors
 	Lifeyouristhis

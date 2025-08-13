@@ -1,6 +1,0 @@
-A small collection of custom ships: primarily drones and multipurpose freighter/utility ships, most of which can carry varying amounts of drones. Also contains some outfits useful for these ships. If the ES Defense Drone Plugin is also installed, non-miner merchants will be loaded with Defense Drones.
-If the ES Defense Drone Plugin is also installed, non-miner merchants will be loaded with these.
-See: https://github.com/starmlerp/ESDefenseDronePlugin
-Or: https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#defense-drone-plugin
-
-Each ship and outfit type is standalone, so if there are any you don't want in your game you can simply delete its text file. The only exception to this is that some of the Lancier's fleet spawns have it appear alongside the Cavalier, so if you delete the Cavalier those will be unescorted.

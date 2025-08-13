@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-08-13 | update: Zone.of.Control<br>
 2025-08-09 | update: Zone.of.Control<br>
 2025-08-06 | update: Jaws<br>
 2025-08-05 | update: Jaws<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-07-19 | update: Jaws<br>
 2025-07-19 | update: Fundamental.Outfit.Expansion<br>
 2025-07-19 | update: Bunsen.Burner<br>
-2025-07-11 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -47,9 +47,10 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <tr valign="top">
 <td><img width="294" height="1"><br>
 <a href="README.md#BunsenBurner">Bunsen.Burner</a><br>
+<a href="README.md#FactoryOutlets">Factory.Outlets</a><br>
 <a href="README.md#FundamentalOutfitExpansion">Fundamental.Outfit.Expansion</a><br>
-<a href="README.md#Jaws">Jaws</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#Jaws">Jaws</a><br>
 <a href="README.md#KorunakDefenseDrones">Korunak.Defense.Drones</a><br>
 <a href="README.md#LouiseConglomerateShipyards">Louise.Conglomerate.Shipyards</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
@@ -99,6 +100,61 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 | 2025-04-28 | 1.0.1 | Readme and copyright fixes. |
 | 2025-04-28 | 1.0.0 | Overhaul and Re-publication as *Bunsen Burner*. |
 | 2021-01-26 | - | Last Update of the *Flamethrower Turret* plugin. |
+
+</details>
+
+<br>
+
+
+---
+
+### Factory.Outlets
+
+<img src="myplugins/Factory.Outlets/icon.png" height="100">
+
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Factory.Outlets.png'>
+
+[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Factory.Outlets/Factory.Outlets.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [2]<br>
+<br>
+>Adds Factory Outlet Stations around the HQ planets of shipyard companies, where basically only ship hulls (with just few essential outfits) are sold, such reducing the price significantly.
+
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+
+### Factory Outlets ###
+
+**Author: [Lifeyouristhis](https://github.com/lifeyouristhis), [Timeout](https://github.com/LixiChronikouOriou)**
+
+**Thanks**: Zuckung
+
+Ship price = hull + outfit prices. This simple equation has the consequence that ships can be overprized when one intends to replace most of the outfits anyway, and one would basically need only the hull.
+
+Based on an idea of [Lifeyouristhis](https://github.com/lifeyouristhis), this plugin introduces *Factory Outlets*. Around the headquarter planets of the shipyard companies stations have been placed which sell their ships with only a minimum sets of outfits, just enough to let a ship fly. For instance, a Leviathan's standard price is 17.1 Mio credits, but at the Betelgeuse Factory Outlet station it's only 9.9 Mio.
+
+No factory outlet for Navy ships, because lore. No factory outlet ship variants for fighter and drones, because senseless.
+
+Currently the plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louise Conglomerate Shipyards](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) are supported. More are intended.
+
+| Shipyard | HQ System |
+|--------|----------|
+| Betelgeuse  | Betelgeuse |
+| Lionheart   | Epsilon Leonis |
+| [Louise](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards)      | Alphard |
+| Megaparsec  | Mirfak |
+| [Pickerberry](https://www.moddb.com/mods/rw-ships) | Dabih |
+| Southbound  | Zubeneschamali |
+| Syndicate   | Achernar |
+| Tarazed     | Tarazed |
+| Tycho       | Sol (Luna, on-planet) |
+
+
+**Changelog**
+
+| Date | Version | Comment |
+|------|---------|---------|
+| 2025-08-13 | 1.0.0 | Complete re-implementation. Ships come with minimal outfits, sold in factory outlet stations around the shipyards' HQ planets. Plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louise Conglomerate Shipyards](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) supported. |
+| 2017-09-14 | - | Last update of the *Bare Ships* plugin. |
 
 </details>
 
@@ -363,7 +419,7 @@ One major change made, proposed by **Kitteh**, was to switch from reflective to 
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Zone.of.Control.png'>
 
-[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Zone.of.Control/Zone.of.Control.zip) | 39.31 kb | 2025-08-09 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
+[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1-Zone.of.Control/Zone.of.Control.zip) | 35.16 kb | 2025-08-13 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
 <br>
 >Provides a proper way to tribute human space after finishing the main plot without needing to save-edit (Free Worlds) or being dependent on time slots during campaign (Republic & Syndicate). Also handles independent systems by defining own polities to avoid issues with independent mission NPCs. And adds some vanilla mission chain related candy.
 
@@ -376,10 +432,10 @@ One major change made, proposed by **Kitteh**, was to switch from reflective to 
 **Author: [Timeout](https://github.com/LixiChronikouOriou)**
 
 #### Introduction ####
-In vanilla, tributing human space is a bit tedious because there are no mechanisms for making peace with the factions. The only systems which don't cause issues are the Pirates' ones. To tribute the Free Worlds one has to save-edit afterwards, for tributing Republic and Syndicate one has to use the phases during the main campaign to profit from the reputation reset afterwards. Independent systems like Men cause problems with neutral mission NPCs, so one has to save-edit here, too. Also the monastery planets New Tibet cannot be tributed in vanilla, causing ugly spots on the conquest map.
+In vanilla, tributing human space is a bit tedious because there are no mechanisms for making peace with the factions. The only systems which don't cause issues are the Pirates' ones. To tribute the Free Worlds one has to save-edit afterwards, for tributing Republic and Syndicate one has to use the phases during the main campaign to profit from the reputation reset afterwards. Independent systems like Men cause problems with neutral mission NPCs, so one has to save-edit here, too. Also the monastery planets New Tibet and Harmony cannot be tributed in vanilla, causing ugly spots on the conquest map.
 
 #### Features ####
-This post-campaign plugin solves this issue by providing a peace-making mechanism after tributing all systems of a faction, and by introducing polities for independent systems. Further, some planets will pay you tribute without a fight after the completion of a mission chain. Also New Tibet and Harmony will pay symbolic tribute of 1 credit to color the map.
+This post-campaign plugin solves this issue by providing a peace-making mechanism after tributing all systems of a faction, and by introducing polities for independent systems. Further, some planets will pay you tribute without a fight after the completion of a mission chain. Also New Tibet and Harmony will pay symbolic tribute of 1 credit to color the map. Deneb will fall to you after having conquered Republic, Syndicate and Free Worlds.
 
 Has individual dialogue boxes for each of the following situations.
 
@@ -399,12 +455,14 @@ Has individual dialogue boxes for each of the following situations.
 | Haven | 90 days after "Ice Queen 8: done", and Haven isn't tributed currently. | Haven dominated. |
 | Norn | 90 days after "Stone to Hope: Thanks: offered", and Norn isn't tributed currently. | Norn dominated. |
 | Poisonwood | 30 days after "event: liberation of Poisonwood" (and done it the proper way) and "main plot completed", and Poisonwood isn't tributed currently. | Poisonwood dominated. |
+| Pugglemug<br>Pugglequat | Has tributed all of Republic, Syndicate and Free Worlds | Both planets of the Deneb system are dominated. |
 | Windblain | 30 days after "Hjlod Remembers Windblain: done", and Windblain isn't tributed currently. | Windblain dominated. |
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-08-13 | 1.0.1 | Added missing Deneb system. Added militia reputation to be restored after Republic tributed. Now set new reputation after conquest only to 1, if the player's faction reputation really has become smaller than 1. Resized icon. |
 | 2025-08-09 | 1.0.0 | Initial release. |
 
 </details>

@@ -1,4 +1,5 @@
 Bunsen.Burner|1.2.0
+Factory.Outlets|1.0.0
 Fundamental.Outfit.Expansion|1.4.0
 Jaws|1.2.1
 Korunak.Defense.Drones|1.1.0

@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-08-13 | update: Factory.Outlets<br>
 2025-08-13 | update: Zone.of.Control<br>
 2025-08-09 | update: Zone.of.Control<br>
 2025-08-06 | update: Jaws<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-07-19 | update: Korunak.Defense.Drones<br>
 2025-07-19 | update: Jaws<br>
 2025-07-19 | update: Fundamental.Outfit.Expansion<br>
-2025-07-19 | update: Bunsen.Burner<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -114,7 +114,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Factory.Outlets.png'>
 
-[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Factory.Outlets/Factory.Outlets.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [2]<br>
+[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Factory.Outlets/Factory.Outlets.zip) | 28.56 kb | 2025-08-13 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [2]<br>
 <br>
 >Adds Factory Outlet Stations around the HQ planets of shipyard companies, where basically only ship hulls (with just few essential outfits) are sold, such reducing the price significantly.
 

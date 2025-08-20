@@ -35,7 +35,7 @@ shipyard "Betelgeuse Advanced"
 
 shipyard "Tycho Crater Advanced"
 	remove "Hogshead"
-	add "Hogshead (Sails)
+	add "Hogshead (Sails)"
 
 shipyard "Megaparsec Basics"
 	remove "Bounder"

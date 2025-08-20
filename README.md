@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-08-20 | update: Bunsen.Burner<br>
 2025-08-20 | update: Jaws<br>
 2025-08-13 | update: Factory.Outlets<br>
 2025-08-13 | update: Zone.of.Control<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-07-19 | update: Solar.Sails<br>
 2025-07-19 | update: Louise.Conglomerate.Shipyards<br>
 2025-07-19 | update: Korunak.Defense.Drones<br>
-2025-07-19 | update: Jaws<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -70,7 +70,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png'>
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0.fixed-Bunsen.Burner/Bunsen.Burner.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0-Bunsen.Burner/Bunsen.Burner.zip) | 284.36 kb | 2025-08-20 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
 <br>
 >Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
 

@@ -1,4 +1,4 @@
-Bunsen.Burner|1.3.0.fixed
+Bunsen.Burner|1.3.0
 Factory.Outlets|1.0.0
 Fundamental.Outfit.Expansion|1.4.0
 Jaws|1.2.2

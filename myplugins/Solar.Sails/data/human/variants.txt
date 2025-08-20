@@ -67,7 +67,7 @@ ship "Heavy Shuttle" "Heavy Shuttle (Sails)"
 		"Solar Sail (Large)"
 		Supercapacitor
 
-ship Hogshead "Hogshead (Sails)
+ship Hogshead "Hogshead (Sails)"
 	outfits
 		"Anti-Missile Turret" 2
 		"Bunk Room" 8

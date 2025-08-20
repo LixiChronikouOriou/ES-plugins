@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-08-20 | update: Jaws<br>
 2025-08-13 | update: Factory.Outlets<br>
 2025-08-13 | update: Zone.of.Control<br>
 2025-08-09 | update: Zone.of.Control<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-07-19 | update: Louise.Conglomerate.Shipyards<br>
 2025-07-19 | update: Korunak.Defense.Drones<br>
 2025-07-19 | update: Jaws<br>
-2025-07-19 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -70,7 +70,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png'>
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.0-Bunsen.Burner/Bunsen.Burner.zip) | 284.49 kb | 2025-07-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0.fixed-Bunsen.Burner/Bunsen.Burner.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
 <br>
 >Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
 
@@ -92,6 +92,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-08-20 | 1.3.0 | Doubled probability for Barmy's Bunsen-mission. Added event-triggered addition to fleets (Free Worlds, Militia, Southern Pirates). |
 | 2025-07-19 | 1.2.0 | Added support for Omnis. |
 | 2025-06-12 | 1.1.2 | Fixes. Added series and index specifications. |
 | 2025-06-01 | 1.1.1 | Minor metadata fix. Clarification in torch's description. |
@@ -225,7 +226,7 @@ __Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's l
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Jaws.png'>
 
-[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1-Jaws/Jaws.zip) | 3.37 mb | 2025-08-06 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [48]<br>
+[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.2-Jaws/Jaws.zip) | 3.46 mb | 2025-08-20 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [53]<br>
 <br>
 >Completely harmless space wildlife, which you can randomly shoot at. Trust me.
 
@@ -255,6 +256,7 @@ In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with o
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-08-20 | 1.2.2 | Changed electrophorus glow effect color to blue. |
 | 2025-08-06 | 1.2.1 | Replaced custom on-death effect with an appropriate vanilla one, such significantly reducing file size. |
 | 2025-08-05 | 1.2.0 | Habitat expansion, added derelict Aberrants with rare items, tweaked stats, added image for ripping maw, becoming also the new icon. Reduced plugin size further. | 
 | 2025-07-19 | 1.1.0 | Added support for Omnis. |
@@ -376,7 +378,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Solar.Sails.png'>
 
-[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.2-Solar.Sails/Solar.Sails.zip) | 1.45 mb | 2025-07-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [19]<br>
+[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.1.0.fixed-Solar.Sails/Solar.Sails.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [19]<br>
 <br>
 >Epic diffractive solar sails for Human and Coalition space, providing thrust, turn and solar collection, thereby using only outfitspace worth of half the consumed enginespace.
 
@@ -390,16 +392,17 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 **Thanks:** Kitteh
 
-An overhaul and re-publication of TheronEpic's [Solar Sails](https://github.com/TheronEpic/theronepic-solar-sails). Since the last update of the plugin in October 2020 there have been made massive changes in ES considering engines, so a stat overhaul was overdue. Also various syntax bugs had to be hunted down.
-
-It seems, that TheronEpic could not complete the work on this plugin, so future updates of this re-publication will fill some gaps, e.g. considering fleets and variants.
+An overhaul and re-publication of TheronEpic's [Solar Sails](https://github.com/TheronEpic/theronepic-solar-sails). Since the last update of the plugin in October 2020 there have been made massive changes in ES considering engines, so a stat overhaul was overdue. Also various syntax bugs had to be hunted down, and some gaps have been filled, e.g. considering variants, as seemingly TheronEpic could not complete the work on this plugin.
 
 One major change made, proposed by **Kitteh**, was to switch from reflective to diffractive solar sails. Therefore the sails, besides providing thrust and turn, also generate energy. However, reverse thrust as introduced by the original, was removed because of a lack of explainability.
+
+This plugins replaces the sales of Shuttle, Heavy Shuttle, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Freighter and Sunder with sail variants, superior to the vanilla versions. Also removes the shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards.
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-08-20 | 2.1.0 | Added sale variants with sails for Shuttle, Heavy Shuttle, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Freighter and Sunder, replacing the vanilla sales of these ships. Changed merchant fleets correspondingly with varying region-dependent probabilities. Removed shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards. |
 | 2025-07-19 | 2.0.2 | Fixes. |
 | 2025-06-12 | 2.0.1 | Added series and index specifications. Removed unused files. Changed icon. |
 | 2025-06-01 | 2.0.0 | Complete rework -- Made the solar sails to be diffractive, i.e. added solar collection. Buffed relation of turn/thrust to used engine/outfit space, change from turn/thrust heat to solar heat, and removed reverse thrust. Also removed front sail variants, and KP-3 and KPM-6 panels. Added @2x images. Removed experimental status. |

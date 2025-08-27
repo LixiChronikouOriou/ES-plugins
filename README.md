@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-08-27 | update: Fundamental.Outfit.Expansion<br>
 2025-08-20 | update: Solar.Sails<br>
 2025-08-20 | update: Bunsen.Burner<br>
 2025-08-20 | update: Jaws<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-08-06 | update: Jaws<br>
 2025-08-05 | update: Jaws<br>
 2025-07-19 | update: Solar.Sails<br>
-2025-07-19 | update: Louise.Conglomerate.Shipyards<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -170,7 +170,7 @@ Currently the plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louis
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png'>
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 5.24 mb | 2025-07-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [325]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.5.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 4.46 mb | 2025-08-27 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [307]<br>
 <br>
 >A collection of essential outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 
@@ -182,10 +182,14 @@ Currently the plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louis
 
 **Authors:** see table
 
-**Thanks:** Kassandra Haruki, Kitteh, Questenberg, Unknown_Rawrs
+**Thanks:** Cend, Kassandra Haruki, Keilaph, Kitteh, Questenberg, Unknown_Rawrs
 
-Other fundamental content can be found in the plugin recommendation list.
+**Notes**
+- Other fundamental content can be found in the plugin recommendation list, especially see [Rumskib](https://github.com/TheGiraffe3/rumskib) for Plasma Turrets (Single, Quad) and Gatling Turrets (Single, Triple, Quad).
+- Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's lore is imho heretic to the original by 1010todd.
+- The original concept for FOE's Shipwright Gear was introduced by Darcy Manoel and  [Hurleveur](https://github.com/Hurleveur) with the Shipwright Gear in [Fluff](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/ships.md#fluff) resp. the Repair Team in [Unfettered Innovations](https://github.com/Hurleveur/unfettered-innovations). The stats are a mix-up inspired from those. The concept was extended by toolset-slots and evolved into the Hesperian Toolbox.
 
+**Content**
 | Creator | Outfit | Origin |
 |---------|--------|--------|
 | *anonymous* | Afterburner Steerings<br>Heavy Rocket Turret<br>Meteor Turret<br>Sidewinder VLS<br>Dual Mining Laser Turret<br>Hailstorm Missile<br>Rapier Missile<br>Thunderbolt Missile<br>Surveillance Radar<br>Tactical Radar | [RW Extras](https://www.moddb.com/mods/rw-extras/downloads) collection
@@ -195,17 +199,14 @@ Other fundamental content can be found in the plugin recommendation list.
 | [J.C.Hamlin](https://github.com/jchamlin) | Particle Turrets | [Marauder Bactrian](https://github.com/jchamlin/marauder-bactrian) |
 | [Loyse](https://github.com/loiseeer) | Barrage Blaster<br>Flak Cannon | [Louise](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) |
 | [Timeout](https://github.com/LixiChronikouOriou) | Hesperian Toolbox<br>HTS Artisan<br>HTS Crafter<br>Hesperian Red Lager | FOE |
-| [TheronEpic](https://github.com/TheronEpic) | Plasma Turret (Single)<br>Fuel Shields | [Epic Outfits](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/outfits.md#epic-outfits) |
+| [TheronEpic](https://github.com/TheronEpic) | Fuel Shields | [Epic Outfits](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/outfits.md#epic-outfits) |
 | [	Tommaso Becca](https://github.com/beccabunny) | Slave<br>Active Radar Jammer<br>Interference Emitters<br>Javelin Pod Turret | [Pirate Expansion](https://github.com/beccabunny/Pirate-Expansion) |
-
-The original concept for FOE's Shipwright Gear was introduced by Darcy Manoel and  [Hurleveur](https://github.com/Hurleveur) with the Shipwright Gear in [Fluff](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/ships.md#fluff) resp. the Repair Team in [Unfettered Innovations](https://github.com/Hurleveur/unfettered-innovations). The stats are a mix-up inspired from those. The concept was extended by toolset-slots and evolved into the Hesperian Toolbox.
-
-__Note__: Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's lore is imho heretic to the original by 1010todd.
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-08-27 | 1.5.0 | Event fixes and tinkering. Removed Single Plasma Turret, only left its definition for compatibility (instead see [Rumskib](https://github.com/TheGiraffe3/rumskib)). Replaced images for Single and Dual Particle Turrets by ones in modern style. Fixed restocks for Flak Cannon and Javelin Pod Turret. Fuel shields now provide fuel protection. Removed for now the negative leak protection from compressed fuel pod because there's nothing that actually causes leak damage yet. Type 0 Radiant Engines also in advanced Wanderer outfitter, not only basic one. Removed unused files, beautified icon. |
 | 2025-07-19 | 1.4.0 | Added support for Omnis. Plus hotfixes. |
 | 2025-07-11 | 1.3.0 | Added subset of Pirate Expansion, updated with series and index specifications. Updated missile turrets after author's update. Reduced fuel consumption of the fuel shields. |
 | 2025-06-12 | 1.2.1 | Fixes. Tweaked PDP batteries. Added series and index specifications. |
@@ -328,7 +329,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png'>
 
-[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.0-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 2.51 mb | 2025-07-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [26]<br>
+[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1.fixed-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [26]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
 
@@ -356,6 +357,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-08-27 | 1.2.1 | Ship variant fix to align with FOE 1.5.0 |
 | 2025-07-19 | 1.2.0 | Added support for Omnis. |
 | 2025-06-01 | 1.1.1 | Tweaked stock sale outfits. |
 | 2025-05-18 | 1.1.0 | Re-balanced the ships and their variants. Moved weapons to [FOE](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion). Pathfinder got 2 and Bulk Boxer 5 drone bays. Removed shipyards on Pirate planets. Added shipyard on Makerplace in Hai space. |

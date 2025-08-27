@@ -10,6 +10,7 @@
 - Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's lore is imho heretic to the original by 1010todd.
 - The original concept for FOE's Shipwright Gear was introduced by Darcy Manoel and  [Hurleveur](https://github.com/Hurleveur) with the Shipwright Gear in [Fluff](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/ships.md#fluff) resp. the Repair Team in [Unfettered Innovations](https://github.com/Hurleveur/unfettered-innovations). The stats are a mix-up inspired from those. The concept was extended by toolset-slots and evolved into the Hesperian Toolbox.
 
+**Content**
 | Creator | Outfit | Origin |
 |---------|--------|--------|
 | *anonymous* | Afterburner Steerings<br>Heavy Rocket Turret<br>Meteor Turret<br>Sidewinder VLS<br>Dual Mining Laser Turret<br>Hailstorm Missile<br>Rapier Missile<br>Thunderbolt Missile<br>Surveillance Radar<br>Tactical Radar | [RW Extras](https://www.moddb.com/mods/rw-extras/downloads) collection

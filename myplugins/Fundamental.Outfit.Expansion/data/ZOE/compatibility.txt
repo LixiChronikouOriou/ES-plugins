@@ -1,4 +1,6 @@
-﻿mission "FOE: ZOE installed"
+disable mission "Plasma Repeater Turret Available" # here until I find a better place to put this
+
+mission "FOE: ZOE installed"
 	landing
 	invisible
 	non-blocking
@@ -12,7 +14,6 @@
 		fail
 
 event "foe: zoe installed"
-	disable mission "Plasma Repeater Turret Available"
 	outfitter "Kraz Advanced"
 		remove "Plasma Howitzer"
 		remove "Compressed Fuel Pod"

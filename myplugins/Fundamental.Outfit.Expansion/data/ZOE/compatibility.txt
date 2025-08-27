@@ -12,6 +12,7 @@
 		fail
 
 event "foe: zoe installed"
+	disable mission "Plasma Repeater Turret Available"
 	outfitter "Kraz Advanced"
 		remove "Plasma Howitzer"
 		remove "Compressed Fuel Pod"

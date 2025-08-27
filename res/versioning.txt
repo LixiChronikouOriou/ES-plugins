@@ -1,8 +1,8 @@
 Bunsen.Burner|1.3.0
 Factory.Outlets|1.0.0
-Fundamental.Outfit.Expansion|1.4.0
+Fundamental.Outfit.Expansion|1.5.0.fixed
 Jaws|1.2.2
 Korunak.Defense.Drones|1.1.0
-Louise.Conglomerate.Shipyards|1.2.0
+Louise.Conglomerate.Shipyards|1.2.1.fixed
 Solar.Sails|2.1.0
 Zone.of.Control|1.0.1

@@ -27,7 +27,7 @@
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-08-27 | 1.5.0 | Event fixes and tinkering. Removed Single Plasma Turret, only left its definition for compatibility (instead see [Rumskib](https://github.com/TheGiraffe3/rumskib). Replaced images for Single and Dual Particle Turrets by ones in modern style. Fixed restocks for Flak Cannon and Javelin Pod Turret. Fuel shields now provide fuel protection. Removed for now the negative leak protection from compressed fuel pod because there's nothing that actually causes leak damage yet. Type 0 Radiant Engines also in advanced Wanderer outfitter, not only basic one. Removed unused files, beautified icon. |
+| 2025-08-27 | 1.5.0 | Event fixes and tinkering. Removed Single Plasma Turret, only left its definition for compatibility (instead see [Rumskib](https://github.com/TheGiraffe3/rumskib)). Replaced images for Single and Dual Particle Turrets by ones in modern style. Fixed restocks for Flak Cannon and Javelin Pod Turret. Fuel shields now provide fuel protection. Removed for now the negative leak protection from compressed fuel pod because there's nothing that actually causes leak damage yet. Type 0 Radiant Engines also in advanced Wanderer outfitter, not only basic one. Removed unused files, beautified icon. |
 | 2025-07-19 | 1.4.0 | Added support for Omnis. Plus hotfixes. |
 | 2025-07-11 | 1.3.0 | Added subset of Pirate Expansion, updated with series and index specifications. Updated missile turrets after author's update. Reduced fuel consumption of the fuel shields. |
 | 2025-06-12 | 1.2.1 | Fixes. Tweaked PDP batteries. Added series and index specifications. |

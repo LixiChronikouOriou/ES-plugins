@@ -3,7 +3,7 @@
 
 **Authors:** see table
 
-**Thanks for feedback and dicussions:** AvianGeneticist, Cend, Kassandra Haruki, Keilaph, Kitteh, Questenberg, Unknown_Rawrs
+**Thanks for feedback and discussions:** AvianGeneticist, Cend, Kassandra Haruki, Keilaph, Kitteh, Questenberg, Unknown_Rawrs
 
 **Notes**
 - Other fundamental content can be found in the plugin recommendation list, especially see [Rumskib](https://github.com/TheGiraffe3/rumskib) for Plasma Turrets (Single, Quad) and Gatling Turrets (Single, Triple, Quad).

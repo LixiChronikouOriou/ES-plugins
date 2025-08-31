@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-08-31 | update: Fundamental.Outfit.Expansion<br>
 2025-08-27 | update: Louise.Conglomerate.Shipyards<br>
 2025-08-27 | update: Fundamental.Outfit.Expansion<br>
 2025-08-20 | update: Solar.Sails<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-08-13 | update: Zone.of.Control<br>
 2025-08-09 | update: Zone.of.Control<br>
 2025-08-06 | update: Jaws<br>
-2025-08-05 | update: Jaws<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -170,7 +170,7 @@ Currently the plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louis
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png'>
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.5.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 4.46 mb | 2025-08-27 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [307]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.5.1-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 4.46 mb | 2025-08-31 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [307]<br>
 <br>
 >A collection of essential outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 
@@ -182,11 +182,12 @@ Currently the plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louis
 
 **Authors:** see table
 
-**Thanks:** Cend, Kassandra Haruki, Keilaph, Kitteh, Questenberg, Unknown_Rawrs
+**Thanks for feedback and discussions:** AvianGeneticist, Cend, Kassandra Haruki, Keilaph, Kitteh, Questenberg, Unknown_Rawrs
 
 **Notes**
 - Other fundamental content can be found in the plugin recommendation list, especially see [Rumskib](https://github.com/TheGiraffe3/rumskib) for Plasma Turrets (Single, Quad) and Gatling Turrets (Single, Triple, Quad).
 - Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's lore is imho heretic to the original by 1010todd.
+- Contains the ES-wide only adaptive reactor -- Synatom's Sentinel Reactor.
 - The original concept for FOE's Shipwright Gear was introduced by Darcy Manoel and  [Hurleveur](https://github.com/Hurleveur) with the Shipwright Gear in [Fluff](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/ships.md#fluff) resp. the Repair Team in [Unfettered Innovations](https://github.com/Hurleveur/unfettered-innovations). The stats are a mix-up inspired from those. The concept was extended by toolset-slots and evolved into the Hesperian Toolbox.
 
 **Content**
@@ -206,6 +207,7 @@ Currently the plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louis
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-08-31 | 1.5.1 | Buffed the power output and made the Sentinel Reactor adaptive to the ship's current heat level. Added FOE-equipped variants to Syndicate fleets. |
 | 2025-08-27 | 1.5.0 | Event fixes and tinkering. Removed Single Plasma Turret, only left its definition for compatibility (instead see [Rumskib](https://github.com/TheGiraffe3/rumskib)). Replaced images for Single and Dual Particle Turrets by ones in modern style. Fixed restocks for Flak Cannon and Javelin Pod Turret. Fuel shields now provide fuel protection. Removed for now the negative leak protection from compressed fuel pod because there's nothing that actually causes leak damage yet. Type 0 Radiant Engines also in advanced Wanderer outfitter, not only basic one. Removed unused files, beautified icon. |
 | 2025-07-19 | 1.4.0 | Added support for Omnis. Plus hotfixes. |
 | 2025-07-11 | 1.3.0 | Added subset of Pirate Expansion, updated with series and index specifications. Updated missile turrets after author's update. Reduced fuel consumption of the fuel shields. |

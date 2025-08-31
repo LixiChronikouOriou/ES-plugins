@@ -10,7 +10,7 @@
 		"Manta (FOE 1)"
 fleet "Large Syndicate"
 	add variant 3
-		"Splinter  (FOE 1)"
+		"Splinter (FOE 1)"
 		"Quicksilver (FOE 1)" 3
 	add variant 1
 		"Splinter (FOE 1)" 2

@@ -14,7 +14,7 @@ Has individual dialogue boxes for each of the following situations.
 | Faction | Requires | Results |
 |---------|----------|----------|
 | Free Worlds | Main plot complete. All FW systems except Alioth and Girtab dominated. | Recovered reputation for FW and Militia. Revoked militia license will be restored. New Tibet (Alioth) and Harmony (Girtab) will pay symbolic tribute (1 credit) to color the map properly. |
-| Republic | Main plot complete. All Republican systems dominated. | Recovered reputation for Republic and Deep Security. Revoked navy licenses will **not** be restored. |
+| Republic | Main plot complete. All Republican systems dominated. | Recovered reputation for Republic, Deep Security and Militia. Revoked navy licenses will **not** be restored. |
 | Syndicate | Main plot complete. All Syndicate systems dominated. | Recovered reputation for Syndicate. |
 | Free State <sup>1</sup> | Main plot complete. All Free State systems dominated. | Recovered reputation for Free State and Militia. |
 | Commonwealth<sup>2</sup> | Main plot complete. All Commonwealth systems dominated. | Recovered reputation for Commonwealth and Militia. |
@@ -34,5 +34,6 @@ Has individual dialogue boxes for each of the following situations.
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-09-07 | 1.1.0 | Tarazed will become independent as the Commonwealth after the main campaign, if it hasn't joined the FW. Buffed Commonwealth defense. Plus some maintainance stuff. |
 | 2025-08-13 | 1.0.1 | Added missing Deneb system. Added militia reputation to be restored after Republic tributed. Now set new reputation after conquest only to 1, if the player's faction reputation really has become smaller than 1. Resized icon. |
 | 2025-08-09 | 1.0.0 | Initial release. |

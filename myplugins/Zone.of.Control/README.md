@@ -34,6 +34,7 @@ Has individual dialogue boxes for each of the following situations.
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-09-07 | 1.1.0 | Tarazed will become independent as the Commonwealth after the main campaign, if it hasn't joined the FW. Buffed Commonwealth defense. Plus some maintainance stuff. |
+| 2025-09-07 | 1.1.0 | Tarazed will become independent as the Commonwealth after the main campaign, if it hasn't joined the FW. Buffed Commonwealth defense. Plus some maintenance stuff. |
 | 2025-08-13 | 1.0.1 | Added missing Deneb system. Added militia reputation to be restored after Republic tributed. Now set new reputation after conquest only to 1, if the player's faction reputation really has become smaller than 1. Resized icon. |
 | 2025-08-09 | 1.0.0 | Initial release. |
+

@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-09-07 | update: Jaws<br>
 2025-09-07 | update: Zone.of.Control<br>
 2025-09-07 | update: Factory.Outlets<br>
 2025-08-31 | update: Fundamental.Outfit.Expansion<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-08-20 | update: Bunsen.Burner<br>
 2025-08-20 | update: Jaws<br>
 2025-08-13 | update: Factory.Outlets<br>
-2025-08-13 | update: Zone.of.Control<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -231,7 +231,7 @@ Currently the plugins [DAIS](https://github.com/Daeridanii1/DAIS), [RW Ships](ht
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Jaws.png'>
 
-[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.2-Jaws/Jaws.zip) | 3.46 mb | 2025-08-20 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [53]<br>
+[Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.3-Jaws/Jaws.zip) | 3.33 mb | 2025-09-07 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [53]<br>
 <br>
 >Completely harmless space wildlife, which you can randomly shoot at. Trust me.
 
@@ -261,6 +261,7 @@ In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with o
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-09-07 | 1.2.3 | Adjusted icon. |
 | 2025-08-20 | 1.2.2 | Changed electrophorus glow effect color to blue. |
 | 2025-08-06 | 1.2.1 | Replaced custom on-death effect with an appropriate vanilla one, such significantly reducing file size. |
 | 2025-08-05 | 1.2.0 | Habitat expansion, added derelict Aberrants with rare items, tweaked stats, added image for ripping maw, becoming also the new icon. Reduced plugin size further. | 

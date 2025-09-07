@@ -2,10 +2,10 @@ graphic files for the plugin: Jaws<br>
 <br>
 <table>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Jaws/icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Jaws/icon.png" height="200"></a><br>
-		icon.png [240x240]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Jaws/icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Jaws/icon.png" width="132" height="132"></a><br>
+		icon.png [132x132]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Jaws/icon@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Jaws/icon@2x.png" height="200"></a><br>
-		icon@2x.png [480x480]</td>
+		icon@2x.png [264x264]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Jaws/images/effect/glow blue+0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Jaws/images/effect/glow blue+0.png" height="200"></a><br>
 		glow blue+0.png [400x400]</td>
 	</tr>

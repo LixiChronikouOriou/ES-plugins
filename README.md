@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-09-07 | update: Zone.of.Control<br>
 2025-09-07 | update: Factory.Outlets<br>
 2025-08-31 | update: Fundamental.Outfit.Expansion<br>
 2025-08-27 | update: Louise.Conglomerate.Shipyards<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-08-20 | update: Jaws<br>
 2025-08-13 | update: Factory.Outlets<br>
 2025-08-13 | update: Zone.of.Control<br>
-2025-08-09 | update: Zone.of.Control<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -428,7 +428,7 @@ This plugins replaces the sales of Shuttle, Heavy Shuttle, Bounder, Arrow, Hogsh
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Zone.of.Control.png'>
 
-[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0.fixed-Zone.of.Control/Zone.of.Control.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
+[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Zone.of.Control/Zone.of.Control.zip) | 46.91 kb | 2025-09-07 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
 <br>
 >Provides a proper way to tribute human space after finishing the main plot without needing to save-edit (Free Worlds) or being dependent on time slots during campaign (Republic & Syndicate). Also handles independent systems by defining own polities to avoid issues with independent mission NPCs. And adds some vanilla mission chain related candy.
 

@@ -9,6 +9,7 @@ outfitter "Fuel Shield Advanced"
 	`FS-67 Aurum`
 
 outfitter "Delta V Advanced"
+	add "Engineering Room"
 	add "Flak Cannon"
 	add "Flak Shell"
 	add "Hesperian Toolbox"
@@ -17,6 +18,7 @@ outfitter "Delta V Advanced"
 	add "Shipwright Gear"
 
 outfitter "Kraz Advanced"
+	add "Engineering Room"
 	add "Extended Bunk Room"
 	add "Heavy Blaster"
 	add "Heavy Blaster Turret"

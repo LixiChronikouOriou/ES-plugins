@@ -5,6 +5,7 @@
 
 outfitter "Syndicate Advanced"
 	add "Barrage Blaster Turret"
+	add "Engineering Room"
 	add "Extended Bunk Room"
 	add "FOE: PDP016 Battery Pack"
 	add "FOE: PDP032 Battery Pack"

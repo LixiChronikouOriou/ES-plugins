@@ -151,6 +151,13 @@ License: CC-BY-SA-4.0
 Comment: Moved from Louise.Conglomerate.Shipyards.
 
 Files:
+ data/Lost in Midnight/*
+ images/outfit/engineering room.png
+Copyright: Michael Arsollon <midnightplugins@outlook.com>
+License: GPL-3+
+Comment: -
+
+Files:
  data/Becca Finmeccanica/*
  data/Gear/*
 Copyright: Timeout <https://github.com/LixiChronikouOriou>

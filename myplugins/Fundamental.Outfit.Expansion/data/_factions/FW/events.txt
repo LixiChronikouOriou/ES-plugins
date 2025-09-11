@@ -117,6 +117,6 @@ mission "FOE: Quickstart FW"
 		has "event: quickstart free worlds shop changes"
 	on offer
 		event "foe: ranger gear"
-		event "fow: fw startup tech available"
+		event "foe: fw startup tech available"
 		event "foe: fuel shield generators available"
 		event "foe: plasma repeater turret"

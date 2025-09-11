@@ -1,4 +1,5 @@
 ﻿outfitter "Deep Sky Advanced"
+	add "Engineering Room"
 	add "Extended Bunk Room"
 	add "Shipwright Gear"
 	add "Hesperian Toolbox"
@@ -6,6 +7,7 @@
 	add "HTS Crafter"
 
 outfitter "Lovelace Advanced"
+	add "Engineering Room"
 	add "Extended Bunk Room"
 	add "Hesperian Toolbox"
 	add "HTS Artisan"

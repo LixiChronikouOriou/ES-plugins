@@ -68,7 +68,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src="myplugins/Bunsen.Burner/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png' width="130" height="20">
 
 [Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0-Bunsen.Burner/Bunsen.Burner.zip) | 284.36 kb | 2025-08-20 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
 <br>
@@ -113,7 +113,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 <img src="myplugins/Factory.Outlets/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Factory.Outlets.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Factory.Outlets.png' width="130" height="20">
 
 [Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Factory.Outlets/Factory.Outlets.zip) | 36.57 kb | 2025-09-07 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [2]<br>
 <br>
@@ -170,7 +170,7 @@ Currently the plugins [DAIS](https://github.com/Daeridanii1/DAIS), [RW Ships](ht
 
 <img src="myplugins/Fundamental.Outfit.Expansion/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png' width="130" height="20">
 
 [Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.6.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 4.85 mb | 2025-09-11 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [324]<br>
 <br>
@@ -231,7 +231,7 @@ Currently the plugins [DAIS](https://github.com/Daeridanii1/DAIS), [RW Ships](ht
 
 <img src="myplugins/Jaws/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Jaws.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Jaws.png' width="130" height="20">
 
 [Jaws.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.3-Jaws/Jaws.zip) | 3.33 mb | 2025-09-07 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Jaws/) <a href="res/imagemd/Jaws.md">view images</a> [53]<br>
 <br>
@@ -283,7 +283,7 @@ In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with o
 
 <img src="myplugins/Korunak.Defense.Drones/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png' width="130" height="20">
 
 [Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 541.62 kb | 2025-07-19 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [18]<br>
 <br>
@@ -334,7 +334,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 <img src="myplugins/Louise.Conglomerate.Shipyards/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png' width="130" height="20">
 
 [Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 2.51 mb | 2025-08-27 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [26]<br>
 <br>
@@ -385,7 +385,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 <img src="myplugins/Solar.Sails/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Solar.Sails.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Solar.Sails.png' width="130" height="20">
 
 [Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.1.0-Solar.Sails/Solar.Sails.zip) | 1.45 mb | 2025-08-20 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [19]<br>
 <br>
@@ -429,7 +429,7 @@ This plugins replaces the sales of Shuttle, Heavy Shuttle, Bounder, Arrow, Hogsh
 
 <img src="myplugins/Zone.of.Control/icon.png" height="100">
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Zone.of.Control.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Zone.of.Control.png' width="130" height="20">
 
 [Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Zone.of.Control/Zone.of.Control.zip) | 46.91 kb | 2025-09-07 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
 <br>

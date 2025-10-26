@@ -36,7 +36,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 %icon%
 
-<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/%name%.png'>
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/%name%.png' width="130" height="20">
 
 [%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
 <br>

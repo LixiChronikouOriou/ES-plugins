@@ -149,7 +149,7 @@ fleet "Paradise Merchants"
 		"Blackbird (Sails)"
 		"Sparrow" 2
 	add variant 1
-		"Blackbird (Sails)"
+		"Blackbird (Sails)"
 		"Berserker" 2
 
 
@@ -176,7 +176,7 @@ fleet "Small Northern Merchants"
 	add variant 2
 		"Bounder (Sails)"
 	add variant 5
-		"Blackbird (Sails"
+		"Blackbird (Sails)"
 
 
 fleet "Large Northern Merchants"
@@ -217,7 +217,7 @@ fleet "Large Northern Merchants"
 		"Hogshead (Sails)"
 		"Firebird"
 	variant 2
-		"Blackbird"
+		"Blackbird (Sails)"
 		"Hawk" 3
 
 

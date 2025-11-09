@@ -4,5 +4,5 @@ Fundamental.Outfit.Expansion|1.6.0
 Jaws|1.2.3
 Korunak.Defense.Drones|1.1.0
 Louise.Conglomerate.Shipyards|1.2.1
-Solar.Sails|2.1.0
+Solar.Sails|2.1.1.fixed
 Zone.of.Control|1.1.0

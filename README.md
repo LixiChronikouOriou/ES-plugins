@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-09 | update: Factory.Outlets<br>
 2025-09-11 | update: Fundamental.Outfit.Expansion<br>
 2025-09-07 | update: Jaws<br>
 2025-09-07 | update: Zone.of.Control<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-08-27 | update: Fundamental.Outfit.Expansion<br>
 2025-08-20 | update: Solar.Sails<br>
 2025-08-20 | update: Bunsen.Burner<br>
-2025-08-20 | update: Jaws<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -115,7 +115,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Factory.Outlets.png' width="130" height="20">
 
-[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Factory.Outlets/Factory.Outlets.zip) | 36.57 kb | 2025-09-07 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [2]<br>
+[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.1-Factory.Outlets/Factory.Outlets.zip) | 395.2 kb | 2025-11-09 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [10]<br>
 <br>
 >Adds Factory Outlet Stations around the HQ planets of shipyard companies, where basically only ship hulls (with just few essential outfits) are sold, such reducing the price significantly.
 
@@ -155,6 +155,7 @@ Currently the plugins [DAIS](https://github.com/Daeridanii1/DAIS), [RW Ships](ht
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-11-09 | 1.1.1 | Added landing images for the 8 human outlet stations. |
 | 2025-09-07 | 1.1.0 | Added support for [DAIS](https://github.com/Daeridanii1/DAIS). Adjusted icon. |
 | 2025-08-13 | 1.0.0 | Complete re-implementation. Ships come with minimal outfits, sold in factory outlet stations around the shipyards' HQ planets. Plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louise Conglomerate Shipyards](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) supported. |
 | 2017-09-14 | - | Last update of the *Bare Ships* plugin by Lifeyouristhis. |
@@ -405,13 +406,14 @@ An overhaul and re-publication of TheronEpic's [Solar Sails](https://github.com/
 
 One major change made, proposed by **Kitteh**, was to switch from reflective to diffractive solar sails. Therefore the sails, besides providing thrust and turn, also generate energy. However, reverse thrust as introduced by the original, was removed because of a lack of explainability.
 
-This plugins replaces the sales of Shuttle, Heavy Shuttle, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Freighter and Sunder with sail variants, superior to the vanilla versions. Also removes the shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards.
+This plugins replaces the sales of Shuttle, Heavy Shuttle, Blackbird, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Clipper, Freighter and Sunder with sail variants, superior to the vanilla versions. Also removes the shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards.
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-08-20 | 2.1.0 | Added sale variants with sails for Shuttle, Heavy Shuttle, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Freighter and Sunder, replacing the vanilla sales of these ships. Changed merchant fleets correspondingly with varying region-dependent probabilities. Removed shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards. |
+| 2025-11-09 | 2.1.1 | Added sail variants of the Clipper and Blackbird for sale and fleets. |
+| 2025-08-20 | 2.1.0 | Added sail variants for Shuttle, Heavy Shuttle, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Freighter and Sunder, replacing the vanilla sales of these ships. Changed merchant fleets correspondingly with varying region-dependent probabilities. Removed shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards. |
 | 2025-07-19 | 2.0.2 | Fixes. |
 | 2025-06-12 | 2.0.1 | Added series and index specifications. Removed unused files. Changed icon. |
 | 2025-06-01 | 2.0.0 | Complete rework -- Made the solar sails to be diffractive, i.e. added solar collection. Buffed relation of turn/thrust to used engine/outfit space, change from turn/thrust heat to solar heat, and removed reverse thrust. Also removed front sail variants, and KP-3 and KPM-6 panels. Added @2x images. Removed experimental status. |

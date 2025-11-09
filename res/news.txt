@@ -1,3 +1,4 @@
+2025-11-09 | update: Factory.Outlets
 2025-09-11 | update: Fundamental.Outfit.Expansion
 2025-09-07 | update: Jaws
 2025-09-07 | update: Zone.of.Control

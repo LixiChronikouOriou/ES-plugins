@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-10 | update: Factory.Outlets<br>
 2025-11-09 | update: Solar.Sails<br>
 2025-11-09 | update: Factory.Outlets<br>
 2025-09-11 | update: Fundamental.Outfit.Expansion<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-08-31 | update: Fundamental.Outfit.Expansion<br>
 2025-08-27 | update: Louise.Conglomerate.Shipyards<br>
 2025-08-27 | update: Fundamental.Outfit.Expansion<br>
-2025-08-20 | update: Solar.Sails<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -115,7 +115,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Factory.Outlets.png' width="130" height="20">
 
-[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.1-Factory.Outlets/Factory.Outlets.zip) | 395.2 kb | 2025-11-09 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [10]<br>
+[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.0-Factory.Outlets/Factory.Outlets.zip) | 409.75 kb | 2025-11-10 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [11]<br>
 <br>
 >Adds Factory Outlet Stations around the HQ planets of shipyard companies, where basically only ship hulls (with just few essential outfits) are sold, such reducing the price significantly.
 
@@ -133,13 +133,14 @@ Ship price = hull + outfit prices. This simple equation has the consequence that
 
 Based on an idea of [Lifeyouristhis](https://github.com/lifeyouristhis), this plugin introduces *Factory Outlets*. Around the headquarter planets of the shipyard companies stations have been placed which sell their ships with only a minimum sets of outfits, just enough to let a ship fly. For instance, a Leviathan's standard price is 17.1 Mio credits, but at the Betelgeuse Factory Outlet station it's only 9.9 Mio.
 
-No factory outlet for Navy ships, because lore. No factory outlet ship variants for fighter and drones, because senseless.
+No factory outlet for Navy ships, because lore. No factory outlet ship variants for fighters and drones, because senseless.
 
-Currently the plugins [DAIS](https://github.com/Daeridanii1/DAIS), [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louise Conglomerate Shipyards](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) are supported. More are intended.
+Currently the plugins [Blended Ships](https://github.com/mOctave/blended-ships), [DAIS](https://github.com/Daeridanii1/DAIS), [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight), [Louise Conglomerate Shipyards](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards), and [RW Ships](https://www.moddb.com/mods/rw-ships) are supported.
 
 | Shipyard | HQ System |
 |--------|----------|
 | Betelgeuse  | Betelgeuse |
+| [Greenrock](https://github.com/mOctave/blended-ships) | Shaula |
 | Lionheart   | Epsilon Leonis |
 | [Louise](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards)      | Alphard |
 | Megaparsec  | Mirfak |
@@ -155,6 +156,7 @@ Currently the plugins [DAIS](https://github.com/Daeridanii1/DAIS), [RW Ships](ht
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-11-10 | 1.2.0 | Added support for [Blended Ships](https://github.com/mOctave/blended-ships) and [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight). |
 | 2025-11-09 | 1.1.1 | Added landing images for the 8 human outlet stations. |
 | 2025-09-07 | 1.1.0 | Added support for [DAIS](https://github.com/Daeridanii1/DAIS). Adjusted icon. |
 | 2025-08-13 | 1.0.0 | Complete re-implementation. Ships come with minimal outfits, sold in factory outlet stations around the shipyards' HQ planets. Plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louise Conglomerate Shipyards](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) supported. |

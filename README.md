@@ -26,6 +26,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-16 | update: Solar.Sails<br>
 2025-11-10 | update: Factory.Outlets<br>
 2025-11-09 | update: Solar.Sails<br>
 2025-11-09 | update: Factory.Outlets<br>
@@ -35,7 +36,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-09-07 | update: Factory.Outlets<br>
 2025-08-31 | update: Fundamental.Outfit.Expansion<br>
 2025-08-27 | update: Louise.Conglomerate.Shipyards<br>
-2025-08-27 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -390,7 +390,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Solar.Sails.png' width="130" height="20">
 
-[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.1.1-Solar.Sails/Solar.Sails.zip) | 1.45 mb | 2025-11-09 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [19]<br>
+[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.1.2-Solar.Sails/Solar.Sails.zip) | 1.45 mb | 2025-11-16 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [19]<br>
 <br>
 >Epic diffractive solar sails for Human and Coalition space, providing thrust, turn and solar collection, thereby using only outfitspace worth of half the consumed enginespace.
 
@@ -408,12 +408,15 @@ An overhaul and re-publication of TheronEpic's [Solar Sails](https://github.com/
 
 One major change made, proposed by **Kitteh**, was to switch from reflective to diffractive solar sails. Therefore the sails, besides providing thrust and turn, also generate energy. However, reverse thrust as introduced by the original, was removed because of a lack of explainability.
 
-This plugins replaces the sales of Shuttle, Heavy Shuttle, Blackbird, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Clipper, Freighter and Sunder with sail variants, superior to the vanilla versions. Also removes the shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards.
+This plugin replaces the sales of Arrow, Bounder, Clipper, Freighter, Heavy Shuttle, Hogshead, Shuttle, Star Queen, Star Barge and Sunder with sail variants, superior to the vanilla versions. Also removes the shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards.
+
+Overwrites the starter ship sales on New Boston with optimized variants and an added option.
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-11-16 | 2.1.2 | Reduced acceleration penalty to make large and huge sails more usable. Reworked stock outfits for sail-ship sales. Removed Sails-Blackbird sale. Replaced starter ships on New Boston. |
 | 2025-11-09 | 2.1.1 | Added sail variants of the Clipper and Blackbird for sale and fleets. |
 | 2025-08-20 | 2.1.0 | Added sail variants for Shuttle, Heavy Shuttle, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Freighter and Sunder, replacing the vanilla sales of these ships. Changed merchant fleets correspondingly with varying region-dependent probabilities. Removed shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards. |
 | 2025-07-19 | 2.0.2 | Fixes. |

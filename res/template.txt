@@ -1,20 +1,19 @@
-# ES Plugin Re-publications #
+# Endless Sky Plugins #
 
-This repository aims at the re-publication of older plugins by various authors which need some kind of overhaul, as vanilla ES has continued its development and some things just don't fit anymore. Just think of the 0.10.7 ship and engines rebalancing.
+This repository originally aimed at the re-publication of older plugin-content by various authors which needed some kind of overhaul, as vanilla ES has continued its development and some things don't fit anymore. Just think of the 0.10.7 ship and engines rebalancing.
 
-LixiChronikouOriou, aka Timeout on Discord, is *not* the author of these plugins, just their editor.
+LixiChronikouOriou, aka Timeout on Discord, is *not* the author of those republished plugins, just their editor. However, with the time also own content was added. May You have fun with those, too.
 
 But first lets begin with a short...
 <details>
 <summary>:blue_book: <b>Plugin Recommendation List</b></summary>
 
-This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> setup. They're more or less close to vanilla, and are rounded-off, i.e. new ships and outfits have their own images. Some of them provide basic QoL. However, there's much more interesting stuff out there for any taste, notably the works of <a href='https://github.com/AvianGeneticist'>AvianGeneticist</a>, things barely someone has thought of and testing out the borders of ES's mechanics.<br><br>Consult the <a href='https://endless-sky.github.io/plugins.html'>ES Plugin List</a>, Hecter's <a href='https://github.com/Hecter94/EndlessSky-PluginArchive'>ES Plugin Archive</a>, and the <a href='https://discord.com/channels/251118043411775489/1208535517759807519'>Discord Plugin Release Channel</a> for more.
+This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> setup. They're more or less close to vanilla, and are rounded-off, i.e. new ships and outfits have their own images. Some of them provide basic QoL. However, there's much more interesting stuff out there for any taste, notably the works of <a href='https://github.com/AvianGeneticist'>AvianGeneticist</a>, things barely someone has thought of and testing out the borders of ES's mechanics.<br><br>Consult the <a href='https://endless-sky.github.io/plugins.html'>ES Plugin List</a>, Hecter's <a href='https://github.com/Hecter94/EndlessSky-PluginArchive'>ES Plugin Archive</a>, and the <a href='https://discord.com/channels/251118043411775489/1430395553107410944'>Plugin Release Channel</a> and <a href='https://discord.com/channels/251118043411775489/1208535517759807519'>Plugin Release Archive</a> on ES's Discord server for more.
 
 | Author  | Plugin(s) | Note |
 |---------|-----------|------|
 | *anonymous* | [RW Ships](https://www.moddb.com/mods/rw-ships) | RW Ships is a must-have, introducing Pickerberry Heavy Industries (HQ New Britain) with shipyards and outfitters. The [RW Extras](https://www.moddb.com/mods/rw-extras) are a collection of neat stuff, from which the human outfits and weapons have been included with permission into [FOE](https://github.com/LixiChronikouOriou/ES-plugins?tab=readme-ov-file#fundamentaloutfitexpansion) for being, well, fundamental. |
 | [Daeridanii](https://github.com/Daeridanii1?tab=repositories) | [DAIS](https://github.com/Daeridanii1/DAIS) | Popular plugin which introduces additional interesting ships. |
-| Kitteh | [Cardboard Box](https://discord.com/channels/251118043411775489/1208535517759807519/1375982966135717888) | A testbed for some of Kitteh's creative ideas. Partly has been, and partly potentially will be introduced in Rumskib. Install if you want to be ahead, Kitteh cared for the compatibility to Rumskib. Only available on Discord. |
 | [MidnightPlugins](https://github.com/MidnightPlugins?tab=repositories) | [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight)<br>[Midnight Expansion](https://github.com/MidnightPlugins/Midnight-Expansion)<br>[Midnight Scrapyard](https://github.com/MidnightPlugins/Midnight-Scrapyard)<br>[Mineral Miser](https://github.com/MidnightPlugins/Mineral-Miser) | Some people consider the Midnight-Trilogy in union with Vanilla ES to form a de-facto ES 1.0.0 |
 | [mOctave](https://github.com/mOctave?tab=repositories) | [Blended Ships](https://github.com/mOctave/blended-ships) | Nomen est omen. The difference to blended whiskey is, that these ships remain premium. |
 | [TheGiraffe3](https://github.com/TheGiraffe3?tab=repositories) | [Rumskib](https://github.com/TheGiraffe3/rumskib) | While not even the author knows why being named like that, it is an ambitious project of a vanilla+ expansion of ships, outfits and missions. |

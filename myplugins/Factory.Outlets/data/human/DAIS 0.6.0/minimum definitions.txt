@@ -1,4 +1,5 @@
 ﻿ship "Erinys"
+	plural "Erinyes"
 	attributes
 		"drag" 8.6
 		"cargo space" 25

@@ -1,4 +1,4 @@
-﻿ship "Buttle (Bare)"
+﻿ship "Buttle" "Buttle (Bare)"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -7,7 +7,7 @@
 		"Hyperdrive"
 		"Cooling Ducts"
 
-ship "Cleaver (Bare)"
+ship "Cleaver" "Cleaver (Bare)"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -16,7 +16,7 @@ ship "Cleaver (Bare)"
 		"Hyperdrive"
 		"Cooling Ducts"
 
-ship "Dragonfly (Bare)"
+ship "Dragonfly" "Dragonfly (Bare)"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -25,7 +25,7 @@ ship "Dragonfly (Bare)"
 		"Hyperdrive"
 		"Cooling Ducts"
 
-ship "Recruiter (Bare)"
+ship "Recruiter" "Recruiter (Bare)"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -34,7 +34,7 @@ ship "Recruiter (Bare)"
 		"Hyperdrive"
 		"Cooling Ducts"
 
-ship "Tanager (Bare)"
+ship "Tanager" "Tanager (Bare)"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"

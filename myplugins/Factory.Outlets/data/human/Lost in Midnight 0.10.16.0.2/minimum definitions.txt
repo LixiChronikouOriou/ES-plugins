@@ -96,6 +96,7 @@ ship "Buckler"
 		"engine capacity" 35
 
 ship "Starbus"
+	plural "Starbusses"
 	attributes
 		"drag" 3
 		"cargo space" 20

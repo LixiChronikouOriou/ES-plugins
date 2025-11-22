@@ -1,4 +1,20 @@
-﻿mission "Factory Outlets: Midnight Heavy Haulers Bare II"
+﻿mission "Factory Outlets: LiM installed"
+	landing
+	invisible
+	non-blocking
+	repeat
+	to offer
+		has "installed plugin: Lost in Midnight"
+		not "event: factory outlets: lim installed"
+	on offer
+		event "factory outlets: lim installed"
+		clear "event: factory outlets: lim uninstalled"
+		fail
+
+event "factory outlets: lim installed"
+
+
+mission "Factory Outlets: Midnight Heavy Haulers Bare II"
 	landing
 	invisible
 	to offer
@@ -130,3 +146,40 @@ mission "Factory Outlets: Midnight Buckler"
 event "factory outlets: midnight buckler"
 	shipyard "Lionheart Bare"
 		add "Buckler (Bare)"
+
+
+mission "Factory Outlets: LiM uninstalled"
+	landing
+	invisible
+	non-blocking
+	repeat
+	to offer
+		not "installed plugin: Lost in Midnight"
+		has "event: factory outlets: lim installed"
+	on offer
+		event "factory outlets: lim uninstalled"
+		clear "event: factory outlets: lim installed"
+		fail
+
+event "factory outlets: lim uninstalled"
+	shipyard "Megaparsec Bare"
+		remove "Heavy Hauler (Bare)"
+		remove "Heavy Hauler II (Bare)"
+		remove "Heavy Hauler III (Bare)"
+		remove "Stingray (Bare)"
+	shipyard "Southbound Bare"
+		remove "Heavy Hauler (Bare)"
+		remove "Starbus (Bare)"
+	shipyard "Betelgeuse Bare"
+		remove "Heavy Hauler (Bare)"
+		remove "Heavy Hauler II (Bare)"
+		remove "Star King (Bare)"
+	shipyard "Syndicate Bare"
+		remove "Light Freighter (Bare)"
+		remove "Heavy Freighter (Bare)"
+		remove "Mega Freighter (Bare)"
+		remove "Parapet (Bare)"
+		remove "Rampart (Bare)"
+		remove "Palisade (Bare)"
+	shipyard "Lionheart Bare"
+		remove "Buckler (Bare)"

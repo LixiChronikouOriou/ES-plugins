@@ -499,4 +499,3 @@ ship "Kestrel" "Kestrel (More Bays, Bare)"
 		"launch effect" "human internal"
 	bay "Fighter" 56 70
 		"launch effect" "human internal"
-

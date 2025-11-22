@@ -2,6 +2,7 @@
 	"Hekla Dora (Bare)"
 	"Hekla Vaba (Bare)"
 
+
 mission "Factory Outlets: DAIS installed"
 	landing
 	invisible
@@ -9,8 +10,10 @@ mission "Factory Outlets: DAIS installed"
 	repeat
 	to offer
 		has "installed plugin: DAIS"
+		not "event: factory outlets: dais installed"
 	on offer
 		event "factory outlets: dais installed"
+		clear "event: factory outlets: dais uninstalled"
 		fail
 
 event "factory outlets: dais installed"
@@ -33,3 +36,27 @@ mission "Factory Outlets: Erinyes Bare"
 event "factory outlets: erinyes bare"
 	shipyard "Southbound Bare"
 		add "Erinys (Bare)"
+
+
+mission "Factory Outlets: DAIS uninstalled"
+	landing
+	invisible
+	non-blocking
+	repeat
+	to offer
+		not "installed plugin: DAIS Ships"
+		has "event: factory outlets: dais installed"
+	on offer
+		event "factory outlets: dais uninstalled"
+		clear "event: factory outlets: dais installed"
+		fail
+
+event "factory outlets: dais uninstalled"
+	planet Thule
+		remove shipyard "Thule Bare"
+	shipyard "Lionheart Bare"
+		remove "Lindwurm (Bare)"
+	shipyard "Megaparsec Bare"
+		remove "Hydrargyrum (Bare)"
+	shipyard "Southbound Bare"
+		remove "Erinys (Bare)"

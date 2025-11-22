@@ -34,6 +34,15 @@ ship "Enforcer" "Enforcer (Bare)"
 		"Hyperdrive"
 		"Cooling Ducts"
 
+ship "Grackle" "Grackle (Bare)"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
 ship "Hornet" "Hornet (Bare)"
 	outfits
 		"nGVF-AA Fuel Cell"

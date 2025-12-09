@@ -42,7 +42,8 @@ outfit "Rapier Missile"
 		"acceleration" .8
 		"drag" .025
 		"turn" .75
-		"homing" 1
+		"homing"
+			"blindspot"
 		"optical tracking" .75
 		"shield damage" 1200 # 4x Piercer, rounded up
 		"hull damage" 1800   # 4x Piercer, rounded up

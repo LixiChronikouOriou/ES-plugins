@@ -9,7 +9,7 @@
 	"mass" .025
 	"autocannon shell capacity" -1
 	description "Autocannons rapidly fire large-caliber shells, having longer ranges and greater terminal performance than the smaller-caliber kinetic projectiles fired my machine guns like the Gatling."
-	description "	These autocannon shells are a collective group of ammunition. Depending on the weapon one has buyed them for they can be of explosive as well as armor-piercing character."
+	description "	These autocannon shells are a collective group of ammunition. Depending on the weapon one has bought them for they can be of explosive as well as armor-piercing character."
 
 
 outfit "FOE: Sekhmet Autocannon"

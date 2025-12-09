@@ -49,7 +49,8 @@ outfit "Heavy Meteor Missile Launcher"
 		"reload" 160
 		"firing energy" 1 # Not increased since it being 1 implies Meteors are only supposed to require "any energy at all" to fire and not a specific amount.
 		"firing heat" 60
-		"homing" 1
+		"homing"
+			"blindspot"
 		"infrared tracking" .65
 		cluster
 	description "The Meteor Missile's large warhead can spell doom for poorly-defended targets when fired in great numbers, and this multi-launcher helps with that, loading its ammunition sequentially onto a set of rails that allow a large number to be fired quickly at once."
@@ -69,7 +70,8 @@ outfit "heavy meteor missile launcher submunition"
 		"acceleration" 1
 		"drag" .1
 		"turn" 1.8
-		"homing" 1
+		"homing"
+			"blindspot"
 		"infrared tracking" .65
 		"shield damage" 360
 		"hull damage" 220

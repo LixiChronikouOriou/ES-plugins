@@ -9,9 +9,9 @@ planet ` Human`
 	add outfitter "Fuel Shield Advanced"
 
 outfitter "human"
-	add "FOE: Autocannon Shells"
-	add "FOE: Semkhet Autocannon"
-	add "FOE: Semkhet Dual Autocannon"
+	add "FOE: Autocannon Shell"
+	add "FOE: Sekhmet Autocannon"
+	add "FOE: Sekhmet Dual Autocannon"
 	add "FOE: Mafdet Autocannon"
 	add "FOE: Bastet Autocannon Turret"
 	add "Nuclear Missile Ammo"

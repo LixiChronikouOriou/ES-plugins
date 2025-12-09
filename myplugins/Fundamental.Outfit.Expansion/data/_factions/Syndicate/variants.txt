@@ -201,7 +201,7 @@ ship "Protector" "Protector (FOE 2)"
 		"Heavy Anti-Missile Turret"
 		"Hesperian Toolbox" 17
 		Hyperdrive
-		"Laser Rifle" 6
+		"Trooper Gear" 69
 		"Liquid Helium Cooler"
 		"Outfit Expansion (Small)"
 		"Outfits Expansion" 2

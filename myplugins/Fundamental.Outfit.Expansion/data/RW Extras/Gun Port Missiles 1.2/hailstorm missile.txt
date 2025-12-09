@@ -42,7 +42,8 @@ outfit "Hailstorm Missile"
 		"acceleration" .3
 		"drag" .05
 		"turn" 1.5
-		"homing" 3
+		"homing"
+			"throttle control"
 		"radar tracking" .8
 		"missile strength" 35 # submunition total x1.25
 		stream
@@ -68,7 +69,9 @@ outfit "Hailstorm Missile Submunition"
 		"acceleration" .6
 		"drag" .05 # 12 max velocity
 		"turn" 4
-		"homing" 4
+		"homing"
+			"leading"
+			"throttle control"
 		"radar tracking" .5
 		"shield damage" 900
 		"hull damage" 150

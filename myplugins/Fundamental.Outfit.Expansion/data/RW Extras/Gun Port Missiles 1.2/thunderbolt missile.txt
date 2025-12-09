@@ -46,7 +46,7 @@ outfit "Thunderbolt Missile"
 		"acceleration" .675
 		"drag" .075
 		"turn" 1.75
-		"homing" 2
+		"homing"
 		"infrared tracking" .95
 		"trigger radius" 25
 		"blast radius" 75

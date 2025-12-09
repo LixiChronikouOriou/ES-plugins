@@ -26,17 +26,17 @@ ship "Quill :FOE"
 			"hull damage" 90
 			"hit force" 270
 	outfits
-		"Energy Blaster" 2
-		"Blaster Turret"
-		"nGVF-BB Fuel Cell"
-		"LP036a Battery Pack"
+		"Anti-Missile Turret"
+		"Chipmunk Plasma Steering"
 		"D14-RN Shield Generator"
-		"X2700 Ion Thruster"
-		"X2200 Ion Steering"
-		"Hyperdrive"
-	turret 0 8.5 "Blaster Turret"
-	gun -17.5 -23 "Energy Blaster"
-	gun 17.5 -23 "Energy Blaster"
+		Hyperdrive
+		"LP036a Battery Pack"
+		"Twin Blaster" 2
+		"X1700 Ion Thruster"
+		"nGVF-BB Fuel Cell"
+	turret 0 8.5 "Anti-Missile Turret"
+	gun -17.5 -23 "Twin Blaster"
+	gun 17.5 -23 "Twin Blaster"
 	"steering engine" -17.5 23.5 0.5
 		right
 	"steering engine" 17.5 23.5 0.5
@@ -73,13 +73,12 @@ ship "Prickle :FOE"
 			"hit force" 180
 	outfits
 		"D14-RN Shield Generator"
-		"FOE: Autocannon Shell" 450
-		"FOE: Sekhmet Autocannon"
-		"KP-6 Photovoltaic Panel" 2
+		"KP-6 Photovoltaic Panel" 3
 		"LP036a Battery Pack"
+		"Twin Blaster"
 		"X1050 Ion Engines"
 	engine 0 24.5 
-	gun 0 -23.5 "FOE: Sekhmet Autocannon"
+	gun 0 -23.5 "Twin Blaster"
 	leak "leak" 60 50
 	explode "tiny explosion" 15
 	explode "small explosion" 5
@@ -111,18 +110,14 @@ ship "Serape :FOE"
 			"hull damage" 400
 			"hit force" 1200
 	outfits
+		"D23-QP Shield Generator"
 		"Heavy Anti-Missile Turret"
-		"Proton Gun" 2
-
-		"RT-I Radiothermal"
+		Hyperdrive
 		"LP144a Battery Pack"
-		"D14-RN Shield Generator"
-		"Laser Rifle" 2
-		
-		"X3700 Ion Thruster"
+		"Proton Gun" 2
 		"X3200 Ion Steering"
-		"Hyperdrive"
-		
+		"X3700 Ion Thruster"
+		"nGVF-CC Fuel Cell"		
 	engine -33 40
 	engine 33 40
 	turret 0 -20.5 "Heavy Anti-Missile Turret"

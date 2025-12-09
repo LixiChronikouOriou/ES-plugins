@@ -253,10 +253,10 @@ ship "Falconet :FOE"
 	
 	engine -6 58
 	engine 6 58
-	gun -8 -49
-	gun 8 -49
+	gun -8 -49 "Heavy Laser"
+	gun 8 -49 "Heavy Laser"
 	turret 5 -23 "Heavy Anti-Missile Turret"
-	turret -5 -23 "Heavy Anti-Missile Turret"
+	turret -5 -23
 	leak "leak" 60 50
 	leak "flame" 80 80
 	explode "tiny explosion" 20

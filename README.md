@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-31 | update: Zone.of.Control<br>
 2025-12-09 | update: Fundamental.Outfit.Expansion<br>
 2025-11-22 | update: Factory.Outlets<br>
 2025-11-16 | update: Solar.Sails<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-09-11 | update: Fundamental.Outfit.Expansion<br>
 2025-09-07 | update: Jaws<br>
 2025-09-07 | update: Zone.of.Control<br>
-2025-09-07 | update: Factory.Outlets<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -442,7 +442,7 @@ Overwrites the starter ship sales on New Boston with optimized variants and an a
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Zone.of.Control.png' width="130" height="20">
 
-[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Zone.of.Control/Zone.of.Control.zip) | 46.91 kb | 2025-09-07 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
+[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.1-Zone.of.Control/Zone.of.Control.zip) | 45.5 kb | 2025-12-31 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
 <br>
 >Provides a proper way to tribute human space after finishing the main plot without needing to save-edit (Free Worlds) or being dependent on time slots during campaign (Republic & Syndicate). Also handles independent systems by defining own polities to avoid issues with independent mission NPCs. And adds some vanilla mission chain related candy.
 
@@ -453,6 +453,8 @@ Overwrites the starter ship sales on New Boston with optimized variants and an a
 ### Zone of Control ###
 
 **Author: [Timeout](https://github.com/LixiChronikouOriou)**
+
+**Thanks**: Xobes
 
 #### Introduction ####
 In vanilla, tributing human space is a bit tedious because there are no mechanisms for making peace with the factions. The only systems which don't cause issues are the Pirates' ones. To tribute the Free Worlds one has to save-edit afterwards, for tributing Republic and Syndicate one has to use the phases during the main campaign to profit from the reputation reset afterwards. Independent systems like Men cause problems with neutral mission NPCs, so one has to save-edit here, too. Also the monastery planets New Tibet and Harmony cannot be tributed in vanilla, causing ugly spots on the conquest map.
@@ -485,6 +487,7 @@ Has individual dialogue boxes for each of the following situations.
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2024-12-31 | 1.1.1 | Icon was redesigned by Xobes. |
 | 2025-09-07 | 1.1.0 | Tarazed will become independent as the *Commonwealth* after the main campaign, if it hasn't joined the FW. Buffed Commonwealth defense. Plus some maintenance stuff. |
 | 2025-08-13 | 1.0.1 | Added missing Deneb system. Added militia reputation to be restored after Republic tributed. Now set new reputation after conquest only to 1, if the player's faction reputation really has become smaller than 1. Resized icon. |
 | 2025-08-09 | 1.0.0 | Initial release. |

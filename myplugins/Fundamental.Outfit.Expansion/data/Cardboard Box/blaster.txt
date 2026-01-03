@@ -1,0 +1,27 @@
+﻿outfit "FOE: Mortar Blaster"
+	"display name" "Mortar Blaster"
+	category "Guns"
+	series "Guns"
+	index 01042
+	cost 185000
+	thumbnail "outfit/blaster mortar"
+	"mass" 20
+	"outfit space" -20
+	"weapon capacity" -20
+	"gun ports" -1
+	weapon
+		sprite "projectile/heavy blaster"
+			scale 2
+		sound "heavy blaster"
+		"hit effect" "blaster impact" 2
+		"reload" 30
+		"burst count" 2
+		"burst reload" 4
+		"inaccuracy" 3
+		"velocity" 12
+		"lifetime" 40
+		"firing energy" 69
+		"firing heat" 215
+		"shield damage" 121
+		"hull damage" 90.5
+	description "The largest blaster gun on the market was designed as an ammo-less alternative for torpedoes, to be used by fast and agile ships in bombing runs against larger capital ships."

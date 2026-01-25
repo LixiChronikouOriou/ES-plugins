@@ -9,6 +9,10 @@ planet ` Human`
 	add outfitter "Fuel Shield Advanced"
 
 outfitter "human"
+	add "Particle Turret (Dual)"
+	add "FOE: Heavy Particle Turret"
+	add "FOE: Scorpion Stun Gun"
+	add "FOE: Scorpion Stun Turret"
 	add "Nuclear Missile Ammo"
 	add "Nuclear Missile Turret"
 	add "Ranger Gear"
@@ -21,6 +25,18 @@ outfitter "human"
 	add "FOE: R0518 Naval Shield"
 	add "FOE: Covalent Proton Turret"
 	add "FOE: Sentinel Reactor"
+	add "Hamster Plasma Engines"
+	add "A100 Atomic Engines"
+
+	# fix because of the Pirate outfitter thing in Omnis	
+	add "Slave"
+	add "Small Interference Emitter"
+	add "Active Radar Jammer"
+	add "FOE: Light Tractor Beam"
+	add "FOE: Heavy Tractor Beam"
+	add "Javelin Pod Turret"
+	add "Large Interference Emitter"
+
 
 outfitter "wanderer"
 	add "Type 5 Radiant Thruster"

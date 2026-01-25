@@ -9,7 +9,7 @@ outfit "Heavy Blaster"
 	"weapon capacity" -16
 	"gun ports" -1
 	weapon
-#		sprite "projectile/heavy blaster"
+#		sprite "projectile/heavy blaster" 
 #		sound "heavy blaster"
 #		"hit effect" "blaster impact" 2
 		"inaccuracy" 3
@@ -49,4 +49,4 @@ outfit "Heavy Blaster Turret"
 		"firing heat" 120
 		"shield damage" 68
 		"hull damage" 49.2
-	description `Turreted version of the heavy blaster. While it's significantly larger than Proton Turrets it's also capable of outputting more fire power to combat larger warships.`
+	description `Turreted version of the Heavy Blaster. While it's significantly larger than Proton Turrets it's also capable of outputting more fire power to combat larger warships.`

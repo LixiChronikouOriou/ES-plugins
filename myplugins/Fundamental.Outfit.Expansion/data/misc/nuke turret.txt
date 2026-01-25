@@ -15,8 +15,8 @@ outfit "Nuclear Missile Turret"
 	series "Secondary Weapons"
 	index 01171
 	cost 22000000
-	thumbnail "outfit/nuke 9 turret"
-	"mass" 10
+	thumbnail "outfit/nuke turret"
+	"mass" 10 # empty
 	"outfit space" -100 # 9x nukes + 10 for the turret mount
 	"weapon capacity" -100
 	"turret mounts" -1
@@ -25,7 +25,7 @@ outfit "Nuclear Missile Turret"
 		sprite "projectile/missile"
 			"no repeat"
 			"frame rate" .25
-		"hardpoint sprite" "hardpoint/nuke 9 turret hp"
+		"hardpoint sprite" "hardpoint/nuke turret"
 		"hardpoint offset" .5
 		"turret turn" 0.7
 		sound "nuke"

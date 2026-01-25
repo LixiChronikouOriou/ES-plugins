@@ -31,14 +31,14 @@ outfit "HTS Duct-Tape"
 	category "Systems"
 	series "Repair"
 	index 01021
-	cost 1000
+	cost 10000
 	thumbnail "outfit/duct tape"
 	mass 0.1
 	"outfit space" 0
 	"hull repair rate" .01
-	"tool compartments" -1
 	"weapon capacity" 1
-	"cooling inefficiency" 1
+	"cooling inefficiency" 2
+	"heat dissipation" -.0005
 	description `Hesperian is the only vendor providing duct-tape certified for use in space. Proven emergency solution to prevent a damaged ship from falling apart. Enough duct-tape also allows to attach more weaponry. Too much duct-tape might cause cooling issues.`
 
 outfit "HTS Artisan"

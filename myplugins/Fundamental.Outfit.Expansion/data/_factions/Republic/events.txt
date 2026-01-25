@@ -8,6 +8,7 @@
 	on offer
 		event "foe: lovelace tech available"
 		conversation
+			scene "outfit/tactical military outfit"
 			scene "outfit/large navy shield"
 			scene "outfit/particle turret dual"
 			scene "outfit/particle turret heavy"

@@ -49,7 +49,6 @@ event "foe: fw startup tech available"
 	outfitter "Kraz Advanced"
 		add "FOE: Plasma Howitzer"
 		add "FOE: Compressed Fuel Pod"
-		add "FOE: Mortar Blaster"
 
 event "foe: fuel shield generators available"
 	planet "Dune"
@@ -70,6 +69,10 @@ event "foe: fuel shield generators available"
 		add outfitter "Fuel Shield Advanced"
 	planet "Zug"
 		add outfitter "Fuel Shield Advanced"
+
+event "foe: mortar blaster available"
+	outfitter "Kraz Advanced"
+		add "FOE: Mortar Blaster"
 
 event "foe: plasma repeater turret"
 	outfitter "Kraz Advanced"

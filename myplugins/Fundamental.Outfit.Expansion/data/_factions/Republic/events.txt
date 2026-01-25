@@ -36,4 +36,4 @@ mission "FOE: Quickstart Republic"
 	to offer
 		has "event: quickstart free worlds shop changes"
 	on offer
-		event "foe: navy shield generators available"
+		event "foe: lovelace tech available"

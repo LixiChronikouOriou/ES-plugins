@@ -8,7 +8,7 @@
 	add "HTS Crafter"
 	add "Shipwright Gear"
 
-/outfitter "Lovelace Advanced"
+outfitter "Lovelace Advanced"
 	add "Engineering Room"
 	add "Extended Bunk Room"
 	add "FOE: Laser Sight"

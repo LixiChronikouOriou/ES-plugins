@@ -184,6 +184,7 @@ Currently the plugins [Blended Ships](https://github.com/mOctave/blended-ships),
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
+
 ### Fundamental Outfit Expansion ###
 
 **Authors:** see table

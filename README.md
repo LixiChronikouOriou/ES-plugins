@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-02-04 | update: Louise.Conglomerate.Shipyards<br>
 2026-01-25 | update: Fundamental.Outfit.Expansion<br>
 2025-12-31 | update: Korunak.Defense.Drones<br>
 2025-12-31 | update: Zone.of.Control<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-11-10 | update: Factory.Outlets<br>
 2025-11-09 | update: Solar.Sails<br>
 2025-11-09 | update: Factory.Outlets<br>
-2025-09-11 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -351,11 +351,9 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png' width="130" height="20">
 
-[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 2.51 mb | 2025-08-27 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [26]<br>
+[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.0-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 3.41 mb | 2026-02-04 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [38]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
-
->Requires: Fundamental.Outfit.Expansion.
 
 
 <details>
@@ -365,20 +363,21 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 **Author: [Loyse](https://github.com/loiseeer)**
 
-**Requires**: [Fundamental.Outfit.Expansion](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion)
+**Editor:** Timeout
 
-**Thanks**: Kitteh, Corvettefan
+**Thanks**: Kitteh for testing and additional artwork, as well as Corvettefan and Redtechgamer236 for feedback.
 
-An overhaul and republication of the [More Ships Plugin](https://github.com/loiseeer/The-more-ships-plugin). This jewel had to be polished regarding the stats, as it was updated last in May 2020. Luckily Loyse gave permission, and the idea to call the shipyard *Louise*.
+An overhaul and re-publication of the [More Ships Plugin](https://github.com/loiseeer/The-more-ships-plugin). This jewel had to be polished regarding the stats, as it was updated last in May 2020. Luckily Loyse gave permission, and the idea to call the shipyard *Louise*.
 
-Lore-wise the Louise Conglomerate is one of the Syndicate's megacorps with activities in many sectors. Its shipyards focus on ships for the harsh pirate-infested systems and therefore are centered around robustness and agility, at that keeping a remarkable sense for beautiful design. Preferred shipyard of the Space Hansa, which despises Pirates, and has no trust at all in the ability of any government to solve this long-lasting issue.
+Lore-wise the Louise Conglomerate is a Paradise world megacorps with headquarters on Follower in the Alphard system, with activities in many sectors. Its shipyards focus on ships for the harsh pirate-infested systems and therefore are centered around robustness and agility, at that keeping a remarkable sense for beautiful design. Preferred shipyard of the Space Hansa, which despises Pirates and values Louises battle freighters for their ability to fend them off.
 
-Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and signed a contract for a licensed production of 3 ship models on Makerplace, equipped with Hai technology, in an ambitious advance to mess up business of Imo Loo Meer Corporation and the Mon Ki i'Hiya Consortium.
+Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and signed a contract for a licensed production of 4 ship models on Makerplace, equipped with Hai technology, in an ambitious advance to mess up business of Imo Loo Meer Corporation and the Mon Ki i'Hiya Consortium.
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-02-04 | 2.0.0 | Added three new ships (Mercator and Lectica kitbashed by Kitteh, plus Bellator drone derived from Mining Drone), overhauled stats of all before existing ships for the purpose of rebalancing, and the corresponding sales and fleets. Renamed the old ships (Boxer --> Venditor, Bulk Boxer --> Commercator, Pathfinder --> Antecursor, Frontier --> Explorator, Newmaker --> Senator, Harvester --> Messor). All drone carriers now carry drones in the fleets. Adjusted lore. Removed dependency on FOE. |
 | 2025-08-27 | 1.2.1 | Ship variant fix to align with FOE 1.5.0 |
 | 2025-07-19 | 1.2.0 | Added support for Omnis. |
 | 2025-06-01 | 1.1.1 | Tweaked stock sale outfits. |

@@ -211,7 +211,6 @@ ship "Mercator :LCS" "Mercator :LCS (Miner)"
 		"D67-TM Shield Generator"
 		"D94-YV Shield Generator"
 		"Heavy Anti-Missile Turret"
-		"Heavy Blaster Turret" 2
 		"LP576a Battery Pack"
 		"Large Radar Jammer"
 		"Liquid Nitrogen Cooler"

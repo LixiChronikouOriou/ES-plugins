@@ -14,7 +14,7 @@ shipyard "Louise Conglomerate Advanced"
 shipyard "Louise Conglomerate Hai"
 	"Commercator :LCS (Hai)"
 	"Lectica :LCS (Hai)"
-	"Mercator :LCS (Hai"
+	"Mercator :LCS (Hai)"
 	"Venditor :LCS (Hai)"
 
 planet Clark

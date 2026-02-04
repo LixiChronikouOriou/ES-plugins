@@ -17,7 +17,7 @@ fleet "Small Southern Merchants"
 	variant 5
 		"Venditor :LCS (Atomic Blaster)"
 	variant 5
-		"Venditor"
+		"Venditor :LCS"
 		"Sparrow"
 	variant 5
 		"Venditor :LCS (Atomic Blaster)"

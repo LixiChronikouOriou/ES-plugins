@@ -33,7 +33,7 @@ def change_version_plugintxt(p, corrected):
 	# read all versions
 	if not os.path.isdir('../versioning'):
 		os.mkdir('../versioning')
-	with open('../res/versioning.txt', 'r') as vfile:
+	with open('res/versioning.txt', 'r') as vfile:
 		lines = vfile.readlines()
 	# find right version for plugin
 	found = 0

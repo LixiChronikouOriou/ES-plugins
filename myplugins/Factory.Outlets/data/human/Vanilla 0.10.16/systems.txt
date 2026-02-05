@@ -1,5 +1,5 @@
 ﻿system Achernar
-	add object "FO: Fake Foundry"
+	add object
 		distance 548.009
 		period 205.253
 		object "Syndicate Factory Outlet"
@@ -9,16 +9,17 @@
 			period 12
 
 system "Betelgeuse"
-	add object "FO: Fake Prime"
+	add object
 		distance 3581.989
 		period 1459.94
-		object "Ankaim Orbital Station"
-			sprite "planet/mgf ankaim defense orbital"
-			distance 210
-			period 32
+		object "Betelgeuse Factory Outlet"
+			sprite planet/station19
+				scale 0.5
+			distance 204
+			period 12
 
 system "Epsilon Leonis"
-	add object "FO: Fake Valhalla"
+	add object
 		distance 1027.219
 		period 345.831
 		object "Lionheart Factory Outlet"
@@ -28,7 +29,7 @@ system "Epsilon Leonis"
 			period 12
 
 system Mirfak
-	add object "FO: Sunracer"
+	add object
 		distance 375.539
 		period 151.330
 		object "Megaparsec Factory Outlet"
@@ -38,7 +39,7 @@ system Mirfak
 			period 12
 
 system Tarazed
-	add object "FO: Fake Wayfarer"
+	add object
 		distance 1221.269
 		period 489.760
 		object "Tarazed Factory Outlet"
@@ -48,7 +49,7 @@ system Tarazed
 			period 12
 
 system Zubeneschamali
-	add object "FO: Fake Zug"
+	add object
 		distance 1146.849
 		period 439.399
 		object "Southbound Factory Outlet"

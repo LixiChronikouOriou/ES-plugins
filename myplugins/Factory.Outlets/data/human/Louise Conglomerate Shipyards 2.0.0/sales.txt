@@ -24,7 +24,7 @@ mission "Factory Outlets: Louise installed"
 
 event "factory outlets: louise installed"
 	system Alphard
-		add object "FO: Fake Follower"
+		add object
 			distance 925.209
 			period 337.112
 			object "Louise Factory Outlet"
@@ -49,7 +49,7 @@ mission "Factory Outlets: Louise uninstalled"
 
 event "factory outlets: louise uninstalled"
 	system Alphard
-		remove object "FO: Fake Follower"
+		remove object
 			distance 925.209
 			period 337.112
 			object "Louise Factory Outlet"

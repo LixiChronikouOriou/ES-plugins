@@ -25,7 +25,7 @@ mission "Factory Outlets: RW Ships installed"
 
 event "factory outlets: rw ships installed"
 	system Dabih
-		add object "FO: Fake New Britain"
+		add object
 			distance 742.083
 			period 310.081
 			object "Pickerberry Factory Outlet"
@@ -50,7 +50,7 @@ mission "Factory Outlets: RW Ships uninstalled"
 
 event "factory outlets: rw ships uninstalled"
 	system Dabih
-		remove object "FO: Fake New Britain"
+		remove object
 			distance 742.083
 			period 310.081
 			object "Pickerberry Factory Outlet"

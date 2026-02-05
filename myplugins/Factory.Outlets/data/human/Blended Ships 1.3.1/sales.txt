@@ -22,7 +22,7 @@ mission "Factory Outlets: Blended Ships installed"
 
 event "factory outlets: blended ships installed"
 	system Shaula
-		add object "FO: Fake Greenrock"
+		add object
 			distance 502.579
 			period 180.266
 			object "Greenrock Factory Outlet"
@@ -58,7 +58,7 @@ mission "Factory Outlets: Blended Ships uninstalled"
 
 event "factory outlets: blended ships uninstalled"
 	system Shaula
-		remove object "FO: Fake Greenrock"
+		remove object
 			distance 502.579
 			period 180.266
 			object "Greenrock Factory Outlet"

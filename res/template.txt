@@ -4,7 +4,7 @@ This repository originally aimed at the re-publication of older plugin-content b
 
 LixiChronikouOriou, aka Timeout on Discord, is *not* the author of those republished plugins, just their editor. However, with the time also own content was added. May You have fun with those, too.
 
-But first lets begin with a short...
+But lets firstly begin with a short...
 <details>
 <summary>:blue_book: <b>Plugin Recommendation List</b></summary>
 

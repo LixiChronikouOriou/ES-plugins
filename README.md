@@ -114,7 +114,7 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Factory.Outlets.png' width="130" height="20">
 
-[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.1.4-Factory.Outlets/Factory.Outlets.zip) | 415.05 kb | 2026-02-05 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [11]<br>
+[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.1-Factory.Outlets/Factory.Outlets.zip) | 415.05 kb | 2026-02-05 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [11]<br>
 <br>
 >Adds Factory Outlet Stations around the HQ planets of shipyard companies, where basically only ship hulls (with just few essential outfits) are sold, such reducing the price significantly.
 

@@ -46,10 +46,10 @@ def change_version_plugintxt(p, corrected):
 			osplit = old_version.split('.')
 			#####
 			if osplit[len(osplit)-1] != 'fixed\n':
-				new_version = str(int(osplit[len(osplit)-2]) + 1) # new_version = last number + 1
+				new_version = str(int(osplit[len(osplit)-1]) + 1) # new_version = last number + 1
 				for x in range(0, len(osplit)-1): # part = first part of version - last number
 					part += osplit[x] + '.'
-					new_version = part + new_version
+				new_version = part + new_version
 			else:
 				new_version = old_version.replace('.fixed\n', '')
 			####
@@ -97,10 +97,10 @@ def versioning(p, corrected):
 			osplit = old_version.split('.')
 			#####
 			if osplit[len(osplit)-1] != 'fixed\n':
-				new_version = str(int(osplit[len(osplit)-2]) + 1) # new_version = last number + 1
+				new_version = str(int(osplit[len(osplit)-1]) + 1) # new_version = last number + 1
 				for x in range(0, len(osplit)-1): # part = first part of version - last number
 					part += osplit[x] + '.'
-					new_version = part + new_version
+				new_version = part + new_version
 			else:
 				new_version = old_version.replace('.fixed\n', '')
 			####

@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-02-09 | update: Louise.Conglomerate.Shipyards<br>
 2026-02-05 | update: Factory.Outlets<br>
 2026-02-04 | update: Louise.Conglomerate.Shipyards<br>
 2026-01-25 | update: Fundamental.Outfit.Expansion<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-11-22 | update: Factory.Outlets<br>
 2025-11-16 | update: Solar.Sails<br>
 2025-11-10 | update: Factory.Outlets<br>
-2025-11-09 | update: Solar.Sails<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -352,7 +352,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png' width="130" height="20">
 
-[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.0-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 3.41 mb | 2026-02-04 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [38]<br>
+[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.1-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 6.15 mb | 2026-02-09 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [66]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
 
@@ -364,9 +364,11 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 **Author: [Loyse](https://github.com/loiseeer)**
 
-**Editor:** Timeout
+**Editorial Board:** Timeout, Kitteh
 
-**Thanks**: Kitteh for testing and additional artwork, as well as Corvettefan and Redtechgamer236 for feedback.
+**Thanks** for feedback: Corvettefan, Kassandra Haruki, Lowry and Redtechgamer236.
+
+**Attention**: Saves made with version 1.x or 2.0 stay valid, but ships acquired under version 3.0 will be larger and have other stats than those acquired under the older versions.
 
 An overhaul and re-publication of the [More Ships Plugin](https://github.com/loiseeer/The-more-ships-plugin). This jewel had to be polished regarding the stats, as it was updated last in May 2020. Luckily Loyse gave permission, and the idea to call the shipyard *Louise*.
 
@@ -378,6 +380,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-02-09 | 3.0.0 | Magnified all ship sprites by ca. 31% (thx to Kitteh). Buffed the Senator (thx to Lowry). Nerfed the Lectica (thx to Kassandra) which also became a starter ship on Mainsail for the Paradise worlds start. Buffed the stats of Antecursor and Explorator. Established compatibility so saves made with Louise 1.x and 2.0. |
 | 2026-02-04 | 2.0.0 | Added three new ships (Mercator and Lectica kitbashed by Kitteh, plus Bellator drone derived from Mining Drone), overhauled stats of all before existing ships for the purpose of rebalancing, and the corresponding sales and fleets. Renamed the old ships (Boxer --> Venditor, Bulk Boxer --> Commercator, Pathfinder --> Antecursor, Frontier --> Explorator, Newmaker --> Senator, Harvester --> Messor). All drone carriers now carry drones in the fleets. Adjusted lore. Removed dependency on FOE. |
 | 2025-08-27 | 1.2.1 | Ship variant fix to align with FOE 1.5.0 |
 | 2025-07-19 | 1.2.0 | Added support for Omnis. |

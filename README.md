@@ -1,5 +1,7 @@
 # Endless Sky Plugins #
 
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/es-plugins)
+
 This repository originally aimed at the re-publication of older plugin-content by various authors which needed some kind of overhaul, as vanilla ES has continued its development and some things don't fit anymore. Just think of the 0.10.7 ship and engines rebalancing.
 
 LixiChronikouOriou, aka Timeout on Discord, is *not* the author of those republished plugins, just their editor. However, with the time also own content was added. May You have fun with those, too.

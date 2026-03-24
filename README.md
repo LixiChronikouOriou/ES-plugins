@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-03-24 | update: Bunsen.Burner<br>
 2026-03-21 | update: Zone.of.Control<br>
 2026-02-09 | update: Louise.Conglomerate.Shipyards<br>
 2026-02-05 | update: Factory.Outlets<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-12-31 | update: Zone.of.Control<br>
 2025-12-09 | update: Fundamental.Outfit.Expansion<br>
 2025-11-22 | update: Factory.Outlets<br>
-2025-11-16 | update: Solar.Sails<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -69,7 +69,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png' width="130" height="20">
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0-Bunsen.Burner/Bunsen.Burner.zip) | 284.36 kb | 2025-08-20 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.0-Bunsen.Burner/Bunsen.Burner.zip) | 285.22 kb | 2026-03-24 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
 <br>
 >Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
 
@@ -87,10 +87,19 @@ Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image
 
 Also Darcy Manoel's H2H flamethrower, which is based on the same design, was added as the Bunsen Torch. Available during the war, it will be banned afterwards as inhumane and only be obtainable on Pirate-ruled planets. However, legally bought torches still won't be fined because of exception rules in the corresponding paragraphs.
 
+**Conditions**
+
+Needs that 60 days have lapsed since the Flamethrower became available, that the Free Worlds got the Catalytic Ramscoop, and that the Dreadnought has been deployed.
+
+**Balance Note**
+
+Since the changes of ES 0.10.7, which also affected heat dissipation of many ships, the vanilla Flamethrower became largely useless. Tests showed that this is valid for the Bunsen Burner, too. Hence, both have been buffed with version 1.4.0 of this plugin by adding burn damage. Also the Bunsen Burner got increased accuracy.
+
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-24 | 1.4.0 | Buffed the Bunsen Burners by adding burn damage and increasing accuracy. Added burn damage to the Flamethrower, too. Reworked the mission-triggering, ship variants and fleet additions. |
 | 2025-08-20 | 1.3.0 | Doubled probability for Barmy's Bunsen-mission. Added event-triggered addition to fleets (Free Worlds, Militia, Southern Pirates). |
 | 2025-07-19 | 1.2.0 | Added support for Omnis. |
 | 2025-06-12 | 1.1.2 | Fixes. Added series and index specifications. |

@@ -9,7 +9,7 @@
 	"capture attack" 1.8
 	"capture defense" 0.3
 	unplunderable 1
-	description `Though heavily debated, the more militant factions in the Senate could push through that licensed captains are allowed to equip their boarding crews with these advanced flamethrowers to break the resistance of enemy crews. However, most people would consider this weapon to be rather inhumane.`
+	description `Though heavily debated, the more militant factions in the Senate could push through that licensed captains are allowed to equip their boarding crews with these advanced flamethrowers to break the resistance of enemy crews. However, most people would consider this weapon to be inhumane.`
 
 outfit "Bunsen_Torch"
 	"display name" "Bunsen Torch"

@@ -72,7 +72,7 @@ outfit "Bunsen Burner Turret"
 		"firing fuel" .65
 		"firing heat" 6.4
 	description `Being a more sophisticated version of the flamethrower, the Bunsen Burner represents the epitome of Free Worlds creative extravagance. So great are its fuel requirements that it comes with a standard fuel pod pre-installed, and has nevertheless became feasible only with the introduction of the catalytic ramscoop. Ships which lack powerful cooling systems should stay out of range at all costs.`
-	description `	One of the disadvantages of the flamethrower turned out to be that it's only effective when employed on capital ships which can be equipped with plenty enough fuel pods. As such ships are oftenly slow in turning, the Bunsen Burner comes also in a turret version with high turning rate.`
+	description `	One of the disadvantages of the flamethrower turned out to be that it's only effective when employed on capital ships which can be equipped with plenty enough fuel pods. As such ships are often slow in turning, the Bunsen Burner comes also in a turret version with high turning rate.`
 
 # Buff the flamethrower with burn damage for consistency
 outfit "Flamethrower Projectile"

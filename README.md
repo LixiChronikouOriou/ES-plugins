@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-03-29 | update: Zone.of.Control<br>
 2026-03-24 | update: Bunsen.Burner<br>
 2026-03-21 | update: Zone.of.Control<br>
 2026-02-09 | update: Louise.Conglomerate.Shipyards<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2025-12-31 | update: Korunak.Defense.Drones<br>
 2025-12-31 | update: Zone.of.Control<br>
 2025-12-09 | update: Fundamental.Outfit.Expansion<br>
-2025-11-22 | update: Factory.Outlets<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -99,6 +99,7 @@ Since the changes of ES 0.10.7, which also affected heat dissipation of many shi
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 1.4.1 | Added license files. |
 | 2026-03-24 | 1.4.0 | Buffed the Bunsen Burners by adding burn damage and increasing accuracy. Added burn damage to the Flamethrower, too. Reworked the mission-triggering, ship variants and fleet additions. |
 | 2025-08-20 | 1.3.0 | Doubled probability for Barmy's Bunsen-mission. Added event-triggered addition to fleets (Free Worlds, Militia, Southern Pirates). |
 | 2025-07-19 | 1.2.0 | Added support for Omnis. |
@@ -166,6 +167,7 @@ Currently the plugins [Blended Ships](https://github.com/mOctave/blended-ships),
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 1.3.2 | Added license file. |
 | 2026-02-05 | 1.3.1 | Updated the support for Louise. Fixed the way how the outlet stations are added to avoid compatibility issues with other plugins which change star systems like Mega Freight (thx to 1010todd for pointing out the problem). |
 | 2025-11-22 | 1.3.0 | Added support for [Rumskib](https://github.com/TheGiraffe3/rumskib). Fixed missing of Sirius Pyrotechnics from Blended Ships. Improved plugin compatibility -- No warnings created if a plugin is not installed, and cleans outlet stuff properly if a plugin has been uninstalled. |
 | 2025-11-10 | 1.2.0 | Added support for [Blended Ships](https://github.com/mOctave/blended-ships) and [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight). |
@@ -232,6 +234,7 @@ Currently the plugins [Blended Ships](https://github.com/mOctave/blended-ships),
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 1.8.1 | Added license files. |
 | 2026-01-25 | 1.8.0 | Added Mortar Blaster Gun, Rapidfire Blaster Turret (idea and art by Kitteh), Tiny Atomic and Plasma Engines (by Arachi, with art by Kitteh), Scorpion stun gun and turret (art by Tommaso Becca), Laser Sight (idea by ghostnzshell, revival and art by Kitteh), HTS Duct-Tape (art by Kami Rapacz), and missing @2x images for the fuel shields. Adjusted stats for Heavy Blasters, updated Engineering Room. Adjusted timeline of availability for some outfits. Removed licenses from Marine Gear and Naval Shields. |
 | 2025-12-09 | 1.7.0 | Starting to add ideas and artwork made by Kitteh: Autocannons, Light and Heavy Tractor Beams. Updated RW Extras: Added Heavy Meteor Launcher and Beehive Rockets, updated Gun Port Missiles. Adding lacking burst behavior of vanilla and plugin missile launchers. Images by Cend for the Particle Turrets have been polished by Ragno. Fixed some warnings and errors. |
 | 2025-09-11 | 1.6.0 | Added the new outfitter *Becca Finmeccanica* with lore-HQ on Delve, starting with the (heavy) Syracusia Tractor Beam and the (heavy) Etna Mining Ray Gun/Turret, artwork by Tommaso Becca. Added Engineering Room from Lost in Midnight. Added FOE-equipped variants to Republic, FW and Merchant fleets. Adjusted Sentinel Reactor. Fixes here and there. |
@@ -287,6 +290,7 @@ In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with o
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2025-03-29 | 1.2.4 | Added license files. |
 | 2025-09-07 | 1.2.3 | Adjusted icon. |
 | 2025-08-20 | 1.2.2 | Changed electrophorus glow effect color to blue. |
 | 2025-08-06 | 1.2.1 | Replaced custom on-death effect with an appropriate vanilla one, such significantly reducing file size. |
@@ -337,6 +341,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 1.1.2 | Added license file. |
 | 2025-12-31 | 1.1.1 | Cheapened the drones' hull price according to a smart formula. |
 | 2025-07-19 | 1.1.0 | Added support for Omnis. |
 | 2025-06-01 | 1.0.4 | Minor metadata fix. |
@@ -389,6 +394,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 3.0.1 | Added license file. |
 | 2026-02-09 | 3.0.0 | Magnified all ship sprites by ca. 31% (thx to Kitteh). Buffed the Senator (thx to Lowry). Nerfed the Lectica (thx to Kassandra) which also became a starter ship on Mainsail for the Paradise worlds start. Buffed the stats of Antecursor and Explorator. Established compatibility so saves made with Louise 1.x and 2.0. |
 | 2026-02-04 | 2.0.0 | Added three new ships (Mercator and Lectica kitbashed by Kitteh, plus Bellator drone derived from Mining Drone), overhauled stats of all before existing ships for the purpose of rebalancing, and the corresponding sales and fleets. Renamed the old ships (Boxer --> Venditor, Bulk Boxer --> Commercator, Pathfinder --> Antecursor, Frontier --> Explorator, Newmaker --> Senator, Harvester --> Messor). All drone carriers now carry drones in the fleets. Adjusted lore. Removed dependency on FOE. |
 | 2025-08-27 | 1.2.1 | Ship variant fix to align with FOE 1.5.0 |
@@ -440,6 +446,7 @@ Overwrites the starter ship sales on New Boston with optimized variants and an a
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 2.1.3 | Added license files. |
 | 2025-11-16 | 2.1.2 | Reduced acceleration penalty to make large and huge sails more usable. Reworked stock outfits for sail-ship sales. Removed Sails-Blackbird sale. Replaced starter ships on New Boston. |
 | 2025-11-09 | 2.1.1 | Added sail variants of the Clipper and Blackbird for sale and fleets. |
 | 2025-08-20 | 2.1.0 | Added sail variants for Shuttle, Heavy Shuttle, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Freighter and Sunder, replacing the vanilla sales of these ships. Changed merchant fleets correspondingly with varying region-dependent probabilities. Removed shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards. |
@@ -462,7 +469,7 @@ Overwrites the starter ship sales on New Boston with optimized variants and an a
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Zone.of.Control.png' width="130" height="20">
 
-[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.2-Zone.of.Control/Zone.of.Control.zip) | 45.58 kb | 2026-03-21 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
+[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.3-Zone.of.Control/Zone.of.Control.zip) | 51.83 kb | 2026-03-29 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
 <br>
 >Provides a proper way to tribute human space after finishing the main plot without needing to save-edit (Free Worlds) or being dependent on time slots during campaign (Republic & Syndicate). Also handles independent systems by defining own polities to avoid issues with independent mission NPCs. And adds some vanilla mission chain related candy.
 
@@ -507,6 +514,7 @@ Has individual dialogue boxes for each of the following situations.
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 1.1.3 | Added license file. |
 | 2026-03-21 | 1.1.2 | Fixed false triggering of license revocation when the player actually has no license to be revoced. |
 | 2025-12-31 | 1.1.1 | Icon was redesigned by Xobes. |
 | 2025-09-07 | 1.1.0 | Tarazed will become independent as the *Commonwealth* after the main campaign, if it hasn't joined the FW. Buffed Commonwealth defense. Plus some maintenance stuff. |

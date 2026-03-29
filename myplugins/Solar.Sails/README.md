@@ -17,6 +17,7 @@ Overwrites the starter ship sales on New Boston with optimized variants and an a
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 2.1.3 | Added license files. |
 | 2025-11-16 | 2.1.2 | Reduced acceleration penalty to make large and huge sails more usable. Reworked stock outfits for sail-ship sales. Removed Sails-Blackbird sale. Replaced starter ships on New Boston. |
 | 2025-11-09 | 2.1.1 | Added sail variants of the Clipper and Blackbird for sale and fleets. |
 | 2025-08-20 | 2.1.0 | Added sail variants for Shuttle, Heavy Shuttle, Bounder, Arrow, Hogshead, Star Queen, Star Barge, Freighter and Sunder, replacing the vanilla sales of these ships. Changed merchant fleets correspondingly with varying region-dependent probabilities. Removed shipyard "Basic Ships" from every planet with "Betelgeuse Basics" and/or "Syndicate Basics" shipyards. |

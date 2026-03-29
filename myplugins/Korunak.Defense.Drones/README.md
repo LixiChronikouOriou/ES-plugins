@@ -19,6 +19,7 @@ The basic *Defense Drone* is available from the beginning, the *Nock* in-war, th
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 1.1.2 | Added license file. |
 | 2025-12-31 | 1.1.1 | Cheapened the drones' hull price according to a smart formula. |
 | 2025-07-19 | 1.1.0 | Added support for Omnis. |
 | 2025-06-01 | 1.0.4 | Minor metadata fix. |

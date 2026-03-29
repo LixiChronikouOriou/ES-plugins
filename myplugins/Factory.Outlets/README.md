@@ -34,6 +34,7 @@ Currently the plugins [Blended Ships](https://github.com/mOctave/blended-ships),
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-29 | 1.3.2 | Added license file. |
 | 2026-02-05 | 1.3.1 | Updated the support for Louise. Fixed the way how the outlet stations are added to avoid compatibility issues with other plugins which change star systems like Mega Freight (thx to 1010todd for pointing out the problem). |
 | 2025-11-22 | 1.3.0 | Added support for [Rumskib](https://github.com/TheGiraffe3/rumskib). Fixed missing of Sirius Pyrotechnics from Blended Ships. Improved plugin compatibility -- No warnings created if a plugin is not installed, and cleans outlet stuff properly if a plugin has been uninstalled. |
 | 2025-11-10 | 1.2.0 | Added support for [Blended Ships](https://github.com/mOctave/blended-ships) and [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight). |

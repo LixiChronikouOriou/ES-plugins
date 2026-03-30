@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-03-30 | update: Zone.of.Control<br>
 2026-03-29 | update: Bunsen.Burner<br>
 2026-03-29 | update: Zone.of.Control<br>
 2026-03-24 | update: Bunsen.Burner<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-02-04 | update: Louise.Conglomerate.Shipyards<br>
 2026-01-25 | update: Fundamental.Outfit.Expansion<br>
 2025-12-31 | update: Korunak.Defense.Drones<br>
-2025-12-31 | update: Zone.of.Control<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -469,7 +469,7 @@ Overwrites the starter ship sales on New Boston with optimized variants and an a
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Zone.of.Control.png' width="130" height="20">
 
-[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.3-Zone.of.Control/Zone.of.Control.zip) | 51.83 kb | 2026-03-29 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
+[Zone.of.Control.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.4-Zone.of.Control/Zone.of.Control.zip) | 51.86 kb | 2026-03-30 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Zone.of.Control/) <a href="res/imagemd/Zone.of.Control.md">view images</a> [2]<br>
 <br>
 >Provides a proper way to tribute human space after finishing the main plot without needing to save-edit (Free Worlds) or being dependent on time slots during campaign (Republic & Syndicate). Also handles independent systems by defining own polities to avoid issues with independent mission NPCs. And adds some vanilla mission chain related candy.
 
@@ -514,6 +514,7 @@ Has individual dialogue boxes for each of the following situations.
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-03-30 | 1.1.4 | Minor text correction considering Haven. |
 | 2026-03-29 | 1.1.3 | Added license file. |
 | 2026-03-21 | 1.1.2 | Fixed false triggering of license revocation when the player actually has no license to be revoced. |
 | 2025-12-31 | 1.1.1 | Icon was redesigned by Xobes. |

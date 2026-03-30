@@ -5,4 +5,4 @@ Jaws|1.2.3
 Korunak.Defense.Drones|1.1.1
 Louise.Conglomerate.Shipyards|3.0.0
 Solar.Sails|2.1.2
-Zone.of.Control|1.1.4.fixed
+Zone.of.Control|1.1.4

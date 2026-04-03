@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-04-03 | update: Bunsen.Burner<br>
 2026-04-02 | update: Korunak.Defense.Drones<br>
 2026-03-30 | update: Solar.Sails<br>
 2026-03-30 | update: Zone.of.Control<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-03-21 | update: Zone.of.Control<br>
 2026-02-09 | update: Louise.Conglomerate.Shipyards<br>
 2026-02-05 | update: Factory.Outlets<br>
-2026-02-04 | update: Louise.Conglomerate.Shipyards<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -69,7 +69,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png' width="130" height="20">
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.1-Bunsen.Burner/Bunsen.Burner.zip) | 303.48 kb | 2026-03-29 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.2-Bunsen.Burner/Bunsen.Burner.zip) | 303.61 kb | 2026-04-03 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
 <br>
 >Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
 
@@ -80,6 +80,8 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 ### Bunsen Burner ###
 
 **Author: [Nick Barry](https://github.com/ItsNickBarry)**
+
+**Thanks**: Kassandra Haruki
 
 An overhaul and re-publication of [Flamethrower-Turret-1.1.0](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret). Since the last update of the plugin in January 2021 the Flamethrower was nerfed and got a new outfit image, so the Flamethrower Turret didn't fit anymore to the vanilla Flamethrower.
 
@@ -93,12 +95,13 @@ Needs that 60 days have lapsed since the Flamethrower became available, that the
 
 **Balance Note**
 
-Since the changes of ES 0.10.7, which also affected heat dissipation of many ships, the vanilla Flamethrower became largely useless. Tests showed that this is valid for the Bunsen Burner, too. Hence, both have been buffed with version 1.4.0 of this plugin by adding burn damage. Also the Bunsen Burner got increased accuracy.
+Since the changes of ES 0.10.7, which also affected heat dissipation of many ships, the vanilla Flamethrower became largely useless. Tests showed that this is valid for the Bunsen Burner, too. Hence, both have been buffed with version 1.4.0 of this plugin by adding burn damage. Also the Bunsen Burner got increased accuracy. After talking to Kassandra Haruki version 1.4.2 sets the vanilla Flamethrower back to its pre-nerf heat damage of 12000 and correspondingly the Bunsen Burner to 19200. Burn damage ist set to half of the heat damage.
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-04-03 | 1.4.2 | Set heat damage of vanilla Flamethrower to pre-nerf heat damage value of 12000, and the Bunsen Burner's to 19200. Burn damage set to half of heat damage. |
 | 2026-03-29 | 1.4.1 | Added license files. |
 | 2026-03-24 | 1.4.0 | Buffed the Bunsen Burners by adding burn damage and increasing accuracy. Added burn damage to the Flamethrower, too. Reworked the mission-triggering, ship variants and fleet additions. |
 | 2025-08-20 | 1.3.0 | Doubled probability for Barmy's Bunsen-mission. Added event-triggered addition to fleets (Free Worlds, Militia, Southern Pirates). |

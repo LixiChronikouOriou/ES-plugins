@@ -17,7 +17,7 @@ Needs that 60 days have lapsed since the Flamethrower became available, that the
 
 **Balance Note**
 
-Since the changes of ES 0.10.7, which also affected heat dissipation of many ships, the vanilla Flamethrower became largely useless. Tests showed that this is valid for the Bunsen Burner, too. Hence, both have been buffed with version 1.4.0 of this plugin by adding burn damage. Also the Bunsen Burner got increased accuracy. After talking to Kassandra Haruki version 1.4.2 sets the vanilla Flamethrower back to its pre-nerf heat damage of 12000 and correspondingly the Bunsen Burner to 19200. Burn damage ist set to half of the heat damage.
+Since the changes of ES 0.10.7, which also affected heat dissipation of many ships, the vanilla Flamethrower became largely useless. Tests showed that this is valid for the Bunsen Burner, too. Hence, both have been buffed with version 1.4.0 of this plugin by adding burn damage. Also the Bunsen Burner got increased accuracy. After talking to Kassandra Haruki version 1.4.2 sets the vanilla Flamethrower back to its pre-nerf heat damage of 12000 and correspondingly the Bunsen Burner to 19200. Burn damage is set to half of the heat damage.
 
 **Changelog**
 

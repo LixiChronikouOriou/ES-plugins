@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-04-03 | update: Louise.Conglomerate.Shipyards<br>
 2026-04-03 | update: Bunsen.Burner<br>
 2026-04-02 | update: Korunak.Defense.Drones<br>
 2026-03-30 | update: Solar.Sails<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-03-24 | update: Bunsen.Burner<br>
 2026-03-21 | update: Zone.of.Control<br>
 2026-02-09 | update: Louise.Conglomerate.Shipyards<br>
-2026-02-05 | update: Factory.Outlets<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -95,7 +95,7 @@ Needs that 60 days have lapsed since the Flamethrower became available, that the
 
 **Balance Note**
 
-Since the changes of ES 0.10.7, which also affected heat dissipation of many ships, the vanilla Flamethrower became largely useless. Tests showed that this is valid for the Bunsen Burner, too. Hence, both have been buffed with version 1.4.0 of this plugin by adding burn damage. Also the Bunsen Burner got increased accuracy. After talking to Kassandra Haruki version 1.4.2 sets the vanilla Flamethrower back to its pre-nerf heat damage of 12000 and correspondingly the Bunsen Burner to 19200. Burn damage ist set to half of the heat damage.
+Since the changes of ES 0.10.7, which also affected heat dissipation of many ships, the vanilla Flamethrower became largely useless. Tests showed that this is valid for the Bunsen Burner, too. Hence, both have been buffed with version 1.4.0 of this plugin by adding burn damage. Also the Bunsen Burner got increased accuracy. After talking to Kassandra Haruki version 1.4.2 sets the vanilla Flamethrower back to its pre-nerf heat damage of 12000 and correspondingly the Bunsen Burner to 19200. Burn damage is set to half of the heat damage.
 
 **Changelog**
 
@@ -369,7 +369,7 @@ The latest *KRD-2952MUX* model as well as the basic *Defense Drone* is available
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png' width="130" height="20">
 
-[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v3.0.0-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 6.15 mb | 2026-02-09 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [66]<br>
+[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v3.1.0-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 6.23 mb | 2026-04-03 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [68]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
 
@@ -397,7 +397,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2026-03-29 | 3.0.1 | Added license file. |
+| 2026-04-03 | 3.1.0 | Added the Gradator interceptor (thx to Kitteh), including corresponding variant and fleet definitions, reverse engine definitions, and a license file. |
 | 2026-02-09 | 3.0.0 | Magnified all ship sprites by ca. 31% (thx to Kitteh). Buffed the Senator (thx to Lowry). Nerfed the Lectica (thx to Kassandra) which also became a starter ship on Mainsail for the Paradise worlds start. Buffed the stats of Antecursor and Explorator. Established compatibility so saves made with Louise 1.x and 2.0. |
 | 2026-02-04 | 2.0.0 | Added three new ships (Mercator and Lectica kitbashed by Kitteh, plus Bellator drone derived from Mining Drone), overhauled stats of all before existing ships for the purpose of rebalancing, and the corresponding sales and fleets. Renamed the old ships (Boxer --> Venditor, Bulk Boxer --> Commercator, Pathfinder --> Antecursor, Frontier --> Explorator, Newmaker --> Senator, Harvester --> Messor). All drone carriers now carry drones in the fleets. Adjusted lore. Removed dependency on FOE. |
 | 2025-08-27 | 1.2.1 | Ship variant fix to align with FOE 1.5.0 |

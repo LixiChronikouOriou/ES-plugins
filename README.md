@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-05-27 | update: Louise.Conglomerate.Shipyards<br>
 2026-04-03 | update: Louise.Conglomerate.Shipyards<br>
 2026-04-03 | update: Bunsen.Burner<br>
 2026-04-02 | update: Korunak.Defense.Drones<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-03-29 | update: Zone.of.Control<br>
 2026-03-24 | update: Bunsen.Burner<br>
 2026-03-21 | update: Zone.of.Control<br>
-2026-02-09 | update: Louise.Conglomerate.Shipyards<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -369,7 +369,7 @@ The latest *KRD-2952MUX* model as well as the basic *Defense Drone* is available
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png' width="130" height="20">
 
-[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v3.1.0-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 6.23 mb | 2026-04-03 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [68]<br>
+[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v3.1.1-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 6.23 mb | 2026-05-27 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [68]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
 
@@ -383,7 +383,7 @@ The latest *KRD-2952MUX* model as well as the basic *Defense Drone* is available
 
 **Editorial Board:** Timeout, Kitteh
 
-**Thanks** for feedback: Corvettefan, Kassandra Haruki, Lowry and Redtechgamer236.
+**Thanks** for feedback: Corvettefan, Glorbimus Prime, Kassandra Haruki, Lowry, Loymdayddaud, Redtechgamer236.
 
 **Attention**: Saves made with version 1.x or 2.0 stay valid, but ships acquired under version 3.0 will be larger and have other stats than those acquired under the older versions.
 
@@ -397,6 +397,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-05-27 | 3.1.1 | Improved the ship descriptions (thx to Glorbimus Prime and Loymdayddaud). Changed the outfits equipped on the Hai variants of Commercator and Mercator to make the stock sales more affordable. |
 | 2026-04-03 | 3.1.0 | Added the Gradator interceptor (thx to Kitteh), including corresponding variant and fleet definitions. Also added reverse engine definitions, and a license file. |
 | 2026-02-09 | 3.0.0 | Magnified all ship sprites by ca. 31% (thx to Kitteh). Buffed the Senator (thx to Lowry). Nerfed the Lectica (thx to Kassandra) which also became a starter ship on Mainsail for the Paradise worlds start. Buffed the stats of Antecursor and Explorator. Established compatibility so saves made with Louise 1.x and 2.0. |
 | 2026-02-04 | 2.0.0 | Added three new ships (Mercator and Lectica kitbashed by Kitteh, plus Bellator drone derived from Mining Drone), overhauled stats of all before existing ships for the purpose of rebalancing, and the corresponding sales and fleets. Renamed the old ships (Boxer --> Venditor, Bulk Boxer --> Commercator, Pathfinder --> Antecursor, Frontier --> Explorator, Newmaker --> Senator, Harvester --> Messor). All drone carriers now carry drones in the fleets. Adjusted lore. Removed dependency on FOE. |

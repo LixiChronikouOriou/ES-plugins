@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-05-28 | update: Sheragi.Rebirth.Redux<br>
 2026-05-27 | update: Louise.Conglomerate.Shipyards<br>
 2026-04-03 | update: Louise.Conglomerate.Shipyards<br>
 2026-04-03 | update: Bunsen.Burner<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-03-29 | update: Bunsen.Burner<br>
 2026-03-29 | update: Zone.of.Control<br>
 2026-03-24 | update: Bunsen.Burner<br>
-2026-03-21 | update: Zone.of.Control<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -53,6 +53,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <a href="README.md#KorunakDefenseDrones">Korunak.Defense.Drones</a><br>
 <a href="README.md#LouiseConglomerateShipyards">Louise.Conglomerate.Shipyards</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#SheragiRebirthRedux">Sheragi.Rebirth.Redux</a><br>
 <a href="README.md#SolarSails">Solar.Sails</a><br>
 <a href="README.md#ZoneofControl">Zone.of.Control</a><br>
 <img width="294" height="1"><br></td></tr></table>
@@ -410,6 +411,44 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 | 2025-04-27 | 1.0.1 | Fixes considering stand-alonization. |
 | 2025-04-27 | 1.0.0 | Overhaul and Re-publication as *Louise Conglomerate Shipyards*. |
 | 2020-05-31 | - | Last Update of the *More Ships Plugin*. |
+
+</details>
+
+<br>
+
+
+---
+
+### Sheragi.Rebirth.Redux
+
+<img src="myplugins/Sheragi.Rebirth.Redux/icon.png" height="100">
+
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Sheragi.Rebirth.Redux.png' width="130" height="20">
+
+[Sheragi.Rebirth.Redux.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Sheragi.Rebirth.Redux/Sheragi.Rebirth.Redux.zip) | 7.43 mb | 2026-05-28 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Sheragi.Rebirth.Redux/) <a href="res/imagemd/Sheragi.Rebirth.Redux.md">view images</a> [75]<br>
+<br>
+>xxx.
+
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+
+### Sheragi Rebirth: Redux (Work in Progress) ###
+
+**WARNING:** Look, don't play. In its current state this plugin will *highly likely* eat your kitten.
+
+**Author:** Petersupes
+
+**Editors:** Timeout, Kitteh
+
+**Changelog**
+
+| Date | Version | Comment |
+|------|---------|---------|
+| TBD | 0.1.0 | So far: Added @2x images for ships and outfits, series and index attributes to outfits, Letnir Core, and Omnis support. Separated ancient and modernized outfits. Currently working on: Overhaul of Sheragi ship and outfit stats. |
+| 2025-09-10 | -- | [Bugfix-PR](https://github.com/Petersupes/sheragi-rebirth/pull/7) by Zuckung.
+| 2024-07-11 | -- | [Bugfix-PR](https://github.com/Petersupes/sheragi-rebirth/pull/5) by TheGiraffe3.
+| 2023-04-02 | -- | Last release of the original *[Sheragi Rebirth](https://github.com/Petersupes/sheragi-rebirth)* plugin. |
 
 </details>
 

@@ -1,0 +1,60 @@
+government "Sheragi (Rebirth)"
+	"display name" "Sheragi"
+	swizzle 3
+	color .03 .61 .30
+	"player reputation" 0
+	"attitude toward"
+		"Hai" -.01
+		"Drak" 1
+		"Sheragi (Dishonored)" -.01
+	"crew attack" 2.5
+	"crew defense" 3.8
+	"penalty for"
+		assist -0.25
+		disable 1
+		board 1
+		capture 10
+		destroy 10
+	"friendly hail" "friendly sheragi"
+	"friendly disabled hail" "friendly disabled sheragi"
+	"hostile hail" "hostile sheragi"
+	"hostile disabled hail" "hostile disabled sheragi"
+
+government "Sheragi (Dishonored)"
+	swizzle 11
+	"player reputation" -1000
+	"attitude toward"
+		"Hai" -.01
+		"Drak" 1
+		"Sheragi (Rebirth)" -.01
+	"bribe" .02
+	"fine" 0
+	"crew attack" 2.5
+	"crew defense" 3.8
+	"penalty for"
+		assist -0.25
+		disable 1
+		board 1
+		capture 10
+		destroy 10
+	"friendly hail" "hostile sheragi"
+	"friendly disabled hail" "hostile sheragi"
+	"hostile hail" "hostile sheragi"
+	"hostile disabled hail" "hostile sheragi"
+
+government "Sheragi (Bounty)"
+	"display name" "Sheragi (Dishonored"
+	swizzle 11
+	"player reputation" -1000
+	"fine" 0
+	"hostile hail" "hostile sheragi"
+
+government "Sheragi (Duel)"
+	"display name" "Sheragi"
+	swizzle 3
+	color .03 .61 .30
+	"player reputation" -1000
+	"hostile hail" "hostile sheragi"
+	"hostile disabled hail" "hostile sheragi"
+	"bribe" 0
+	"fine" 0

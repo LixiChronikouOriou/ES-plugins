@@ -1,0 +1,3 @@
+event "dragonflame cannon production"
+	outfitter "Sheragi Advanced"
+		"Dragonflame Cannon"

@@ -1,0 +1,35 @@
+outfit "Small EM Battery"
+	"display name" "Small EM Battery (ancient)"
+
+outfit "Large EM Battery"
+	"display name" "Large EM Battery (ancient)"
+
+outfit "Small Hybrid Cooling"
+	"display name" "Small Hybrid Cooling (ancient)"
+
+outfit "Large Hybrid Cooling"
+	"display name" "Large Hybrid Cooling (ancient)"
+
+outfit "Fission Drive"
+	"display name" "Fission Drive (ancient)"
+
+outfit "Fusion Drive"
+	"display name" "Fusion Drive (ancient)"
+
+outfit "Electronic Warfare System"
+	"display name" "Electronic Warfare System (ancient)"
+
+outfit "Dragonflame Cannon"
+	"display name" "Dragonflame Cannon (ancient)"
+
+outfit "Sheragi Anti-Missile"
+	"display name" "Sheragi Anti-Missile (ancient)"
+
+outfit "Particle Waveform Turret"
+	"display name" "Particle Waveform Turret (ancient)"
+
+outfit "Shard Fabricator"
+	"display name" "Shard Fabricator (ancient)"
+
+outfit "Heavy Ion Cyclotron"
+	"display name" "Heavy Ion Cyclotron (ancient)"

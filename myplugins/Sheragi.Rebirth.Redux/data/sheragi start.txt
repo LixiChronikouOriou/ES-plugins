@@ -1,0 +1,19 @@
+start "Sheragi Test Start"
+	name "Sheragi Test Start"
+	description `Sheragi start for testing. This is not needed to play with the plugin content.`
+	thumbnail "scene/emeraldswordderelict"
+	date 16 11 3013
+	system "Adun"
+	planet "Shio"
+	conversation "test intro"
+	account
+		credits 1000000000
+		score 400
+	set "license: Pilot's"
+	set "license: Sheragi"
+	set "license: Sheragi Capital"
+
+conversation "test intro"
+	`Enter your name below:`
+	name
+	`And now, it is Sheragi time.`

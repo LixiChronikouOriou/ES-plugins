@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Sheragi Rebirth
+Upstream-Contact: Petersupes <petersupes@gmail.com>
+Source: https://github.com/Petersupes/sheragi-rebirth/
+
+Files: *
+Copyright: Petersupes <petersupes@gmail.com>
+
+Files:
+ icon*.png
+Copyright: @Karirawri (crim@live.no)
+License: CC-BY-SA-4.0

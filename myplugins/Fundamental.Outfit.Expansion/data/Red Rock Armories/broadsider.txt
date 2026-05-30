@@ -32,7 +32,7 @@ outfit "FOE: Broadsider"
 		sprite "projectile/broadsider slug"
 		"hardpoint sprite" "hardpoint/broadsider"
 		"hardpoint offset" 9.
-		ammo "Broadsider Slug"
+		ammo "FOE: Broadsider Slug"
 		icon "icon/broadsider"
 		sound "ion impact"
 		"fire effect" "rail sparks" 2

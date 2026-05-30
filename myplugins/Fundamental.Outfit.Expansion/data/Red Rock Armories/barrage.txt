@@ -15,7 +15,6 @@ outfit "FOE: Barrage Storage"
 	"mass" 3
 	"outfit space" -5
 	"barrage capacity" 200
-	ammo "Barrage Missile"
 	description "A safe storage for the Barrage Missiles."
 
 outfit "FOE: Barrage Launcher"
@@ -33,7 +32,7 @@ outfit "FOE: Barrage Launcher"
 			"no repeat"
 			"frame rate" 6
 		sound "meteor"
-		ammo "Barrage Missile"
+		ammo "FOE: Barrage Missile"
 		icon "icon/barrage"
 		"fire effect" "meteor fire"
 		"die effect" "missile death"

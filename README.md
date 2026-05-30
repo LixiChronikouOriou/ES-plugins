@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-05-30 | update: Fundamental.Outfit.Expansion<br>
 2026-05-30 | update: Sheragi.Rebirth.Redux<br>
 2026-05-28 | update: Sheragi.Rebirth.Redux<br>
 2026-05-27 | update: Louise.Conglomerate.Shipyards<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-03-30 | update: Solar.Sails<br>
 2026-03-30 | update: Zone.of.Control<br>
 2026-03-29 | update: Bunsen.Burner<br>
-2026-03-29 | update: Zone.of.Control<br>
 <img width="882" height="1"><br>
 </td>
 </tr>

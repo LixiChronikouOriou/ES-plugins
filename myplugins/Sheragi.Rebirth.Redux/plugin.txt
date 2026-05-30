@@ -1,6 +1,6 @@
 name Sheragi.Rebirth.Redux
 about "xxx."
-version 0.1.0
+version 0.1.1
 authors
 	Petersupes
 tags

@@ -17,37 +17,56 @@ outfit "SRR Medium EM Battery"
 	"energy capacity" 33600
 	description "This medium superconductive inductor stores enough power to keep most ships running, and the electromagnetic field it generates helps to maintain the shield matrix."
 
-outfit "SRR Ethimir Core"
-	"display name" "Ethimir Core"
+outfit "SRR Drilgir Core"
+	"display name" "Drilgir Core"
 	category "Power"
-	cost 1050000
-	thumbnail "outfit/core ethimir"
+	series "Generators"
+	index 13010
+	cost 1794000
+	thumbnail "outfit/core drilgir"
 	"mass" 33
 	"outfit space" -33
 	"energy generation" 5.2
-	"heat generation" 14.15
+	"heat generation" 15.6
+	description "With the intergration of Humans into Sheragi space came the request for more compatible technology, the Sheragi's solution was to simply sell fission drives without the engine components as alternatives to some of the Human reactors available. However, some Sheragi have begun adopting the tactic of greater energy generation in favour of large batteries."
+
+outfit "SRR Ethimir Core"
+	"display name" "Ethimir Core"
+	category "Power"
+	series "Generators"
+	index 13020
+	cost 4598000
+	thumbnail "outfit/core ethimir"
+	"mass" 61
+	"outfit space" -61
+	"energy generation" 11
+	"heat generation" 33.8
 	description "With the intergration of Humans into Sheragi space came the request for more compatible technology, the Sheragi's solution was to simply sell fission drives without the engine components as alternatives to some of the Human reactors available. However, some Sheragi have begun adopting the tactic of greater energy generation in favour of large batteries."
 
 outfit "SRR Letnir Core"
 	"display name" "Letnir Core"
 	category "Power"
-	cost 28000000
+	series "Generators"
+	index 13030
+	cost 21958000
 	thumbnail "outfit/core letnir"
 	"mass" 167
 	"outfit space" -167
 	"energy generation" 38
-	"heat generation" 109
+	"heat generation" 119.9
 	description "This is by far the largest reactor you have ever seen, so large in fact that you don't think it would be practical to fit on any human ship. This reactor is a modified version of the Fusion Drive that powers the Sheragi's large capital ships."
 
 outfit "SRR Vishmixenir Core"
 	"display name" "Vishmixenir Core"
 	category "Power"
-	cost 28000000
+	series "Generators"
+	index 13040
+	cost 34278000
 	thumbnail "outfit/core vishmixenir"
 	"mass" 222
 	"outfit space" -222
 	"energy generation" 54
-	"heat generation" 156
+	"heat generation" 171.6
 	description "This is by far the largest reactor you have ever seen, so large in fact that you don't think it would be practical to fit on any human ship. This reactor is a modified version of the Fusion Drive that powers the Sheragi's large capital ships."
 
 outfit "SRR Solar Intake"
@@ -103,23 +122,23 @@ outfit "SRR Santhilia Drive"
 	category "Engines"
 	series "Engines"
 	index 13031
-	cost 3500000
+	cost 10014000
 	thumbnail "outfit/drive santhilia"
-	"mass" 174
-	"outfit space" -174
+	"mass" 145
+	"outfit space" -145
 	"engine capacity" -77
 	"weapon capacity" -7
-	"energy generation" 17.75
-	"heat generation" 50.05
+	"energy generation" 11
+	"heat generation" 30.7
 	"thrust" 75
-	"thrusting energy" 6.3
-	"thrusting heat" 6.9
+	"thrusting energy" 3.75
+	"thrusting heat" 8.6
 	"reverse thrust" 20.7
-	"reverse thrusting energy" 2.3
-	"reverse thrusting heat" 10.5
+	"reverse thrusting energy" 1.9
+	"reverse thrusting heat" 4.1
 	"turn" 1252.5
-	"turning energy" 2
-	"turning heat" 3.3
+	"turning energy" 1.55
+	"turning heat" 3.9
 	"flare sprite" "effect/fissionflare"
 		"frame rate" 30
 		"rewind"
@@ -134,8 +153,8 @@ outfit "SRR Xarlaxe Drive"
 	"display name" "Xarlaxe Drive"
 	category "Engines"
 	series "Engines"
-	index 13040
-	cost 16000000
+	index 13032
+	cost 26427000
 	thumbnail "outfit/drive xarlaxe"
 	"mass" 331
 	"outfit space" -331
@@ -144,14 +163,14 @@ outfit "SRR Xarlaxe Drive"
 	"energy generation" 38
 	"heat generation" 109
 	"thrust" 168
-	"thrusting energy" 8.8
-	"thrusting heat" 27
+	"thrusting energy" 7.35
+	"thrusting heat" 20
 	"reverse thrust" 42.6
-	"reverse thrusting energy" 2.3
-	"reverse thrusting heat" 10.5
+	"reverse thrusting energy" 3.5
+	"reverse thrusting heat" 8.7
 	"turn" 2625
-	"turning energy" 3
-	"turning heat" 9
+	"turning energy" 3.25
+	"turning heat" 8.5
 	"flare sprite" "effect/fusionflare"
 		"frame rate" 30
 		"rewind"
@@ -172,7 +191,7 @@ outfit "SRR Beithir Afterburner"
 	category "Engines"
 	series "Afterburners"
 	index 13050
-	"cost" 425000
+	"cost" 390000
 	thumbnail "outfit/afterburner beithir"
 	"mass" 11
 	"outfit space" -11
@@ -199,13 +218,13 @@ outfit "SRR Fusion Power Converter"
 	category "Engines"
 	series "Afterburners"
 	index 13051
-	cost 150000
+	cost 785000
 	thumbnail "outfit/fusion power converter"
 	"mass" 10
 	"outfit space" -10
-	"afterburner thrust" -24.225  # 63
-	"afterburner energy" -2.9
-	"afterburner heat" -1.75
+	"afterburner thrust" -24.225
+	"afterburner energy" -2.95
+	"afterburner heat" -1.5875
 	"afterburner attachment" -1
 	description "This simple attachment for the Fusion Afterburner recycles some of the generated energy back into the afterburner, increasing the thrust output. However, as this is mutually exclusive to the Sheragi Hyperdrive it is usually only used on larger ships that use Fusion Drives or madmen that install multiple afterburners."
 

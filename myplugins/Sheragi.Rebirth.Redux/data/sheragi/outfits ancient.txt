@@ -12,6 +12,10 @@ outfit "Large Hybrid Cooling"
 
 outfit "Fission Drive"
 	"display name" "Fission Drive (ancient)"
+	"thrusting energy" 1.55
+	"thrusting heat" 2.9
+	"turning energy" 0.6
+	"turning heat" 1.4
 
 outfit "Fusion Drive"
 	"display name" "Fusion Drive (ancient)"

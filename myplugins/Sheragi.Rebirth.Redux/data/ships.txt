@@ -1,4 +1,4 @@
-ship "SRR Platinum Spear :SRR"
+ship "Platinum Spear :SRR"
 	"display name" "Platinum Spear"
 	sprite "ship/platinum spear"
 	thumbnail "thumbnail/platinum spear"
@@ -118,7 +118,7 @@ ship "SRR Platinum Spear :SRR"
 	description "With the collaboration between Human and Sheragi engineering this ship is the the most efficient warship in the Sheragi arsenal."
 
 
-ship "SRR Gold Shield :SRR"
+ship "Gold Shield :SRR"
 	"display name" "Gold Shield"
 	sprite "ship/gold shield"
 	thumbnail "thumbnail/gold shield"
@@ -259,7 +259,7 @@ ship "Emerald Sword" "Emerald Sword (Modern) :SRR"
 	gun "Dragonflame Cannon"
 
 
-ship "SRR Opal Glaive :SRR"
+ship "Opal Glaive :SRR"
 	"display name" "Opal Glaive"
 	sprite "ship/opal glaive"
 	thumbnail "thumbnail/opal glaive"
@@ -371,7 +371,7 @@ ship "SRR Opal Glaive :SRR"
 #	description "A powerful Sheragi warship that was crewed by mutineers that fled from their civil war and escaped into interstellar space. Found orbiting a disconnected star, this is an impressively large ship, fit for the equally large Sheragi. The ship's main weapon is a fusion-pumped gamma-ray laser called the 'Dragonflame Cannon.' Despite the relatively primitive outfits, it's still a very capable war machine due to its size."
 	description "For its original Sheragi masters, this warship was home to around 100 individuals. For others, however, that number more than doubles, bringing it on par with the largest city ships."
 
-ship "Opal Glaive" "Opal Glaive (Light)"
+ship "Opal Glaive :SRR" "Opal Glaive (Light) :SRR"
 	outfits
 		"Sheragi Pulse Beam Turret" 6
 		"Sheragi Anti-Missile" 2
@@ -390,7 +390,7 @@ ship "Opal Glaive" "Opal Glaive (Light)"
 	turret "Sheragi Anti-Missile"
 	turret "Sheragi Anti-Missile"
 
-ship "Opal Glaive" "Opal Glaive (Shadow)"
+ship "Opal Glaive :SRR" "Opal Glaive (Shadow) :SRR"
 	outfits
 		"Sheragi Pulse Beam Turret" 6
 		"Sheragi Anti-Missile" 2
@@ -409,7 +409,7 @@ ship "Opal Glaive" "Opal Glaive (Shadow)"
 	turret "Sheragi Anti-Missile"
 	turret "Sheragi Anti-Missile"
 
-ship "SRR Bronze Edge :SRR"
+ship "Bronze Edge :SRR"
 	"display name" "Bronze Edge"
 	sprite "ship/bronze edge"
 	thumbnail "thumbnail/bronze edge"
@@ -482,7 +482,7 @@ ship "SRR Bronze Edge :SRR"
 	"final explode" "final explosion medium"
 	description "The Sheragi, despite being large creatures have managed to create a warship of relatively small size. It has space for passengers while still remaining, somehow, functional."
 
-ship "SRR Ruby Hammer :SRR"
+ship "Ruby Hammer :SRR"
 	"display name" "Ruby Hammer"
 	sprite "ship/ruby hammer"
 	thumbnail "thumbnail/ruby hammer"
@@ -564,7 +564,7 @@ ship "SRR Ruby Hammer :SRR"
 	"final explode" "final explosion large" 2
 	description "This Sheragi freighter outclasses any other freighter merely through its size. The Ruby Hammer was designed to cross the empty and dangerous space full of ion storms seperating Eden in two. Its unique hull shape helps provide some ion resistance."
 
-ship "SRR White Brand :SRR"
+ship "White Brand :SRR"
 	"display name" "White Brand"
 	sprite "ship/white brand"
 	thumbnail "thumbnail/white brand"

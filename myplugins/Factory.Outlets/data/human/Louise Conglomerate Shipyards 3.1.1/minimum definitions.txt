@@ -5,11 +5,11 @@ ship "Antecursor :LCS"
 		"outfit space" 430
 		"weapon capacity" 160
 		"engine capacity" 130
-        gun -27 -80.5
-        gun 27 -80.5
-        turret -28.5 -3.5
-        turret 28.5 -3.5
-        turret 0 60.5
+	gun -27 -80.5
+	gun 27 -80.5
+	turret -28.5 -3.5
+	turret 28.5 -3.5
+	turret 0 60.5
 
 ship "Commercator :LCS"
 	attributes
@@ -18,12 +18,12 @@ ship "Commercator :LCS"
 		"outfit space" 490
 		"weapon capacity" 180
 		"engine capacity" 110
-        turret -26.5 -79
-        turret 26.5 -79
-        turret -26.5 19
-        turret 26.5 19
-        turret -35 102.5
-        turret 35 102.5
+	turret -26.5 -79
+	turret 26.5 -79
+	turret -26.5 19
+	turret 26.5 19
+	turret -35 102.5
+	turret 35 102.5
 
 ship "Explorator :LCS"
 	attributes
@@ -32,13 +32,13 @@ ship "Explorator :LCS"
 		"outfit space" 410
 		"weapon capacity" 110
 		"engine capacity" 115
-        gun -22 -66.5
-        gun 22 -66.5
-        gun -27 -39
-        gun 27 -39
-        turret 0 -4.5
-        turret -7 12
-        turret 7 12
+	gun -22 -66.5
+	gun 22 -66.5
+	gun -27 -39
+	gun 27 -39
+	turret 0 -4.5
+	turret -7 12
+	turret 7 12
 
 ship "Gradator :LCS"
 	attributes
@@ -47,9 +47,9 @@ ship "Gradator :LCS"
 		"outfit space" 175
 		"weapon capacity" 30
 		"engine capacity" 60
-        gun 0 -36.5
-        gun -10 -30
-        gun 10 -30
+	gun 0 -36.5
+	gun -10 -30
+	gun 10 -30
 
 ship "Lectica :LCS"
 	attributes
@@ -58,9 +58,9 @@ ship "Lectica :LCS"
 		"outfit space" 130
 		"weapon capacity" 30
 		"engine capacity" 70
-        gun -14.5 -13.5
-        gun 14.5 -13.5
-        turret 0 10
+	gun -14.5 -13.5
+	gun 14.5 -13.5
+	turret 0 10
 
 ship "Mercator :LCS"
 	attributes
@@ -69,16 +69,16 @@ ship "Mercator :LCS"
 		"outfit space" 670
 		"weapon capacity" 270
 		"engine capacity" 170
-        gun -26.5 -215
-        gun 26.5 -215
-        turret -26.5 -110
-        turret 26.5 -110
-        turret -26.5 -12
-        turret 26.5 -12
-        turret -26.5 86
-        turret 26.5 86
-        turret -35 168
-        turret 35 168
+	gun -26.5 -215
+	gun 26.5 -215
+	turret -26.5 -110
+	turret 26.5 -110
+	turret -26.5 -12
+	turret 26.5 -12
+	turret -26.5 86
+	turret 26.5 86
+	turret -35 168
+	turret 35 168
 
 ship "Messor :LCS"
 	attributes
@@ -87,10 +87,10 @@ ship "Messor :LCS"
 		"outfit space" 290
 		"weapon capacity" 80
 		"engine capacity" 100
-        gun -16 -31
-        gun 16 -31
-        gun -22 -28.5
-        gun 22 -28.5
+	gun -16 -31
+	gun 16 -31
+	gun -22 -28.5
+	gun 22 -28.5
 
 ship "Senator :LCS"
 	attributes
@@ -99,18 +99,18 @@ ship "Senator :LCS"
 		"outfit space" 780
 		"weapon capacity" 320
 		"engine capacity" 190
-        gun -22.5 -183.5
-        gun 22.5 -183.5
-        gun -35.5 -180.5
-        gun 35.5 -180.5
-        turret -55 -147.5
-        turret 55 -147.5
-        turret -60 -88
-        turret 60 -88
-        turret -55 -29
-        turret 55 -29
-        turret -13.5 54.5
-        turret 13.5 54.5
+	gun -22.5 -183.5
+	gun 22.5 -183.5
+	gun -35.5 -180.5
+	gun 35.5 -180.5
+	turret -55 -147.5
+	turret 55 -147.5
+	turret -60 -88
+	turret 60 -88
+	turret -55 -29
+	turret 55 -29
+	turret -13.5 54.5
+	turret 13.5 54.5
 
 ship "Venditor :LCS"
 	attributes
@@ -119,5 +119,5 @@ ship "Venditor :LCS"
 		"outfit space" 205
 		"weapon capacity" 40
 		"engine capacity" 75
-        turret 28 34.5
-        turret -28 34.5
+	turret 28 34.5
+	turret -28 34.5

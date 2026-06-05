@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-06-05 | update: Bunsen.Burner<br>
 2026-06-03 | update: Bunsen.Burner<br>
 2026-06-01 | update: Factory.Outlets<br>
 2026-05-30 | update: Fundamental.Outfit.Expansion<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-04-03 | update: Louise.Conglomerate.Shipyards<br>
 2026-04-03 | update: Bunsen.Burner<br>
 2026-04-02 | update: Korunak.Defense.Drones<br>
-2026-03-30 | update: Solar.Sails<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -70,7 +70,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png' width="130" height="20">
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.3-Bunsen.Burner/Bunsen.Burner.zip) | 304.59 kb | 2026-06-03 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.4-Bunsen.Burner/Bunsen.Burner.zip) | 304.88 kb | 2026-06-05 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
 <br>
 >Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
 
@@ -104,6 +104,7 @@ Since the changes of ES 0.10.7, which also affected heat dissipation of many shi
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-06-05 | 1.4.4 | Aligned with [PR #12491](https://github.com/endless-sky/endless-sky/pull/12491). |
 | 2026-06-03 | 1.4.3 | Reduced fuel consumption of Flamethrower and Bunsen Burner by 75%. Reduced damage dropoff for the Flamethrower. Added ship and fleet variants which do actually use the Flamethrower, filling a gap in vanilla. Fixed a warning. |
 | 2026-04-03 | 1.4.2 | Set heat damage of vanilla Flamethrower to pre-nerf heat damage value of 12000, and the Bunsen Burner's to 19200. Burn damage set to half of heat damage. |
 | 2026-03-29 | 1.4.1 | Added license files. |

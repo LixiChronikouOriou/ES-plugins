@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-09-12 | update: Factory.Outlets<br>
 2026-07-08 | update: Louise.Conglomerate.Shipyards<br>
 2026-06-09 | update: Bunsen.Burner<br>
 2026-06-05 | update: Bunsen.Burner<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-05-30 | update: Sheragi.Rebirth.Redux<br>
 2026-05-28 | update: Sheragi.Rebirth.Redux<br>
 2026-05-27 | update: Louise.Conglomerate.Shipyards<br>
-2026-04-03 | update: Louise.Conglomerate.Shipyards<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -133,9 +133,9 @@ Since the changes of ES 0.10.7, which also affected heat dissipation of many shi
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Factory.Outlets.png' width="130" height="20">
 
-[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.3-Factory.Outlets/Factory.Outlets.zip) | 421.53 kb | 2026-06-01 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [11]<br>
+[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.4-Factory.Outlets/Factory.Outlets.zip) | 422.08 kb | 2026-09-12 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [11]<br>
 <br>
->Adds Factory Outlet Stations around the HQ planets of shipyard companies, where basically only ship hulls (with just few essential outfits) are sold, such reducing the price significantly.
+>Adds Factory Outlets around and on the HQ planets of shipyard companies, where basically only ship hulls (with just few essential outfits) are sold, such reducing the stock price significantly.
 
 
 <details>
@@ -143,19 +143,19 @@ Since the changes of ES 0.10.7, which also affected heat dissipation of many shi
 
 ### Factory Outlets ###
 
-**Author: [Lifeyouristhis](https://github.com/lifeyouristhis), [Timeout](https://github.com/LixiChronikouOriou)**
+**Authors: [Lifeyouristhis](https://github.com/lifeyouristhis), [Timeout](https://github.com/LixiChronikouOriou)**
 
-**Thanks**: Zuckung
+**Thanks**: Chemtrailoperator, Zuckung
 
 Ship price = hull + outfit prices. This simple equation has the consequence that ships can be overprized when one intends to replace most of the outfits anyway, and one would basically need only the hull.
 
-Based on an idea of [Lifeyouristhis](https://github.com/lifeyouristhis), this plugin introduces *Factory Outlets*. Around the headquarter planets of the shipyard companies stations have been placed which sell their ships with only a minimum set of outfits, just enough to let a ship fly. For instance, a Leviathan's standard price is 17.1 Mio credits, but at the Betelgeuse Factory Outlet station it's only 9.9 Mio.
+Based on an idea of [Lifeyouristhis](https://github.com/lifeyouristhis), this plugin introduces *Factory Outlets* around or on the shipyard headquarter planets which sell their ships with only a minimum set of outfits, just enough to let a ship fly. For instance, a Leviathan's standard price is 17.1 Mio credits, but at the Betelgeuse Factory Outlet station it's only 9.9 Mio.
 
-No factory outlet for Navy or Pirate shipyards, because lore. No factory outlet ship variants for fighters and drones, because senseless.
+No factory outlet for Navy or Pirate shipyards, because lore. No factory outlet ship variants for fighters and drones, because of little purpose.
 
-Currently human-only, someday perhaps support for aliens will be added.
+As of now human-only. Someday perhaps support for aliens will be added.
 
-**Supported Plugins**: [Blended Ships 1.3.1](https://github.com/mOctave/blended-ships), [DAIS 1.0.0](https://github.com/Daeridanii1/DAIS), [Lost in Midnight 0.10.16.1.6](https://github.com/MidnightPlugins/Lost-in-Midnight), [Louise Conglomerate Shipyards 3.1.1](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards), [Pickerberry Shipyards 1.13.2](https://www.moddb.com/mods/rw-ships), [Rumskib 0.11.1](https://github.com/TheGiraffe3/rumskib)
+**Supported Plugins**: [Blended Ships 1.3.1](https://github.com/mOctave/blended-ships), [DAIS 1.0.0](https://github.com/Daeridanii1/DAIS), [Lost in Midnight 0.11.2.1.3](https://github.com/MidnightPlugins/Lost-in-Midnight), [Louise Conglomerate Shipyards 3.1.2](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards), [Pickerberry Shipyards 1.13.2](https://www.moddb.com/mods/rw-ships), [Rumskib 0.11.2](https://github.com/TheGiraffe3/rumskib)
 
 | Shipyard | HQ Planet | System | Outlet |
 |----------|-----------|--------|--------|
@@ -178,6 +178,7 @@ Currently human-only, someday perhaps support for aliens will be added.
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-09-12 | 1.3.4 | Added for each outlet ship variant a [Variant Map Name](https://github.com/endless-sky/endless-sky/wiki/CreatingShips#data) to be displayed in the map's shipyard panel to differentiate them properly from other sold variants of the same ship model (thx to Chemtrailoperator). Verified that the plugin-support is up to date. |
 | 2026-06-02 | 1.3.3 | Updated Louise and Pickerberry support. Verified that the support for Blended Ships, DAIS, LiM and Rumskib is up to date. |
 | 2026-03-29 | 1.3.2 | Added license file. |
 | 2026-02-05 | 1.3.1 | Updated the support for Louise. Fixed the way how the outlet stations are added to avoid compatibility issues with other plugins which change star systems like Mega Freight (thx to 1010todd for pointing out the problem). |

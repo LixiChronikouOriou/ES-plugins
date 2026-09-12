@@ -1,3 +1,4 @@
+2026-09-12 | update: Factory.Outlets
 2026-07-08 | update: Louise.Conglomerate.Shipyards
 2026-06-09 | update: Bunsen.Burner
 2026-06-05 | update: Bunsen.Burner

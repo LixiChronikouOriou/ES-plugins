@@ -99,6 +99,7 @@ ship "Thunderer" "Thunderer (Bare)"
 		"Cooling Ducts"
 
 ship "Twinbridge" "Twinbridge (Bare)"
+	"variant map name" "Pickerberry Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"

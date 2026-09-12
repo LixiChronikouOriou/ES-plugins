@@ -39,6 +39,7 @@ ship "Hekla Vaba" "Hekla Vaba (Bare)"
 		"Cooling Ducts"
 
 ship "Erinys" "Erinys (Bare)"
+	"variant map name" "Southbound Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"

@@ -9,7 +9,7 @@ ship "Buttle" "Buttle (Bare)"
 		"Cooling Ducts"
 
 ship "Cleaver" "Cleaver (Bare)"
-	"variant map name" "ALR MFG Outlet"
+	"variant map name" "ALR Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"

@@ -69,7 +69,7 @@ ship "Rawalpindi" "Rawalpindi (Bare)"
 		"Cooling Ducts"
 
 ship "Sunthief" "Sunthief (Bare)"
-	"variant map name" "Factory Outlet"
+	"variant map name" "Betelgeuse & Lionheart Outlets"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -79,7 +79,7 @@ ship "Sunthief" "Sunthief (Bare)"
 		"Cooling Ducts"
 
 ship "Trident" "Trident (Bare)"
-	"variant map name" "Factory Outlet"
+	"variant map name" "Syndicate Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"

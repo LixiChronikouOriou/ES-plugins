@@ -1,5 +1,5 @@
 ship "Heavy Hauler" "Heavy Hauler (Bare)"
-	"variant map name" "Southbound Outlet"
+	"variant map name" "Betelgeuse, Megaparsec & Southbound Outlets"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -9,7 +9,7 @@ ship "Heavy Hauler" "Heavy Hauler (Bare)"
 		"Cooling Ducts"
 
 ship "Heavy Hauler II" "Heavy Hauler II (Bare)"
-	"variant map name" "Southbound Outlet"
+	"variant map name" "Betelgeuse & Megaparsec Outlets"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -19,7 +19,7 @@ ship "Heavy Hauler II" "Heavy Hauler II (Bare)"
 		"Cooling Ducts"
 
 ship "Heavy Hauler III" "Heavy Hauler III (Bare)"
-	"variant map name" "Southbound Outlet"
+	"variant map name" "Megaparsec Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -119,7 +119,7 @@ ship "Palisade" "Palisade (Bare)"
 		"Cooling Ducts"
 
 ship "Buckler" "Buckler (Bare)"
-	"variant map name" "Syndicate Outlet"
+	"variant map name" "Lionheart Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"

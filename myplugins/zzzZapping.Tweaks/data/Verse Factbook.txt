@@ -1,4 +1,4 @@
-﻿# Planet-wise extra information, for now information on the population.
+# Planet-wise extra information, for now information on the population.
 # Inspired by the CIA's World Factbook (1962-2026).
 #
 # Author: Timeout
@@ -87,13 +87,13 @@ planet Bluestone
 planet Hippocrates
 	add description `	Population: 0.48 million (3010 AD)`
 planet Furnace
-	add description `	Civilians: 55000
+	add description `	Civilians: 55000`
 	add description `	Military: 82000`
 	add description `	(3010 AD)`
 planet Placer
 	add description `	Workers: 57000 (3010 AD)`
 planet Taylor
-	add description `	Scientists: 5100
+	add description `	Scientists: 5100`
 	add description `	Military: 34000`
 	add description `	(3010 AD)`
 planet Trove
@@ -137,13 +137,13 @@ planet "Huginn Station"
 	add description `	Convicts: 800`
 	add description `	(3010 AD)`
 planet Alexandria
-	add description `	Crew: 200
+	add description `	Crew: 200`
 	add description `	Librarians: 1000`
 	add description `	Scientists: 1000`
 	add description `	(3010 AD)`
 planet "Muninn Station"
-	add description `	Crew: 200
-	add description `	Military: 1300
+	add description `	Crew: 200`
+	add description `	Military: 1300`
 	add description `	(3010 AD)`
 planet "Leviathan Station"
 	add description `	Crew: 200 (3010 AD)`
@@ -340,16 +340,16 @@ planet Splashdown
 planet Featherweight
 	add description `	Population: less than 5 million (estimated 3010 AD)` # 3.36 million
 planet Farpoint
-	add description `	Civilians: 206000
-	add description `	Military: 54000
+	add description `	Civilians: 206000`
+	add description `	Military: 54000`
 	add description `	(3010 AD)`
 planet Serpens
 	add description `	Population: 0.08 million (3010 AD)`
 planet Pilot
 	add description `	Inhabitants: classified (classified BC/AD)` # 32000
 planet "Triton Station"
-	add description `	Crew: 200
-	add description `	Military: 1000
+	add description `	Crew: 200`
+	add description `	Military: 1000`
 	add description `	(3010 AD)`
 planet "Carbuncle Station"
 	add description `	Inhabitants: classified (classified BC/AD)` # 500

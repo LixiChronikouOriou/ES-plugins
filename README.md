@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-18 | update: Fundamental.Outfit.Expansion.Alien<br>
 2026-10-18 | update: Factory.Outlets<br>
 2026-10-18 | update: Bunsen.Burner<br>
 2026-09-12 | update: Factory.Outlets<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-06-03 | update: Bunsen.Burner<br>
 2026-06-01 | update: Factory.Outlets<br>
 2026-05-30 | update: Fundamental.Outfit.Expansion<br>
-2026-05-30 | update: Sheragi.Rebirth.Redux<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -280,7 +280,7 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.Alien.png' width="130" height="20">
 
-[Fundamental.Outfit.Expansion.Alien.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Fundamental.Outfit.Expansion.Alien/Fundamental.Outfit.Expansion.Alien.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion.Alien/) <a href="res/imagemd/Fundamental.Outfit.Expansion.Alien.md">view images</a> [26]<br>
+[Fundamental.Outfit.Expansion.Alien.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Fundamental.Outfit.Expansion.Alien/Fundamental.Outfit.Expansion.Alien.zip) | 910.82 kb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion.Alien/) <a href="res/imagemd/Fundamental.Outfit.Expansion.Alien.md">view images</a> [26]<br>
 <br>
 >Alka'etukafet iri tokatala'af pamasa aglat ire' tirtek. Ikafsir sebahaliaar abati!
 

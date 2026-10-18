@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-18 | update: zzzZapping.Tweaks<br>
 2026-10-18 | update: Laser.Sight<br>
 2026-10-18 | update: Fundamental.Outfit.Expansion.Alien<br>
 2026-10-18 | update: Factory.Outlets<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-06-09 | update: Bunsen.Burner<br>
 2026-06-05 | update: Bunsen.Burner<br>
 2026-06-03 | update: Bunsen.Burner<br>
-2026-06-01 | update: Factory.Outlets<br>
 <img width="882" height="1"><br>
 </td>
 </tr>

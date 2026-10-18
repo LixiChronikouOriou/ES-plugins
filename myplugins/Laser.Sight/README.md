@@ -11,6 +11,6 @@ Due to the lack of feedback on this sniper tool, there's no empirical evidence o
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2026-10-18 | 1.0.0 | Seperated from FOE, and turned into a plugin on its own. |
+| 2026-10-18 | 1.0.0 | Separated from FOE, and turned into a plugin on its own. |
 | 2026-01-25 | -- | Published as part of [FOE](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion). |
 | 2025-03-19 | -- | [Proof of concept](https://discord.com/channels/251118043411775489/1208535517759807519/1352017205067386900) by Ghostnzshell. |

@@ -1,13 +1,61 @@
 ﻿event "foe: fw advanced fleet deployment"
 
-	#         | Vanilla | FOE Add |
-	# --------|---------|---------| 
-	# Fury    |    24   |    60   |
-	# Hawk    |    34   |    60   |
-	# Osprey  |     2   |     4   |
-	# Sparrow |    60   |    --   |
-
 	fleet "Small Free Worlds"
+	 remove variant
+			"Hawk"
+			"Sparrow"
+	 remove variant
+			"Hawk"
+			"Fury"
+	 remove variant
+			"Hawk"
+			"Fury (Missile)"
+	 remove variant
+			"Fury (Bomber)"
+			"Sparrow"
+	 remove variant
+			"Hawk"
+			"Fury (Laser)"
+	 remove variant
+			"Fury" 2
+	 remove variant
+			"Fury (Laser)"
+			"Fury (Missile)"
+	 remove variant
+			"Sparrow" 2
+	 remove variant
+			"Hawk"
+	 remove variant
+			"Hawk (Rocket)"
+	 remove variant
+			"Hawk (Plasma)"
+	 remove variant
+			"Hawk (Speedy)"
+	 remove variant
+			"Hawk (Bomber)"
+	 remove variant
+			"Sparrow"
+	 remove variant
+			"Osprey"
+	 remove variant
+			"Hawk"
+			"Sparrow" 2
+	 remove variant
+			"Hawk (Rocket)"
+			"Sparrow" 2
+	 remove variant
+			"Hawk (Speedy)"
+			"Sparrow" 2
+	 remove variant
+			"Hawk (Bomber)"
+			"Sparrow" 2
+	 remove variant
+			"Fury (Bomber)"
+			"Sparrow" 2
+	 remove variant
+			"Hawk (Plasma)"
+			"Sparrow" 2
+		###########################
 		add variant 20
 			"Fury (FOE Blaster AC)" 2
 		add variant 20
@@ -26,17 +74,108 @@
 			"Osprey (FOE Blaster)"
 			"Osprey (FOE Missile)"
 
-	#         | Vanilla | FOE Add |
-	# --------|---------|---------| 
-	# Argosy  |    13   |    --   |
-	# Bastion |    54   |    63   |
-	# Falcon  |    22   |    25   |
-	# Fury    |    24   |    63   |
-	# Hawk    |    36   |    59   |
-	# Osprey  |    28   |    29   |
-	# Sparrow |    48   |    --   |
-
 	fleet "Large Free Worlds"
+		remove variant
+			"Bastion"
+		remove variant
+			"Bastion (Heavy)"
+		remove variant
+			"Bastion (Laser)"
+		remove variant
+			"Osprey"
+			"Fury"
+		remove variant
+			"Osprey (Missile)"
+			"Fury (Missile)"
+		remove variant
+			"Osprey (Laser)"
+			"Fury (Laser)"
+		remove variant
+			"Argosy"
+		remove variant
+			"Argosy (Blaster)"
+		remove variant
+			"Argosy (Laser)"
+		remove variant
+			"Argosy (Missile)"
+		remove variant
+			"Argosy (Turret)"
+		remove variant
+			"Bastion"
+			"Osprey"
+		remove variant
+			"Bastion (Heavy)"
+			"Osprey (Missile)"
+		remove variant
+			"Bastion (Laser)"
+			"Osprey (Laser)"
+		remove variant
+			"Bastion"
+			"Sparrow" 2
+		remove variant
+			"Bastion (Heavy)"
+			"Sparrow" 2
+		remove variant
+			"Bastion (Laser)"
+			"Sparrow" 2
+		remove variant
+			"Falcon"
+		remove variant
+			"Falcon (Heavy)"
+		remove variant
+			"Falcon (Laser)"
+		remove variant
+			"Falcon"
+			"Hawk" 2
+			"Sparrow" 3
+		remove variant
+			"Falcon (Heavy)"
+			"Hawk" 2
+			"Sparrow" 3
+		remove variant
+			"Falcon (Laser)"
+			"Hawk"
+			"Hawk (Plasma)"
+			"Sparrow" 3
+		remove variant
+			"Falcon"
+			"Bastion"
+			"Hawk"
+		remove variant
+			"Falcon (Heavy)"
+			"Bastion (Heavy)"
+			"Hawk (Rocket)"
+		remove variant
+			"Hawk (Rocket)" 2
+			"Sparrow" 4
+		remove variant
+			"Falcon (Heavy)"
+			"Bastion (Heavy)"
+			"Hawk (Bomber)"
+		remove variant
+			"Falcon (Laser)"
+			"Bastion (Laser)"
+			"Hawk (Speedy)"
+		remove variant
+			"Falcon (Laser)"
+			"Bastion (Laser)"
+			"Hawk (Bomber)"
+		remove variant
+			"Bastion (Heavy)"
+			"Fury (Bomber)" 2
+			"Sparrow" 2
+		remove variant
+			"Falcon (Heavy)"
+			"Fury (Bomber)" 2
+			"Sparrow" 4
+		remove variant
+			"Hawk" 4
+		remove variant
+			"Hawk (Plasma)" 4
+		remove variant
+			"Hawk (Plasma)" 2
+			"Hawk (Bomber)" 2
+		###########################
 		add variant 4
 			"Bastion (FOE Missile)"
 			"Bastion (FOE Blaster)"

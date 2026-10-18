@@ -27,7 +27,7 @@ mission "FOE: New FW Tech"
 	on offer
 		event "foe: new fw tech"
 		conversation
-			`The Free Worlds' Council hurried to distribute resources to the leading colleges and companies to keep up in the unfolding arms race. While Delta V focused on mass production, Kraz Cybernetics got creative, as you can deduce from the incoming advertisment hologram messages.`
+			`The Free Worlds' Council hurried to distribute resources to the leading colleges and companies to keep up in the unfolding arms race. While Delta V focused on mass production, Kraz Cybernetics got creative, as you can deduce from the incoming advertisement hologram messages.`
 			scene "outfit/fuel pod compressed"
 			`You want to cross hostile areas without costly stopovers? You feel the urge to carry out deep strikes into the oppressor's hinterland? The Compressed Fuel Pod will help you out! KRAZ - Engineering for your freedom!`
 			scene "outfit/fuel shield large"

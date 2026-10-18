@@ -15,4 +15,5 @@
 			"FW in a boxwing run, iirc."
 			"Howdy, friend!"
 			"(3+3<<3×3)−(3×3<<3+3)+33−3"
+			"Did you know you're beautiful?"
 	ship "Star Queen (FOE Miner)" "Pilcrow"

@@ -9,6 +9,11 @@ def get_version():
 	with open('changelog.txt', 'r') as sourcefile:
 		onlineversion = 'v' + sourcefile.readline().replace('Version ', '').replace('\n', '').replace(':', '') # result example: v0.10.10
 	releasev = 'EndlessSky-win64-' + onlineversion + '.zip '
+	# check for onlineversion "v0.11.3" or 0.11.3"
+	request = requests.get('https://github.com/endless-sky/endless-sky/releases/download/' + onlineversion + '/EndlessSky-win64-' + onlineversion +'.zip')
+	if request.status_code == 404:
+		releasev = 'EndlessSky-win64-' + onlineversion.replace('v', '') + '.zip '
+	# set env
 	env_file = os.getenv('GITHUB_ENV')
 	with open(env_file, "a") as envfile:
 		envfile.write("ES_VERSION=" + onlineversion + '\n')

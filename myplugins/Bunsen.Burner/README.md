@@ -19,6 +19,7 @@ Needs that 60 days have lapsed since the Flamethrower became available, that the
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-18 | 1.4.7 | Metadata fix. | 
 | 2026-10-18 | 1.4.6 | Removed Flamethrower-related content after PR #12491 has been merged. |
 | 2026-06-09 | 1.4.5 | Reworked ship and fleet variants employing the Bunsen Burner. |
 | 2026-06-05 | 1.4.4 | Aligned with [PR #12491](https://github.com/endless-sky/endless-sky/pull/12491). |
@@ -34,4 +35,4 @@ Needs that 60 days have lapsed since the Flamethrower became available, that the
 | 2025-05-03 | 1.0.2 | Metadata files fixes. |
 | 2025-04-28 | 1.0.1 | Readme and copyright fixes. |
 | 2025-04-28 | 1.0.0 | Overhaul and Re-publication as *Bunsen Burner*. |
-| 2021-01-26 | - | Last Update of the *Flamethrower Turret* plugin. |
+| 2021-01-26 | -- | Last Update of the *Flamethrower Turret* plugin. |

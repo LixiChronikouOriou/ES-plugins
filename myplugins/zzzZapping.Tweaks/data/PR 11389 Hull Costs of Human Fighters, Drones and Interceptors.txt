@@ -1,0 +1,88 @@
+﻿# Author: Timeout
+#
+# Rebalances hull costs of human fighters, drones and interceptors according to
+# a very smart but top secret formula.
+#
+# Altered version of:
+# https://github.com/endless-sky/endless-sky/pull/11389
+#
+# | Ship         | van | new | change | # van = vanilla
+# |--------------|-----|-----|--------|
+# | Barb         |  50 |  95 | + 90%  |
+# | Boxwing      | 369 | 354 | -  4%  |
+# | Dagger       | 129 | 117 | -  9%  |
+# | Dropship     |  91 | 114 | + 25%  |
+# | Finch        | 126 | 114 | - 10%  |
+# | Lance        |  93 | 106 | + 14%  |
+# |--------------|-----|-----|--------|
+# | Combat Drone |  63 |  37 | - 41%  |
+# | Mining Drone |  58 |  44 | - 24%  |
+# | -------------|-----|-----|--------|
+# | Berserker    | 520 | 528 | +  2%  |
+# | Fury         | 490 | 424 | - 13%  |
+# | Hawk         | 670 | 559 | - 17%  |
+# | Jackal       | 320 | 276 | - 14%  |
+# | Scrapper     |  60 |  60 |    0%  | # not changed because of lore
+# | Sparrow      | 225 | 225 |    0%  | # not changed because it is the reference
+# | Wasp         | 400 | 295 | - 26%  |
+
+
+# FIGHTERS
+
+ship "Barb"
+	attributes
+		"cost" 95000
+
+ship "Boxwing"
+	attributes
+		cost 354000
+
+ship "Dagger"
+	attributes
+		"cost" 117000
+
+ship "Dropship"
+	attributes
+		"cost" 114000
+
+ship "Finch"
+	attributes
+		"cost" 114000
+
+ship "Lance"
+	attributes
+		"cost" 106000
+
+
+# DRONES
+
+ship "Combat Drone"
+	attributes
+		"cost" 37000
+
+ship "Mining Drone"
+	attributes
+		"cost" 44000
+
+
+# INTERCEPTORS
+
+ship "Berserker"
+	attributes
+		"cost" 528000
+
+ship "Fury"
+	attributes
+		"cost" 424000
+
+ship "Hawk"
+	attributes
+		"cost" 559000
+
+ship "Jackal"
+	attributes
+		"cost" 276000
+
+ship "Wasp"
+	attributes
+		"cost" 295000

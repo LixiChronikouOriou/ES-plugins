@@ -1,0 +1,90 @@
+# Author: RW
+# Editor: Timeout
+#
+# Makes missile launchers fire like their appearances would suggest, e.g. Torpedo Launcher has
+# two tubes, so it fires two torpedoes at once. Weapon DPS remains the same, this just shifts
+# missiles away from a DPS orientation to a burst-damage one.
+#
+# Roughly orienting on Finisher Maegrolain with a burst reload of 15.
+#
+# Not currently done for pod size launchers as they already use the burst stats, so would be
+# more involved, needing submunition definitions.
+
+
+## HUMANS
+
+outfit "Meteor Missile Launcher"
+	weapon
+		"burst count" 3
+		"burst reload" 10
+
+outfit "Sidewinder Missile Launcher"
+	weapon
+		"burst count" 4
+		"burst reload" 30 # slower since they rotate out on a cylinder
+
+outfit "Torpedo Launcher"
+	weapon
+		"burst count" 2
+		"burst reload" 20
+
+outfit "Typhoon Launcher"
+	weapon
+		"burst count" 3
+		"burst reload" 20
+
+outfit "Heavy Rocket Launcher"
+	weapon
+		"burst count" 3
+		"burst reload" 20
+
+
+## KORATH
+
+outfit "Piercer Missile Launcher"
+	weapon
+		"burst count" 7
+		"burst reload" 15
+		"stream" # needs to be re-added if weapon is modified
+
+outfit "Cluster Mine Layer"
+	weapon
+		"burst count" 3
+		"burst reload" 45 # slower to spread mines out more as ship moves
+
+# Firelight Missile Bank already fires in this manner in vanilla.
+
+
+## HAI
+
+outfit "Hai Tracker Pod"
+	weapon
+		"burst count" 12
+		"burst reload" 15
+		"stream" # more beneficial to use this mode now, to maintain hit force on target and avoid launching such a dense flurry of missiles that earlier ones in the volley push the target out of range of the following ones
+
+
+## WANDERER
+
+outfit "Thunderhead Launcher"
+	weapon
+		"burst count" 2
+		"burst reload" 15
+
+
+## HELIARCH
+
+outfit "Finisher Pod"
+	weapon
+		"burst count" 7
+		"burst reload" 15
+
+# Finisher Maegrolain already fires in this manner in vanilla.
+
+
+## AVGI
+
+outfit "External Launch Tube"
+	weapon
+		"burst count" 3
+		"burst reload" 30 # slower due to massive investment per missile

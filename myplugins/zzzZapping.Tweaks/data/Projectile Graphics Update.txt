@@ -1,0 +1,16 @@
+﻿# Author: RW
+#
+# A bug/oversight fix to replace the projectile sprites for human missiles with updated renders
+# based on the new outfit models used since game version 0.9.15. This does NOT also replace the
+# outdated renders still used for the secondary weapon selection icons, nor does it update either
+# graphic for Thunderhead missiles.
+#
+# Note that the models were rendered using default Eevee settings in Blender 2.80 with contrast
+# manually adjusted in GIMP 2.8.22, so they are not truly vanilla-quality (the models should be
+# rendered using Internal in Blender 2.79b). The new meteor/rocket/sidewinder sprites are (much)
+# darker than the old sprites in order to better match the ship lighting. XCF files weren't saved
+# for the meteor and sidewinder.
+#
+# Derived from work by Becca Tommaso, CC-BY-SA-4.0.
+#
+# See ./images/projectile/*

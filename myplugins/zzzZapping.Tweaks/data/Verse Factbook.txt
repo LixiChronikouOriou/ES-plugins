@@ -1,0 +1,405 @@
+﻿# Planet-wise extra information, for now information on the population.
+# Inspired by the CIA's World Factbook (1962-2026).
+#
+# Author: Timeout
+# Based on Amazinite's population spreadsheet from 2021:
+# https://docs.google.com/spreadsheets/d/1dWKimAiiXrlVCibdjyiFNqtQJdiXJqB7F0Cs9La0Z60/htmlview
+#
+# Updated by adding New Tortuga and the Ex-CCOR's planets.
+# Double-checked whether the population numbers fit the planets' descriptions and adjusted where necessary.
+#
+# For a population density map see ./images/map/demographics.png
+
+# MANKIND: 96.5 billion (3010 AD)
+
+# NEAR EARTH
+# Population: 40.4 billion (3010 AD)
+
+planet Earth
+	add description `	Population: 16723.36 million (3010 AD)`
+planet Chiron
+	add description `	Population: 8350.29 million (3010 AD)`
+planet Millrace
+	add description `	Population: 6079.83 million (3010 AD)`
+planet "New China"
+	add description `	Population: 3705.96 million (3010 AD)`
+planet Reunion
+	add description `	Population: 2525.82 million (3010 AD)`
+planet Tinker
+	add description `	Population: 1512.11 million (3010 AD)`
+planet Mars
+	add description `	Population: 1167.66 million (3010 AD)`
+planet "New Switzerland"
+	add description `	Population: 324.78 million (3010 AD)`
+planet Silver
+	add description `	Population: 17.68 million (3010 AD)`
+planet Geyser
+	add description `	Population: 8.49 million (3010 AD)`
+planet Relic
+	add description `	Population: 3.58 million (3010 AD)`
+planet Luna
+	add description `	Population: 0.87 million (3010 AD)`
+planet Shiver
+	add description `	Workers: 33400 (3010 AD)`
+planet "Kraken Station"
+	add description `	Crew: 200 (3010 AD)`
+
+
+# CORE, without Pirate-controlled worlds
+# Population: 18.7 billion (3010 AD)
+
+planet Moonshake
+	add description `	Population: 6973.57 million (3010 AD)`
+planet Hephaestus
+	add description `	Population: 3575.87 million (3010 AD)`
+planet Foundry
+	add description `	Population: 3309.10 million (3010 AD)`
+planet Sunracer
+	add description `	Population: 2086.37 million (3010 AD)`
+planet Maker
+	add description `	Population: 1380.37 million (3010 AD)`
+planet Shangri-La
+	add description `	Population: 563.52 million (3010 AD)`
+planet Delve
+	add description `	Population: 260.91 million (3010 AD)`
+planet Amazon
+	add description `	Population: 196.39 million (3010 AD)`
+planet Sundive
+	add description `	Population: 154.02 million (3010 AD)`
+planet Nimbus
+	add description `	Population: 111.50 million (3010 AD)`
+planet Canyon
+	add description `	Population: 68.77 million (3010 AD)`
+planet Icefall
+	add description `	Population: 23.81 million (3010 AD)`
+planet Burthen
+	add description `	Population: 15.96 million (3010 AD)`
+planet Quicksilver
+	add description `	Population: 12.47 million (3010 AD)`
+planet Crossroads
+	add description `	Population: 5.56 million (3010 AD)`
+planet Antipode
+	add description `	Population: 4.98 million (3010 AD)`
+planet Lodestone
+	add description `	Population: 4.18 million (3010 AD)`
+planet Bluestone
+	add description `	Population: 1.11 million (3010 AD)`
+planet Hippocrates
+	add description `	Population: 0.48 million (3010 AD)`
+planet Furnace
+	add description `	Civilians: 55000
+	add description `	Military: 82000`
+	add description `	(3010 AD)`
+planet Placer
+	add description `	Workers: 57000 (3010 AD)`
+planet Taylor
+	add description `	Scientists: 5100
+	add description `	Military: 34000`
+	add description `	(3010 AD)`
+planet Trove
+	add description `	Workers: 26900 (3010 AD)`
+planet "Charybdis Station"
+	add description `	Crew: 300 (3010 AD)`
+planet "Oberon Station"
+	add description `	Crew: 300 (3010 AD)`
+
+
+# DEEP
+# Population: 15.6 billion (3010 AD)
+
+planet Valhalla
+	add description `	Population: 5274.70 million (3010 AD)`
+planet Midgard
+	add description `	Population: 4266.30 million (3010 AD)`
+planet Asgard
+	add description `	Population: 3006.79 million (3010 AD)`
+planet Bivrost
+	add description `	Population: 1413.90 million (3010 AD)`
+planet Haze
+	add description `	Population: 1110.72 million (3010 AD)`
+planet Alfheim
+	add description `	Population: 217.12 million (3010 AD)`
+planet Windblain
+	add description `	Population: 100.99 million (3010 AD)`
+planet Norn
+	add description `	Population: 58.08 million (3010 AD)`
+planet Memory
+	add description `	Population: 53.76 million (3010 AD)`
+planet Helheim
+	add description `	Population: 19.81 million (3010 AD)`
+planet Nifel
+	add description `	Population: 0.30 million (3010 AD)`
+planet Mani
+	add description `	Workers: 97000 (3010 AD)`
+planet "Huginn Station"
+	add description `	Crew: 200`
+	add description `	Security: 500`
+	add description `	Convicts: 800`
+	add description `	(3010 AD)`
+planet Alexandria
+	add description `	Crew: 200
+	add description `	Librarians: 1000`
+	add description `	Scientists: 1000`
+	add description `	(3010 AD)`
+planet "Muninn Station"
+	add description `	Crew: 200
+	add description `	Military: 1300
+	add description `	(3010 AD)`
+planet "Leviathan Station"
+	add description `	Crew: 200 (3010 AD)`
+planet "Fenrir Station"
+	add description `	Crew: 100 (3010 AD)`
+planet "Phoenix Station"
+	add description `	Crew: 100 (3010 AD)`
+
+
+# PARADISE
+# Population: 4.8 billion (3010 AD)
+
+planet Hestia
+	add description `	Population: 747.40 million (3010 AD)`
+planet Martini
+	add description `	Population: 723.78 million (3010 AD)`
+planet Follower
+	add description `	Population: 691.02 million (3010 AD)`
+planet Glory
+	add description `	Population: 635.00 million (3010 AD)`
+planet Vinci
+	add description `	Population: 563.48 million (3010 AD)`
+planet Ada
+	add description `	Population: 321.83 million (3010 AD)`
+planet Geminus
+	add description `	Population: 251.70 million (3010 AD)`
+planet Calda
+	add description `	Population: 206.31 million (3010 AD)`
+planet Mainsail
+	add description `	Population: 190.39 million (3010 AD)`
+planet Farseer
+	add description `	Population: 171.33 million (3010 AD)`
+planet Thrall
+	add description `	Population: 154.85 million (3010 AD)`
+planet Vail
+	add description `	Population: 140.59 million (3010 AD)`
+planet Pearl
+	add description `	Population: 21.33 million (3010 AD)`
+planet Hermes
+	add description `	Population: 16.37 million (3010 AD)`
+
+
+# RIM
+# Population: 4.3 billion (3010 AD)
+
+planet Bourne
+	add description `	Population: 1171.82 million (3010 AD)`
+planet Longjump
+	add description `	Population: 1059.74 million (3010 AD)`
+planet Zug
+	add description `	Population: 825.01 million (3010 AD)`
+planet Rust
+	add description `	Population: 591.06 million (3010 AD)`
+planet Shorebreak
+	add description `	Population: 305.07 million (3010 AD)`
+planet Flood
+	add description `	Population: 139.98 million (3010 AD)`
+planet Mere
+	add description `	Population: 75.33 million (3010 AD)`
+planet Oasis
+	add description `	Population: 40.11 million (3010 AD)`
+planet Poseidos
+	add description `	Population: 30.62 million (3010 AD)`
+planet Dune
+	add description `	Population: 5.20 million (3010 AD)` # actually abt. 15 million
+	add description `	Rumours about inhumane exploitation of workers, an unregistered sectarian population of additional 10 million people, long-running partisan warfare, giant sandworms which devour anything in their way and are somehow related to the riches of this planet are unfounded defamations spread by a novel author who has never been on Dune.`
+planet Skymoot
+	add description `	Population: 11.32 million (3010 AD)`
+planet Thunder
+	add description `	Population: 5.45 million (3010 AD)`
+planet Starcross
+	add description `	Population: 4.95 million (3010 AD)`
+planet "Typhon Station"
+	add description `	Crew: 200 (3010 AD)`
+planet "Wyvern Station"
+	add description `	Crew: 200 (3010 AD)`
+
+
+# SOUTH, without Pirate-controlled worlds
+# Population: 4.0 billion (3010 AD)
+
+planet Solace
+	add description `	Population: 2179.36 million (3010 AD)`
+planet Wayfarer
+	add description `	Population: 801.67 million (3010 AD)`
+planet Glaze
+	add description `	Population: 376.39 million (3010 AD)`
+planet Cornucopia
+	add description `	Population: 288.05 million (3010 AD)`
+planet Trinket
+	add description `	Population: 173.27 million (3010 AD)`
+planet Humanika
+	add description `	Population: 74.06 million (3010 AD)`
+planet Harmony
+	add description `	Population: 50.96 million (3010 AD)`
+planet Lichen
+	add description `	Population: 38.43 million (3010 AD)`
+planet Deep
+	add description `	Population: 27.59 million (3010 AD)`
+planet Darkstone
+	add description `	Population: 9.04 million (3010 AD)`
+planet Winter
+	add description `	Population: 1.99 million (3010 AD)`
+planet Sundrinker
+	add description `	Population: 0.08 million (3010 AD)`
+planet Poisonwood
+	add description `	Population: 0.41 million (3010 AD)`
+planet Dancer
+	add description `	Population: 0.07 million (3010 AD)`
+planet Clink
+	add description `	Workers: 44200 (3010 AD)`
+planet Twinstar
+	add description `	Workers: 18000 (3010 AD)`
+planet "Charon Station"
+	add description `	Crew: 400 (3010 AD)`
+planet "Arachne Station"
+	add description `	N/A: N/A (3010 AD)` # 500
+
+
+# DIRT BELT
+# Population: 3.0 billion (3010 AD)
+
+planet "New Britain"
+	add description `	Population: 1679.21 million (3010 AD)`
+planet "New Holland"
+	add description `	Population: 513.24 million (3010 AD)`
+planet Heartland
+	add description `	Population: 266.82 million (3010 AD)`
+planet Bounty
+	add description `	Population: 141.68 million (3010 AD)`
+planet "Big Sky"
+	add description `	Population: 110.65 million (3010 AD)`
+planet "New Iceland"
+	add description `	Population: 59.98 million (3010 AD)`
+planet "New Kansas"
+	add description `	Population: 56.68 million (3010 AD)`
+planet Clark
+	add description `	Population: 50.87 million (3010 AD)`
+planet Tundra
+	add description `	Population: 29.05 million (3010 AD)`
+planet "New Tibet"
+	add description `	Population: 22.71 million (3010 AD)`
+planet "New Boston"
+	add description `	Population: 18.34 million (3010 AD)`
+planet "New Austria"
+	add description `	Population: 17.37 million (3010 AD)`
+planet Rand
+	add description `	Population: 10.48 million (3010 AD)`
+planet "New Wales"
+	add description `	Population: 8.52 million (3010 AD)`
+planet "New Portland"
+	add description `	Population: 7.07 million (3010 AD)`
+planet Oblivion
+	add description `	Population: 6.50 million (3010 AD)`
+planet Gemstone
+	add description `	Population: 6.28 million (3010 AD)`
+planet Arabia
+	add description `	Population: 5.47 million (3010 AD)`
+planet "New Washington"
+	add description `	Population: 5.00 million (3010 AD)`
+planet "New India"
+	add description `	Population: 3.17 million (3010 AD)`
+planet "New Greenland"
+	add description `	Population: 3.06 million (3010 AD)`
+planet Hopper
+	add description `	Population: 1.76 million (3010 AD)`
+planet Ingot
+	add description `	Workers: 45400 (3010 AD)`
+planet Sinter
+	add description `	Workers: 34000 (3010 AD)`
+planet "New Sahara"
+	add description `	Workers: 23000 (3010 AD)`
+planet Watcher
+	add description `	Scientists: 1300 (3010 AD)`
+planet "Hydra Station"
+	add description `	Crew: 100 (3010 AD)`
+planet Hope
+	add description `	Population: 0? (3010 AD)`
+
+
+# FAR NORTH, without Pirate-controlled worlds
+# Population: 1.9 billion (3010 AD)
+
+planet Prime
+	add description `	Population: 1419.82 million (3010 AD)`
+planet Shroud
+	add description `	Population: 272.35 million (3010 AD)`
+planet Maelstrom
+	add description `	Population: 149.52 million (3010 AD)`
+planet Skillet
+	add description `	Population: 36.21 million (3010 AD)`
+planet Splashdown
+	add description `	Population: 14.68 million (3010 AD)`
+planet Featherweight
+	add description `	Population: less than 5 million (estimated 3010 AD)` # 3.36 million
+planet Farpoint
+	add description `	Civilians: 206000
+	add description `	Military: 54000
+	add description `	(3010 AD)`
+planet Serpens
+	add description `	Population: 0.08 million (3010 AD)`
+planet Pilot
+	add description `	Inhabitants: classified (classified BC/AD)` # 32000
+planet "Triton Station"
+	add description `	Crew: 200
+	add description `	Military: 1000
+	add description `	(3010 AD)`
+planet "Carbuncle Station"
+	add description `	Inhabitants: classified (classified BC/AD)` # 500
+
+
+# PIRATES
+# Population: 3.7 billion (3010 AD)
+
+# CORE: 1126.32 million
+planet "Buccaneer Bay"
+	add description `	Population: about half a billion (estimated 3010 AD)` # 601.59 million
+planet "New Tortuga"
+	add description `	Population: less than half a billion (estimated 3010 AD)` # 322.83 million
+planet Covert
+	add description `	Population: less than 100 million (estimated 3010 AD)` # 80.37 million
+planet "Deadman's Cove"
+	add description `	Population: less than 100 million (estimated 3010 AD)` # 76.98 million
+planet Stormhold
+	add description `	Population: less than 50 million (estimated 3010 AD)` # 44.53 million
+planet Mutiny
+	add description `	Population: insignificant, if at all (estimated 3010 AD)` # 0.02 million
+
+# INDEPENDENTS OF MEN: 929.69 million
+planet Thule
+	add description `	Population: almost 1 billion (estimated 3010 AD)`
+planet "Smuggler's Den"
+	add description `	Population: N/A` # 3000
+
+# EX-CCOR: 873.53 million
+planet Bailey
+	add description `	Workers: 20-50 thousand (estimated 3010 AD, based on last available CCOR-data)` # 40000
+planet Gagarin
+	add description `	Population: 700-900 million (estimated 3010 AD, based on last available CCOR-data)` # 834.97 million
+planet Jakobsen
+	add description `	Population: 30-50 million (estimated 3010 AD, based on last available CCOR-data)` # 38.51 million
+planet Mordente-Bridi
+	add description `	Workers: 3-5 thousand (estimated 3010 AD, based on last available CCOR-data)` # 5000
+
+# SOUTH: 475.20 million
+planet Greenrock
+	add description `	Population: about half a billion (estimated 3010 AD)` # 409.62 million
+planet Albatross
+	add description `	Population: less than 100 million (estimated 3010 AD)` # 64.11 million
+planet Bloodsea
+	add description `	Population: insignificant (estimated 3010 AD)` # 1.47 million
+
+# NORTH (ANARCHISTS): 304.54 million
+planet Freedom
+	add description `	Population: 100-200 million (estimated 3010 AD)` # 161.09 million
+planet Haven
+	add description `	Population: 100-200 million (estimated 3010 AD)` # 123.65 million
+planet Zenith
+	add description `	Population: less than 50 million (estimated 3010 AD)` # 19.79 million

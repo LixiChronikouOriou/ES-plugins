@@ -1,0 +1,30 @@
+﻿Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: zzzZapping.Tweaks
+Upstream-Contact: Timeout <https://github.com/LixiChronikouOriou>
+Source: https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/zzzZapping.Tweaks
+
+Files:
+ icon*.png
+Copyright: Timeout <github.com/LixiChronikouOriou>
+License: CC-BY-SA-4.0
+Comment: Derived from the arc flash warn sign according to ISO 7010 W042.
+
+Files:
+ data/Missile Burstfire.txt
+ data/Missile Trails.txt
+ data/Projectile Graphics Update.txt
+ images/projectile/*
+Copyright: RW
+License: CC-BY-SA-4.0
+Comment: See comments in files.
+
+Files:
+ data/PR 11194 Human Turret Turn Rates.txt
+ data/PR 11389 Hull Costs of Human Fighters, Drones and Interceptors.txt
+ data/PR 11771 Alpha Centauri Connectivity.txt
+ data/Universal Navy License.txt
+ data/Verse Factbook.txt
+ images/map/*
+Copyright: Timeout <https://github.com/LixiChronikouOriou>
+License: CC-BY-SA-4.0
+Comment: See comments in files.

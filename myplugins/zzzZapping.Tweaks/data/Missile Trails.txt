@@ -1,0 +1,376 @@
+# Author: RW
+# Editor: Timeout
+#
+# Adds smoke/flame/energy trails to most homing weapons and some larger ballistic or artillery weapons.
+# This edited version
+# -- Addresses only vanilla outfits,
+# -- Updates the spark counts after the mass changes of merged PR 12239,
+# -- Streamlines some trails.
+
+
+effect "gatling smoke"
+	sprite "effect/smoke"
+		"scale" .05
+		"no repeat"
+		"frame rate" 20
+	"lifetime" 2
+	"random spin" 6
+	"random angle" 360
+	"random velocity" 1
+	"velocity scale" .5
+
+effect "missile smoke trail scale .1" # small: javelin, shard fab, thunderhead submunition
+	sprite "effect/smoke"
+		"scale" .1
+		"no repeat"
+		"frame rate" 8
+	"lifetime" 60
+	"random spin" 6
+	"random angle" 360
+	"random velocity" .75
+	"velocity scale" -.2
+
+effect "missile smoke trail scale .2" # medium: meteor, sidewinder, piercer, thunderhead
+	sprite "effect/smoke"
+		"scale" .2
+		"no repeat"
+		"frame rate" 8
+	"lifetime" 60
+	"random spin" 6
+	"random angle" 360
+	"random velocity" 1
+	"velocity scale" -.2
+
+effect "missile smoke trail scale .25" # large: heavy rocket, firelight
+	sprite "effect/smoke"
+		"scale" .25
+		"no repeat"
+		"frame rate" 8
+	"lifetime" 60
+	"random spin" 6
+	"random angle" 360
+	"random velocity" 1.25
+	"velocity scale" -.2
+
+effect "missile smoke trail scale .3" # huge: nuke, orchid, firestorm
+	sprite "effect/smoke"
+		"scale" .3
+		"no repeat"
+		"frame rate" 8
+	"lifetime" 60
+	"random spin" 6
+	"random angle" 360
+	"random velocity" 1.5
+	"velocity scale" -.2
+
+effect "missile flame mid"
+	sprite "effect/explosion/tiny"
+		"no repeat"
+		"frame rate" 15
+		"scale" .5
+	"lifetime" 20
+	"absolute angle" 180
+	"random angle" 160
+	"random spin" 6
+	"absolute velocity" 0
+	"random velocity" .5
+
+effect "missile flame big"
+	sprite "effect/explosion/tiny"
+		"no repeat"
+		"frame rate" 15
+	"lifetime" 20
+	"absolute angle" 180
+	"random angle" 160
+	"random spin" 4
+	"absolute velocity" 0
+	"random velocity" .25
+
+# the [ammo mass * 50] calc used below for the number of sparks per missile
+# was verified forbased on missile masses in v0.10.xx
+effect "missile death spark"
+	sprite "effect/nano spark"
+		"no repeat"
+		"random start frame"
+		"frame rate" 10
+	"lifetime" 30
+	"random frame rate" 20
+	"random angle" 90
+	"random spin" 60
+	"random velocity" 4
+	"velocity scale" .75
+
+effect "torpedo trail"
+	sprite "effect/pulse impact"
+		"no repeat"
+		"frame rate" 10
+	"lifetime" 20
+	"absolute angle" 180
+	"random angle" 160
+	"random spin" 4
+	"absolute velocity" 0
+	"random velocity" .25
+	"random frame rate" 4
+
+effect "emp torpedo trail"
+	sprite "effect/ionic afterburner"
+		"no repeat"
+		"frame rate" 10
+		"scale" .75
+	"lifetime" 36
+	"absolute angle" 180
+	"random angle" 160
+	"random spin" 30
+	"absolute velocity" 0
+	"random velocity" 1
+	"random frame rate" 4
+
+effect "tracker trail"
+	sprite "effect/tracker cloud"
+		"no repeat"
+		"frame rate" 5
+		"random start frame"
+		"scale" .4
+	"lifetime" 72
+	"random angle" 360
+	"random spin" 8
+	"random velocity" 1
+	"velocity scale" -.1
+
+effect "piercer trail"
+	sprite "effect/piercer fire"
+		"no repeat"
+		"frame rate" 16
+		"random start frame"
+		"scale" .5
+	"lifetime" 15
+	"random angle" 360
+	"random spin" 10
+	"random velocity" 1.5
+	"velocity scale" -.1
+
+effect "acuit trail"
+	sprite "effect/pulse impact"
+		"no repeat"
+		"frame rate" 20
+		"scale" .5
+	"lifetime" 10
+	"absolute angle" 180
+	"random angle" 160
+	"random spin" 4
+	"absolute velocity" 0
+	"random velocity" .5
+	"random frame rate" 4
+
+effect "acuit hit" # only changing scale of existing vanilla effect
+	sprite "effect/acuit hit"
+		"scale" 2
+
+
+# HUMAN
+
+outfit "gbullet"
+	weapon
+		"live effect" "gatling smoke" 25
+
+outfit "Meteor Missile Launcher"
+	weapon
+		"live effect" "missile smoke trail scale .2" 192
+		"die effect" "missile death spark" 10 # ammo mass * 50
+
+outfit "Meteor Missile Pod"
+	weapon
+		"live effect" "missile smoke trail scale .2" 192
+		"die effect" "missile death spark" 10 # ammo mass * 50
+
+outfit "Sidewinder Missile Launcher"
+	weapon
+		"live effect" "missile smoke trail scale .2" 350
+		"die effect" "missile death spark" 10 # ammo mass * 50
+
+outfit "Sidewinder Missile Pod"
+	weapon
+		"live effect" "missile smoke trail scale .2" 350
+		"die effect" "missile death spark" 10 # ammo mass * 50
+
+outfit "Torpedo Launcher"
+	weapon
+		"live effect" "torpedo trail" 675 # appears on 3/4 live frames
+		"die effect" "missile death spark" 20 # ammo mass * 50
+
+outfit "Torpedo Pod"
+	weapon
+		"live effect" "torpedo trail" 675 # appears on 3/4 live frames
+		"die effect" "missile death spark" 20 # ammo mass * 50
+
+outfit "Typhoon Launcher"
+	weapon
+		"live effect" "torpedo trail" 825 # appears on 3/4 live frames
+		"die effect" "missile death spark" 25 # ammo mass * 50
+
+outfit "Typhoon Pod"
+	weapon
+		"live effect" "torpedo trail" 825 # appears on 3/4 live frames
+		"die effect" "missile death spark" 25 # ammo mass * 50
+
+outfit "Javelin Pod"
+	weapon
+		"live effect" "missile smoke trail scale .1" 60
+		"die effect" "missile death spark" 3 # ammo mass * 50 + 1
+
+outfit "Javelin Mini Pod"
+	weapon
+		"live effect" "missile smoke trail scale .1" 60
+		"die effect" "missile death spark" 3 # ammo mass * 50 + 1
+
+outfit "Javelin Turret"
+	weapon
+		"live effect" "missile smoke trail scale .1" 60
+		"die effect" "missile death spark" 3 # ammo mass * 50 + 1
+
+outfit "Heavy Rocket Launcher"
+	weapon
+		"live effect" "missile flame mid" 63 # appears on 1/2 live frames
+		"live effect" "missile smoke trail scale .25" 125
+		"die effect" "missile death spark" 25 # ammo mass * 50
+
+outfit "Heavy Rocket Pod"
+	weapon
+		"live effect" "missile flame mid" 63 # appears on 1/2 live frames
+		"live effect" "missile smoke trail scale .25" 125
+		"die effect" "missile death spark" 25 # ammo mass * 50
+
+outfit "Nuclear Missile"
+	weapon
+		"live effect" "missile flame big" 400 # appears on 1/2 live frames
+		"live effect" "missile smoke trail scale .3" 800
+		"die effect" "missile death spark" 500 # ammo mass * 50
+
+
+# KORATH
+
+outfit "Piercer Missile Launcher"
+	weapon
+		"live effect" "piercer trail" 350
+		"live effect" "missile smoke trail scale .2" 350
+		"die effect" "missile death spark" 5 # ceil(ammo mass * 50) + 1
+
+outfit "Cluster Mine Layer"
+	weapon
+		"live effect" "missile smoke trail scale .1" 50
+		"die effect" "missile death spark" 20 # ammo mass * 50
+
+outfit "Firelight Activated"
+	weapon
+		"live effect" "missile flame mid" 168
+		"live effect" "missile smoke trail scale .25" 168
+		"die effect" "missile death spark" 40 # ammo mass * 50
+
+outfit "Firestorm Battery"
+	weapon
+		"live effect" "missile flame big" 950 # appears on 1/2 live frames
+		"live effect" "missile smoke trail scale .3" 1900
+		"die effect" "missile death spark" 100 # ammo mass * 50
+
+
+# HAI
+
+outfit "Hai Tracker Pod"
+	weapon
+		"live effect" "tracker trail" 475
+		"die effect" "missile death spark" 10 # ammo mass * 50
+
+
+# SHERAGI
+
+outfit "Shard Fabricator"
+	weapon
+		"live effect" "missile smoke trail scale .1" 40
+		"die effect" "missile death spark" 3 # unknown ammo mass, given the same number as Javelin
+
+
+# WANDERER
+
+outfit "Thunderhead Launcher"
+	weapon
+		"live effect" "missile smoke trail scale .2" 400
+		"die effect" "missile death spark" 15 # ceil(ammo mass * 50) + 1
+
+outfit "Thunderhead"
+	weapon
+		"live effect" "missile smoke trail scale .1" 400
+		"die effect" "missile death spark" 3 # above spark number divided by submunition count
+
+
+# REMNANTS & CO.
+
+outfit "EMP Torpedo Bay"
+	weapon
+		"live effect" "emp torpedo trail" 300
+		"die effect" "missile death spark" 30 # ammo mass * 50
+
+outfit "Teciimach Bay"
+	weapon
+		"live effect" "emp torpedo trail" 300
+		"die effect" "missile death spark" 30 # ammo mass * 50
+
+outfit "Teciimach Pod"
+	weapon
+		"live effect" "emp torpedo trail" 300
+		"die effect" "missile death spark" 30 # ammo mass * 50
+
+outfit "Ka'het EMP Deployer"
+	weapon
+		"live effect" "emp torpedo trail" 300
+		"die effect" "missile death spark" 30 # ammo mass * 50
+
+
+# GEGNO
+
+outfit "Acuit Artillery"
+	weapon
+		sprite "projectile/acuit"
+			"random start frame"
+			"scale" 1.5
+		"live effect" "acuit trail" 75 # should be 60 in vanilla, but a max of 1 effect is generated per frame regardless
+
+
+# AVGI
+
+outfit "Nettle Active"
+	weapon
+		"live effect" "missile smoke trail scale .2" 300
+		"die effect" "missile death spark" 8 # ceil(ammo mass * 50)
+
+outfit "Orchid Active"
+	weapon
+		"live effect" "missile smoke trail scale .25" 15
+		"die effect" "missile death spark" 15 # ammo mass * 10 / stage count
+
+outfit "Orchid Boost"
+	weapon
+		"live effect" "missile flame big" 120 # appears on 3/4 live frames
+		"live effect" "missile smoke trail scale .3" 180
+		"die effect" "missile death spark" 15 # ammo mass * 10 / stage count
+
+outfit "Orchid Divert" 
+	weapon
+		"live effect" "missile smoke trail scale .2" 300
+		"die effect" "missile death spark" 15 # ammo mass * 10 / stage count
+
+outfit "Orchid Terminal"
+	weapon
+		"live effect" "missile smoke trail scale .25" 180
+		"die effect" "missile death spark" 15 # ammo mass * 10 / stage count
+
+outfit "Ophrys Terminal"
+	weapon
+		"live effect" "missile smoke trail scale .25" 240
+		"die effect" "missile death spark" 30 # ammo mass * 10
+
+
+# PUG
+
+outfit "Pug Seeker"
+	weapon
+		"live effect" "jump drive" 15 # appears on 1/13.3 of active frames

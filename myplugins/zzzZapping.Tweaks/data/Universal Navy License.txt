@@ -1,0 +1,19 @@
+﻿# Author: Timeout
+#
+# One license to rule them all. Complements e.g. the plugin "Lost in Midnight"
+# where one can get the Navy License via a mission chain.
+
+ship "Auxiliary"
+	attributes
+		licenses
+			"Navy"
+
+ship "Carrier"
+	attributes
+		licenses
+			"Navy"
+
+ship "Cruiser"
+	attributes
+		licenses
+			"Navy"

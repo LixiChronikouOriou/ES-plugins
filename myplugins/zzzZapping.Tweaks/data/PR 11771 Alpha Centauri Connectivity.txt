@@ -1,0 +1,11 @@
+﻿# Author: Timeout
+#
+# Increases connectivity of Alpha Centauri.
+# https://github.com/endless-sky/endless-sky/pull/11771
+
+
+system "Alpha Centauri"	
+	add link Muphrid
+
+system Muphrid
+	add link "Alpha Centauri"	

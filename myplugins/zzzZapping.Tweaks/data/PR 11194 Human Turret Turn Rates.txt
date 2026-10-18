@@ -1,0 +1,63 @@
+﻿# Author: Timeout
+#
+# Adjusts human turret turn rates to be more consistent.
+# https://github.com/endless-sky/endless-sky/pull/11194
+#
+# | Turret       | van | new | change | # van = vanilla
+# | -------------|-----|-----|--------|
+# | Blaster      | 3.6 | 3.6 |    0%  |
+# | Quad Blaster | 2.6 | 2.6 |    0%  |
+# | Mod. Blaster | 3.6 | 3.3 | -  8%  |
+# | Laser        | 4.0 | 3.3 | - 18%  |
+# | Heavy Laser  | 2.2 | 2.0 | -  9%  |
+# | Mining Laser | 4.4 | 4.4 |    0%  |
+# | Electron     | 1.2 | 1.6 | + 33%  |
+# | Proton       | 2.4 | 2.0 | - 17%  |
+# | Plasma       | 1.6 | 1.5 | -  6%  |
+# | Javelin      | 2.6 | 2.6 |    0%  | # already balanced by PR 11273 which followed PR 11194
+# | Gatling      | 3.6 | 3.8 | +  6%  |
+
+
+outfit "Blaster Turret"
+	weapon
+		"turret turn" 3.6
+
+outfit "Quad Blaster Turret"
+	weapon
+		"turret turn" 2.6
+
+outfit "Modified Blaster Turret"
+	weapon
+		"turret turn" 3.3
+
+outfit "Laser Turret"
+	weapon
+		"turret turn" 3.3
+
+outfit "Heavy Laser Turret"
+	weapon
+		"turret turn" 2.0
+
+outfit "Mining Laser Turret"
+	weapon
+		"turret turn" 4.4
+
+outfit "Electron Turret"
+	weapon
+		"turret turn" 1.6
+
+outfit "Proton Turret"
+	weapon
+		"turret turn" 2.0
+
+outfit "Plasma Turret"
+	weapon
+		"turret turn" 1.5
+
+outfit "Javelin Turret"
+	weapon
+		"turret turn" 2.6
+
+outfit "Gatling Turret"
+	weapon
+		"turret turn" 3.8

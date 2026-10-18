@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-18 | update: Factory.Outlets<br>
 2026-10-18 | update: Bunsen.Burner<br>
 2026-09-12 | update: Factory.Outlets<br>
 2026-07-08 | update: Louise.Conglomerate.Shipyards<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-06-01 | update: Factory.Outlets<br>
 2026-05-30 | update: Fundamental.Outfit.Expansion<br>
 2026-05-30 | update: Sheragi.Rebirth.Redux<br>
-2026-05-28 | update: Sheragi.Rebirth.Redux<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -132,7 +132,7 @@ Needs that 60 days have lapsed since the Flamethrower became available, that the
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Factory.Outlets.png' width="130" height="20">
 
-[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.4-Factory.Outlets/Factory.Outlets.zip) | 422.08 kb | 2026-09-12 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [11]<br>
+[Factory.Outlets.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.5-Factory.Outlets/Factory.Outlets.zip) | 422.09 kb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Factory.Outlets/) <a href="res/imagemd/Factory.Outlets.md">view images</a> [11]<br>
 <br>
 >Adds Factory Outlets around and on the HQ planets of shipyard companies, where basically only ship hulls (with just few essential outfits) are sold, such reducing the stock price significantly.
 

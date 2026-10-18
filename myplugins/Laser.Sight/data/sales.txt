@@ -1,0 +1,5 @@
+﻿outfitter "Deep Sky Advanced"
+	add "LS: Laser Sight"
+
+outfitter "Lovelace Advanced"
+	add "LS: Laser Sight"

@@ -1,0 +1,25 @@
+﻿Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Laser.Sight
+Upstream-Contact: Timeout <https://github.com/LixiChronikouOriou>
+Source: https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Laser.Sight
+
+Files:
+ icon*.png
+Copyright: Timeout <github.com/LixiChronikouOriou>
+License: CC-BY-SA-4.0
+Comment: Derived from the laser beam warn sign according to ISO 7010 W004.
+
+Files:
+ data/*
+ images/projectile/*
+ sounds/*
+Copyright: Ghostnzshell
+License: CC-BY-SA-4.0
+Comment: Data have been modified by Timeout.
+
+Files:
+ images/effect/*
+ images/outfit/*
+Copyright: Kitteh
+License: CC-BY-SA-4.0
+Comment: Derived from various ES vanilla works.

@@ -1,3 +1,4 @@
+2026-10-18 | update: Fundamental.Outfit.Expansion
 2026-10-18 | update: zzzZapping.Tweaks
 2026-10-18 | update: Laser.Sight
 2026-10-18 | update: Fundamental.Outfit.Expansion.Alien

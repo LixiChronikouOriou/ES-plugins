@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-18 | update: Fundamental.Outfit.Expansion<br>
 2026-10-18 | update: zzzZapping.Tweaks<br>
 2026-10-18 | update: Laser.Sight<br>
 2026-10-18 | update: Fundamental.Outfit.Expansion.Alien<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-07-08 | update: Louise.Conglomerate.Shipyards<br>
 2026-06-09 | update: Bunsen.Burner<br>
 2026-06-05 | update: Bunsen.Burner<br>
-2026-06-03 | update: Bunsen.Burner<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -202,7 +202,7 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png' width="130" height="20">
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.9.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 7.02 mb | 2026-05-30 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [210]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 6.73 mb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [210]<br>
 <br>
 >A collection of essential human outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 
@@ -677,7 +677,7 @@ Has individual dialogue boxes for each of the following situations.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/zzzZapping.Tweaks.png' width="130" height="20">
 
-[zzzZapping.Tweaks.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-zzzZapping.Tweaks/zzzZapping.Tweaks.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/zzzZapping.Tweaks/) <a href="res/imagemd/zzzZapping.Tweaks.md">view images</a> [31]<br>
+[zzzZapping.Tweaks.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-zzzZapping.Tweaks/zzzZapping.Tweaks.zip) | 1.59 mb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/zzzZapping.Tweaks/) <a href="res/imagemd/zzzZapping.Tweaks.md">view images</a> [31]<br>
 <br>
 >A variety of little tweaks on vanilla ES.
 

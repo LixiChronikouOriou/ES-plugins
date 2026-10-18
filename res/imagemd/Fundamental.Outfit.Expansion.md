@@ -20,296 +20,240 @@ graphic files for the plugin: Fundamental.Outfit.Expansion<br>
 	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/etna+4.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/etna+4.png" width="30" height="20"></a><br>
 		etna+4.png [30x20]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/lasersight impact+0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/lasersight impact+0.png" width="60" height="60"></a><br>
-		lasersight impact+0.png [60x60]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/lasersight impact+1.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/lasersight impact+1.png" width="60" height="60"></a><br>
-		lasersight impact+1.png [60x60]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/syracusia+0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/syracusia+0.png" height="200"></a><br>
 		syracusia+0.png [30x800]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/syracusia+1.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/syracusia+1.png" height="200"></a><br>
 		syracusia+1.png [30x800]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+0.png" height="200"></a><br>
-		tractor beam heavy+0.png [30x800]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+0.png" height="200"></a><br>
+		tractor beam heavy+0.png [30x800]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+0@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+0@2x.png" height="200"></a><br>
 		tractor beam heavy+0@2x.png [60x1600]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+1.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+1.png" height="200"></a><br>
 		tractor beam heavy+1.png [30x800]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+1@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+1@2x.png" height="200"></a><br>
-		tractor beam heavy+1@2x.png [60x1600]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+1@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam heavy+1@2x.png" height="200"></a><br>
+		tractor beam heavy+1@2x.png [60x1600]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+0.png" height="200"></a><br>
 		tractor beam light+0.png [30x400]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+0@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+0@2x.png" height="200"></a><br>
 		tractor beam light+0@2x.png [60x800]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+1.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+1.png" height="200"></a><br>
-		tractor beam light+1.png [30x400]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+1.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+1.png" height="200"></a><br>
+		tractor beam light+1.png [30x400]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+1@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/effect/tractor beam light+1@2x.png" height="200"></a><br>
 		tractor beam light+1@2x.png [60x800]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/autocannon bastet turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/autocannon bastet turret.png" width="16" height="32"></a><br>
 		autocannon bastet turret.png [16x32]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/autocannon bastet turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/autocannon bastet turret@2x.png" width="32" height="64"></a><br>
-		autocannon bastet turret@2x.png [32x64]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/autocannon bastet turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/autocannon bastet turret@2x.png" width="32" height="64"></a><br>
+		autocannon bastet turret@2x.png [32x64]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/blaster barrage.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/blaster barrage.png" width="16" height="16"></a><br>
 		blaster barrage.png [16x16]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/blaster barrage@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/blaster barrage@2x.png" width="32" height="32"></a><br>
 		blaster barrage@2x.png [32x32]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/blaster heavy turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/blaster heavy turret.png" width="18" height="46"></a><br>
 		blaster heavy turret.png [18x46]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/deimos.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/deimos.png" width="18" height="35"></a><br>
+		deimos.png [18x35]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/deimos@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/deimos@2x.png" width="36" height="70"></a><br>
+		deimos@2x.png [36x70]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/broadsider.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/broadsider.png" width="18" height="35"></a><br>
-		broadsider.png [18x35]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/broadsider@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/broadsider@2x.png" width="36" height="70"></a><br>
-		broadsider@2x.png [36x70]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/covalent proton turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/covalent proton turret.png" width="18" height="50"></a><br>
-		covalent proton turret.png [18x50]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/covalent proton turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/covalent proton turret@2x.png" width="36" height="100"></a><br>
-		covalent proton turret@2x.png [36x100]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/dual mining laser turret hardpoint.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/dual mining laser turret hardpoint.png" width="20" height="40"></a><br>
-		dual mining laser turret hardpoint.png [20x40]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/dual mining laser turret hardpoint@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/dual mining laser turret hardpoint@2x.png" width="40" height="80"></a><br>
-		dual mining laser turret hardpoint@2x.png [40x80]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/heavy rocket turret hardpoint.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/heavy rocket turret hardpoint.png" width="18" height="18"></a><br>
-		heavy rocket turret hardpoint.png [18x18]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/heavy rocket turret hardpoint@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/heavy rocket turret hardpoint@2x.png" width="36" height="36"></a><br>
-		heavy rocket turret hardpoint@2x.png [36x36]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/heavy rocket turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/heavy rocket turret.png" width="18" height="18"></a><br>
+		heavy rocket turret.png [18x18]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/heavy rocket turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/heavy rocket turret@2x.png" width="36" height="36"></a><br>
+		heavy rocket turret@2x.png [36x36]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/javelin pod turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/javelin pod turret.png" width="15" height="15"></a><br>
 		javelin pod turret.png [15x15]</td>
 	</tr>
 	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/javelin pod turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/javelin pod turret@2x.png" width="30" height="30"></a><br>
 		javelin pod turret@2x.png [30x30]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/meteor turret hardpoint.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/meteor turret hardpoint.png" width="18" height="18"></a><br>
-		meteor turret hardpoint.png [18x18]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/meteor turret hardpoint@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/meteor turret hardpoint@2x.png" width="36" height="36"></a><br>
-		meteor turret hardpoint@2x.png [36x36]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/meteor turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/meteor turret.png" width="18" height="18"></a><br>
+		meteor turret.png [18x18]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/meteor turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/meteor turret@2x.png" width="36" height="36"></a><br>
+		meteor turret@2x.png [36x36]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/nuke turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/nuke turret.png" width="30" height="30"></a><br>
-		nuke turret.png [30x30]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/mining laser turret dual.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/mining laser turret dual.png" width="20" height="40"></a><br>
+		mining laser turret dual.png [20x40]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/mining laser turret dual@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/mining laser turret dual@2x.png" width="40" height="80"></a><br>
+		mining laser turret dual@2x.png [40x80]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret dual.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret dual.png" width="20" height="43"></a><br>
 		particle turret dual.png [20x43]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret dual@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret dual@2x.png" width="40" height="86"></a><br>
-		particle turret dual@2x.png [40x86]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret dual@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret dual@2x.png" width="40" height="86"></a><br>
+		particle turret dual@2x.png [40x86]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret.png" width="20" height="43"></a><br>
 		particle turret.png [20x43]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/particle turret@2x.png" width="40" height="86"></a><br>
 		particle turret@2x.png [40x86]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/sidewinder vls hardpoint.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/sidewinder vls hardpoint.png" width="22" height="22"></a><br>
-		sidewinder vls hardpoint.png [22x22]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/sidewinder vls hardpoint@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/sidewinder vls hardpoint@2x.png" width="44" height="44"></a><br>
-		sidewinder vls hardpoint@2x.png [44x44]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/proton turret covalent.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/proton turret covalent.png" width="18" height="50"></a><br>
+		proton turret covalent.png [18x50]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/proton turret covalent@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/proton turret covalent@2x.png" width="36" height="100"></a><br>
+		proton turret covalent@2x.png [36x100]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/sidewinder vls.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/sidewinder vls.png" width="22" height="22"></a><br>
+		sidewinder vls.png [22x22]</td>
+	</tr>
+	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/sidewinder vls@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/sidewinder vls@2x.png" width="44" height="44"></a><br>
+		sidewinder vls@2x.png [44x44]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/solar turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/solar turret.png" width="16" height="16"></a><br>
+		solar turret.png [16x16]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/solar turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/solar turret@2x.png" width="32" height="32"></a><br>
+		solar turret@2x.png [32x32]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/tractor beam heavy.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/tractor beam heavy.png" width="16" height="20"></a><br>
 		tractor beam heavy.png [16x20]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/tractor beam heavy@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/tractor beam heavy@2x.png" width="32" height="40"></a><br>
 		tractor beam heavy@2x.png [32x40]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/tractor beam light.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/tractor beam light.png" width="16" height="20"></a><br>
 		tractor beam light.png [16x20]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/tractor beam light@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/hardpoint/tractor beam light@2x.png" width="32" height="40"></a><br>
 		tractor beam light@2x.png [32x40]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/autocannon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/autocannon.png" width="30" height="30"></a><br>
 		autocannon.png [30x30]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/autocannon@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/autocannon@2x.png" width="60" height="60"></a><br>
 		autocannon@2x.png [60x60]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/barrage.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/barrage.png" width="30" height="30"></a><br>
-		barrage.png [30x30]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/barrage@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/barrage@2x.png" width="60" height="60"></a><br>
-		barrage@2x.png [60x60]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/broadsider.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/broadsider.png" width="30" height="30"></a><br>
-		broadsider.png [30x30]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/broadsider@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/broadsider@2x.png" width="60" height="60"></a><br>
-		broadsider@2x.png [60x60]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/heavy rocket turret icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/heavy rocket turret icon.png" width="30" height="30"></a><br>
-		heavy rocket turret icon.png [30x30]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/deimos.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/deimos.png" width="30" height="30"></a><br>
+		deimos.png [30x30]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/deimos@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/deimos@2x.png" width="60" height="60"></a><br>
+		deimos@2x.png [60x60]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/heavy rocket turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/heavy rocket turret.png" width="30" height="30"></a><br>
+		heavy rocket turret.png [30x30]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/heavy rocket turret icon@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/heavy rocket turret icon@2x.png" width="60" height="60"></a><br>
-		heavy rocket turret icon@2x.png [60x60]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor launcher heavy icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor launcher heavy icon.png" width="30" height="30"></a><br>
-		meteor launcher heavy icon.png [30x30]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor launcher heavy icon@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor launcher heavy icon@2x.png" width="60" height="60"></a><br>
-		meteor launcher heavy icon@2x.png [60x60]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/heavy rocket turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/heavy rocket turret@2x.png" width="60" height="60"></a><br>
+		heavy rocket turret@2x.png [60x60]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor double.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor double.png" width="30" height="30"></a><br>
+		meteor double.png [30x30]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor double@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor double@2x.png" width="60" height="60"></a><br>
+		meteor double@2x.png [60x60]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor turret icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor turret icon.png" width="30" height="30"></a><br>
-		meteor turret icon.png [30x30]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor turret icon@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor turret icon@2x.png" width="60" height="60"></a><br>
-		meteor turret icon@2x.png [60x60]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/plasma howitzer.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/plasma howitzer.png" width="30" height="30"></a><br>
-		plasma howitzer.png [30x30]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor triple.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor triple.png" width="30" height="30"></a><br>
+		meteor triple.png [30x30]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor triple@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/meteor triple@2x.png" width="60" height="60"></a><br>
+		meteor triple@2x.png [60x60]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/phobos.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/phobos.png" width="30" height="30"></a><br>
+		phobos.png [30x30]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/sidewinder vls icon.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/sidewinder vls icon.png" width="30" height="30"></a><br>
-		sidewinder vls icon.png [30x30]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/sidewinder vls icon@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/sidewinder vls icon@2x.png" width="60" height="60"></a><br>
-		sidewinder vls icon@2x.png [60x60]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/active radar jammer.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/active radar jammer.png" width="130" height="130"></a><br>
-		active radar jammer.png [130x130]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/phobos@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/phobos@2x.png" width="60" height="60"></a><br>
+		phobos@2x.png [60x60]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/sidewinder vls.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/sidewinder vls.png" width="30" height="30"></a><br>
+		sidewinder vls.png [30x30]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/icon/sidewinder vls@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/icon/sidewinder vls@2x.png" width="60" height="60"></a><br>
+		sidewinder vls@2x.png [60x60]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/active radar jammer@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/active radar jammer@2x.png" height="200"></a><br>
-		active radar jammer@2x.png [260x260]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/afterburner large steering.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/afterburner large steering.png" width="200" height="170"></a><br>
-		afterburner large steering.png [200x170]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/afterburner large steering@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/afterburner large steering@2x.png" width="200"></a><br>
-		afterburner large steering@2x.png [400x340]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/afterburner steering.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/afterburner steering.png" width="180" height="150"></a><br>
-		afterburner steering.png [180x150]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/afterburner steering@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/afterburner steering@2x.png" width="200"></a><br>
-		afterburner steering@2x.png [360x300]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon bastet turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon bastet turret.png" width="200" height="200"></a><br>
 		autocannon bastet turret.png [200x200]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon bastet turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon bastet turret@2x.png" height="200"></a><br>
 		autocannon bastet turret@2x.png [400x400]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon mafdet.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon mafdet.png" width="160" height="120"></a><br>
 		autocannon mafdet.png [160x120]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon mafdet@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon mafdet@2x.png" width="200"></a><br>
-		autocannon mafdet@2x.png [320x240]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon mafdet@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon mafdet@2x.png" width="200"></a><br>
+		autocannon mafdet@2x.png [320x240]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet dual.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet dual.png" width="160" height="120"></a><br>
 		autocannon sekhmet dual.png [160x120]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet dual@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet dual@2x.png" width="200"></a><br>
 		autocannon sekhmet dual@2x.png [320x240]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet.png" width="160" height="120"></a><br>
-		autocannon sekhmet.png [160x120]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet.png" width="160" height="120"></a><br>
+		autocannon sekhmet.png [160x120]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon sekhmet@2x.png" width="200"></a><br>
 		autocannon sekhmet@2x.png [320x240]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon shell.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon shell.png" width="200" height="200"></a><br>
 		autocannon shell.png [200x200]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon shell@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/autocannon shell@2x.png" height="200"></a><br>
 		autocannon shell@2x.png [400x400]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage launcher.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage launcher.png" width="150" height="120"></a><br>
-		barrage launcher.png [150x120]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage launcher@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage launcher@2x.png" width="200"></a><br>
-		barrage launcher@2x.png [300x240]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage missile.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage missile.png" width="100" height="100"></a><br>
-		barrage missile.png [100x100]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage missile@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage missile@2x.png" width="200" height="200"></a><br>
-		barrage missile@2x.png [200x200]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage storage.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage storage.png" width="150" height="150"></a><br>
-		barrage storage.png [150x150]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage storage@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barrage storage@2x.png" height="200"></a><br>
-		barrage storage@2x.png [300x300]</td>
-	</tr>
-	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barracks.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/barracks.png" width="180" height="160"></a><br>
+		barracks.png [180x160]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster barrage.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster barrage.png" width="140" height="160"></a><br>
 		blaster barrage.png [140x160]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster barrage@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster barrage@2x.png" height="200"></a><br>
 		blaster barrage@2x.png [280x320]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster heavy turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster heavy turret.png" width="180" height="180"></a><br>
 		blaster heavy turret.png [180x180]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster heavy turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster heavy turret@2x.png" height="200"></a><br>
 		blaster heavy turret@2x.png [360x360]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster mortar.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster mortar.png" width="150" height="120"></a><br>
 		blaster mortar.png [150x120]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster mortar@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster mortar@2x.png" width="200"></a><br>
 		blaster mortar@2x.png [300x240]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster rapidfire turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster rapidfire turret.png" width="130" height="140"></a><br>
 		blaster rapidfire turret.png [130x140]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster rapidfire turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/blaster rapidfire turret@2x.png" height="200"></a><br>
 		blaster rapidfire turret@2x.png [260x280]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider slug.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider slug.png" width="100" height="100"></a><br>
-		broadsider slug.png [100x100]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/bunk room extended.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/bunk room extended.png" width="180" height="160"></a><br>
+		bunk room extended.png [180x160]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/bunk room extended@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/bunk room extended@2x.png" width="200"></a><br>
+		bunk room extended@2x.png [360x320]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider slug@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider slug@2x.png" width="200" height="200"></a><br>
-		broadsider slug@2x.png [200x200]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider storage.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider storage.png" width="100" height="100"></a><br>
-		broadsider storage.png [100x100]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider storage@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider storage@2x.png" width="200" height="200"></a><br>
-		broadsider storage@2x.png [200x200]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos slug.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos slug.png" width="100" height="100"></a><br>
+		deimos slug.png [100x100]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos slug@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos slug@2x.png" width="200" height="200"></a><br>
+		deimos slug@2x.png [200x200]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos storage.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos storage.png" width="100" height="100"></a><br>
+		deimos storage.png [100x100]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider.png" width="150" height="150"></a><br>
-		broadsider.png [150x150]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/broadsider@2x.png" height="200"></a><br>
-		broadsider@2x.png [300x300]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/compressed fuel pod.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/compressed fuel pod.png" width="150" height="120"></a><br>
-		compressed fuel pod.png [150x120]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos storage@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos storage@2x.png" width="200" height="200"></a><br>
+		deimos storage@2x.png [200x200]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos.png" width="180" height="180"></a><br>
+		deimos.png [180x180]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/deimos@2x.png" height="200"></a><br>
+		deimos@2x.png [360x360]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/covalent proton turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/covalent proton turret.png" width="170" height="170"></a><br>
-		covalent proton turret.png [170x170]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/covalent proton turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/covalent proton turret@2x.png" height="200"></a><br>
-		covalent proton turret@2x.png [340x340]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/dual mining laser turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/dual mining laser turret.png" width="150" height="170"></a><br>
-		dual mining laser turret.png [150x170]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/dual mining laser turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/dual mining laser turret@2x.png" height="200"></a><br>
-		dual mining laser turret@2x.png [300x340]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/duct tape.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/duct tape.png" width="100" height="100"></a><br>
 		duct tape.png [100x100]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/duct tape@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/duct tape@2x.png" width="200" height="200"></a><br>
 		duct tape@2x.png [200x200]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/engineering room.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/engineering room.png" width="170" height="160"></a><br>
-		engineering room.png [170x160]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray turret.png" width="150" height="170"></a><br>
 		etna mining ray turret.png [150x170]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray turret@2x.png" height="200"></a><br>
-		etna mining ray turret@2x.png [300x340]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray turret@2x.png" height="200"></a><br>
+		etna mining ray turret@2x.png [300x340]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray.png" width="176" height="132"></a><br>
 		etna mining ray.png [176x132]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/etna mining ray@2x.png" width="200"></a><br>
 		etna mining ray@2x.png [352x264]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/extended bunk room.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/extended bunk room.png" width="180" height="160"></a><br>
-		extended bunk room.png [180x160]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod large.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod large.png" width="190" height="160"></a><br>
-		fuel pod large.png [190x160]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod mini.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod mini.png" width="150" height="120"></a><br>
-		fuel pod mini.png [150x120]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod reinforced b.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod reinforced b.png" width="150" height="120"></a><br>
-		fuel pod reinforced b.png [150x120]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod reinforced c.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod reinforced c.png" width="190" height="160"></a><br>
-		fuel pod reinforced c.png [190x160]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod reinforced.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod reinforced.png" width="150" height="120"></a><br>
-		fuel pod reinforced.png [150x120]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod compressed.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod compressed.png" width="150" height="120"></a><br>
+		fuel pod compressed.png [150x120]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod compressed@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel pod compressed@2x.png" width="200"></a><br>
+		fuel pod compressed@2x.png [300x240]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel shield huge.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/fuel shield huge.png" width="130" height="160"></a><br>
 		fuel shield huge.png [130x160]</td>
 	</tr>
@@ -354,58 +298,66 @@ graphic files for the plugin: Fundamental.Outfit.Expansion<br>
 		hesperian toolbox@2x.png [300x224]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/huge radiant steering.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/huge radiant steering.png" width="180" height="160"></a><br>
-		huge radiant steering.png [180x160]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/huge radiant thruster.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/huge radiant thruster.png" width="170" height="140"></a><br>
-		huge radiant thruster.png [170x140]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/javelin pod turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/javelin pod turret.png" width="150" height="140"></a><br>
 		javelin pod turret.png [150x140]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/javelin pod turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/javelin pod turret@2x.png" width="200"></a><br>
 		javelin pod turret@2x.png [300x280]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large interference emitter.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large interference emitter.png" width="90" height="180"></a><br>
 		large interference emitter.png [90x180]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large interference emitter@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large interference emitter@2x.png" height="200"></a><br>
-		large interference emitter@2x.png [180x360]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large interference emitter@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large interference emitter@2x.png" height="200"></a><br>
+		large interference emitter@2x.png [180x360]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large navy shield.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large navy shield.png" width="200" height="200"></a><br>
 		large navy shield.png [200x200]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large navy shield@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/large navy shield@2x.png" height="200"></a><br>
 		large navy shield@2x.png [400x400]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/lasersight.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/lasersight.png" width="160" height="140"></a><br>
-		lasersight.png [160x140]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/lasersight@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/lasersight@2x.png" width="200"></a><br>
-		lasersight@2x.png [320x280]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium navy shield.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium navy shield.png" width="150" height="150"></a><br>
 		medium navy shield.png [150x150]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium navy shield@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium navy shield@2x.png" height="200"></a><br>
 		medium navy shield@2x.png [300x300]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium pdp battery.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium pdp battery.png" width="110" height="120"></a><br>
 		medium pdp battery.png [110x120]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium pdp battery@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium pdp battery@2x.png" height="200"></a><br>
-		medium pdp battery@2x.png [220x240]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor launcher heavy.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor launcher heavy.png" width="170" height="160"></a><br>
-		meteor launcher heavy.png [170x160]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium pdp battery@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium pdp battery@2x.png" height="200"></a><br>
+		medium pdp battery@2x.png [220x240]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium radar jammer.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium radar jammer.png" width="130" height="130"></a><br>
+		medium radar jammer.png [130x130]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium radar jammer@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/medium radar jammer@2x.png" height="200"></a><br>
+		medium radar jammer@2x.png [260x260]</td>
+	</tr>
+	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor launcher heavy.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor launcher heavy.png" width="170" height="160"></a><br>
+		meteor launcher heavy.png [170x160]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor launcher heavy@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor launcher heavy@2x.png" width="200"></a><br>
 		meteor launcher heavy@2x.png [340x320]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor launcher twin.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor launcher twin.png" width="180" height="140"></a><br>
+		meteor launcher twin.png [180x140]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor turret.png" width="170" height="150"></a><br>
 		meteor turret.png [170x150]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/meteor turret@2x.png" width="200"></a><br>
 		meteor turret@2x.png [340x300]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/mining laser turret dual.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/mining laser turret dual.png" width="150" height="170"></a><br>
+		mining laser turret dual.png [150x170]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/nuke turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/nuke turret.png" width="150" height="150"></a><br>
-		nuke turret.png [150x150]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion small.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion small.png" width="160" height="150"></a><br>
-		outfit expansion small.png [160x150]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/mining laser turret dual@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/mining laser turret dual@2x.png" height="200"></a><br>
+		mining laser turret dual@2x.png [300x340]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion small.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion small.png" width="120" height="120"></a><br>
+		outfit expansion small.png [120x120]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion small@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion small@2x.png" height="200"></a><br>
+		outfit expansion small@2x.png [240x240]</td>
+	</tr>
+	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion tiny.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion tiny.png" width="94" height="100"></a><br>
+		outfit expansion tiny.png [94x100]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion tiny@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/outfit expansion tiny@2x.png" width="188" height="200"></a><br>
+		outfit expansion tiny@2x.png [188x200]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret dual.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret dual.png" width="180" height="180"></a><br>
 		particle turret dual.png [180x180]</td>
 	</tr>
@@ -422,16 +374,32 @@ graphic files for the plugin: Fundamental.Outfit.Expansion<br>
 		particle turret.png [180x180]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret@2x.png" height="200"></a><br>
 		particle turret@2x.png [360x360]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/plasma howitzer.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/plasma howitzer.png" width="180" height="180"></a><br>
-		plasma howitzer.png [180x180]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos container.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos container.png" width="150" height="150"></a><br>
+		phobos container.png [150x150]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/plasma howitzer@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/plasma howitzer@2x.png" height="200"></a><br>
-		plasma howitzer@2x.png [360x360]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos container@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos container@2x.png" height="200"></a><br>
+		phobos container@2x.png [300x300]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos launcher.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos launcher.png" width="150" height="120"></a><br>
+		phobos launcher.png [150x120]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos launcher@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos launcher@2x.png" width="200"></a><br>
+		phobos launcher@2x.png [300x240]</td>
+	</tr>
+	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos missile.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos missile.png" width="100" height="100"></a><br>
+		phobos missile.png [100x100]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos missile@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/phobos missile@2x.png" width="200" height="200"></a><br>
+		phobos missile@2x.png [200x200]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/plasma repeater turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/plasma repeater turret.png" width="160" height="170"></a><br>
 		plasma repeater turret.png [160x170]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/plasma repeater turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/plasma repeater turret@2x.png" height="200"></a><br>
 		plasma repeater turret@2x.png [320x340]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/proton turret covalent.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/proton turret covalent.png" width="170" height="170"></a><br>
+		proton turret covalent.png [170x170]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/proton turret covalent@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/proton turret covalent@2x.png" height="200"></a><br>
+		proton turret covalent@2x.png [340x340]</td>
 	</tr>
 	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/scorpion stun turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/scorpion stun turret.png" width="140" height="160"></a><br>
@@ -492,112 +460,105 @@ graphic files for the plugin: Fundamental.Outfit.Expansion<br>
 	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/small pdp battery@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/small pdp battery@2x.png" height="200"></a><br>
 		small pdp battery@2x.png [200x220]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/solar turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/solar turret.png" width="120" height="100"></a><br>
+		solar turret.png [120x100]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/solar turret@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/solar turret@2x.png" width="200"></a><br>
+		solar turret@2x.png [240x200]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/syracusia.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/syracusia.png" width="140" height="150"></a><br>
 		syracusia.png [140x150]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/syracusia@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/syracusia@2x.png" height="200"></a><br>
 		syracusia@2x.png [280x300]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical marine.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical marine.png" width="134" height="110"></a><br>
+		tactical marine.png [134x110]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical military outfit.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical military outfit.png" width="134" height="110"></a><br>
-		tactical military outfit.png [134x110]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical ranger outfit.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical ranger outfit.png" width="134" height="110"></a><br>
-		tactical ranger outfit.png [134x110]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical trooper outfit.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical trooper outfit.png" width="134" height="110"></a><br>
-		tactical trooper outfit.png [134x110]</td>
-	</tr>
-	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical ranger.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical ranger.png" width="134" height="110"></a><br>
+		tactical ranger.png [134x110]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical trooper.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tactical trooper.png" width="134" height="110"></a><br>
+		tactical trooper.png [134x110]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny atomic engines.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny atomic engines.png" width="140" height="110"></a><br>
 		tiny atomic engines.png [140x110]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny atomic engines@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny atomic engines@2x.png" width="200"></a><br>
 		tiny atomic engines@2x.png [280x220]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny navy shield.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny navy shield.png" width="110" height="130"></a><br>
 		tiny navy shield.png [110x130]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny navy shield@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny navy shield@2x.png" height="200"></a><br>
 		tiny navy shield@2x.png [220x260]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny pdp battery.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny pdp battery.png" width="100" height="90"></a><br>
 		tiny pdp battery.png [100x90]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny pdp battery@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny pdp battery@2x.png" width="200" height="180"></a><br>
 		tiny pdp battery@2x.png [200x180]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny plasma engines.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny plasma engines.png" width="130" height="120"></a><br>
 		tiny plasma engines.png [130x120]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny plasma engines@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny plasma engines@2x.png" width="200"></a><br>
-		tiny plasma engines@2x.png [260x240]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny radiant engines.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny radiant engines.png" width="110" height="90"></a><br>
-		tiny radiant engines.png [110x90]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny plasma engines@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tiny plasma engines@2x.png" width="200"></a><br>
+		tiny plasma engines@2x.png [260x240]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam heavy.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam heavy.png" width="170" height="170"></a><br>
 		tractor beam heavy.png [170x170]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam heavy@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam heavy@2x.png" height="200"></a><br>
 		tractor beam heavy@2x.png [340x340]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam light.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam light.png" width="170" height="170"></a><br>
-		tractor beam light.png [170x170]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam light.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam light.png" width="170" height="170"></a><br>
+		tractor beam light.png [170x170]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam light@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/tractor beam light@2x.png" height="200"></a><br>
 		tractor beam light@2x.png [340x340]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+0.png" height="200"></a><br>
 		2x mining laser+0.png [18x400]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+0@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+0@2x.png" height="200"></a><br>
-		2x mining laser+0@2x.png [36x800]</td>
 	</tr>
 	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+0@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+0@2x.png" height="200"></a><br>
+		2x mining laser+0@2x.png [36x800]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+1.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+1.png" height="200"></a><br>
 		2x mining laser+1.png [18x400]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+1@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/2x mining laser+1@2x.png" height="200"></a><br>
 		2x mining laser+1@2x.png [36x800]</td>
+	</tr>
+	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/autocannon shell.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/autocannon shell.png" width="6" height="27"></a><br>
 		autocannon shell.png [6x27]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/autocannon shell@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/autocannon shell@2x.png" width="12" height="54"></a><br>
 		autocannon shell@2x.png [12x54]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+0.png" width="9" height="40"></a><br>
-		barrage missile+0.png [9x40]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+0@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+0@2x.png" width="18" height="80"></a><br>
-		barrage missile+0@2x.png [18x80]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/deimos slug.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/deimos slug.png" width="15" height="80"></a><br>
+		deimos slug.png [15x80]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+1.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+1.png" width="9" height="40"></a><br>
-		barrage missile+1.png [9x40]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+1@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+1@2x.png" width="18" height="80"></a><br>
-		barrage missile+1@2x.png [18x80]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+2.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+2.png" width="9" height="40"></a><br>
-		barrage missile+2.png [9x40]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+2@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+2@2x.png" width="18" height="80"></a><br>
-		barrage missile+2@2x.png [18x80]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+3.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+3.png" width="9" height="40"></a><br>
-		barrage missile+3.png [9x40]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+3@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/barrage missile+3@2x.png" width="18" height="80"></a><br>
-		barrage missile+3@2x.png [18x80]</td>
-	</tr>
-	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/broadsider slug.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/broadsider slug.png" width="15" height="80"></a><br>
-		broadsider slug.png [15x80]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/broadsider slug@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/broadsider slug@2x.png" width="30" height="160"></a><br>
-		broadsider slug@2x.png [30x160]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/deimos slug@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/deimos slug@2x.png" width="30" height="160"></a><br>
+		deimos slug@2x.png [30x160]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/etna^0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/etna^0.png" height="200"></a><br>
 		etna^0.png [40x600]</td>
-	</tr>
-	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/etna^1.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/etna^1.png" height="200"></a><br>
 		etna^1.png [40x600]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/etna^2.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/etna^2.png" height="200"></a><br>
-		etna^2.png [40x600]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/flak shell.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/flak shell.png" width="6" height="27"></a><br>
-		flak shell.png [6x27]</td>
 	</tr>
 	<tr valign="bottom">
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/flak shell@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/flak shell@2x.png" width="12" height="54"></a><br>
-		flak shell@2x.png [12x54]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/lasersight+.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/lasersight+.png" height="200"></a><br>
-		lasersight+.png [10x4800]</td>
-		<td></td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/etna^2.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/etna^2.png" height="200"></a><br>
+		etna^2.png [40x600]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+0.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+0.png" width="9" height="40"></a><br>
+		phobos missile+0.png [9x40]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+0@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+0@2x.png" width="18" height="80"></a><br>
+		phobos missile+0@2x.png [18x80]</td>
+	</tr>
+	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+1.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+1.png" width="9" height="40"></a><br>
+		phobos missile+1.png [9x40]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+1@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+1@2x.png" width="18" height="80"></a><br>
+		phobos missile+1@2x.png [18x80]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+2.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+2.png" width="9" height="40"></a><br>
+		phobos missile+2.png [9x40]</td>
+	</tr>
+	<tr valign="bottom">
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+2@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+2@2x.png" width="18" height="80"></a><br>
+		phobos missile+2@2x.png [18x80]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+3.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+3.png" width="9" height="40"></a><br>
+		phobos missile+3.png [9x40]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+3@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/projectile/phobos missile+3@2x.png" width="18" height="80"></a><br>
+		phobos missile+3@2x.png [18x80]</td>
 	</tr>
 </table>

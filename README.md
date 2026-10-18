@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-18 | update: Bunsen.Burner<br>
 2026-09-12 | update: Factory.Outlets<br>
 2026-07-08 | update: Louise.Conglomerate.Shipyards<br>
 2026-06-09 | update: Bunsen.Burner<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-05-30 | update: Fundamental.Outfit.Expansion<br>
 2026-05-30 | update: Sheragi.Rebirth.Redux<br>
 2026-05-28 | update: Sheragi.Rebirth.Redux<br>
-2026-05-27 | update: Louise.Conglomerate.Shipyards<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -48,14 +48,17 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <a href="README.md#BunsenBurner">Bunsen.Burner</a><br>
 <a href="README.md#FactoryOutlets">Factory.Outlets</a><br>
 <a href="README.md#FundamentalOutfitExpansion">Fundamental.Outfit.Expansion</a><br>
+<a href="README.md#FundamentalOutfitExpansionAlien">Fundamental.Outfit.Expansion.Alien</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#Jaws">Jaws</a><br>
 <a href="README.md#KorunakDefenseDrones">Korunak.Defense.Drones</a><br>
+<a href="README.md#LaserSight">Laser.Sight</a><br>
 <a href="README.md#LouiseConglomerateShipyards">Louise.Conglomerate.Shipyards</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#SheragiRebirthRedux">Sheragi.Rebirth.Redux</a><br>
 <a href="README.md#SolarSails">Solar.Sails</a><br>
 <a href="README.md#ZoneofControl">Zone.of.Control</a><br>
+<a href="README.md#zzzZappingTweaks">zzzZapping.Tweaks</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -70,7 +73,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png' width="130" height="20">
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.5-Bunsen.Burner/Bunsen.Burner.zip) | 304.82 kb | 2026-06-09 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.6-Bunsen.Burner/Bunsen.Burner.zip) | 303.42 kb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
 <br>
 >Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
 
@@ -96,14 +99,11 @@ Also Darcy Manoel's H2H flamethrower, which is based on the same design, was add
 
 Needs that 60 days have lapsed since the Flamethrower became available, that the Free Worlds got the Catalytic Ramscoop, and that the Dreadnought has been deployed.
 
-**Balance Note**
-
-Since the changes of ES 0.10.7, which also affected heat dissipation of many ships, the vanilla Flamethrower became largely useless. Tests showed that this is valid for the Bunsen Burner, too. Hence, both have been stepwise buffed in the versions 1.4.x of the plugin, see below for details.
-
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-18 | 1.4.6 | Removed Flamethrower-related content after PR #12491 has been merged. |
 | 2026-06-09 | 1.4.5 | Reworked ship and fleet variants employing the Bunsen Burner. |
 | 2026-06-05 | 1.4.4 | Aligned with [PR #12491](https://github.com/endless-sky/endless-sky/pull/12491). |
 | 2026-06-03 | 1.4.3 | Reduced fuel consumption of Flamethrower and Bunsen Burner by 75%. Reduced damage dropoff for the Flamethrower. Added ship and fleet variants which do actually use the Flamethrower, filling a gap in vanilla. Fixed a warning. |
@@ -145,7 +145,7 @@ Since the changes of ES 0.10.7, which also affected heat dissipation of many shi
 
 **Authors: [Lifeyouristhis](https://github.com/lifeyouristhis), [Timeout](https://github.com/LixiChronikouOriou)**
 
-**Thanks**: Chemtrailoperator, Zuckung
+**Thanks:** Chemtrailoperator, Zuckung
 
 Ship price = hull + outfit prices. This simple equation has the consequence that ships can be overprized when one intends to replace most of the outfits anyway, and one would basically need only the hull.
 
@@ -178,6 +178,7 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-18 | 1.3.5 | Metadata fix. |
 | 2026-09-12 | 1.3.4 | Added for each outlet ship variant a [Variant Map Name](https://github.com/endless-sky/endless-sky/wiki/CreatingShips#data) to be displayed in the map's shipyard panel to differentiate them properly from other sold variants of the same ship model (thx to Chemtrailoperator). Verified that the plugin-support is up to date. |
 | 2026-06-02 | 1.3.3 | Updated Louise and Pickerberry support. Verified that the support for Blended Ships, DAIS, LiM and Rumskib is up to date. |
 | 2026-03-29 | 1.3.2 | Added license file. |
@@ -187,7 +188,7 @@ As of now human-only. Someday perhaps support for aliens will be added.
 | 2025-11-09 | 1.1.1 | Added landing images for the 8 human outlet stations. |
 | 2025-09-07 | 1.1.0 | Added support for [DAIS](https://github.com/Daeridanii1/DAIS). Adjusted icon. |
 | 2025-08-13 | 1.0.0 | Complete re-implementation. Ships come with minimal outfits, sold in factory outlet stations around the shipyards' HQ planets. Plugins [RW Ships](https://www.moddb.com/mods/rw-ships) and [Louise Conglomerate Shipyards](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) supported. |
-| 2017-09-14 | - | Last update of the *Bare Ships* plugin by Lifeyouristhis. |
+| 2017-09-14 | -- | Last update of the *Bare Ships* plugin by Lifeyouristhis. |
 
 </details>
 
@@ -202,9 +203,9 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png' width="130" height="20">
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.9.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 7.02 mb | 2026-05-30 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [224]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.9.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 7.02 mb | 2026-05-30 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [210]<br>
 <br>
->A collection of essential outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
+>A collection of essential human outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 
 
 <details>
@@ -216,9 +217,15 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 **Artists** who contributed works firstly published in FOE: Evan Fluharty, Kitteh, Tommaso Becca
 
-**Editorial Board:** Timeout (Research, Compilation and Statistics), Kitteh (Design, Art and Tests)
+**Editors:** Timeout (Research, Compilation and Statistics), Kitteh (Design, Art and Tests)
 
 **Thanks** for feedback, discussions and improvements: AvianGeneticist, Cend, Kassandra Haruki, Keilaph, Questenberg, Ragno, Redtechgamer236, Unknown_Rawrs
+
+**Attention**
+- FOE 2.x is not downwards compatible to FOE 1.x.
+- Don't use with the unstable version ES 0.11.3.
+- Don't use together with Omnis' Free Worlds storyline skipping.
+- Tributing human space becomes much harder.
 
 **Notes**
 - Other fundamental content can be found in the plugin recommendation list, especially see [Rumskib](https://github.com/TheGiraffe3/rumskib) for Plasma Turrets (Single, Quad) and Gatling Turrets (Single, Triple, Quad).
@@ -227,34 +234,33 @@ As of now human-only. Someday perhaps support for aliens will be added.
 - The original concept for FOE's Shipwright Gear was introduced by Darcy Manoel and  [Hurleveur](https://github.com/Hurleveur) with the Shipwright Gear in [Fluff](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/ships.md#fluff) resp. the Repair Team in [Unfettered Innovations](https://github.com/Hurleveur/unfettered-innovations). The stats are a mix-up inspired from those. The concept was extended by toolset-slots and evolved into the Hesperian Toolbox.
 
 **Content**
-| Creator | Outfit | Origin |
-|---------|--------|--------|
-| *anonymous* | Afterburner Steerings<br>Heavy Rocket Turret<br>Meteor Turret<br>Heavy Meteor Launcher<br>Sidewinder VLS<br>Dual Mining Laser Turret | [RW Extras](https://www.moddb.com/mods/rw-extras/downloads) collection
-| [1010todd](https://github.com/1010todd) | Heavy Blasters<br>Nuke Turret | [Heavy Blaster](https://github.com/endless-sky/endless-sky/discussions/7928)<br>[Nuke Turret](https://github.com/endless-sky/endless-sky/discussions/7928) |
+| Author | Outfit | Origin |
+|--------|--------|--------|
+| [1010todd](https://github.com/1010todd) | Heavy Blasters | [Heavy Blaster](https://github.com/endless-sky/endless-sky/discussions/7928) |
 | [Arachi](https://github.com/Arachi-Lover) | Tiny Atomic and Plasma Engines | [SmolEngines](https://github.com/Arachi-Lover/SmolEngines) |
-| [AvianGeneticist](https://github.com/AvianGeneticist) | Compressed Fuel Pod<br>Covalent Proton Turret<br>Naval Shields<br>PDP Batteries<br>Plasma Howitzer<br>Plasma Repeater Turret<br>Sentinel Reactor | [ZOE](https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded) |
-| [Demolish238](https://github.com/demolish238) | Small Outfit Expansion<br>Living Space Removal<br>Marine, Ranger & Trooper Gears<br>Extended Bunk Room<br>Sizeable Map<br>Type 0 & 5 Radiant Engines | [QOL Outfits](https://github.com/demolish238/QOL-Outfits) |
-| Evan Fluharty | Barrage Launcher<br>Broadsider<br>(experimental, Omnis only) | FOE |
-| ghostnzshell | Laser Sight | Laser Sight |
+| [AvianGeneticist](https://github.com/AvianGeneticist) | Compressed Fuel Pod<br>Covalent Proton Turret<br>Naval Shields<br>PDP Batteries<br>Plasma Repeater Turret<br>Sentinel Reactor | [ZOE](https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded) |
+| [Demolish238](https://github.com/demolish238) | Small Outfit Expansion<br>Living Space Removal<br>Marine, Ranger & Trooper Gears<br>Extended Bunk Room<br>Sizeable Map | [QOL Outfits](https://github.com/demolish238/QOL-Outfits) |
+| Evan Fluharty | Phobos Missile Launcher<br>Deimos Railgun Turret<br>(experimental, Omnis only) | FOE |
 | [J.C.Hamlin](https://github.com/jchamlin) | Particle Turrets | [Marauder Bactrian](https://github.com/jchamlin/marauder-bactrian) |
-| Kitteh | Autocannons<br>Light/Heavy Tractors<br>Mortar Blaster Gun<br>Rapidfire Blaster Turret | Cardboard Box, plus exclusive work for FOE  |
-| [Loyse](https://github.com/loiseeer) | Barrage Blaster<br>Flak Cannon | [Louise](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) |
-| [MidnightPlugins](https://github.com/MidnightPlugins) | Engineering Room | [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) |
-| [Timeout](https://github.com/LixiChronikouOriou) | Hesperian Toolbox<br>HTS Artisan<br>HTS Crafter<br>HTS Duct-Tape<br>Hesperian Red Lager<br>Syracusia Tractor Beam<br>Etna Mining Ray<br>Scorpion Stun | FOE |
+| Kitteh | Autocannons<br>Light/Heavy Tractors<br>Mortar Blaster Gun<br>Rapidfire Blaster Turret | Cardboard Box, plus exclusive work for FOE |
+| [Loyse](https://github.com/loiseeer) | Barrage Blaster | [Louise](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) |
+| RW | Heavy Rocket Turret<br>Meteor Turret<br>Heavy Meteor Launcher<br>Sidewinder VLS<br>Dual Mining Laser Turret | [RW Extras](https://www.moddb.com/mods/rw-extras/downloads) collection |
+| [Timeout](https://github.com/LixiChronikouOriou) | Hesperian Toolbox<br>HTS Artisan<br>HTS Crafter<br>HTS Duct-Tape<br>Hesperian Red Lager<br>Syracusia Tractor Beam<br>Etna Mining Ray<br>Scorpion Stun<br>Tiny Outfit Expansion<br>KP-6PT Parabol Turret | FOE |
 | [TheronEpic](https://github.com/TheronEpic) | Fuel Shields | [Epic Outfits](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/outfits.md#epic-outfits) |
-| [	Tommaso Becca](https://github.com/beccabunny) | Slave<br>Active Radar Jammer<br>Interference Emitters<br>Javelin Pod Turret | [Pirate Expansion](https://github.com/beccabunny/Pirate-Expansion) |
+| [	Tommaso Becca](https://github.com/beccabunny) | Slave<br>ShMEL Radar Jammer<br>ShMEL Interference Emitters<br>Javelin Pod Turret | [Pirate Expansion](https://github.com/beccabunny/Pirate-Expansion) |
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2026-05-30 | 1.9.0 | Added to Omnis for experimental purposes Evan Fluharty's Barrage Launcher and Broadsider. Updated Engineering Room. On author's request removed [Beehive Rockets](https://www.moddb.com/mods/rw-extras/downloads/beehive-rockets), [Gun Port Missiles](https://www.moddb.com/mods/rw-extras/downloads/gun-port-missiles) and [Turret Scanners](https://www.moddb.com/mods/rw-extras/downloads/turret-scanners). Some fixes. |
+| 2026-10-18 | 2.0.0 | **Added:** Tiny Outfit Expansion, KP-6PT Parabol Turret. Various missing @2x images. New image for Compressed Fuel Pod. QoL sales for Avgi and Successors. Lore for Small and Large Interference Emitters (now named ShMEL-IZ6 and ShMEL-IZ14 Interference Emitters) and Active Radar Jammer (now ShMEL-AR11 Radar Jammer). Person ship for Pilcrow, a dedicated FOE miner. **Rebalanced:** Small Outfit Expansion, Living Space Removal, Naval Shields, Trooper/Ranger/Marine Gear, Bastet Autocannon Turret, Duct-Tape, HTS tools, Shipwright Gear, Heavy Meteor Launcher, Meteor Turret, Sidewinder VLS, Interference Emitters. The vanilla radar jammers now consume energy (realism!), the "active" radar jammer became a medium one with new stats. **Moved:** Laser Sight to [an own plugin](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LaserSight), and Wanderer Radiant Engines to [FOE: Alien](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansionAlien) **Removed:** [Engineering Room](https://github.com/MidnightPlugins/Lost-in-Midnight), [Plasma Howitzer](https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded), [Afterburner Steering](https://www.moddb.com/mods/rw-extras/downloads/afterburner-steering1), [Nuke Turret](https://github.com/endless-sky/endless-sky/discussions/7928), and the deprecated Flak Cannon (replaced by Bastet AC Turret) and [Single Plasma Turret](https://github.com/TheGiraffe3/rumskib). **Temporarily removed:** Sekhmet Dual Autocannon **Further:** Updated restocking, various text changes (thx Redtechgamer236), rework of FW, Republic, Syndicate, Deep Security and Human Miner variants and fleets. **Todo:** Merchant and Pirate fleets. FW flamethrower fleets. Complete overhaul and integrate Fluharty's contribution Red Rock Armories (Phobos missile launcher and Deimos railgun turret). |
+| 2026-05-30 | 1.9.0 | Added to Omnis for experimental purposes Evan Fluharty's outfits Barrage Launcher and Broadsider. Updated Engineering Room. On author's request removed [Beehive Rockets](https://www.moddb.com/mods/rw-extras/downloads/beehive-rockets), [Gun Port Missiles](https://www.moddb.com/mods/rw-extras/downloads/gun-port-missiles) and [Turret Scanners](https://www.moddb.com/mods/rw-extras/downloads/turret-scanners). Some fixes. |
 | 2026-03-29 | 1.8.1 | Added license files. |
 | 2026-01-25 | 1.8.0 | Added Mortar Blaster Gun, Rapidfire Blaster Turret (idea and art by Kitteh), Tiny Atomic and Plasma Engines (by Arachi, with art by Kitteh), Scorpion stun gun and turret (art by Tommaso Becca), Laser Sight (idea by ghostnzshell, revival and art by Kitteh), HTS Duct-Tape (art by Kami Rapacz), and missing @2x images for the fuel shields. Adjusted stats for Heavy Blasters, updated Engineering Room. Adjusted timeline of availability for some outfits. Removed licenses from Marine Gear and Naval Shields. |
-| 2025-12-09 | 1.7.0 | Starting to add ideas and artwork made by Kitteh: Autocannons, Light and Heavy Tractor Beams. Updated RW Extras: Added Heavy Meteor Launcher and Beehive Rockets, updated Gun Port Missiles. Adding lacking burst behavior of vanilla and plugin missile launchers. Images by Cend for the Particle Turrets have been polished by Ragno. Fixed some warnings and errors. |
+| 2025-12-09 | 1.7.0 | Starting to add ideas and artwork made by Kitteh: Autocannons, Light and Heavy Tractor Beams. Deprecated: Flak Cannon. Updated RW Extras: Added Heavy Meteor Launcher and Beehive Rockets, updated Gun Port Missiles. Adding lacking burst behavior of vanilla and plugin missile launchers. Images by Cend for the Particle Turrets have been polished by Ragno. Fixed some warnings and errors. |
 | 2025-09-11 | 1.6.0 | Added the new outfitter *Becca Finmeccanica* with lore-HQ on Delve, starting with the (heavy) Syracusia Tractor Beam and the (heavy) Etna Mining Ray Gun/Turret, artwork by Tommaso Becca. Added Engineering Room from Lost in Midnight. Added FOE-equipped variants to Republic, FW and Merchant fleets. Adjusted Sentinel Reactor. Fixes here and there. |
 | 2025-08-31 | 1.5.1 | Buffed the power output and made the Sentinel Reactor adaptive to the ship's current heat level. Added FOE-equipped variants to Syndicate fleets. |
-| 2025-08-27 | 1.5.0 | Event fixes and tinkering. Removed Single Plasma Turret, only left its definition for compatibility (instead see [Rumskib](https://github.com/TheGiraffe3/rumskib)). Replaced images for Single and Dual Particle Turrets by ones in modern style. Fixed restocks for Flak Cannon and Javelin Pod Turret. Fuel shields now provide fuel protection. Removed for now the negative leak protection from compressed fuel pod because there's nothing that actually causes leak damage yet. Type 0 Radiant Engines also in advanced Wanderer outfitter, not only basic one. Removed unused files, beautified icon. |
+| 2025-08-27 | 1.5.0 | Event fixes and tinkering. Deprecated Single Plasma Turret, only left its definition for compatibility (instead see [Rumskib](https://github.com/TheGiraffe3/rumskib)). Replaced images for Single and Dual Particle Turrets by ones in modern style. Fixed restocks for Flak Cannon and Javelin Pod Turret. Fuel shields now provide fuel protection. Removed for now the negative leak protection from compressed fuel pod because there's nothing that actually causes leak damage yet. Type 0 Radiant Engines also in advanced Wanderer outfitter, not only basic one. Removed unused files, beautified icon. |
 | 2025-07-19 | 1.4.0 | Added support for Omnis. Plus hotfixes. |
 | 2025-07-11 | 1.3.0 | Added subset of Pirate Expansion, updated with series and index specifications. Updated missile turrets after author's update. Reduced fuel consumption of the fuel shields. |
 | 2025-06-12 | 1.2.1 | Fixes. Tweaked PDP batteries. Added series and index specifications. |
@@ -262,6 +268,48 @@ As of now human-only. Someday perhaps support for aliens will be added.
 | 2025-05-27 | 1.1.0 | Added Nuke Turret, new projectile and sound for Heavy Blasters from PR #11358, added subsets of QOL Outfits and RW Extras, buffed Shipwright Gear, added Hesperian Red Lager, Hesperian Toolbox incl. HTS tools. |
 | 2025-05-18 | 1.0.0 | Initial publication with Barrage Blaster, Flak Cannon, Heavy Blasters, Particle Turrets, Shipwright Gear. |
 
+</details>
+
+<br>
+
+
+---
+
+### Fundamental.Outfit.Expansion.Alien
+
+<img src="myplugins/Fundamental.Outfit.Expansion.Alien/icon.png" height="100">
+
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.Alien.png' width="130" height="20">
+
+[Fundamental.Outfit.Expansion.Alien.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Fundamental.Outfit.Expansion.Alien/Fundamental.Outfit.Expansion.Alien.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion.Alien/) <a href="res/imagemd/Fundamental.Outfit.Expansion.Alien.md">view images</a> [26]<br>
+<br>
+>Alka'etukafet iri tokatala'af pamasa aglat ire' tirtek. Ikafsir sebahaliaar abati!
+
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+
+### Fundamental Outfit Expansion: Alien ###
+
+**Authors:** see table
+
+**Editorial Board:** Timeout, Kitteh
+
+**Content**
+
+| Creator | Outfit | Origin |
+|---------|--------|--------|
+| [Amazinite](https://github.com/Amazinite) | Radiant Type 0 Engine<br>Radiant Type 5 Thruster & Steering<br>Shield Disruptor Gun<br>Dual Husk-Slice Turret | [Enigma Corp.](https://github.com/Amazinite/Enigma-Corp) |
+| [Kaiboyjiang](https://github.com/kaiboyjiang) & Ubrief | Radiant Type 1-4 Reversers | [Wanderer Reverse Thrusters](https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#wanderer_reverse_thrusters) |
+
+**Note:** Alka'etukafet iri tokatala'af pamasa aglat ire' tirtek. Ikafsir sebahaliaar abati!
+
+**Changelog**
+
+| Date | Version | Comment |
+|------|---------|---------|
+| 2026-10-18 | 1.0.0 | Separation from FOE. Separate publication starting with Wanderers' Radiant Engines (Type 1-4 Reversers, Type 0 Engine, Type 5 Thruster/Steering) and Korath Mereti's Shield Disruptor Gun and Dual Husk-Slice Turret. Reworked stats for Type 0/5 Engines, and Korath Mereti variants and fleets. |
+| 2025-05-27 | -- | Added Wanderer's reworked Type 0/5 engines to FOE 1.1.0. |
 </details>
 
 <br>
@@ -375,6 +423,43 @@ The latest *KRD-2952MUX* model as well as the basic *Defense Drone* is available
 
 ---
 
+### Laser.Sight
+
+<img src="myplugins/Laser.Sight/icon.png" height="100">
+
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Laser.Sight.png' width="130" height="20">
+
+[Laser.Sight.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Laser.Sight/Laser.Sight.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Laser.Sight/) <a href="res/imagemd/Laser.Sight.md">view images</a> [7]<br>
+<br>
+>For more convenient long-range targeting.
+
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+
+### Laser Sight ###
+
+**Authors:** Ghostnzshell (idea and proof of concept), Kitteh and Timeout (completion and release)
+
+The Laser Sight was designed to give visual support for the timing of secondary weapon fire, whether for shorter-range bombing runs, or longer-range fire with un- or mediocre-guided weapons to reduce the number of wasted shots.
+
+Due to the lack of feedback on this sniper tool, there's no empirical evidence on whether this works as intended or not. Don't hesitate to share your opinion on the plugin's thread on the ES Discord server.
+
+**Changelog**
+
+| Date | Version | Comment |
+|------|---------|---------|
+| 2026-10-18 | 1.0.0 | Separated from FOE, and turned into a plugin on its own. |
+| 2026-01-25 | -- | Published as part of [FOE](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion). |
+| 2025-03-19 | -- | [Proof of concept](https://discord.com/channels/251118043411775489/1208535517759807519/1352017205067386900) by Ghostnzshell. |
+
+</details>
+
+<br>
+
+
+---
+
 ### Louise.Conglomerate.Shipyards
 
 <img src="myplugins/Louise.Conglomerate.Shipyards/icon.png" height="100">
@@ -457,7 +542,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
-| TBD | 0.1.1 | So far: Added @2x images for ships and outfits, series and index attributes to outfits, added two new reactors, and Omnis support. Separated ancient and modernized outfits. Currently working on: Overhaul of Sheragi ship and outfit stats. |
+| 2026-10-18 | 0.1.2 | So far: Added @2x images for ships and outfits, series and index attributes to outfits, added two new reactors, and Omnis support. Separated ancient and modernized outfits. Currently working on: Overhaul of Sheragi ship and outfit stats. Text fixes. |
 | 2025-09-10 | -- | [Bugfix-PR](https://github.com/Petersupes/sheragi-rebirth/pull/7) by Zuckung.
 | 2024-07-11 | -- | [Bugfix-PR](https://github.com/Petersupes/sheragi-rebirth/pull/5) by TheGiraffe3.
 | 2023-04-02 | -- | Last release of the original *[Sheragi Rebirth](https://github.com/Petersupes/sheragi-rebirth)* plugin. |
@@ -579,6 +664,50 @@ Has individual dialogue boxes for each of the following situations.
 | 2025-08-09 | 1.0.0 | Initial release. |
 
 
+
+</details>
+
+<br>
+
+
+---
+
+### zzzZapping.Tweaks
+
+<img src="myplugins/zzzZapping.Tweaks/icon.png" height="100">
+
+<img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/zzzZapping.Tweaks.png' width="130" height="20">
+
+[zzzZapping.Tweaks.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-zzzZapping.Tweaks/zzzZapping.Tweaks.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/zzzZapping.Tweaks/) <a href="res/imagemd/zzzZapping.Tweaks.md">view images</a> [31]<br>
+<br>
+>A variety of little tweaks on vanilla ES.
+
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+
+### Zapping Tweaks ###
+
+**Authors:** RW, Timeout
+
+**Editor:** Timeout
+
+**Content**
+- *Adjusted Human Turret Turn Rates* (author: Timeout) for more consistency, based on [PR #11194](https://github.com/endless-sky/endless-sky/pull/11194).
+- *Adjusted Human Fighter, Drone and Interceptor Hull Costs* (author: Timeout) for more consistency, based on [PR #11389](https://github.com/endless-sky/endless-sky/pull/11389).
+- *Alpha Centauri Connectivity* (author: Timeout), adding a link to Muphrid for reasons explained in [PR #11771](https://github.com/endless-sky/endless-sky/pull/11771).
+- *Missile Burstfire* (author: RW | editor: Timeout) makes missile launchers burst-fire according to their appearance, e.g. Torpedo Launcher has two tubes, so it burstfires two torpedoes in a salvo. Originally posted on Discord as a response of RW to a question of Timeout.
+- *Missile Trails* (author: RW | editor: Timeout) adds smoke/flame/energy trails to most homing weapons and some larger ballistic or artillery weapons. Derived from RW's [plugin](https://www.moddb.com/mods/rw-extras/downloads/missile-trails), addressing only vanilla weapons, and making some updates and streamlining.
+- *Projectile Graphics Update* (author: RW), a patch to update the projectile sprites for human missiles with updated renders, which hasn't been done in vanilla after the introduction of new outfit models in ES 0.9.15. An unedited integration of RW's [plugin](https://www.moddb.com/mods/rw-extras/downloads/projectile-graphics-update).
+- *Universal Navy License* (author: Timeout) replaces all purchase requirements for Navy license variations with the standard Navy license. Complements e.g. the plugin [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) where one can get the standard Navy License via a mission chain.
+- *Verse Factbook* (author: Timeout) adds planet-wise extra information, for now mainly the population numbers. Based on Amazinite's [population spreadsheet](https://docs.google.com/spreadsheets/d/1dWKimAiiXrlVCibdjyiFNqtQJdiXJqB7F0Cs9La0Z60/htmlview) from 2021. Has been updated by adding New Tortuga and the Ex-CCOR's planets. Double-checked whether the population numbers fit the planets' descriptions, adjusted where necessary, and added details. A population density map can be found in the plugin files.
+
+
+**Changelog**
+
+| Date | Version | Comment |
+|------|---------|---------|
+| 2025-10-18 | 1.0.0 | Initial release. |
 
 </details>
 

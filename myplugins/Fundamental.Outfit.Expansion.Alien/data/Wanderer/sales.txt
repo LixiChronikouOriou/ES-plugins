@@ -1,0 +1,27 @@
+outfitter "Wanderer Basics"
+	add "FOE: Type 0 Radiant Engines"
+	add "FOE: Type 1 Radiant Reverser"
+	add "FOE: Type 2 Radiant Reverser"
+	add "FOE: Type 3 Radiant Reverser"
+
+outfitter "Wanderer Advanced"
+	add "FOE: Type 0 Radiant Engines"
+	add "FOE: Type 1 Radiant Reverser"
+	add "FOE: Type 2 Radiant Reverser"
+	add "FOE: Type 3 Radiant Reverser"
+	add "FOE: Type 4 Radiant Reverser"
+
+
+mission "foe: type 5 radiants"
+	landing
+	invisible
+	to offer
+		has "event: wanderers: derecho mass production"
+	on offer
+		event "foe: type 5 radiants"
+		fail
+
+event "foe: type 5 radiants"
+	outfitter "Wanderer Advanced"
+		add "FOE: Type 5 Radiant Thruster"
+		add "FOE: Type 5 Radiant Steering"

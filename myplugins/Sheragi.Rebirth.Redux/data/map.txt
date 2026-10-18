@@ -2242,7 +2242,7 @@ system Sulta
 		distance 826.26
 		period 244.813
 		offset 287.042
-		object Annyo
+		object Onnyo
 			sprite planet/station1
 			distance 304.396
 			period 39.178
@@ -2560,11 +2560,11 @@ system Xiilek
 			distance 444
 			period 49.803
 
-planet Annyo
+planet Onnyo
 	attributes eden station
 	landscape land/loc2
-	description "This station at the very edge of Sheragi space was created in a desperate bid to expand upon the limited amount of habitable space located in Eden. Many of the residents of Annyo are elderly Sheragi who choose to live here at the very edge of the galaxy where they are guaranteed safety."
-	spaceport "The spaceport of Annyo is relativley small for the Sheragi as the station rarely has to accomodate for the large capital ships the Sheragi favour, instead commonly recieving transports and freighters."
+	description "This station at the very edge of Sheragi space was created in a desperate bid to expand upon the limited amount of habitable space located in Eden. Many of the residents of Onnyo are elderly Sheragi who choose to live here at the very edge of the galaxy where they are guaranteed safety."
+	spaceport "The spaceport of Onnyo is relativley small for the Sheragi as the station rarely has to accommodate for the large capital ships the Sheragi favour, instead commonly receiving transports and freighters."
 	government "Sheragi (Rebirth)"
 	bribe 0.03
 	security 0.5
@@ -2621,7 +2621,7 @@ planet Daarnik
 	attributes eden military station
 	landscape land/station11
 	description "This massive battlestation was created to be the last line of defense for the Sheragi people, the location of what will be a great final stand against the last adversary in the war filled history of the Sheragi. The ruling government makes its residence within the fortified hull of Daarnik, and from here their decisions influence the entirety of Eden, Sheragi and Human alike."
-	spaceport "The spaceport here is the most uptight military situation you've ever seen, clearly noone who the Sheragi don't want to be here will step foot in this station."
+	spaceport "The spaceport here is the most uptight military situation you've ever seen, clearly no one who the Sheragi don't want to be here will step foot in this station."
 	government "Sheragi (Rebirth)"
 	shipyard "Sheragi Advanced"
 	shipyard "Sheragi Basic"
@@ -2637,7 +2637,7 @@ planet Daarnik
 planet Degis
 	attributes eden factory farming
 	landscape land/beach1
-	description "This planet is predominantly a civilian population of Sheragi who just want to be independant, many do not share ideals with the Dishonoured. However, there are many Dishonoured Sheragi here who want to murder you."
+	description "This planet is predominantly a civilian population of Sheragi who just want to be independent, many do not share ideals with the Dishonoured. However, there are many Dishonoured Sheragi here who want to murder you."
 	spaceport "The spaceport here is full of Dishonoured Sheragi who want to murder you."
 	government "Sheragi (Dishonoured)"
 	shipyard "Sheragi Basic"
@@ -2778,9 +2778,9 @@ planet Reskafar
 planet Shio
 	attributes eden factory farming textiles urban
 	landscape land/city1
-	description "The planet of Shio is remarkably similiar to that of Earth. As such it has become the primary home of the Humans who fled the alpha wars half a millenium ago. Because the Sheragi reproduce a lot slower than Humanity almost half of the planet's occupants are Human, resulting in some of the most unique cities in both Sheragi and Human Space."
+	description "The planet of Shio is remarkably similar to that of Earth. As such it has become the primary home of the Humans who fled the alpha wars half a millennium ago. Because the Sheragi reproduce a lot slower than Humanity almost half of the planet's occupants are Human, resulting in some of the most unique cities in both Sheragi and Human Space."
 	description "This planet is the only one is Sheragi space where where the selling Human ships and outfits has been able to outcompete Sheragi counterparts by selling technology that is more affordable for the average Human citizen. Leading this charge is the creativley named Shio Industries."
-	spaceport "The spaceport on Shio is a strange mix of huge landing pads for the massive Sheragi ships and much smaller ones to accomodate for the small Human ships."
+	spaceport "The spaceport on Shio is a strange mix of huge landing pads for the massive Sheragi ships and much smaller ones to accommodate for the small Human ships."
 	government "Sheragi (Rebirth)"
 	shipyard "Sheragi Basic"
 	shipyard "Shio Shipyards"
@@ -2796,7 +2796,7 @@ planet Shio
 planet Skatuch
 	attributes eden factory urban
 	landscape land/city13-sfiera
-	description "On Skatuch cities sprawl across the globe, ever increasing to accomodate for the growing Sheragi population. This planet is the most densely populated in the entirety of Eden, even more so than the capital system."
+	description "On Skatuch cities sprawl across the globe, ever increasing to accommodate for the growing Sheragi population. This planet is the most densely populated in the entirety of Eden, even more so than the capital system."
 	spaceport "The spaceport here is fairly standard for the sheragi, large with hexagonal landing pads, transports hurrying about ferrying people to and fro the surrounding city."
 	government "Sheragi (Rebirth)"
 	shipyard "Sheragi Basic"
@@ -2810,7 +2810,7 @@ planet Skatuch
 planet Thaczil
 	attributes eden urban
 	landscape land/fog10
-	description "Thaczil is the capital of Sheragi space, it is the heart of their civilisation and home to many people. Despite being the capital the Sheragi government does not actually govern from the planet but the from the massive station Daarnik orbiting above. It was the first world colonised when the Sheragi were sent to Eden millenia ago."
+	description "Thaczil is the capital of Sheragi space, it is the heart of their civilisation and home to many people. Despite being the capital the Sheragi government does not actually govern from the planet but the from the massive station Daarnik orbiting above. It was the first world colonised when the Sheragi were sent to Eden millennia ago."
 	spaceport "The spaceport here is a collection of hexagonal landing pads neatly arranged within the city."
 	government "Sheragi (Rebirth)"
 	shipyard "Sheragi Advanced"

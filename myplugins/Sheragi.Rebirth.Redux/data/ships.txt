@@ -562,7 +562,7 @@ ship "Ruby Hammer :SRR"
 	explode "large explosion" 42
 	explode "huge explosion" 28
 	"final explode" "final explosion large" 2
-	description "This Sheragi freighter outclasses any other freighter merely through its size. The Ruby Hammer was designed to cross the empty and dangerous space full of ion storms seperating Eden in two. Its unique hull shape helps provide some ion resistance."
+	description "This Sheragi freighter outclasses any other freighter merely through its size. The Ruby Hammer was designed to cross the empty and dangerous space full of ion storms separating Eden in two. Its unique hull shape helps provide some ion resistance."
 
 ship "White Brand :SRR"
 	"display name" "White Brand"
@@ -657,4 +657,4 @@ ship "White Brand :SRR"
 	explode "large explosion" 45
 	explode "huge explosion" 32
 	"final explode" "final explosion large" 2
-	description "This Sheragi warship is the mainstay of the Sheragi military, providing the combat power neccesary while remaining cost effective enough that it can be present in numbers within the battlefield."
+	description "This Sheragi warship is the mainstay of the Sheragi military, providing the combat power necessary while remaining cost effective enough that it can be present in numbers within the battlefield."

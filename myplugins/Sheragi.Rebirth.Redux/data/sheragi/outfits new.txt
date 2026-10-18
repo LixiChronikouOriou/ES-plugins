@@ -28,7 +28,7 @@ outfit "SRR Drilgir Core"
 	"outfit space" -33
 	"energy generation" 5.2
 	"heat generation" 15.6
-	description "With the intergration of Humans into Sheragi space came the request for more compatible technology, the Sheragi's solution was to simply sell fission drives without the engine components as alternatives to some of the Human reactors available. However, some Sheragi have begun adopting the tactic of greater energy generation in favour of large batteries."
+	description "With the integration of Humans into Sheragi space came the request for more compatible technology, the Sheragi's solution was to simply sell fission drives without the engine components as alternatives to some of the Human reactors available. However, some Sheragi have begun adopting the tactic of greater energy generation in favour of large batteries."
 
 outfit "SRR Ethimir Core"
 	"display name" "Ethimir Core"
@@ -41,7 +41,7 @@ outfit "SRR Ethimir Core"
 	"outfit space" -61
 	"energy generation" 11
 	"heat generation" 33.8
-	description "With the intergration of Humans into Sheragi space came the request for more compatible technology, the Sheragi's solution was to simply sell fission drives without the engine components as alternatives to some of the Human reactors available. However, some Sheragi have begun adopting the tactic of greater energy generation in favour of large batteries."
+	description "With the integration of Humans into Sheragi space came the request for more compatible technology, the Sheragi's solution was to simply sell fission drives without the engine components as alternatives to some of the Human reactors available. However, some Sheragi have begun adopting the tactic of greater energy generation in favour of large batteries."
 
 outfit "SRR Letnir Core"
 	"display name" "Letnir Core"
@@ -115,7 +115,7 @@ outfit "SRR Osvith Drive"
 	"scram drive" .2
 	"jump fuel" 100
 	"hyperdrive" 1
-	description "The Sheragi Scram Drive was developed to be used in conjunction with the Fusion Afterburner, allowing it to function similiar to a Scram Drive but without the increased fuel cost."
+	description "The Sheragi Scram Drive was developed to be used in conjunction with the Fusion Afterburner, allowing it to function similar to a Scram Drive but without the increased fuel cost."
 
 outfit "SRR Santhilia Drive"
 	"display name" "Santhilia Drive"
@@ -202,7 +202,7 @@ outfit "SRR Beithir Afterburner"
 	"afterburner fuel" 0.55
 	"afterburner effect" "fusion afterburner effect"
 	"afterburner attachment" 4
-	description "The Sheragi's first forays into space travel involved the use of fission and fusion powered thrusters similiar to this afterburner, this developed the basis of all of their future engine technologies."
+	description "The Sheragi's first forays into space travel involved the use of fission and fusion powered thrusters similar to this afterburner, this developed the basis of all of their future engine technologies."
 	description "	The key note about the Sheragi's original Fusion Afterburners was that they resulted in the Sheragi's development of the Hyperdrive by use of the afterburner as a reaction chamber."
 
 effect "fusion afterburner effect"
@@ -258,7 +258,7 @@ outfit "SRR Light Particle Shielding"
 	"ion resistance" .13
 	"ion resistance energy" -6
 	"energy consumption" .4
-	description "This shielding system was initialy developed to combat the ion storms splitting the middle of the new Sheragi territory. However upon discovering its effectiveness at reducing ion damage from Particle Waveform Cannons the Sheragi refined and improved the design allowing the charged particles to release absorbed energy into the ship's power systems, unleashing a new wave of warfare. One should be careful not to let the shield matrix of a ship using this system fully deplete as the resulting discharge will short circuit the capacitor, shutting down the system and resulting in a lengthy reboot."
+	description "This shielding system was initially developed to combat the ion storms splitting the middle of the new Sheragi territory. However upon discovering its effectiveness at reducing ion damage from Particle Waveform Cannons the Sheragi refined and improved the design allowing the charged particles to release absorbed energy into the ship's power systems, unleashing a new wave of warfare. One should be careful not to let the shield matrix of a ship using this system fully deplete as the resulting discharge will short circuit the capacitor, shutting down the system and resulting in a lengthy reboot."
 
 outfit "SRR Dense Particle Shielding"
 	"display name" "Dense Particle Shielding"
@@ -487,7 +487,7 @@ outfit "SRR Kinetic Spear Launcher"
 		"hit force" 3000
 		"piercing" 1
 		"missile strength" 400
-	description "The Sheragi Kinetic Spear Launcher is a weapon designed to rip through the hulls of ships. The weapon fires a large unguided tungsten rod which completley penetrates shields. The fact it is made of solid metal makes this weapon very difficult to shoot down with standard Anti-Missile systems."
+	description "The Sheragi Kinetic Spear Launcher is a weapon designed to rip through the hulls of ships. The weapon fires a large unguided tungsten rod which completely penetrates shields. The fact it is made of solid metal makes this weapon very difficult to shoot down with standard Anti-Missile systems."
 
 effect "kinetic impact"
 	sprite "effect/particle impact"

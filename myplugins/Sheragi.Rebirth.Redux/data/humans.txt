@@ -273,7 +273,7 @@ ship "Shio Firebird"
 	explode "medium explosion" 24
 	explode "large explosion" 8
 	"final explode" "final explosion medium"
-	description "The age old design of the Firebird was once one of the most common ships during the Alpha Wars. As such it was one of the few designs the Humans that fled to Sheragi space had access to. After half a millennium this ship has recieved heavy design tweaks to make it better able to stand up against the Behemoth Sheragi warships."
+	description "The age old design of the Firebird was once one of the most common ships during the Alpha Wars. As such it was one of the few designs the Humans that fled to Sheragi space had access to. After half a millennium this ship has received heavy design tweaks to make it better able to stand up against the Behemoth Sheragi warships."
 
 ship "Shio Leviathan"
 	sprite "ship/mleviathans"
@@ -622,5 +622,5 @@ ship "Llama"
 	leak "flame" 50 80
 	explode "tiny explosion" 15
 	explode "small explosion" 5
-	description "The Llama is pushing the bounds of what can be considered a fighter by Human standards. It was created when it became apparant that a fighter needed to not immediateley disintegrate from a stray Sheragi shot. So that the model would never become obsolete, Shio Industries took inspiration from the Mule and decided to put a little bit of everything into this fighter, resulting in its bizarre appearance."
+	description "The Llama is pushing the bounds of what can be considered a fighter by Human standards. It was created when it became apparent that a fighter needed to not immediateley disintegrate from a stray Sheragi shot. So that the model would never become obsolete, Shio Industries took inspiration from the Mule and decided to put a little bit of everything into this fighter, resulting in its bizarre appearance."
 	description "	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay."

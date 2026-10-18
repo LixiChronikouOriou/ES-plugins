@@ -1,3 +1,4 @@
+2026-10-18 | update: Laser.Sight
 2026-10-18 | update: Fundamental.Outfit.Expansion.Alien
 2026-10-18 | update: Factory.Outlets
 2026-10-18 | update: Bunsen.Burner

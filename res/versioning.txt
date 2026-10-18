@@ -4,6 +4,7 @@ Fundamental.Outfit.Expansion.Alien|1.0.0
 Fundamental.Outfit.Expansion|1.9.0
 Jaws|1.2.3
 Korunak.Defense.Drones|1.2.0
+Laser.Sight|1.0.0
 Louise.Conglomerate.Shipyards|3.1.2
 Sheragi.Rebirth.Redux|0.1.1
 Solar.Sails|2.1.3

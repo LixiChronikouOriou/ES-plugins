@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-18 | update: Laser.Sight<br>
 2026-10-18 | update: Fundamental.Outfit.Expansion.Alien<br>
 2026-10-18 | update: Factory.Outlets<br>
 2026-10-18 | update: Bunsen.Burner<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-06-05 | update: Bunsen.Burner<br>
 2026-06-03 | update: Bunsen.Burner<br>
 2026-06-01 | update: Factory.Outlets<br>
-2026-05-30 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -428,7 +428,7 @@ The latest *KRD-2952MUX* model as well as the basic *Defense Drone* is available
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Laser.Sight.png' width="130" height="20">
 
-[Laser.Sight.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0-Laser.Sight/Laser.Sight.zip) | N/A | N/A | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Laser.Sight/) <a href="res/imagemd/Laser.Sight.md">view images</a> [7]<br>
+[Laser.Sight.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Laser.Sight/Laser.Sight.zip) | 329.46 kb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Laser.Sight/) <a href="res/imagemd/Laser.Sight.md">view images</a> [7]<br>
 <br>
 >For more convenient long-range targeting.
 

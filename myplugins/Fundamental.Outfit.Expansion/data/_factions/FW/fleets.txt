@@ -1,58 +1,58 @@
 ﻿event "foe: fw advanced fleet deployment"
 
 	fleet "Small Free Worlds"
-	 remove variant
+		remove variant
 			"Hawk"
 			"Sparrow"
-	 remove variant
+		remove variant
 			"Hawk"
 			"Fury"
-	 remove variant
+		remove variant
 			"Hawk"
 			"Fury (Missile)"
-	 remove variant
+		remove variant
 			"Fury (Bomber)"
 			"Sparrow"
-	 remove variant
+		remove variant
 			"Hawk"
 			"Fury (Laser)"
-	 remove variant
+		remove variant
 			"Fury" 2
-	 remove variant
+		remove variant
 			"Fury (Laser)"
 			"Fury (Missile)"
-	 remove variant
+		remove variant
 			"Sparrow" 2
-	 remove variant
+		remove variant
 			"Hawk"
-	 remove variant
+		remove variant
 			"Hawk (Rocket)"
-	 remove variant
+		remove variant
 			"Hawk (Plasma)"
-	 remove variant
+		remove variant
 			"Hawk (Speedy)"
-	 remove variant
+		remove variant
 			"Hawk (Bomber)"
-	 remove variant
+		remove variant
 			"Sparrow"
-	 remove variant
+		remove variant
 			"Osprey"
-	 remove variant
+		remove variant
 			"Hawk"
 			"Sparrow" 2
-	 remove variant
+		remove variant
 			"Hawk (Rocket)"
 			"Sparrow" 2
-	 remove variant
+		remove variant
 			"Hawk (Speedy)"
 			"Sparrow" 2
-	 remove variant
+		remove variant
 			"Hawk (Bomber)"
 			"Sparrow" 2
-	 remove variant
+		remove variant
 			"Fury (Bomber)"
 			"Sparrow" 2
-	 remove variant
+		remove variant
 			"Hawk (Plasma)"
 			"Sparrow" 2
 		###########################

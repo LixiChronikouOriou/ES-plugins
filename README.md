@@ -73,11 +73,9 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png' width="130" height="20">
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.6-Bunsen.Burner/Bunsen.Burner.zip) | 303.42 kb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.7-Bunsen.Burner/Bunsen.Burner.zip) | 303.4 kb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
 <br>
 >Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
-
->Includes buff for the standard Flamethrower.
 
 
 <details>
@@ -103,6 +101,7 @@ Needs that 60 days have lapsed since the Flamethrower became available, that the
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-18 | 1.4.7 | Metadata fix. | 
 | 2026-10-18 | 1.4.6 | Removed Flamethrower-related content after PR #12491 has been merged. |
 | 2026-06-09 | 1.4.5 | Reworked ship and fleet variants employing the Bunsen Burner. |
 | 2026-06-05 | 1.4.4 | Aligned with [PR #12491](https://github.com/endless-sky/endless-sky/pull/12491). |
@@ -118,7 +117,7 @@ Needs that 60 days have lapsed since the Flamethrower became available, that the
 | 2025-05-03 | 1.0.2 | Metadata files fixes. |
 | 2025-04-28 | 1.0.1 | Readme and copyright fixes. |
 | 2025-04-28 | 1.0.0 | Overhaul and Re-publication as *Bunsen Burner*. |
-| 2021-01-26 | - | Last Update of the *Flamethrower Turret* plugin. |
+| 2021-01-26 | -- | Last Update of the *Flamethrower Turret* plugin. |
 
 </details>
 

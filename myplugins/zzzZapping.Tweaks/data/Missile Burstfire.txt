@@ -5,7 +5,11 @@
 # two tubes, so it fires two torpedoes at once. Weapon DPS remains the same, this just shifts
 # missiles away from a DPS orientation to a burst-damage one.
 #
-# Roughly orienting on Finisher Maegrolain with a burst reload of 15.
+# However, the initial version of RW turned out to be OP, causing massive missile waves overloading
+# any anti-missile (AM) system. Hence a more conservative estimation has been made for the burst count,
+# not only based on the visuals but also taking a look on factions' AMs for orientation.
+#
+# Burst Reload = Reload / assigned Burst Count    # should not be <15, in that case burst count = 1
 #
 # Not currently done for pod size launchers as they already use the burst stats, so would be
 # more involved, needing submunition definitions.
@@ -16,50 +20,37 @@
 outfit "Meteor Missile Launcher"
 	weapon
 		"burst count" 3
-		"burst reload" 10
-
-outfit "Sidewinder Missile Launcher"
-	weapon
-		"burst count" 4
-		"burst reload" 30 # slower since they rotate out on a cylinder
-
-outfit "Torpedo Launcher"
-	weapon
-		"burst count" 2
-		"burst reload" 20
-
-outfit "Typhoon Launcher"
-	weapon
-		"burst count" 3
-		"burst reload" 20
+		"burst reload" 25
 
 outfit "Heavy Rocket Launcher"
 	weapon
 		"burst count" 3
-		"burst reload" 20
+		"burst reload" 80
+
+outfit "Torpedo Launcher"
+	weapon
+		"burst count" 2
+		"burst reload" 75
+
+outfit "Typhoon Launcher"
+	weapon
+		"burst count" 3
+		"burst reload" 50
 
 
 ## KORATH
 
-outfit "Piercer Missile Launcher"
-	weapon
-		"burst count" 7
-		"burst reload" 15
-		"stream" # needs to be re-added if weapon is modified
-
 outfit "Cluster Mine Layer"
 	weapon
 		"burst count" 3
-		"burst reload" 45 # slower to spread mines out more as ship moves
-
-# Firelight Missile Bank already fires in this manner in vanilla.
+		"burst reload" 60
 
 
 ## HAI
 
 outfit "Hai Tracker Pod"
 	weapon
-		"burst count" 12
+		"burst count" 4
 		"burst reload" 15
 		"stream" # more beneficial to use this mode now, to maintain hit force on target and avoid launching such a dense flurry of missiles that earlier ones in the volley push the target out of range of the following ones
 
@@ -69,17 +60,15 @@ outfit "Hai Tracker Pod"
 outfit "Thunderhead Launcher"
 	weapon
 		"burst count" 2
-		"burst reload" 15
+		"burst reload" 35
 
 
 ## HELIARCH
 
 outfit "Finisher Pod"
 	weapon
-		"burst count" 7
-		"burst reload" 15
-
-# Finisher Maegrolain already fires in this manner in vanilla.
+		"burst count" 6
+		"burst reload" 15 # strictly speaking 80/6 < 15, but this way it fits the Finisher Maegrolain
 
 
 ## AVGI
@@ -87,4 +76,4 @@ outfit "Finisher Pod"
 outfit "External Launch Tube"
 	weapon
 		"burst count" 3
-		"burst reload" 30 # slower due to massive investment per missile
+		"burst reload" 60

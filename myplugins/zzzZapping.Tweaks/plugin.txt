@@ -1,6 +1,6 @@
 name "zzzZapping.Tweaks"
-about "A variety of little tweaks on vanilla ES."
-version 1.0.0
+about "A variety of tweaks on vanilla ES."
+version 1.0.1
 authors
 	RW
 	Timeout

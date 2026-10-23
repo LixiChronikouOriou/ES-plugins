@@ -1,6 +1,6 @@
 name "Laser Sight"
 about "For more convenient long-range targeting."
-version 1.0.0
+version 1.0.1
 authors
 	Ghostnzshell
 	Kitteh

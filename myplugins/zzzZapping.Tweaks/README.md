@@ -20,5 +20,5 @@
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2026-10-22 | 1.0.1 | Nerfed the *Missile Burstfire* module which just rendered anti-missile turrets pointless. Fixed warnings considering usage of legacy marker for half-additive blending mode. |
+| 2026-10-23 | 1.0.1 | Nerfed the *Missile Burstfire* module which just rendered anti-missile turrets pointless. Fixed warnings considering usage of legacy marker for half-additive blending mode. |
 | 2026-10-18 | 1.0.0 | Initial release. |

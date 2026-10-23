@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-23 | update: zzzZapping.Tweaks<br>
 2026-10-23 | update: Laser.Sight<br>
 2026-10-23 | update: Fundamental.Outfit.Expansion<br>
 2026-10-18 | update: Fundamental.Outfit.Expansion<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-10-18 | update: Factory.Outlets<br>
 2026-10-18 | update: Bunsen.Burner<br>
 2026-09-12 | update: Factory.Outlets<br>
-2026-07-08 | update: Louise.Conglomerate.Shipyards<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -684,7 +684,7 @@ Has individual dialogue boxes for each of the following situations.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/zzzZapping.Tweaks.png' width="130" height="20">
 
-[zzzZapping.Tweaks.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-zzzZapping.Tweaks/zzzZapping.Tweaks.zip) | 1.59 mb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/zzzZapping.Tweaks/) <a href="res/imagemd/zzzZapping.Tweaks.md">view images</a> [31]<br>
+[zzzZapping.Tweaks.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1-zzzZapping.Tweaks/zzzZapping.Tweaks.zip) | 1.59 mb | 2026-10-23 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/zzzZapping.Tweaks/) <a href="res/imagemd/zzzZapping.Tweaks.md">view images</a> [31]<br>
 <br>
 >A variety of tweaks on vanilla ES.
 

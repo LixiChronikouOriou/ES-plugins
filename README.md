@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-23 | update: Fundamental.Outfit.Expansion<br>
 2026-10-18 | update: Fundamental.Outfit.Expansion<br>
 2026-10-18 | update: zzzZapping.Tweaks<br>
 2026-10-18 | update: Laser.Sight<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-09-12 | update: Factory.Outlets<br>
 2026-07-08 | update: Louise.Conglomerate.Shipyards<br>
 2026-06-09 | update: Bunsen.Burner<br>
-2026-06-05 | update: Bunsen.Burner<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -202,7 +202,7 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png' width="130" height="20">
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 6.73 mb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [210]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.1-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 6.73 mb | 2026-10-23 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [210]<br>
 <br>
 >A collection of essential human outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 
@@ -218,13 +218,15 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 **Editors:** Timeout (Research, Compilation and Statistics), Kitteh (Design, Art and Tests)
 
-**Thanks** for feedback, discussions and improvements: AvianGeneticist, Cend, Kassandra Haruki, Keilaph, Questenberg, Ragno, Redtechgamer236, Unknown_Rawrs
+**Thanks** for feedback, discussions and improvements: AvianGeneticist, Cend, Haniyasushiff, Kassandra Haruki, Keilaph, Questenberg, Ragno, Redtechgamer236, Unknown_Rawrs
+
+**ES Version Support**
+FOE is tested only on stable releases of ES, the last being 0.11.2. Using FOE with unstable versions might wipe the cat gif collection on your data crystal.
 
 **Attention**
 - FOE 2.x is not downwards compatible to FOE 1.x.
-- Don't use with the unstable version ES 0.11.3.
 - Don't use together with Omnis' Free Worlds storyline skipping.
-- Tributing human space becomes much harder.
+- Tributing human space becomes significantly harder.
 
 **Notes**
 - Other fundamental content can be found in the plugin recommendation list, especially see [Rumskib](https://github.com/TheGiraffe3/rumskib) for Plasma Turrets (Single, Quad) and Gatling Turrets (Single, Triple, Quad).
@@ -246,12 +248,13 @@ As of now human-only. Someday perhaps support for aliens will be added.
 | RW | Heavy Rocket Turret<br>Meteor Turret<br>Heavy Meteor Launcher<br>Sidewinder VLS<br>Dual Mining Laser Turret | [RW Extras](https://www.moddb.com/mods/rw-extras/downloads) collection |
 | [Timeout](https://github.com/LixiChronikouOriou) | Hesperian Toolbox<br>HTS Artisan<br>HTS Crafter<br>HTS Duct-Tape<br>Hesperian Red Lager<br>Syracusia Tractor Beam<br>Etna Mining Ray<br>Scorpion Stun<br>Tiny Outfit Expansion<br>KP-6PT Parabol Turret | FOE |
 | [TheronEpic](https://github.com/TheronEpic) | Fuel Shields | [Epic Outfits](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/outfits.md#epic-outfits) |
-| [	Tommaso Becca](https://github.com/beccabunny) | Slave<br>ShMEL Radar Jammer<br>ShMEL Interference Emitters<br>Javelin Pod Turret | [Pirate Expansion](https://github.com/beccabunny/Pirate-Expansion) |
+| [Tommaso Becca](https://github.com/beccabunny) | Slave<br>ShMEL Radar Jammer<br>ShMEL Interference Emitters<br>Javelin Pod Turret | [Pirate Expansion](https://github.com/beccabunny/Pirate-Expansion) |
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-23 | 2.0.1 | Fixed faulty sales of Stun Gun/Turret and Sizeable Maps (thx Haniyasushiff), as well as a warning considering a blurry image. Nerfed the OP fire pattern of Meteor Launchers and Sidewinder VLS, otherwise anti-missile turrets would overload too easily. |
 | 2026-10-18 | 2.0.0 | **Added:** Tiny Outfit Expansion, KP-6PT Parabol Turret. Various missing @2x images. New image for Compressed Fuel Pod. QoL sales for Avgi and Successors. Lore for Small and Large Interference Emitters (now named ShMEL-IZ6 and ShMEL-IZ14 Interference Emitters) and Active Radar Jammer (now ShMEL-AR11 Radar Jammer). Person ship for Pilcrow, a dedicated FOE miner. **Rebalanced:** Small Outfit Expansion, Living Space Removal, Naval Shields, Trooper/Ranger/Marine Gear, Bastet Autocannon Turret, Duct-Tape, HTS tools, Shipwright Gear, Heavy Meteor Launcher, Meteor Turret, Sidewinder VLS, Interference Emitters. The vanilla radar jammers now consume energy (realism!), the "active" radar jammer became a medium one with new stats. **Moved:** Laser Sight to [an own plugin](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LaserSight), and Wanderer Radiant Engines to [FOE: Alien](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansionAlien) **Removed:** [Engineering Room](https://github.com/MidnightPlugins/Lost-in-Midnight), [Plasma Howitzer](https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded), [Afterburner Steering](https://www.moddb.com/mods/rw-extras/downloads/afterburner-steering1), [Nuke Turret](https://github.com/endless-sky/endless-sky/discussions/7928), and the deprecated Flak Cannon (replaced by Bastet AC Turret) and [Single Plasma Turret](https://github.com/TheGiraffe3/rumskib). **Temporarily removed:** Sekhmet Dual Autocannon **Further:** Updated restocking, various text changes (thx Redtechgamer236), rework of FW, Republic, Syndicate, Deep Security and Human Miner variants and fleets. **Todo:** Merchant and Pirate fleets. FW flamethrower fleets. Complete overhaul and integrate Fluharty's contribution Red Rock Armories (Phobos missile launcher and Deimos railgun turret). |
 | 2026-05-30 | 1.9.0 | Added to Omnis for experimental purposes Evan Fluharty's outfits Barrage Launcher and Broadsider. Updated Engineering Room. On author's request removed [Beehive Rockets](https://www.moddb.com/mods/rw-extras/downloads/beehive-rockets), [Gun Port Missiles](https://www.moddb.com/mods/rw-extras/downloads/gun-port-missiles) and [Turret Scanners](https://www.moddb.com/mods/rw-extras/downloads/turret-scanners). Some fixes. |
 | 2026-03-29 | 1.8.1 | Added license files. |
@@ -440,6 +443,8 @@ The latest *KRD-2952MUX* model as well as the basic *Defense Drone* is available
 
 **Authors:** Ghostnzshell (idea and proof of concept), Kitteh and Timeout (completion and release)
 
+**Thanks:** BravoEchoOneOne
+
 The Laser Sight was designed to give visual support for the timing of secondary weapon fire, whether for shorter-range bombing runs, or longer-range fire with un- or mediocre-guided weapons to reduce the number of wasted shots.
 
 Due to the lack of feedback on this sniper tool, there's no empirical evidence on whether this works as intended or not. Don't hesitate to share your opinion on the plugin's thread on the ES Discord server.
@@ -448,6 +453,7 @@ Due to the lack of feedback on this sniper tool, there's no empirical evidence o
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-23 | 1.0.1 | Made the Laser Sight's beam less obtrusive (thx BravoEchoOneOne). |
 | 2026-10-18 | 1.0.0 | Separated from FOE, and turned into a plugin on its own. |
 | 2026-01-25 | -- | Published as part of [FOE](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion). |
 | 2025-03-19 | -- | [Proof of concept](https://discord.com/channels/251118043411775489/1208535517759807519/1352017205067386900) by Ghostnzshell. |
@@ -493,6 +499,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-23 | 3.1.3 | Added administrative costs. Small maintenance stuff. |
 | 2026-07-08 | 3.1.2 | Fixed sprite warnings because of odd number of pixels. Removed obsolete image versions -- end of compatibility with ships acquired using Louise 1.x and 2.0. | 
 | 2026-05-27 | 3.1.1 | Improved the ship descriptions (thx to Glorbimus Prime and Loymdayddaud). Changed the outfits equipped on the Hai variants of Commercator and Mercator to make the stock sales more affordable. |
 | 2026-04-03 | 3.1.0 | Added the Gradator interceptor (thx to Kitteh), including corresponding variant and fleet definitions. Also added reverse engine definitions, and a license file. |
@@ -679,7 +686,7 @@ Has individual dialogue boxes for each of the following situations.
 
 [zzzZapping.Tweaks.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-zzzZapping.Tweaks/zzzZapping.Tweaks.zip) | 1.59 mb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/zzzZapping.Tweaks/) <a href="res/imagemd/zzzZapping.Tweaks.md">view images</a> [31]<br>
 <br>
->A variety of little tweaks on vanilla ES.
+>A variety of tweaks on vanilla ES.
 
 
 <details>
@@ -695,7 +702,7 @@ Has individual dialogue boxes for each of the following situations.
 - *Adjusted Human Turret Turn Rates* (author: Timeout) for more consistency, based on [PR #11194](https://github.com/endless-sky/endless-sky/pull/11194).
 - *Adjusted Human Fighter, Drone and Interceptor Hull Costs* (author: Timeout) for more consistency, based on [PR #11389](https://github.com/endless-sky/endless-sky/pull/11389).
 - *Alpha Centauri Connectivity* (author: Timeout), adding a link to Muphrid for reasons explained in [PR #11771](https://github.com/endless-sky/endless-sky/pull/11771).
-- *Missile Burstfire* (author: RW | editor: Timeout) makes missile launchers burst-fire according to their appearance, e.g. Torpedo Launcher has two tubes, so it burstfires two torpedoes in a salvo. Originally posted on Discord as a response of RW to a question of Timeout.
+- *Missile Burstfire* (author: RW | editor: Timeout) makes missile launchers burst-fire more according to their appearance, e.g. Torpedo Launcher has two tubes, so it burstfires two torpedoes in a salvo. Originally posted on Discord as a response of RW to a question of Timeout.
 - *Missile Trails* (author: RW | editor: Timeout) adds smoke/flame/energy trails to most homing weapons and some larger ballistic or artillery weapons. Derived from RW's [plugin](https://www.moddb.com/mods/rw-extras/downloads/missile-trails), addressing only vanilla weapons, and making some updates and streamlining.
 - *Projectile Graphics Update* (author: RW), a patch to update the projectile sprites for human missiles with updated renders, which hasn't been done in vanilla after the introduction of new outfit models in ES 0.9.15. An unedited integration of RW's [plugin](https://www.moddb.com/mods/rw-extras/downloads/projectile-graphics-update).
 - *Universal Navy License* (author: Timeout) replaces all purchase requirements for Navy license variations with the standard Navy license. Complements e.g. the plugin [Lost in Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) where one can get the standard Navy License via a mission chain.
@@ -706,7 +713,8 @@ Has individual dialogue boxes for each of the following situations.
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2025-10-18 | 1.0.0 | Initial release. |
+| 2026-10-23 | 1.0.1 | Nerfed the *Missile Burstfire* module which just rendered anti-missile turrets pointless. Fixed warnings considering usage of legacy marker for half-additive blending mode. |
+| 2026-10-18 | 1.0.0 | Initial release. |
 
 </details>
 

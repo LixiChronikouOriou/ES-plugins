@@ -364,10 +364,10 @@ graphic files for the plugin: Fundamental.Outfit.Expansion<br>
 	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret dual@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret dual@2x.png" height="200"></a><br>
 		particle turret dual@2x.png [360x360]</td>
-		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret heavy.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret heavy.png" width="200" height="175"></a><br>
-		particle turret heavy.png [200x175]</td>
+		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret heavy.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret heavy.png" width="200" height="174"></a><br>
+		particle turret heavy.png [200x174]</td>
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret heavy@2x.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret heavy@2x.png" width="200"></a><br>
-		particle turret heavy@2x.png [400x350]</td>
+		particle turret heavy@2x.png [400x348]</td>
 	</tr>
 	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Fundamental.Outfit.Expansion/images/outfit/particle turret.png" width="180" height="180"></a><br>

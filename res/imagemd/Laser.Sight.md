@@ -19,7 +19,7 @@ graphic files for the plugin: Laser.Sight<br>
 	</tr>
 	<tr valign="bottom">
 		<td><a href="https://github.com/LixiChronikouOriou/ES-plugins/blob/main/myplugins/Laser.Sight/images/projectile/lasersight+.png"><img src="https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/refs/heads/main/myplugins/Laser.Sight/images/projectile/lasersight+.png" height="200"></a><br>
-		lasersight+.png [10x4800]</td>
+		lasersight+.png [8x4800]</td>
 		<td></td>
 		<td></td>
 	</tr>

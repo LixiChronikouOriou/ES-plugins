@@ -1,3 +1,4 @@
+2026-10-23 | update: Louise.Conglomerate.Shipyards
 2026-10-23 | update: zzzZapping.Tweaks
 2026-10-23 | update: Laser.Sight
 2026-10-23 | update: Fundamental.Outfit.Expansion

@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-26 | update: Fundamental.Outfit.Expansion<br>
 2026-10-26 | update: zzzZapping.Tweaks<br>
 2026-10-23 | update: Louise.Conglomerate.Shipyards<br>
 2026-10-23 | update: zzzZapping.Tweaks<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-10-18 | update: zzzZapping.Tweaks<br>
 2026-10-18 | update: Laser.Sight<br>
 2026-10-18 | update: Fundamental.Outfit.Expansion.Alien<br>
-2026-10-18 | update: Factory.Outlets<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -202,7 +202,7 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.png' width="130" height="20">
 
-[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.1-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 6.73 mb | 2026-10-23 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [210]<br>
+[Fundamental.Outfit.Expansion.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.2-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip) | 6.73 mb | 2026-10-26 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion/) <a href="res/imagemd/Fundamental.Outfit.Expansion.md">view images</a> [210]<br>
 <br>
 >A collection of essential human outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.
 

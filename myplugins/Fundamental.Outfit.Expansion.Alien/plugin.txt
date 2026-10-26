@@ -1,6 +1,6 @@
 name "Fundamental Outfit Expansion: Alien"
 about "Alka'etukafet iri tokatala'af pamasa aglat ire' tirtek. Ikafsir sebahaliaar abati!"
-version 1.0.0
+version 1.0.1
 authors
 	Amazinite
 	Kaiboyjiang

@@ -12,9 +12,10 @@ outfitter "Wanderer Advanced"
 	add "FOE: Type 4 Radiant Reverser"
 
 
-mission "foe: type 5 radiants"
+mission "FOE: Type 5 Radiants"
 	landing
 	invisible
+	non-blocking
 	to offer
 		has "event: wanderers: derecho mass production"
 	on offer

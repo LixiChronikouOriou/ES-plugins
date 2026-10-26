@@ -145,3 +145,38 @@ fleet "Kor Mereti Miners"
 		"Model 8 (FOE)"
 	add variant 1
 		"Model 8 (FOE)" 2
+
+
+mission "FOE: Exiles Have Drones"
+	landing
+	invisible
+	non-blocking
+	to offer
+		has "event: wanderers: exiles have drones"
+	on offer
+		event "foe: exiles have drones"
+		fail
+
+event "foe: exiles have drones"
+	fleet "Korath Home"
+		add variant 1
+			"Model 512 (FOE)"
+		add variant 2
+			"Model 512 (FOE)"
+			"Model 256 (FOE)"
+		add variant 2
+			"Model 256 (FOE)"
+		add variant 2
+			"Model 256 (FOE)"
+			"Model 64 (FOE)" 2
+		add variant 2
+			"Model 128 (FOE)" 2
+		add variant 2
+			"Model 64 (FOE)"
+			"Model 32 (FOE)" 3
+		add variant 2
+			"Model 64 (FOE)" 2
+			"Model 32 (FOE)" 3
+		add variant 2
+			"Model 32 (FOE)"
+			"Model 16 (FOE)" 5

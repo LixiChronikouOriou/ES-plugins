@@ -9,8 +9,7 @@
 
 **Thanks** for feedback, discussions and improvements: AvianGeneticist, Cend, Haniyasushiff, Kassandra Haruki, Keilaph, Questenberg, Ragno, Redtechgamer236, Sachiho Vanihalla, Unknown_Rawrs
 
-**ES Version Support**
-FOE is tested only on stable releases of ES, the last being 0.11.2. Using FOE with unstable versions might wipe the cat gif collection on your data crystal.
+**ES Version Support:** FOE is tested only on stable releases of ES, the last being 0.11.2. Using FOE with unstable versions might wipe the cat gif collection on your data crystal.
 
 **Attention**
 - FOE 2.x is not downwards compatible to FOE 1.x.

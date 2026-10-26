@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-26 | update: zzzZapping.Tweaks<br>
 2026-10-23 | update: Louise.Conglomerate.Shipyards<br>
 2026-10-23 | update: zzzZapping.Tweaks<br>
 2026-10-23 | update: Laser.Sight<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-10-18 | update: Laser.Sight<br>
 2026-10-18 | update: Fundamental.Outfit.Expansion.Alien<br>
 2026-10-18 | update: Factory.Outlets<br>
-2026-10-18 | update: Bunsen.Burner<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -218,21 +218,22 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 **Editors:** Timeout (Research, Compilation and Statistics), Kitteh (Design, Art and Tests)
 
-**Thanks** for feedback, discussions and improvements: AvianGeneticist, Cend, Haniyasushiff, Kassandra Haruki, Keilaph, Questenberg, Ragno, Redtechgamer236, Unknown_Rawrs
+**Thanks** for feedback, discussions and improvements: AvianGeneticist, Cend, Haniyasushiff, Kassandra Haruki, Keilaph, Questenberg, Ragno, Redtechgamer236, Sachiho Vanihalla, Unknown_Rawrs
 
 **ES Version Support**
 FOE is tested only on stable releases of ES, the last being 0.11.2. Using FOE with unstable versions might wipe the cat gif collection on your data crystal.
 
 **Attention**
 - FOE 2.x is not downwards compatible to FOE 1.x.
-- Don't use together with Omnis' Free Worlds storyline skipping.
-- Tributing human space becomes significantly harder.
+- Not recommended to use together with Omnis' Free Worlds storyline skipping.
+- Tributing human space becomes harder.
 
 **Notes**
 - Other fundamental content can be found in the plugin recommendation list, especially see [Rumskib](https://github.com/TheGiraffe3/rumskib) for Plasma Turrets (Single, Quad) and Gatling Turrets (Single, Triple, Quad).
 - Overwrites the vanilla Heavy Blaster. Justified, as the vanilla HB's lore is imho heretic to the original by 1010todd.
 - Contains the ES-wide only human adaptive reactor -- Synatom's Sentinel Reactor. *Edit*: Turns out that AvianGeneticist had that idea before, but [for the Unfettered Hai](https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded/blob/main/data/hai/unfettered%20outfits.txt).
 - The original concept for FOE's Shipwright Gear was introduced by Darcy Manoel and  [Hurleveur](https://github.com/Hurleveur) with the Shipwright Gear in [Fluff](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/res/mds/ships.md#fluff) resp. the Repair Team in [Unfettered Innovations](https://github.com/Hurleveur/unfettered-innovations). The stats are a mix-up inspired from those. The concept was extended by toolset-slots and evolved into the Hesperian Toolbox.
+- Sets Meteor Missiles' infrared tracking to 80%.
 
 **Content**
 | Author | Outfit | Origin |
@@ -254,6 +255,7 @@ FOE is tested only on stable releases of ES, the last being 0.11.2. Using FOE wi
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-26 | 2.0.2 | Set infrared tracking for meteor missile launchers (Heavy, Turret, vanilla Launcher & Pod) to 80% according to experiments carried out by Sachiho Vanihalla. |
 | 2026-10-23 | 2.0.1 | Fixed faulty sales of Stun Gun/Turret and Sizeable Maps (thx Haniyasushiff), as well as a warning considering a blurry image. Nerfed the OP fire pattern of Meteor Launchers and Sidewinder VLS, otherwise anti-missile turrets would overload too easily. |
 | 2026-10-18 | 2.0.0 | **Added:** Tiny Outfit Expansion, KP-6PT Parabol Turret. Various missing @2x images. New image for Compressed Fuel Pod. QoL sales for Avgi and Successors. Lore for Small and Large Interference Emitters (now named ShMEL-IZ6 and ShMEL-IZ14 Interference Emitters) and Active Radar Jammer (now ShMEL-AR11 Radar Jammer). Person ship for Pilcrow, a dedicated FOE miner. **Rebalanced:** Small Outfit Expansion, Living Space Removal, Naval Shields, Trooper/Ranger/Marine Gear, Bastet Autocannon Turret, Duct-Tape, HTS tools, Shipwright Gear, Heavy Meteor Launcher, Meteor Turret, Sidewinder VLS, Interference Emitters. The vanilla radar jammers now consume energy (realism!), the "active" radar jammer became a medium one with new stats. **Moved:** Laser Sight to [an own plugin](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LaserSight), and Wanderer Radiant Engines to [FOE: Alien](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansionAlien) **Removed:** [Engineering Room](https://github.com/MidnightPlugins/Lost-in-Midnight), [Plasma Howitzer](https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded), [Afterburner Steering](https://www.moddb.com/mods/rw-extras/downloads/afterburner-steering1), [Nuke Turret](https://github.com/endless-sky/endless-sky/discussions/7928), and the deprecated Flak Cannon (replaced by Bastet AC Turret) and [Single Plasma Turret](https://github.com/TheGiraffe3/rumskib). **Temporarily removed:** Sekhmet Dual Autocannon **Further:** Updated restocking, various text changes (thx Redtechgamer236), rework of FW, Republic, Syndicate, Deep Security and Human Miner variants and fleets. **Todo:** Merchant and Pirate fleets. FW flamethrower fleets. Complete overhaul and integrate Fluharty's contribution Red Rock Armories (Phobos missile launcher and Deimos railgun turret). |
 | 2026-05-30 | 1.9.0 | Added to Omnis for experimental purposes Evan Fluharty's outfits Barrage Launcher and Broadsider. Updated Engineering Room. On author's request removed [Beehive Rockets](https://www.moddb.com/mods/rw-extras/downloads/beehive-rockets), [Gun Port Missiles](https://www.moddb.com/mods/rw-extras/downloads/gun-port-missiles) and [Turret Scanners](https://www.moddb.com/mods/rw-extras/downloads/turret-scanners). Some fixes. |
@@ -684,7 +686,7 @@ Has individual dialogue boxes for each of the following situations.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/zzzZapping.Tweaks.png' width="130" height="20">
 
-[zzzZapping.Tweaks.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1-zzzZapping.Tweaks/zzzZapping.Tweaks.zip) | 1.59 mb | 2026-10-23 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/zzzZapping.Tweaks/) <a href="res/imagemd/zzzZapping.Tweaks.md">view images</a> [31]<br>
+[zzzZapping.Tweaks.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.2-zzzZapping.Tweaks/zzzZapping.Tweaks.zip) | 1.59 mb | 2026-10-26 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/zzzZapping.Tweaks/) <a href="res/imagemd/zzzZapping.Tweaks.md">view images</a> [31]<br>
 <br>
 >A variety of tweaks on vanilla ES.
 
@@ -699,7 +701,7 @@ Has individual dialogue boxes for each of the following situations.
 **Editor:** Timeout
 
 **Content**
-- *Adjusted Human Turret Turn Rates* (author: Timeout) for more consistency, based on [PR #11194](https://github.com/endless-sky/endless-sky/pull/11194).
+- **Adjusted Human Turret Turn Rates* (author: Timeout) for more consistency, based on [PR #11194](https://github.com/endless-sky/endless-sky/pull/11194).
 - *Adjusted Human Fighter, Drone and Interceptor Hull Costs* (author: Timeout) for more consistency, based on [PR #11389](https://github.com/endless-sky/endless-sky/pull/11389).
 - *Alpha Centauri Connectivity* (author: Timeout), adding a link to Muphrid for reasons explained in [PR #11771](https://github.com/endless-sky/endless-sky/pull/11771).
 - *Missile Burstfire* (author: RW | editor: Timeout) makes missile launchers burst-fire more according to their appearance, e.g. Torpedo Launcher has two tubes, so it burstfires two torpedoes in a salvo. Originally posted on Discord as a response of RW to a question of Timeout.
@@ -713,6 +715,7 @@ Has individual dialogue boxes for each of the following situations.
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-26 | 1.0.2 | Set infrared tracking for Meteor Missile Launcher and Pod to 80% according to experiments carried out by Sachiho Vanihalla. |
 | 2026-10-23 | 1.0.1 | Nerfed the *Missile Burstfire* module which just rendered anti-missile turrets pointless. Fixed warnings considering usage of legacy marker for half-additive blending mode. |
 | 2026-10-18 | 1.0.0 | Initial release. |
 

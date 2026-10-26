@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-10-26 | update: Fundamental.Outfit.Expansion.Alien<br>
 2026-10-26 | update: Fundamental.Outfit.Expansion<br>
 2026-10-26 | update: zzzZapping.Tweaks<br>
 2026-10-23 | update: Louise.Conglomerate.Shipyards<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-10-18 | update: Fundamental.Outfit.Expansion<br>
 2026-10-18 | update: zzzZapping.Tweaks<br>
 2026-10-18 | update: Laser.Sight<br>
-2026-10-18 | update: Fundamental.Outfit.Expansion.Alien<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -284,7 +284,7 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Fundamental.Outfit.Expansion.Alien.png' width="130" height="20">
 
-[Fundamental.Outfit.Expansion.Alien.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.0-Fundamental.Outfit.Expansion.Alien/Fundamental.Outfit.Expansion.Alien.zip) | 910.82 kb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion.Alien/) <a href="res/imagemd/Fundamental.Outfit.Expansion.Alien.md">view images</a> [26]<br>
+[Fundamental.Outfit.Expansion.Alien.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1-Fundamental.Outfit.Expansion.Alien/Fundamental.Outfit.Expansion.Alien.zip) | 911.05 kb | 2026-10-26 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Fundamental.Outfit.Expansion.Alien/) <a href="res/imagemd/Fundamental.Outfit.Expansion.Alien.md">view images</a> [26]<br>
 <br>
 >Alka'etukafet iri tokatala'af pamasa aglat ire' tirtek. Ikafsir sebahaliaar abati!
 
@@ -296,7 +296,9 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 **Authors:** see table
 
-**Editorial Board:** Timeout, Kitteh
+**Editors:** Timeout, Kitteh
+
+**Thanks** for feedback: Haniyasushiff
 
 **Content**
 
@@ -305,13 +307,14 @@ As of now human-only. Someday perhaps support for aliens will be added.
 | [Amazinite](https://github.com/Amazinite) | Radiant Type 0 Engine<br>Radiant Type 5 Thruster & Steering<br>Shield Disruptor Gun<br>Dual Husk-Slice Turret | [Enigma Corp.](https://github.com/Amazinite/Enigma-Corp) |
 | [Kaiboyjiang](https://github.com/kaiboyjiang) & Ubrief | Radiant Type 1-4 Reversers | [Wanderer Reverse Thrusters](https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#wanderer_reverse_thrusters) |
 
-**Note:** Alka'etukafet iri tokatala'af pamasa aglat ire' tirtek. Ikafsir sebahaliaar abati!
+Alka'etukafet iri tokatala'af pamasa aglat ire' tirtek. Ikafsir sebahaliaar abati!
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2026-10-18 | 1.0.0 | Separation from FOE. Separate publication starting with Wanderers' Radiant Engines (Type 1-4 Reversers, Type 0 Engine, Type 5 Thruster/Steering) and Korath Mereti's Shield Disruptor Gun and Dual Husk-Slice Turret. Reworked stats for Type 0/5 Engines, and Korath Mereti variants and fleets. |
+| 2026-10-26 | 1.0.1 | Added Korath Mereti FOE-variants to Korath Exiles' home fleet after corresponding event (thx Haniyasushiff). |
+| 2026-10-18 | 1.0.0 | Separation from FOE, starting with Wanderers' Radiant Engines (Type 1-4 Reversers, Type 0 Engine, Type 5 Thruster/Steering) and Korath Mereti's Shield Disruptor Gun and Dual Husk-Slice Turret. Reworked stats for Type 0/5 Engines, and Korath Mereti variants and fleets. |
 | 2025-05-27 | -- | Added Wanderer's reworked Type 0/5 engines to FOE 1.1.0. |
 </details>
 

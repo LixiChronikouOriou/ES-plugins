@@ -13,6 +13,8 @@
 #
 # Not currently done for pod size launchers as they already use the burst stats, so would be
 # more involved, needing submunition definitions.
+#
+# Also setting meteor missile infrared tracking to 80%.
 
 
 ## HUMANS
@@ -21,6 +23,11 @@ outfit "Meteor Missile Launcher"
 	weapon
 		"burst count" 3
 		"burst reload" 25
+		"infrared tracking" .8
+
+outfit "Meteor Missile Pod"
+	weapon
+		"infrared tracking" .8
 
 outfit "Heavy Rocket Launcher"
 	weapon

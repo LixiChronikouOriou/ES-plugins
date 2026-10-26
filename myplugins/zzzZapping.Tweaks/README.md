@@ -6,7 +6,7 @@
 **Editor:** Timeout
 
 **Content**
-- *Adjusted Human Turret Turn Rates* (author: Timeout) for more consistency, based on [PR #11194](https://github.com/endless-sky/endless-sky/pull/11194).
+- **Adjusted Human Turret Turn Rates* (author: Timeout) for more consistency, based on [PR #11194](https://github.com/endless-sky/endless-sky/pull/11194).
 - *Adjusted Human Fighter, Drone and Interceptor Hull Costs* (author: Timeout) for more consistency, based on [PR #11389](https://github.com/endless-sky/endless-sky/pull/11389).
 - *Alpha Centauri Connectivity* (author: Timeout), adding a link to Muphrid for reasons explained in [PR #11771](https://github.com/endless-sky/endless-sky/pull/11771).
 - *Missile Burstfire* (author: RW | editor: Timeout) makes missile launchers burst-fire more according to their appearance, e.g. Torpedo Launcher has two tubes, so it burstfires two torpedoes in a salvo. Originally posted on Discord as a response of RW to a question of Timeout.
@@ -20,5 +20,6 @@
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-10-26 | 1.0.2 | Set infrared tracking for Meteor Missile Launcher and Pod to 80% according to experiments carried out by Sachiho Vanihalla. |
 | 2026-10-23 | 1.0.1 | Nerfed the *Missile Burstfire* module which just rendered anti-missile turrets pointless. Fixed warnings considering usage of legacy marker for half-additive blending mode. |
 | 2026-10-18 | 1.0.0 | Initial release. |

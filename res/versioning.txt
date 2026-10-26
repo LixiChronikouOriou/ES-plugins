@@ -1,6 +1,6 @@
 Bunsen.Burner|1.4.7
 Factory.Outlets|1.3.5
-Fundamental.Outfit.Expansion.Alien|1.0.0
+Fundamental.Outfit.Expansion.Alien|1.0.1.fixed
 Fundamental.Outfit.Expansion|2.0.2
 Jaws|1.2.3
 Korunak.Defense.Drones|1.2.0

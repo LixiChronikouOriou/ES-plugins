@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-11-04 | update: Solar.Sails<br>
 2026-10-26 | update: Fundamental.Outfit.Expansion.Alien<br>
 2026-10-26 | update: Fundamental.Outfit.Expansion<br>
 2026-10-26 | update: zzzZapping.Tweaks<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-10-23 | update: Fundamental.Outfit.Expansion<br>
 2026-10-18 | update: Fundamental.Outfit.Expansion<br>
 2026-10-18 | update: zzzZapping.Tweaks<br>
-2026-10-18 | update: Laser.Sight<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -570,7 +570,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Solar.Sails.png' width="130" height="20">
 
-[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.1.3-Solar.Sails/Solar.Sails.zip) | 1.47 mb | 2026-03-30 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [19]<br>
+[Solar.Sails.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.2.0-Solar.Sails/Solar.Sails.zip) | 1.47 mb | 2026-11-04 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Solar.Sails/) <a href="res/imagemd/Solar.Sails.md">view images</a> [19]<br>
 <br>
 >Epic diffractive solar sails for Human and Coalition space, providing thrust, turn and solar collection, thereby using only outfitspace worth of half the consumed enginespace.
 
@@ -582,7 +582,9 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 **Author: [TheronEpic](https://github.com/TheronEpic)**
 
-**Thanks:** Kitteh
+**Editor:** Timeout
+
+**Thanks:** Kitteh (for valuable discussion)
 
 An overhaul and re-publication of TheronEpic's [Solar Sails](https://github.com/TheronEpic/theronepic-solar-sails). Since the last update of the plugin in October 2020 there have been made massive changes in ES considering engines, so a stat overhaul was overdue. Also various syntax bugs had to be hunted down, and some gaps have been filled, e.g. considering variants, as seemingly TheronEpic could not complete the work on this plugin.
 
@@ -597,6 +599,7 @@ Overwrites the starter ship sales with optimized variants of the Shuttle and Sta
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-11-04 | 2.2.0 | Nerfed turn rates, buffed required turn energy. Adjusted ship variants where necessary. |
 | 2026-03-30 | 2.1.3 | Adjusted sales to conform to the new starts since ES 0.11.0. Added license files. |
 | 2025-11-16 | 2.1.2 | Reduced acceleration penalty to make large and huge sails more usable. Reworked stock outfits for sail-ship sales. Removed Sails-Blackbird sale. Replaced starter ships on New Boston. |
 | 2025-11-09 | 2.1.1 | Added sail variants of the Clipper and Blackbird for sale and fleets. |

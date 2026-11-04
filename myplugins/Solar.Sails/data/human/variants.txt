@@ -203,7 +203,6 @@ ship Sunder "Sunder (Sails, Sale)"
 ship Sunder "Sunder (Sails)"
 	outfits
 		"Asteroid Scanner"
-		"D23-QP Shield Generator"
 		Hyperdrive
 		"LP072a Battery Pack"
 		"Mining Laser" 2

@@ -1,5 +1,11 @@
-﻿outfitter "Deep Sky Advanced"
+outfitter "Deep Sky Advanced"
 	add "LS: Laser Sight"
+	add "LS: Laser Sight Turret"
+	add "LS: Laser Sight Swivel Turret"
+	add "LS: Particle Sight"
 
 outfitter "Lovelace Advanced"
 	add "LS: Laser Sight"
+	add "LS: Laser Sight Turret"
+	add "LS: Laser Sight Swivel Turret"
+	add "LS: Particle Sight"

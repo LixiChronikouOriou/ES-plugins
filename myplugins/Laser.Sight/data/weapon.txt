@@ -23,6 +23,91 @@ outfit "LS: Laser Sight"
 		"hull damage" 0.025
 	description "A long range laser that does almost no damage but is used for target acquisition instead. Initially should have also the side effect to partly blind an opponent's optical tracking systems, but well, that did not work out because of things breaking the fourth wall if explaining them."
 
+outfit "LS: Laser Sight Turret"
+	"display name" "Turret Sighting System"
+	category "Turrets"
+	series "Sights"
+	index 01049
+	cost 35000
+	thumbnail "outfit/lasersight"
+	"mass" 8
+	"outfit space" -8
+	"weapon capacity" -8
+	"turret mounts" -1
+	weapon
+		"hardpoint sprite" "hardpoint/laser turret"
+		"hardpoint offset" -0.5 8.
+		"inaccuracy" .5
+		"turret turn" 7
+		arc 0 0
+		sprite "projectile/lasersight"
+		sound "lasersight"
+		"hit effect" "lasersight impact"
+		"inaccuracy" .1
+		"velocity" 2400
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 0.85
+		"firing heat" 2.05
+		"shield damage" 0.02
+		"hull damage" 0.025
+	description "A long range laser that does almost no damage but is used for target acquisition instead. Even though this system is mounted on a turret mount, it does not have the capability to swivel, instead pointing directly down the nose of the ship to assist main weapon targeting."
+	
+outfit "LS: Laser Sight Swivel Turret"
+	"display name" "Omni-Directional Sight"
+	category "Turrets"
+	series "Sights"
+	index 01049
+	cost 35000
+	thumbnail "outfit/lasersight"
+	"mass" 8
+	"outfit space" -8
+	"weapon capacity" -8
+	"turret mounts" -1
+	weapon
+		"hardpoint sprite" "hardpoint/laser turret"
+		"hardpoint offset" -0.5 8.
+		"inaccuracy" .5
+		"turret turn" 12
+		sprite "projectile/lasersight"
+		sound "lasersight"
+		"hit effect" "lasersight impact"
+		"inaccuracy" .1
+		"velocity" 2400
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 0.85
+		"firing heat" 2.05
+		"shield damage" 0.02
+		"hull damage" 0.025
+	description "A long range laser that does almost no damage but is used for target acquisition instead. This system is designed to swivel in its turret mount to assist turret-mounted secondary weapons. It is a very well balanced and light turret, capable of turning at high speeds before other beam weapons can be brought to bear."
+	
+outfit "LS: Particle Sight"
+	"display name" "Javelin Sight"
+	category "Guns"
+	series "Sights"
+	index 01090
+	cost 220000
+	thumbnail "outfit/lasersight"
+	"mass" 5
+	"outfit space" -5
+	"weapon capacity" -5
+	"gun ports" -1
+	weapon
+		sprite "projectile/particlesight"
+		sound "lasersight"
+		"hit effect" "lasersight impact"
+		"inaccuracy" .5
+		"velocity" 10
+		"lifetime" 60
+		"reload" 2
+		"firing energy" 0.85
+		"firing heat" 2.05
+		"hit force" 0.1
+		"shield damage" 0.02
+		"hull damage" 0.025
+	description "This sighting system is essentially a particle cannon that has been tuned and adjusted to rapidly fire a stream of particles with exactly the same speed and endurance of Javelin missiles. Because of the rate of fire, the particle state and type was adjusted to be large and bright with very little energy deposition. It is useful only as a targeting aid."
+
 effect "lasersight impact"
 	sprite "effect/lasersight impact"
 		"no repeat"

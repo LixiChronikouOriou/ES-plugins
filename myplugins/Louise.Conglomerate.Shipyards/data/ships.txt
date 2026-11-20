@@ -486,7 +486,7 @@ ship "Messor :LCS"
 	"final explode" "final explosion small"
 	description `The Messor is the attempt of Louise's shipyards at a small jack of all trades for a reasonable price. The result was a long-range ship which is basically a cargo container, surrounded by plenty outfit compartments between which anywhere possible fuel tanks are squeezed in, equipped with strong engines and a solid measure of armament. Oh, and in the end a crammed crew cabin has been attached. Louise's design department has to be admired for being able to turn this into a decent looking spaceship.`
 	description `	The versatility comes with a cost. Compared to other ships of its class, the Messor is rather fragile as its way of construction does not allow to support strong shield matrices, and extra plating could be added only limitedly. Consequently, Messor captains prefer to install powerful engines and missile launchers to stay at safe distance, and jump away when necessary.`
-	description `	The model's name means "Reaper", but it is disputed how it came to this name. Some claim, that the ship was orginally planned to be a mining vessel. Others say, that it got its name after a flotilla of Messors was able to overcome the infamous Pirate Nicholas Stortebeker when he attacked the group of clumsy looking vessels, not awaiting such swift and violent retaliation. A joke version states that the "Messor" is a malapropism created by the marketing department, when facing the "mess" presented to them by the construction bureau.`
+	description `	The model's name means "Reaper", but it is disputed how it came to this name. Some claim, that the ship was originally planned to be a mining vessel. Others say, that it got its name after a flotilla of Messors was able to overcome the infamous Pirate Nicholas Stortebeker when he attacked the group of clumsy looking vessels, not awaiting such swift and violent retaliation. A joke version states that the "Messor" is a malapropism created by the marketing department, when facing the "mess" presented to them by the construction bureau.`
 
 
 ship "Senator :LCS"
@@ -560,7 +560,7 @@ ship "Senator :LCS"
 	explode "large explosion" 40
 	explode "huge explosion" 10
 	"final explode" "final explosion large"
-	description "Made to transport valuable cargo across hostile space, Louise Conglomerate's Senator class packs enough firepower to fend for itself, serving as a de facto merchant cruiser. The only advertisment Louise makes for the Senator is the self speaking technical data sheet, printed in silk paper." 
+	description "Made to transport valuable cargo across hostile space, Louise Conglomerate's Senator class packs enough firepower to fend for itself, serving as a de facto merchant cruiser. The only advertisement Louise makes for the Senator is the self speaking technical data sheet, printed in silk paper." 
 	description "	It competes with the Mercator class for being Louise's flagship class, separating the Louise fandom into two groups which can endlessly discuss the advantages of their beloved ship class in every detail, criticizing randomly anything of the other."
 
 

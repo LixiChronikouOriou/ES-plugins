@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-11-20 | update: Louise.Conglomerate.Shipyards<br>
 2026-11-04 | update: Solar.Sails<br>
 2026-10-26 | update: Fundamental.Outfit.Expansion.Alien<br>
 2026-10-26 | update: Fundamental.Outfit.Expansion<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-10-23 | update: Laser.Sight<br>
 2026-10-23 | update: Fundamental.Outfit.Expansion<br>
 2026-10-18 | update: Fundamental.Outfit.Expansion<br>
-2026-10-18 | update: zzzZapping.Tweaks<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -475,7 +475,7 @@ Due to the lack of feedback on this sniper tool, there's no empirical evidence o
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Louise.Conglomerate.Shipyards.png' width="130" height="20">
 
-[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v3.1.3-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 3.99 mb | 2026-10-23 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [38]<br>
+[Louise.Conglomerate.Shipyards.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v3.1.4-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip) | 3.99 mb | 2026-11-20 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Louise.Conglomerate.Shipyards/) <a href="res/imagemd/Louise.Conglomerate.Shipyards.md">view images</a> [38]<br>
 <br>
 >The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty.
 
@@ -489,7 +489,7 @@ Due to the lack of feedback on this sniper tool, there's no empirical evidence o
 
 **Editorial Board:** Timeout, Kitteh
 
-**Thanks** for feedback: Corvettefan, Glorbimus Prime, Kassandra Haruki, Lowry, Loymdayddaud, Redtechgamer236.
+**Thanks** for feedback: Corvettefan, Glorbimus Prime, Kassandra Haruki, Larkas, Lowry, Loymdayddaud, Redtechgamer236.
 
 **Attention**: Saves with ships acquired under version 1.x or 2.0 stay valid till version 3.1.1. Afterwards the old sprites are missing.
 
@@ -503,6 +503,7 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-11-20 | 3.2.0 | Venditor got two external drone bays, aligning it with Commercator and Mercator (thx to Larkas). Made the stock outfits of the Senator a bit more luxurious (thx to Kitteh). Messor reclassified as a light warship and got a turret slot. Added corresponding variants, reworked descriptions and fleets. |
 | 2026-10-23 | 3.1.3 | Added administrative costs. Small maintenance stuff. |
 | 2026-07-08 | 3.1.2 | Fixed sprite warnings because of odd number of pixels. Removed obsolete image versions -- end of compatibility with ships acquired using Louise 1.x and 2.0. | 
 | 2026-05-27 | 3.1.1 | Improved the ship descriptions (thx to Glorbimus Prime and Loymdayddaud). Changed the outfits equipped on the Hai variants of Commercator and Mercator to make the stock sales more affordable. |

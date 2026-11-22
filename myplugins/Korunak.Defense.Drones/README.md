@@ -1,7 +1,7 @@
 
 ### Korunak Defense Drones ###
 
-**Tested on:** ES 0.11.4
+**Status:** Up to date. Last tested on ES 0.11.4.
 
 **Suggests:** [Louise Conglomerate](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) and [Pickerberry Shipyards](https://www.moddb.com/mods/rw-ships) for more human drone carriers. 
 

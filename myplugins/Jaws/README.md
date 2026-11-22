@@ -1,6 +1,8 @@
 
 ### Jaws ###
 
+**Status:** Update pending. No issues known. Last tested on ES 0.10.13.
+
 **Author: [Timeout](https://github.com/LixiChronikouOriou)**
 
 **Artwork: [Tearcell](https://tearcellgames.itch.io/cosmic-canidae-assets)**

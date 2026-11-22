@@ -1,6 +1,8 @@
 
 ### Solar Sails ###
 
+**Status:** Up to date. Last tested on ES 0.11.4.
+
 **Author: [TheronEpic](https://github.com/TheronEpic)**
 
 **Editor:** Timeout

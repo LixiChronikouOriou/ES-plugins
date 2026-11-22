@@ -1,6 +1,10 @@
 
 ### Fundamental Outfit Expansion ###
 
+**Status:** Up to date. Last tested on ES 0.11.2.
+
+**Recommends:** [Fundamental Outfit Expansion: Alien](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansionAlien)
+
 **Authors:** see table
 
 **Artists** who contributed works firstly published in FOE: Evan Fluharty, Kitteh, Tommaso Becca

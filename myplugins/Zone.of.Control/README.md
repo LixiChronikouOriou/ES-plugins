@@ -1,6 +1,8 @@
 
 ### Zone of Control ###
 
+**Status:** Update pending. Minor undramatic issue known. Last tested on ES 0.10.13.
+
 **Author: [Timeout](https://github.com/LixiChronikouOriou)**
 
 **Thanks**: Xobes

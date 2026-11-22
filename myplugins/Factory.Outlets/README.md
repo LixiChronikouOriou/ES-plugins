@@ -1,6 +1,10 @@
 
 ### Factory Outlets ###
 
+**Status:** Up to date. Last tested on ES 0.11.2.
+
+**Suggests:** See list of supported plugins below.
+
 **Authors: [Lifeyouristhis](https://github.com/lifeyouristhis), [Timeout](https://github.com/LixiChronikouOriou)**
 
 **Thanks:** Chemtrailoperator, Zuckung

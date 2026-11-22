@@ -1,7 +1,7 @@
 
-### Sheragi Rebirth: Redux (Work in Progress) ###
+### Sheragi Rebirth: Redux ###
 
-**WARNING:** Look, don't play. In its current state this plugin will *highly likely* eat your kitten.
+**Status:** Work in progress. Absolutely not playable. In its current state this plugin will *highly likely* eat your kitten.
 
 **Author:** Petersupes
 

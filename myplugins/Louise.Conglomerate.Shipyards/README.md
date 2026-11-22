@@ -1,6 +1,10 @@
 
 ### Louise Conglomerate Shipyards ###
 
+**Status:** Up to date. Last tested on ES 0.11.4.
+
+**Suggests:** [Korunak Defense Drones](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#KorunakDefenseDrones) and [Pickerberry Shipyards](https://www.moddb.com/mods/rw-ships) for some more drones to carry.
+
 **Author: [Loyse](https://github.com/loiseeer)**
 
 **Editorial Board:** Timeout, Kitteh

@@ -1,6 +1,8 @@
 
 ### Zapping Tweaks ###
 
+**Status:** Experimental. Minor undramatic issues known. Last tested on ES 0.11.4.
+
 **Authors:** RW, Timeout
 
 **Editor:** Timeout

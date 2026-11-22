@@ -1,7 +1,7 @@
 
 ### Bunsen Burner ###
 
-**Tested on:** ES 0.11.4
+**Status:** Up to date. Last tested on ES 0.11.4.
 
 **Author: [Nick Barry](https://github.com/ItsNickBarry)**
 

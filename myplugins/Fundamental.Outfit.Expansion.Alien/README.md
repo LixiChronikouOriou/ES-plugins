@@ -1,6 +1,10 @@
 
 ### Fundamental Outfit Expansion: Alien ###
 
+**Status:** Up to date. Last tested on ES 0.11.2.
+
+**Recommends:** [Fundamental Outfit Expansion](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion)
+
 **Authors:** see table
 
 **Editors:** Timeout, Kitteh

@@ -1,6 +1,8 @@
 
 ### Laser Sight ###
 
+**Status:** Experimental, but playable without issues. Last tested on ES 0.11.4.
+
 **Authors:** Ghostnzshell (idea and proof of concept), Kitteh and Timeout (completion and release)
 
 **Thanks:** BravoEchoOneOne

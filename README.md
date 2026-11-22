@@ -382,7 +382,7 @@ In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with o
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png' width="130" height="20">
 
-[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.0-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 793.68 kb | 2026-11-22 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [24]<br>
+[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.1-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 793.72 kb | 2026-11-22 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [24]<br>
 <br>
 >Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
 
@@ -416,6 +416,7 @@ The *KRD-2952MUX* repair droid, the basic *Defense Drone* and the carriers *Frei
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-11-22 | 2.0.1 | Fix: Added missing admin costs for the carriers. |
 | 2026-11-22 | 2.0.0 | Reworked all drones and ships -- lore, stats (incl. administrative costs), stock sales, variants, fleet deployment. Removed the secret Syndicate Security carrier, added a purchasable Bulk Freighter carrier-modification, and a Manta-derived drone carrier, the *Skate* (artwork by Kitteh). Reworked events. |
 | 2026-04-02 | 1.2.0 | Added the KRD-2952MUX repair droid (designed by [Vasily Khazykov](https://www.deviantart.com/tugodoomer), modelled by [Anton Kuhlevskyi](https://sketchfab.com/anton.kuhlevskyi)), and license files. |
 | 2025-12-31 | 1.1.1 | Cheapened the drones' hull price according to a smart formula. |

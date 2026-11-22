@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-11-22 | update: Bunsen.Burner<br>
 2026-11-22 | update: Korunak.Defense.Drones<br>
 2026-11-20 | update: Louise.Conglomerate.Shipyards<br>
 2026-11-04 | update: Solar.Sails<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-10-23 | update: Louise.Conglomerate.Shipyards<br>
 2026-10-23 | update: zzzZapping.Tweaks<br>
 2026-10-23 | update: Laser.Sight<br>
-2026-10-23 | update: Fundamental.Outfit.Expansion<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -73,7 +73,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Bunsen.Burner.png' width="130" height="20">
 
-[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.7-Bunsen.Burner/Bunsen.Burner.zip) | 303.4 kb | 2026-10-18 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [13]<br>
+[Bunsen.Burner.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.5.0-Bunsen.Burner/Bunsen.Burner.zip) | 630.88 kb | 2026-11-22 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Bunsen.Burner/) <a href="res/imagemd/Bunsen.Burner.md">view images</a> [17]<br>
 <br>
 >Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
 
@@ -83,25 +83,30 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 ### Bunsen Burner ###
 
+**Tested on:** ES 0.11.4
+
 **Author: [Nick Barry](https://github.com/ItsNickBarry)**
 
-**Thanks**: Kassandra Haruki
+**Editor:** Timeout
+
+**Thanks**: Kassandra Haruki, Darcy Manoel
 
 An overhaul and re-publication of [Flamethrower-Turret-1.1.0](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret). Since the last update of the plugin in January 2021 the Flamethrower was nerfed and got a new outfit image, so the Flamethrower Turret didn't fit anymore to the vanilla Flamethrower.
 
-Therefore, N.Barry's turret was combined with the old vanilla Flamethrower image it was based on to create a next-generation Flamethrower which burns hotter -- the Bunsen Burner. Now with *blue* flames. Naturally, as we are used to, one has to complete Barmy's weapon test mission, written by N.Barry, to unlock it.
+Therefore, Nick Barry's turret was combined with the old vanilla Flamethrower image it was based on to create a next-generation Flamethrower which burns hotter -- the Bunsen Burner. Now with *blue* flames. Naturally, as we are used to, one has to complete Barmy's weapon test mission, written by Nick Barry, to unlock it.
 
 Also Darcy Manoel's H2H flamethrower, which is based on the same design, was added as the Bunsen Torch. Available during the war, it will be banned afterwards as inhumane and only be obtainable on Pirate-ruled planets. However, legally bought torches still won't be fined because of exception rules in the corresponding paragraphs.
 
 **Conditions**
 
-Needs that 60 days have lapsed since the Flamethrower became available, that the Free Worlds got the Catalytic Ramscoop, and that the Dreadnought has been deployed.
+Needs that 30 days have lapsed since the Flamethrower became available, that the Free Worlds got the Catalytic Ramscoop, and that the Dreadnought has been deployed.
 
 **Changelog**
 
 | Date | Version | Comment |
 |------|---------|---------|
-| 2026-10-18 | 1.4.7 | Metadata fix. | 
+| 2026-11-22 | 1.5.0 | Added flavor texts to mark events, and an own secondary weapon icon. Shortened waiting time till start (60d --> 30d). Reduced fee for illegal post-war Torches purchased from Pirates (800k --> 500k). Some maintenance stuff. | 
+| 2026-10-18 | 1.4.7 | Metadata fix. |
 | 2026-10-18 | 1.4.6 | Removed Flamethrower-related content after PR #12491 has been merged. |
 | 2026-06-09 | 1.4.5 | Reworked ship and fleet variants employing the Bunsen Burner. |
 | 2026-06-05 | 1.4.4 | Aligned with [PR #12491](https://github.com/endless-sky/endless-sky/pull/12491). |

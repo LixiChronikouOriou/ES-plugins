@@ -83,7 +83,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 
 ### Bunsen Burner ###
 
-**Tested on:** ES 0.11.4
+**Status:** Up to date. Last tested on ES 0.11.4.
 
 **Author: [Nick Barry](https://github.com/ItsNickBarry)**
 
@@ -146,6 +146,10 @@ Needs that 30 days have lapsed since the Flamethrower became available, that the
 <summary>:blue_book: Plugin readme</summary>
 
 ### Factory Outlets ###
+
+**Status:** Up to date. Last tested on ES 0.11.2.
+
+**Suggests:** See list of supported plugins below.
 
 **Authors: [Lifeyouristhis](https://github.com/lifeyouristhis), [Timeout](https://github.com/LixiChronikouOriou)**
 
@@ -216,6 +220,10 @@ As of now human-only. Someday perhaps support for aliens will be added.
 <summary>:blue_book: Plugin readme</summary>
 
 ### Fundamental Outfit Expansion ###
+
+**Status:** Up to date. Last tested on ES 0.11.2.
+
+**Recommends:** [Fundamental Outfit Expansion: Alien](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansionAlien)
 
 **Authors:** see table
 
@@ -299,6 +307,10 @@ As of now human-only. Someday perhaps support for aliens will be added.
 
 ### Fundamental Outfit Expansion: Alien ###
 
+**Status:** Up to date. Last tested on ES 0.11.2.
+
+**Recommends:** [Fundamental Outfit Expansion](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion)
+
 **Authors:** see table
 
 **Editors:** Timeout, Kitteh
@@ -321,6 +333,7 @@ Alka'etukafet iri tokatala'af pamasa aglat ire' tirtek. Ikafsir sebahaliaar abat
 | 2026-10-26 | 1.0.1 | Added Korath Mereti FOE-variants to Korath Exiles' home fleet after corresponding event (thx Haniyasushiff). |
 | 2026-10-18 | 1.0.0 | Separation from FOE, starting with Wanderers' Radiant Engines (Type 1-4 Reversers, Type 0 Engine, Type 5 Thruster/Steering) and Korath Mereti's Shield Disruptor Gun and Dual Husk-Slice Turret. Reworked stats for Type 0/5 Engines, and Korath Mereti variants and fleets. |
 | 2025-05-27 | -- | Added Wanderer's reworked Type 0/5 engines to FOE 1.1.0. |
+
 </details>
 
 <br>
@@ -343,6 +356,8 @@ Alka'etukafet iri tokatala'af pamasa aglat ire' tirtek. Ikafsir sebahaliaar abat
 <summary>:blue_book: Plugin readme</summary>
 
 ### Jaws ###
+
+**Status:** Update pending. No issues known. Last tested on ES 0.10.13.
 
 **Author: [Timeout](https://github.com/LixiChronikouOriou)**
 
@@ -397,7 +412,7 @@ In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with o
 
 ### Korunak Defense Drones ###
 
-**Tested on:** ES 0.11.4
+**Status:** Up to date. Last tested on ES 0.11.4.
 
 **Suggests:** [Louise Conglomerate](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards) and [Pickerberry Shipyards](https://www.moddb.com/mods/rw-ships) for more human drone carriers. 
 
@@ -458,6 +473,8 @@ The *KRD-2952MUX* repair droid, the basic *Defense Drone* and the carriers *Frei
 
 ### Laser Sight ###
 
+**Status:** Experimental, but playable without issues. Last tested on ES 0.11.4.
+
 **Authors:** Ghostnzshell (idea and proof of concept), Kitteh and Timeout (completion and release)
 
 **Thanks:** BravoEchoOneOne
@@ -497,6 +514,10 @@ Due to the lack of feedback on this sniper tool, there's no empirical evidence o
 <summary>:blue_book: Plugin readme</summary>
 
 ### Louise Conglomerate Shipyards ###
+
+**Status:** Up to date. Last tested on ES 0.11.4.
+
+**Suggests:** [Korunak Defense Drones](https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#KorunakDefenseDrones) and [Pickerberry Shipyards](https://www.moddb.com/mods/rw-ships) for some more drones to carry.
 
 **Author: [Loyse](https://github.com/loiseeer)**
 
@@ -554,9 +575,9 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 <details>
 <summary>:blue_book: Plugin readme</summary>
 
-### Sheragi Rebirth: Redux (Work in Progress) ###
+### Sheragi Rebirth: Redux ###
 
-**WARNING:** Look, don't play. In its current state this plugin will *highly likely* eat your kitten.
+**Status:** Work in progress. Absolutely not playable. In its current state this plugin will *highly likely* eat your kitten.
 
 **Author:** Petersupes
 
@@ -593,6 +614,8 @@ Yeer e Ki Cooperative Shipyards reached out to the Louise Conglomerate, and sign
 <summary>:blue_book: Plugin readme</summary>
 
 ### Solar Sails ###
+
+**Status:** Up to date. Last tested on ES 0.11.4.
 
 **Author: [TheronEpic](https://github.com/TheronEpic)**
 
@@ -646,6 +669,8 @@ Overwrites the starter ship sales with optimized variants of the Shuttle and Sta
 <summary>:blue_book: Plugin readme</summary>
 
 ### Zone of Control ###
+
+**Status:** Update pending. Minor undramatic issue known. Last tested on ES 0.10.13.
 
 **Author: [Timeout](https://github.com/LixiChronikouOriou)**
 
@@ -714,6 +739,8 @@ Has individual dialogue boxes for each of the following situations.
 <summary>:blue_book: Plugin readme</summary>
 
 ### Zapping Tweaks ###
+
+**Status:** Experimental. Minor undramatic issues known. Last tested on ES 0.11.4.
 
 **Authors:** RW, Timeout
 

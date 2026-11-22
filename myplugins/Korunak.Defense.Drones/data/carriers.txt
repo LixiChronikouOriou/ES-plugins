@@ -9,6 +9,7 @@ ship "Freighter DCM :KDD"
 	"display name" "Freighter DCM"
 	sprite "ship/freighter dcm"
 	thumbnail "thumbnail/freighter dcm"
+	"administrative cost" 2
 	attributes
 		category "Light Freighter"
 		"cost" 900000
@@ -71,6 +72,7 @@ ship "Bulk Freighter DCM :KDD"
 	"display name" "Bulk Freighter DCM"
 	sprite "ship/bulk freighter"
 	thumbnail "thumbnail/bulk freighter"
+	"administrative cost" 4
 	attributes
 		category "Heavy Freighter"
 		"cost" 11100000
@@ -155,6 +157,7 @@ ship "Skate :KDD"
 	"display name" "Skate"
 	sprite "ship/skate"
 	thumbnail "thumbnail/skate"
+	"administrative cost" 2
 	attributes
 		category "Medium Warship"
 		"cost" 4150000

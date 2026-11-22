@@ -144,9 +144,9 @@ ship "Bulk Freighter DCM :KDD"
 	explode "huge explosion" 20
 	"final explode" "final explosion large"
 	description `After the Korunak-Syndicate joint venture "Drone Carrier Modifications" (DCM) has proven its retrofits to be purposeful with the Syndicate's light Freighter, DCM got access to Bulk Freighters, too.`
-	description `	Being robust enough by itself, DCM decided to not touch the ship's mainframe. It was suffcient to replace all external cargo holds with drone bays, wiring them properly. As there is no optical difference to a stock Bulk Freighter, the DCM version can also be deployed as a bait for pirates.`
+	description `	Being robust enough by itself, DCM decided to not touch the ship's mainframe. It was sufficient to replace all external cargo holds with drone bays, wiring them properly. As there is no optical difference to a stock Bulk Freighter, the DCM version can also be deployed as a bait for pirates.`
 	description `	Whether baiting or providing cover, pirates dislike the surprise of being suddenly swarmed by drones, firing at them from all directions.`
-	description `	DCM Bulk Freighters are equipped with a relatively failsafe self-destruction mechanism to reduce the risk that pirates get hold of them. There are rumours, that they nevertheless seldomly manage to capture one here and there, using them as command ships.`
+	description `	DCM Bulk Freighters are equipped with a relatively failsafe self-destruction mechanism to reduce the risk that pirates get hold of them. There are rumours, that they nevertheless seldom manage to capture one here and there, using them as command ships.`
 
 
 # As the Manta is a warship, the drone bays are added at the expense of shield matrix,

@@ -1,3 +1,4 @@
+2026-11-23 | update: Korunak.Defense.Drones
 2026-11-22 | update: Bunsen.Burner
 2026-11-22 | update: Korunak.Defense.Drones
 2026-11-20 | update: Louise.Conglomerate.Shipyards

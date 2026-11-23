@@ -25,6 +25,7 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-11-23 | update: Korunak.Defense.Drones<br>
 2026-11-22 | update: Bunsen.Burner<br>
 2026-11-22 | update: Korunak.Defense.Drones<br>
 2026-11-20 | update: Louise.Conglomerate.Shipyards<br>
@@ -34,7 +35,6 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 2026-10-26 | update: zzzZapping.Tweaks<br>
 2026-10-23 | update: Louise.Conglomerate.Shipyards<br>
 2026-10-23 | update: zzzZapping.Tweaks<br>
-2026-10-23 | update: Laser.Sight<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -402,7 +402,7 @@ In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with o
 
 <img src='https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins-statistics/main/pics/Korunak.Defense.Drones.png' width="130" height="20">
 
-[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.1-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 793.72 kb | 2026-11-22 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [24]<br>
+[Korunak.Defense.Drones.zip](https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.0.2-Korunak.Defense.Drones/Korunak.Defense.Drones.zip) | 793.85 kb | 2026-11-23 | [view files](https://github.com/LixiChronikouOriou/ES-plugins/tree/main/myplugins/Korunak.Defense.Drones/) <a href="res/imagemd/Korunak.Defense.Drones.md">view images</a> [24]<br>
 <br>
 >Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
 
@@ -422,6 +422,8 @@ In the Thresher's habitat you can find crunched, i.e. derelict, Aberrants with o
 
 **Artwork: [Loyse](https://github.com/loiseeer), [Becca](https://github.com/beccabunny), Kitteh, [Vasily Khazykov](https://www.deviantart.com/tugodoomer), [Anton Kuhlevskyi](https://sketchfab.com/anton.kuhlevskyi)**
 
+**Thanks:** Redtechgamer236
+
 An overhaul and re-publication of the [Defense Drone Plugin](https://github.com/starmlerp/ESDefenseDronePlugin), with consideration of the corresponding ES PRs [#5071](https://github.com/endless-sky/endless-sky/pull/5071) and [#5417](https://github.com/endless-sky/endless-sky/pull/5417).
 
 Being distributed over a plugin and two PRs from May to October 2020, Starmlerp's idea has never been  consolidated into a whole. Nevertheless there's even a serious modern plugin, [RW Ships](https://www.moddb.com/mods/rw-ships), which takes the original plugin into account. It was time to modernize the stats, bring everything together, and to round off.
@@ -436,6 +438,7 @@ The *KRD-2952MUX* repair droid, the basic *Defense Drone* and the carriers *Frei
 
 | Date | Version | Comment |
 |------|---------|---------|
+| 2026-11-23 | 2.0.2 | Fix: Reestablished full compatibility with Pickerberry Shipyards (thx Redtechgamer236). |
 | 2026-11-22 | 2.0.1 | Fix: Added missing admin costs for the carriers. |
 | 2026-11-22 | 2.0.0 | Reworked all drones and ships -- lore, stats (incl. administrative costs), stock sales, variants, fleet deployment. Removed the secret Syndicate Security carrier, added a purchasable Bulk Freighter carrier-modification, and a Manta-derived drone carrier, the *Skate* (artwork by Kitteh). Reworked events. |
 | 2026-04-02 | 1.2.0 | Added the KRD-2952MUX repair droid (designed by [Vasily Khazykov](https://www.deviantart.com/tugodoomer), modelled by [Anton Kuhlevskyi](https://sketchfab.com/anton.kuhlevskyi)), and license files. |

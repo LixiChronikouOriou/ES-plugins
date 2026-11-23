@@ -3,7 +3,7 @@ Factory.Outlets|1.3.5
 Fundamental.Outfit.Expansion.Alien|1.0.1
 Fundamental.Outfit.Expansion|2.0.2
 Jaws|1.2.3
-Korunak.Defense.Drones|2.0.1
+Korunak.Defense.Drones|2.0.2.fixed
 Laser.Sight|1.0.1
 Louise.Conglomerate.Shipyards|3.2.0
 Sheragi.Rebirth.Redux|0.1.1
